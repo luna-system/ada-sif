@@ -25,6 +25,12 @@ experiments/**/output/
 *.dat
 *.dat.gz
 *.csv
-# But keep our SIFs
+# But keep our SIFs (except huge ones)
 !*.sif.json
 !*.sif.json.gz
+
+# Excessive files
+archived-sifs/simplewiki_full.sif.json
+generated-gephi/simplewiki_full.gexf
+experiments/tycho/I_259.tar.gz
+experiments/tycho/tycho2_bright.sif.json
