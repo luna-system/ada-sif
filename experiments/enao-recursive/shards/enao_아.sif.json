@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc544",
+    "description": "Genres and artists starting with \uc544",
+    "shard_id": "\uc544",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_12444b94-4381-4c4d-93ff-19328aad42ae",
+      "type": "artist",
+      "name": "\uc544\ud2c0\ub780\ud2f0\uc2a4 \ud0a4\uce20\ub124",
+      "description": "Artist: \uc544\ud2c0\ub780\ud2f0\uc2a4 \ud0a4\uce20\ub124",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "12444b94-4381-4c4d-93ff-19328aad42ae",
+        "country": "KR",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

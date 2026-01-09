@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9670",
+    "description": "Genres and artists starting with \u9670",
+    "shard_id": "\u9670",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_88d8f38f-adb4-48a0-8c1f-ec34f2a675ff",
+      "type": "artist",
+      "name": "\u9670\u967d\u5ea7",
+      "description": "Artist: \u9670\u967d\u5ea7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "88d8f38f-adb4-48a0-8c1f-ec34f2a675ff",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

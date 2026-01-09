@@ -1,0 +1,3902 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - Z",
+    "description": "Genres and artists starting with Z",
+    "shard_id": "Z",
+    "entity_count": 233,
+    "relationship_count": 182
+  },
+  "entities": [
+    {
+      "id": "artist_36cf5c5e-14fb-42c0-a232-56bd449a81df",
+      "type": "artist",
+      "name": "Z\u2010Ro",
+      "description": "Artist: Z\u2010Ro",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36cf5c5e-14fb-42c0-a232-56bd449a81df",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a06afacd-7894-442e-95ba-49366b2b3e02",
+      "type": "artist",
+      "name": "Zion & Lennox",
+      "description": "Artist: Zion & Lennox",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a06afacd-7894-442e-95ba-49366b2b3e02",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6b656576-9504-432e-823d-8920139db2f0",
+      "type": "artist",
+      "name": "Zippy Kid",
+      "description": "Artist: Zippy Kid",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6b656576-9504-432e-823d-8920139db2f0",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_462d0e4a-5551-499a-b804-e95b997b4877",
+      "type": "artist",
+      "name": "Zubeen Garg",
+      "description": "Artist: Zubeen Garg",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "462d0e4a-5551-499a-b804-e95b997b4877",
+        "country": "IN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_81600da3-6054-434c-8dfc-696debe6bf7f",
+      "type": "artist",
+      "name": "Zaytoven",
+      "description": "Artist: Zaytoven",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "81600da3-6054-434c-8dfc-696debe6bf7f",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a81259a0-a2f5-464b-866e-71220f2739f1",
+      "type": "artist",
+      "name": "ZZ Top",
+      "description": "Artist: ZZ Top",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_049049a3-267e-47b3-98b8-54d76120a600",
+      "type": "artist",
+      "name": "Zoe Wees",
+      "description": "Artist: Zoe Wees",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "049049a3-267e-47b3-98b8-54d76120a600",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_09199622-83c0-4903-ba36-f9b410796683",
+      "type": "artist",
+      "name": "Zayamira",
+      "description": "Artist: Zayamira",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "09199622-83c0-4903-ba36-f9b410796683",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1a663c61-8b39-4fcd-bb12-bf8bc07d818b",
+      "type": "artist",
+      "name": "Z\u00e9 Neto & Cristiano",
+      "description": "Artist: Z\u00e9 Neto & Cristiano",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1a663c61-8b39-4fcd-bb12-bf8bc07d818b",
+        "country": "BR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_17022e90-a743-4c5f-89b4-c9243be7b7ad",
+      "type": "artist",
+      "name": "Zez\u00e9 Di Camargo & Luciano",
+      "description": "Artist: Zez\u00e9 Di Camargo & Luciano",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+        "country": "BR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6ab41895-5772-40e9-b281-311e09750019",
+      "type": "artist",
+      "name": "Zoe Ray",
+      "description": "Artist: Zoe Ray",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6ab41895-5772-40e9-b281-311e09750019",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c23b637b-97c6-41eb-8ef6-6c724efc80a8",
+      "type": "artist",
+      "name": "Zero 7",
+      "description": "Artist: Zero 7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c23b637b-97c6-41eb-8ef6-6c724efc80a8",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_34c310c9-6bd4-4879-ab27-20e266180a5c",
+      "type": "artist",
+      "name": "Zack Villere",
+      "description": "Artist: Zack Villere",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "34c310c9-6bd4-4879-ab27-20e266180a5c",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d00235d3-2e99-44a0-afa8-63d5014b9fc4",
+      "type": "artist",
+      "name": "Zsa Zsa Padilla",
+      "description": "Artist: Zsa Zsa Padilla",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d00235d3-2e99-44a0-afa8-63d5014b9fc4",
+        "country": "PH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3f5a0c97-54c2-4648-84a7-505908d34865",
+      "type": "artist",
+      "name": "Zack Tabudlo",
+      "description": "Artist: Zack Tabudlo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3f5a0c97-54c2-4648-84a7-505908d34865",
+        "country": "PH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_57beb1e8-b926-437a-9cf8-974d3b8d9b20",
+      "type": "artist",
+      "name": "ZIGGY",
+      "description": "Artist: ZIGGY",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "57beb1e8-b926-437a-9cf8-974d3b8d9b20",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2f5058c4-a860-4d70-bbc1-da6c85068941",
+      "type": "artist",
+      "name": "ZOEgirl",
+      "description": "Artist: ZOEgirl",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2f5058c4-a860-4d70-bbc1-da6c85068941",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e30c2c61-c4ac-41dd-a43d-399c592fcbcd",
+      "type": "artist",
+      "name": "Zmoal\u0103cazan",
+      "description": "Artist: Zmoal\u0103cazan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e30c2c61-c4ac-41dd-a43d-399c592fcbcd",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_85823097-9e6c-4876-a04a-8a761a477992",
+      "type": "artist",
+      "name": "Zion I",
+      "description": "Artist: Zion I",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "85823097-9e6c-4876-a04a-8a761a477992",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+      "type": "artist",
+      "name": "Zedd",
+      "description": "Artist: Zedd",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d9f6e182-8551-417b-95fe-a53c75a0c183",
+      "type": "artist",
+      "name": "Zizi Possi",
+      "description": "Artist: Zizi Possi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d9f6e182-8551-417b-95fe-a53c75a0c183",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5e2c3b33-b734-41ba-ac71-2148338840f6",
+      "type": "artist",
+      "name": "Z\u00e9 Ramalho",
+      "description": "Artist: Z\u00e9 Ramalho",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5e2c3b33-b734-41ba-ac71-2148338840f6",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7d3d9d52-a44f-4ba1-a080-cf64698912c0",
+      "type": "artist",
+      "name": "Zeca Pagodinho",
+      "description": "Artist: Zeca Pagodinho",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7d3d9d52-a44f-4ba1-a080-cf64698912c0",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5a44422e-4c5f-47c6-9585-f6bff865c3f5",
+      "type": "artist",
+      "name": "Zita Swoon",
+      "description": "Artist: Zita Swoon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5a44422e-4c5f-47c6-9585-f6bff865c3f5",
+        "country": "BE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b72cbca4-c004-4c62-8223-8314fd1a532e",
+      "type": "artist",
+      "name": "ZARD",
+      "description": "Artist: ZARD",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b72cbca4-c004-4c62-8223-8314fd1a532e",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_190ebb31-955c-4db5-8b40-b914beaa4125",
+      "type": "artist",
+      "name": "Zeke",
+      "description": "Artist: Zeke",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "190ebb31-955c-4db5-8b40-b914beaa4125",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_dae36f6d-dc92-4eaa-b74d-d6470aa338d3",
+      "type": "artist",
+      "name": "Zao",
+      "description": "Artist: Zao",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dae36f6d-dc92-4eaa-b74d-d6470aa338d3",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_296ae0be-8737-4d12-95e7-c4013fccc570",
+      "type": "artist",
+      "name": "Zflipa",
+      "description": "Artist: Zflipa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "296ae0be-8737-4d12-95e7-c4013fccc570",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d3353e72-41cf-40df-a61a-ba7982557c2b",
+      "type": "artist",
+      "name": "Zarah Leander",
+      "description": "Artist: Zarah Leander",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d3353e72-41cf-40df-a61a-ba7982557c2b",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4df5d35b-a9d4-4d4f-91f6-bae55693de31",
+      "type": "artist",
+      "name": "Zebrahead",
+      "description": "Artist: Zebrahead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4df5d35b-a9d4-4d4f-91f6-bae55693de31",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f0cda317-b86d-482e-9b1c-4d1bb8397472",
+      "type": "artist",
+      "name": "Zero-day-wareZ",
+      "description": "Artist: Zero-day-wareZ",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f0cda317-b86d-482e-9b1c-4d1bb8397472",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_932cb13f-677c-4e63-beb1-fca45574d280",
+      "type": "artist",
+      "name": "Zazie",
+      "description": "Artist: Zazie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "932cb13f-677c-4e63-beb1-fca45574d280",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_63d4eab6-de28-42d0-b506-148df013a618",
+      "type": "artist",
+      "name": "ZUNTATA",
+      "description": "Artist: ZUNTATA",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "63d4eab6-de28-42d0-b506-148df013a618",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e19a81b2-3824-464c-8635-7f4082dad10f",
+      "type": "artist",
+      "name": "Zacar\u00edas Ferreira",
+      "description": "Artist: Zacar\u00edas Ferreira",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e19a81b2-3824-464c-8635-7f4082dad10f",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e3214827-bd09-4d53-a88c-893d61556352",
+      "type": "artist",
+      "name": "Zaz",
+      "description": "Artist: Zaz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e3214827-bd09-4d53-a88c-893d61556352",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e8ceb3eb-f35c-4199-8ef5-1544341b17aa",
+      "type": "artist",
+      "name": "zYnthetic",
+      "description": "Artist: zYnthetic",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8ceb3eb-f35c-4199-8ef5-1544341b17aa",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_507226f4-0842-4f43-950e-81a7017230ec",
+      "type": "artist",
+      "name": "Zac Brown Band",
+      "description": "Artist: Zac Brown Band",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "507226f4-0842-4f43-950e-81a7017230ec",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_aa24c3a0-10fc-4272-aae7-9bb202fb18db",
+      "type": "artist",
+      "name": "Zir Bijou",
+      "description": "Artist: Zir Bijou",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa24c3a0-10fc-4272-aae7-9bb202fb18db",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d472cab7-8143-4e76-bab1-3091624c4f6c",
+      "type": "artist",
+      "name": "Zingah",
+      "description": "Artist: Zingah",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d472cab7-8143-4e76-bab1-3091624c4f6c",
+        "country": "ZA",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_0c9ef712-6dc2-4520-886e-a59506a36780",
+      "type": "artist",
+      "name": "Zalo Reyes",
+      "description": "Artist: Zalo Reyes",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0c9ef712-6dc2-4520-886e-a59506a36780",
+        "country": "CL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36b16dd5-061e-40be-a423-c66bf018b5fa",
+      "type": "artist",
+      "name": "Zalma",
+      "description": "Artist: Zalma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36b16dd5-061e-40be-a423-c66bf018b5fa",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_209cc789-981e-4911-a5fb-47c30230976f",
+      "type": "artist",
+      "name": "Zap Pow",
+      "description": "Artist: Zap Pow",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "209cc789-981e-4911-a5fb-47c30230976f",
+        "country": "JM",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_51e4cbfd-4484-4e15-933c-f89ae74cb962",
+      "type": "artist",
+      "name": "Ziak",
+      "description": "Artist: Ziak",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "51e4cbfd-4484-4e15-933c-f89ae74cb962",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_089c91b0-5151-49b9-b331-b080a8a3f986",
+      "type": "artist",
+      "name": "Zaena Morisho",
+      "description": "Artist: Zaena Morisho",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "089c91b0-5151-49b9-b331-b080a8a3f986",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f49cea96-c237-4c0d-8332-98859274cc52",
+      "type": "artist",
+      "name": "Zeke",
+      "description": "Artist: Zeke",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f49cea96-c237-4c0d-8332-98859274cc52",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_164e1f46-3145-4235-a4fd-40c8168b33ca",
+      "type": "artist",
+      "name": "Zoran Kulina",
+      "description": "Artist: Zoran Kulina",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "164e1f46-3145-4235-a4fd-40c8168b33ca",
+        "country": "BA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fd461efd-94ed-4aff-9311-6942089393c0",
+      "type": "artist",
+      "name": "Zaleha Hamid",
+      "description": "Artist: Zaleha Hamid",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fd461efd-94ed-4aff-9311-6942089393c0",
+        "country": "MY",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c764f48c-8ed7-46aa-8d1e-b1df6ec0f2ef",
+      "type": "artist",
+      "name": "Zomboy",
+      "description": "Artist: Zomboy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c764f48c-8ed7-46aa-8d1e-b1df6ec0f2ef",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ecab4d5d-7546-4188-9cc7-2030f1a0ca0d",
+      "type": "artist",
+      "name": "Zachariah & The Lobos Riders",
+      "description": "Artist: Zachariah & The Lobos Riders",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ecab4d5d-7546-4188-9cc7-2030f1a0ca0d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7b62f6f3-5c42-4a89-94a3-e4dfcc54a8be",
+      "type": "artist",
+      "name": "Zen Hanami",
+      "description": "Artist: Zen Hanami",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7b62f6f3-5c42-4a89-94a3-e4dfcc54a8be",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4ca81e59-b53f-4da2-a4c8-3765323a6555",
+      "type": "artist",
+      "name": "Zafer Dilek",
+      "description": "Artist: Zafer Dilek",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4ca81e59-b53f-4da2-a4c8-3765323a6555",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bc9f95a8-7672-4ef9-ae0b-ee152168c788",
+      "type": "artist",
+      "name": "ZIVA",
+      "description": "Artist: ZIVA",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bc9f95a8-7672-4ef9-ae0b-ee152168c788",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_80aa868b-9946-4ead-ad70-69acbb26f4d7",
+      "type": "artist",
+      "name": "Zahnradikum",
+      "description": "Artist: Zahnradikum",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "80aa868b-9946-4ead-ad70-69acbb26f4d7",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c215d368-1e6a-47f1-9380-70ccfe66b306",
+      "type": "artist",
+      "name": "Zealous",
+      "description": "Artist: Zealous",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c215d368-1e6a-47f1-9380-70ccfe66b306",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_56657cd4-bffb-4cd4-b4ed-063afa85b562",
+      "type": "artist",
+      "name": "Zach Williams",
+      "description": "Artist: Zach Williams",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "56657cd4-bffb-4cd4-b4ed-063afa85b562",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2930b614-d54b-4d29-87fe-83ac9c9fdbda",
+      "type": "artist",
+      "name": "Zero T",
+      "description": "Artist: Zero T",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2930b614-d54b-4d29-87fe-83ac9c9fdbda",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_51e90731-08c0-4f60-89b6-5b78e5844de8",
+      "type": "artist",
+      "name": "Zach Bryan",
+      "description": "Artist: Zach Bryan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "51e90731-08c0-4f60-89b6-5b78e5844de8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cf8a81b7-1c57-41fc-a890-67dc28cb9ccf",
+      "type": "artist",
+      "name": "Za\u00efko Langa Langa",
+      "description": "Artist: Za\u00efko Langa Langa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cf8a81b7-1c57-41fc-a890-67dc28cb9ccf",
+        "country": "CD",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dc5167a8-4086-4c51-883a-b1a2fcd0fde2",
+      "type": "artist",
+      "name": "Zmeyev",
+      "description": "Artist: Zmeyev",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dc5167a8-4086-4c51-883a-b1a2fcd0fde2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_50c0ec9a-a2a3-4888-a8b0-a0cf565e5ac7",
+      "type": "artist",
+      "name": "Zap Mama",
+      "description": "Artist: Zap Mama",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "50c0ec9a-a2a3-4888-a8b0-a0cf565e5ac7",
+        "country": "BE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0a139cda-a6e0-4fbe-9aac-fc2534bd44f2",
+      "type": "artist",
+      "name": "Zuco 103",
+      "description": "Artist: Zuco 103",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0a139cda-a6e0-4fbe-9aac-fc2534bd44f2",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_30be9b75-79ed-4d3c-a548-7f2f3cbc1757",
+      "type": "artist",
+      "name": "Zambri",
+      "description": "Artist: Zambri",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30be9b75-79ed-4d3c-a548-7f2f3cbc1757",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_edd33cc7-d0ad-4729-ab8f-5d6be8369c5d",
+      "type": "artist",
+      "name": "Zenith",
+      "description": "Artist: Zenith",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "edd33cc7-d0ad-4729-ab8f-5d6be8369c5d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0baa5088-9b10-4ef3-b4e3-16109ab7edfe",
+      "type": "artist",
+      "name": "Zeta",
+      "description": "Artist: Zeta",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0baa5088-9b10-4ef3-b4e3-16109ab7edfe",
+        "country": "VE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3d62d82f-e0c8-4a24-82b7-5c3f476cd7cb",
+      "type": "artist",
+      "name": "Zynik",
+      "description": "Artist: Zynik",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d62d82f-e0c8-4a24-82b7-5c3f476cd7cb",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aa659468-db56-41c9-b6fe-61f4bb2ef1a6",
+      "type": "artist",
+      "name": "Zack de la Rocha",
+      "description": "Artist: Zack de la Rocha",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa659468-db56-41c9-b6fe-61f4bb2ef1a6",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_da5c9ec9-c618-4a7c-92c3-7d217f03aabc",
+      "type": "artist",
+      "name": "Z\u00fambale Primo",
+      "description": "Artist: Z\u00fambale Primo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "da5c9ec9-c618-4a7c-92c3-7d217f03aabc",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ffac990c-3daa-4d3d-943f-e4a08d0dfe43",
+      "type": "artist",
+      "name": "Z\u00e1mb\u00f3 Jimmy",
+      "description": "Artist: Z\u00e1mb\u00f3 Jimmy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ffac990c-3daa-4d3d-943f-e4a08d0dfe43",
+        "country": "HU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zolo",
+      "type": "genre",
+      "name": "zolo",
+      "description": "Musical genre: zolo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#9E7637",
+        "playlist_id": "1HDK9LHAXjMQEbEhh9Lbfa",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_364a371f-827d-4b31-8c15-8da516ff5122",
+      "type": "artist",
+      "name": "Zolo",
+      "description": "Artist: Zolo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "364a371f-827d-4b31-8c15-8da516ff5122",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_21a6751e-887e-4eae-9989-de45d452feb6",
+      "type": "artist",
+      "name": "Zomby",
+      "description": "Artist: Zomby",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "21a6751e-887e-4eae-9989-de45d452feb6",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fe1af02b-cb9b-45ea-8b50-ee2573426298",
+      "type": "artist",
+      "name": "Zizzy Jr",
+      "description": "Artist: Zizzy Jr",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fe1af02b-cb9b-45ea-8b50-ee2573426298",
+        "country": "PT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_717a1ad7-dd7c-4fdf-aaff-5fc6cbcbf19e",
+      "type": "artist",
+      "name": "Zoheb Hassan",
+      "description": "Artist: Zoheb Hassan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "717a1ad7-dd7c-4fdf-aaff-5fc6cbcbf19e",
+        "country": "PK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_536f801d-24a1-44d2-8b66-7011b5a070b0",
+      "type": "artist",
+      "name": "ZEM",
+      "description": "Artist: ZEM",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "536f801d-24a1-44d2-8b66-7011b5a070b0",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2ff314cb-0fcb-423e-8467-5ea78af7139a",
+      "type": "artist",
+      "name": "Zanzibar Chanel",
+      "description": "Artist: Zanzibar Chanel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2ff314cb-0fcb-423e-8467-5ea78af7139a",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d17b505f-a6e3-44e7-afcc-415d407c414f",
+      "type": "artist",
+      "name": "Zoot Sims",
+      "description": "Artist: Zoot Sims",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d17b505f-a6e3-44e7-afcc-415d407c414f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3394d6ae-a653-4ba8-9d81-28f4595e0588",
+      "type": "artist",
+      "name": "Zangeres Zonder Naam",
+      "description": "Artist: Zangeres Zonder Naam",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3394d6ae-a653-4ba8-9d81-28f4595e0588",
+        "country": "NL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_47135429-ed7c-4b08-a30c-f0e66777ec47",
+      "type": "artist",
+      "name": "ZelooperZ",
+      "description": "Artist: ZelooperZ",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "47135429-ed7c-4b08-a30c-f0e66777ec47",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1853847c-38ff-4103-b173-50043a022177",
+      "type": "artist",
+      "name": "Zeh McGeba",
+      "description": "Artist: Zeh McGeba",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1853847c-38ff-4103-b173-50043a022177",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zhongguofeng",
+      "type": "genre",
+      "name": "zhongguo feng",
+      "description": "Musical genre: zhongguo feng",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8D9929",
+        "playlist_id": "7f7A3WaMDLcAHyTwxT5hK8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_e89e79d4-04c1-4bc3-9be1-a15899c93d8f",
+      "type": "artist",
+      "name": "Zapp",
+      "description": "Artist: Zapp",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e89e79d4-04c1-4bc3-9be1-a15899c93d8f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d22033c4-c61e-4fb2-83ea-008dcaeee6c6",
+      "type": "artist",
+      "name": "Zacc Harris",
+      "description": "Artist: Zacc Harris",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d22033c4-c61e-4fb2-83ea-008dcaeee6c6",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3dae5148-8a13-4130-933f-d16a9e8d926e",
+      "type": "artist",
+      "name": "zhOra",
+      "description": "Artist: zhOra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3dae5148-8a13-4130-933f-d16a9e8d926e",
+        "country": "IE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8d68ab29-fc7d-4548-a3ef-8a9dc905e340",
+      "type": "artist",
+      "name": "Zarif",
+      "description": "Artist: Zarif",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8d68ab29-fc7d-4548-a3ef-8a9dc905e340",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a99b1c54-254b-43bf-bb8c-388af16a28d1",
+      "type": "artist",
+      "name": "ZAKU",
+      "description": "Artist: ZAKU",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a99b1c54-254b-43bf-bb8c-388af16a28d1",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1b5fd405-d029-4d42-9275-8fc6ed917cf6",
+      "type": "artist",
+      "name": "Zeep",
+      "description": "Artist: Zeep",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1b5fd405-d029-4d42-9275-8fc6ed917cf6",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a35bbc4f-6925-4883-a597-7a2314827729",
+      "type": "artist",
+      "name": "Zarach 'Baal' Tharagh",
+      "description": "Artist: Zarach 'Baal' Tharagh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a35bbc4f-6925-4883-a597-7a2314827729",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d331a066-42cd-4f54-8525-d0265c57207f",
+      "type": "artist",
+      "name": "Zona Roja",
+      "description": "Artist: Zona Roja",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d331a066-42cd-4f54-8525-d0265c57207f",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_387bdf7b-390d-4b2b-9158-3dc52fd9b94a",
+      "type": "artist",
+      "name": "Zafra Negra",
+      "description": "Artist: Zafra Negra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "387bdf7b-390d-4b2b-9158-3dc52fd9b94a",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_204333f3-06cc-4d9e-871f-9ef8d196f32b",
+      "type": "artist",
+      "name": "Ziggy X",
+      "description": "Artist: Ziggy X",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "204333f3-06cc-4d9e-871f-9ef8d196f32b",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c85a3b6c-a9d8-4670-8508-cd97b6952dab",
+      "type": "artist",
+      "name": "Zak Moore",
+      "description": "Artist: Zak Moore",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c85a3b6c-a9d8-4670-8508-cd97b6952dab",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_13afa63c-8164-4697-9cad-c5100062a154",
+      "type": "artist",
+      "name": "Zen Eyer",
+      "description": "Artist: Zen Eyer",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "13afa63c-8164-4697-9cad-c5100062a154",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ffcffee4-367e-4a1f-9353-57cb32affd14",
+      "type": "artist",
+      "name": "Zoel",
+      "description": "Artist: Zoel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ffcffee4-367e-4a1f-9353-57cb32affd14",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e9539da6-28a4-4daf-a6e0-755ab21c9a0b",
+      "type": "artist",
+      "name": "Zahara",
+      "description": "Artist: Zahara",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e9539da6-28a4-4daf-a6e0-755ab21c9a0b",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_84fa3477-e3a9-4016-ab03-4bff01c7bc8f",
+      "type": "artist",
+      "name": "zombiekittyy",
+      "description": "Artist: zombiekittyy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "84fa3477-e3a9-4016-ab03-4bff01c7bc8f",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_09041695-45af-4c26-bccf-a217a51a65f2",
+      "type": "artist",
+      "name": "Zonaria",
+      "description": "Artist: Zonaria",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "09041695-45af-4c26-bccf-a217a51a65f2",
+        "country": "SE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_59c74d8d-43e4-4cca-907c-c8f49bfbc40f",
+      "type": "artist",
+      "name": "ZelliX",
+      "description": "Artist: ZelliX",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "59c74d8d-43e4-4cca-907c-c8f49bfbc40f",
+        "country": "IN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a9a5d50c-5b3c-417f-a44a-e615cc4fb45e",
+      "type": "artist",
+      "name": "Zer0 Rei",
+      "description": "Artist: Zer0 Rei",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a9a5d50c-5b3c-417f-a44a-e615cc4fb45e",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a198b33b-a907-462d-a437-b6cc1b98b8f7",
+      "type": "artist",
+      "name": "Zakir Hussain",
+      "description": "Artist: Zakir Hussain",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a198b33b-a907-462d-a437-b6cc1b98b8f7",
+        "country": "IN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ff15d707-86aa-4aae-9af9-4cc88b95eb3b",
+      "type": "artist",
+      "name": "Zumbis do Espa\u00e7o",
+      "description": "Artist: Zumbis do Espa\u00e7o",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ff15d707-86aa-4aae-9af9-4cc88b95eb3b",
+        "country": "BR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c9458568-f6e1-47a5-9477-2d58e3e18edb",
+      "type": "artist",
+      "name": "Zombina and the Skeletones",
+      "description": "Artist: Zombina and the Skeletones",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c9458568-f6e1-47a5-9477-2d58e3e18edb",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zhenskiyrep",
+      "type": "genre",
+      "name": "zhenskiy rep",
+      "description": "Musical genre: zhenskiy rep",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A59613",
+        "playlist_id": "4lCP4GdpJDW6u6vgUu3aGd",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b35c1f7c-8545-4518-88ff-a4bfea9bca40",
+      "type": "artist",
+      "name": "Zoff",
+      "description": "Artist: Zoff",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b35c1f7c-8545-4518-88ff-a4bfea9bca40",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_aaa49e4b-e7f5-48df-93f4-b21846cb3858",
+      "type": "artist",
+      "name": "Zuzu Bollin",
+      "description": "Artist: Zuzu Bollin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aaa49e4b-e7f5-48df-93f4-b21846cb3858",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_edfdbcb0-e248-49c8-80f5-b3dcf3b89551",
+      "type": "artist",
+      "name": "ZAUM",
+      "description": "Artist: ZAUM",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "edfdbcb0-e248-49c8-80f5-b3dcf3b89551",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_bf7127d0-85b4-418c-89f1-316cdff30918",
+      "type": "artist",
+      "name": "Zola",
+      "description": "Artist: Zola",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf7127d0-85b4-418c-89f1-316cdff30918",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2eac3baf-664e-4922-9f83-10e751d1bd51",
+      "type": "artist",
+      "name": "ZoZo",
+      "description": "Artist: ZoZo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2eac3baf-664e-4922-9f83-10e751d1bd51",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4851dcd3-fe7c-4fcc-b311-e9a562917c31",
+      "type": "artist",
+      "name": "Zetno Project",
+      "description": "Artist: Zetno Project",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4851dcd3-fe7c-4fcc-b311-e9a562917c31",
+        "country": "RS",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1e3c1562-c498-44f0-9fcf-fa97f2e4d396",
+      "type": "artist",
+      "name": "Zimmers Hole",
+      "description": "Artist: Zimmers Hole",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1e3c1562-c498-44f0-9fcf-fa97f2e4d396",
+        "country": "CA",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_66253672-653e-4fa1-ada2-283b53520353",
+      "type": "artist",
+      "name": "Zheani",
+      "description": "Artist: Zheani",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "66253672-653e-4fa1-ada2-283b53520353",
+        "country": "AU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0171668b-ba7a-4cef-8a28-22aa782dd56c",
+      "type": "artist",
+      "name": "Zo\u00eb Keating",
+      "description": "Artist: Zo\u00eb Keating",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0171668b-ba7a-4cef-8a28-22aa782dd56c",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a0156ca2-29c0-4d16-84dd-e772201c543f",
+      "type": "artist",
+      "name": "Zeptah",
+      "description": "Artist: Zeptah",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a0156ca2-29c0-4d16-84dd-e772201c543f",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9e842ca3-a929-4a88-9d87-0443155b0438",
+      "type": "artist",
+      "name": "Zikcolle",
+      "description": "Artist: Zikcolle",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9e842ca3-a929-4a88-9d87-0443155b0438",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a6b8ef30-1d47-4042-9b29-3963e4cd7a7a",
+      "type": "artist",
+      "name": "Zozobra",
+      "description": "Artist: Zozobra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a6b8ef30-1d47-4042-9b29-3963e4cd7a7a",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9fdee711-2779-4ff1-8c21-323d31157b74",
+      "type": "artist",
+      "name": "Zuul FX",
+      "description": "Artist: Zuul FX",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9fdee711-2779-4ff1-8c21-323d31157b74",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c069d77a-bed3-445e-b374-bba48df5dfbe",
+      "type": "artist",
+      "name": "ZIDDO",
+      "description": "Artist: ZIDDO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c069d77a-bed3-445e-b374-bba48df5dfbe",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_a7f66f36-521b-4e26-8fa1-0997115076cc",
+      "type": "artist",
+      "name": "ZYO",
+      "description": "Artist: ZYO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a7f66f36-521b-4e26-8fa1-0997115076cc",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f8fdcb12-a3eb-498f-bb2c-ee0be095ee07",
+      "type": "artist",
+      "name": "Zatua",
+      "description": "Artist: Zatua",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f8fdcb12-a3eb-498f-bb2c-ee0be095ee07",
+        "country": "ID",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zouk",
+      "type": "genre",
+      "name": "zouk",
+      "description": "Musical genre: zouk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BB8F14",
+        "playlist_id": "7mNGeqFpLOFebS0QrGXU2N",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_3acaf3e2-c855-4f81-8573-e8c0d53a5cb1",
+      "type": "artist",
+      "name": "Za-Za",
+      "description": "Artist: Za-Za",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3acaf3e2-c855-4f81-8573-e8c0d53a5cb1",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zoukriddim",
+      "type": "genre",
+      "name": "zouk riddim",
+      "description": "Musical genre: zouk riddim",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B89108",
+        "playlist_id": "6vkcfCa0G2qHz5CogrViSl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_1a3cef25-75b5-48f8-bfee-7d10c002f935",
+      "type": "artist",
+      "name": "Zathaalgor",
+      "description": "Artist: Zathaalgor",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1a3cef25-75b5-48f8-bfee-7d10c002f935",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d2cd44b-9e77-4249-9d37-d8028e756693",
+      "type": "artist",
+      "name": "ZAZEN BOYS",
+      "description": "Artist: ZAZEN BOYS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d2cd44b-9e77-4249-9d37-d8028e756693",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zxc",
+      "type": "genre",
+      "name": "zxc",
+      "description": "Musical genre: zxc",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A09416",
+        "playlist_id": "3mOVijfpf6hU4gDCabCU5G",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_70db5cf7-1f41-43c5-bcbf-9401d3f39855",
+      "type": "artist",
+      "name": "Zenek Balanga",
+      "description": "Artist: Zenek Balanga",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70db5cf7-1f41-43c5-bcbf-9401d3f39855",
+        "country": "PL",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_53d25e35-ff0e-4029-b28f-d5ad2e066698",
+      "type": "artist",
+      "name": "ZAN",
+      "description": "Artist: ZAN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "53d25e35-ff0e-4029-b28f-d5ad2e066698",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b1372203-c2ae-4a29-bd1e-f1303a99891b",
+      "type": "artist",
+      "name": "Zennie",
+      "description": "Artist: Zennie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b1372203-c2ae-4a29-bd1e-f1303a99891b",
+        "country": "US",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_9939a762-5ca9-4c12-a735-0d62e21df4e3",
+      "type": "artist",
+      "name": "Zach Top",
+      "description": "Artist: Zach Top",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9939a762-5ca9-4c12-a735-0d62e21df4e3",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9cd8f2d7-90eb-47c3-8d2b-e5b3e5574eb6",
+      "type": "artist",
+      "name": "Z\u00fcri West",
+      "description": "Artist: Z\u00fcri West",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9cd8f2d7-90eb-47c3-8d2b-e5b3e5574eb6",
+        "country": "CH",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a2a9b521-f47a-42c1-b33f-d91411698dbd",
+      "type": "artist",
+      "name": "Zabine",
+      "description": "Artist: Zabine",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a2a9b521-f47a-42c1-b33f-d91411698dbd",
+        "country": "AT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b109e75a-89d9-4fb2-843c-c0418b755d4c",
+      "type": "artist",
+      "name": "Zakk Wylde",
+      "description": "Artist: Zakk Wylde",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8413f186-87a4-4959-b19d-050d6730e30f",
+      "type": "artist",
+      "name": "ZyniC",
+      "description": "Artist: ZyniC",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8413f186-87a4-4959-b19d-050d6730e30f",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f5a8f323-71b5-4666-94c6-032f395d694d",
+      "type": "artist",
+      "name": "Zero Cult",
+      "description": "Artist: Zero Cult",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f5a8f323-71b5-4666-94c6-032f395d694d",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3e0d6e48-2597-4374-a73f-6c88b37bb502",
+      "type": "artist",
+      "name": "ZYTOKINE",
+      "description": "Artist: ZYTOKINE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e0d6e48-2597-4374-a73f-6c88b37bb502",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b8155f6d-7852-4486-97d9-1b7fdda3fa08",
+      "type": "artist",
+      "name": "ZUN",
+      "description": "Artist: ZUN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b8155f6d-7852-4486-97d9-1b7fdda3fa08",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7fd8131a-2528-49a0-8159-ef9313f473e6",
+      "type": "artist",
+      "name": "Zombiez",
+      "description": "Artist: Zombiez",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7fd8131a-2528-49a0-8159-ef9313f473e6",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "type": "artist",
+      "name": "Zara Larsson",
+      "description": "Artist: Zara Larsson",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aa3dbea9-a183-42d4-8b30-a894d1fa3844",
+      "type": "artist",
+      "name": "Zombi",
+      "description": "Artist: Zombi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa3dbea9-a183-42d4-8b30-a894d1fa3844",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d580d73e-769e-44e2-af25-0593e2309a04",
+      "type": "artist",
+      "name": "Zaider",
+      "description": "Artist: Zaider",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d580d73e-769e-44e2-af25-0593e2309a04",
+        "country": "CO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zespoldzieciecy",
+      "type": "genre",
+      "name": "zespol dzieciecy",
+      "description": "Musical genre: zespol dzieciecy",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#79981C",
+        "playlist_id": "66IvXQyzUNEalJnbyvSb6d",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_03f93de6-6d62-4710-bcc7-9b3d7c3d95f5",
+      "type": "artist",
+      "name": "Z\u2010Trip",
+      "description": "Artist: Z\u2010Trip",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "03f93de6-6d62-4710-bcc7-9b3d7c3d95f5",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zouglou",
+      "type": "genre",
+      "name": "zouglou",
+      "description": "Musical genre: zouglou",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C47A0C",
+        "playlist_id": "7kGA6YnBYlU3HplyYp9buA",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_68439124-010d-4ecb-8f4e-9ff4212031db",
+      "type": "artist",
+      "name": "Zarahn",
+      "description": "Artist: Zarahn",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "68439124-010d-4ecb-8f4e-9ff4212031db",
+        "country": "HK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4a90c893-76da-4dc5-a0fe-696b7ab01e23",
+      "type": "artist",
+      "name": "Zpecial",
+      "description": "Artist: Zpecial",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4a90c893-76da-4dc5-a0fe-696b7ab01e23",
+        "country": "HK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a56d98fa-43b0-47d2-b3e3-504029cb4708",
+      "type": "artist",
+      "name": "ZEN",
+      "description": "Artist: ZEN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a56d98fa-43b0-47d2-b3e3-504029cb4708",
+        "country": "HK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dcfd233b-3427-4506-aa24-1934cb7b7299",
+      "type": "artist",
+      "name": "Zone Verte",
+      "description": "Artist: Zone Verte",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dcfd233b-3427-4506-aa24-1934cb7b7299",
+        "country": "BE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_447db096-c325-4656-8841-6af2035a9318",
+      "type": "artist",
+      "name": "Zanias",
+      "description": "Artist: Zanias",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "447db096-c325-4656-8841-6af2035a9318",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b4b6a1f0-2d11-4b23-ab66-9b7ea0d6b475",
+      "type": "artist",
+      "name": "Zuzu Silk",
+      "description": "Artist: Zuzu Silk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b4b6a1f0-2d11-4b23-ab66-9b7ea0d6b475",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_862d84d2-1939-43d7-98a2-1605981c375f",
+      "type": "artist",
+      "name": "Zoffy",
+      "description": "Artist: Zoffy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "862d84d2-1939-43d7-98a2-1605981c375f",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cd56e70f-38d6-43ac-8d6c-5c47fa2853e2",
+      "type": "artist",
+      "name": "ZeaLouS1",
+      "description": "Artist: ZeaLouS1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cd56e70f-38d6-43ac-8d6c-5c47fa2853e2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zikir",
+      "type": "genre",
+      "name": "zikir",
+      "description": "Musical genre: zikir",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#50A102",
+        "playlist_id": "2QusAPixVAakbqYcK087KN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_9dfab798-a4e0-4002-95fe-97fc23872a7b",
+      "type": "artist",
+      "name": "Zach Deputy",
+      "description": "Artist: Zach Deputy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9dfab798-a4e0-4002-95fe-97fc23872a7b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_74cff5df-e1c8-42bc-85b3-01626e80ceb1",
+      "type": "artist",
+      "name": "Ziggy Phunk",
+      "description": "Artist: Ziggy Phunk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "74cff5df-e1c8-42bc-85b3-01626e80ceb1",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_75adfc6e-fd35-4e52-a1eb-eee01f4e9424",
+      "type": "artist",
+      "name": "Zabaleta",
+      "description": "Artist: Zabaleta",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "75adfc6e-fd35-4e52-a1eb-eee01f4e9424",
+        "country": "CO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1b5c6f02-7c34-4005-bdd9-4f82ac080e4a",
+      "type": "artist",
+      "name": "Zugluft",
+      "description": "Artist: Zugluft",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1b5c6f02-7c34-4005-bdd9-4f82ac080e4a",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zamba",
+      "type": "genre",
+      "name": "zamba",
+      "description": "Musical genre: zamba",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#549823",
+        "playlist_id": "4BLHWGRsNFy6C64njAPdJ2",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_f4431324-a5da-4e01-b5be-c5c5fe932399",
+      "type": "artist",
+      "name": "Zambayonny",
+      "description": "Artist: Zambayonny",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f4431324-a5da-4e01-b5be-c5c5fe932399",
+        "country": "AR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_37bb63c8-6c76-418f-b4c7-836db0da9bb1",
+      "type": "artist",
+      "name": "zirafa",
+      "description": "Artist: zirafa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "37bb63c8-6c76-418f-b4c7-836db0da9bb1",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zen",
+      "type": "genre",
+      "name": "zen",
+      "description": "Musical genre: zen",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#348BCB",
+        "playlist_id": "7y2Av5WgZgD7jSuQZu6M7n",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_53ce0a88-0794-43d1-9abd-d022db3ef9bc",
+      "type": "artist",
+      "name": "Zen Vodou",
+      "description": "Artist: Zen Vodou",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "53ce0a88-0794-43d1-9abd-d022db3ef9bc",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a88eb73b-8926-4826-9d58-63b4bb1bc47c",
+      "type": "artist",
+      "name": "Zetbee",
+      "description": "Artist: Zetbee",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a88eb73b-8926-4826-9d58-63b4bb1bc47c",
+        "country": "CZ",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zimdancehall",
+      "type": "genre",
+      "name": "zimdancehall",
+      "description": "Musical genre: zimdancehall",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B88C11",
+        "playlist_id": "2K3BDsbnwwsJClbZqOQztK",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_f91b5b23-c880-41fa-b6d2-d7ea41ace609",
+      "type": "artist",
+      "name": "Zopp",
+      "description": "Artist: Zopp",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f91b5b23-c880-41fa-b6d2-d7ea41ace609",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_580de1c8-b489-4150-944e-177c3d78c830",
+      "type": "artist",
+      "name": "Zarboth",
+      "description": "Artist: Zarboth",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "580de1c8-b489-4150-944e-177c3d78c830",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zillertal",
+      "type": "genre",
+      "name": "zillertal",
+      "description": "Musical genre: zillertal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B58623",
+        "playlist_id": "1fzcR3U9cUpJm92J14ThFS",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_32994013-40d7-49c7-a387-823a8c5d9f4f",
+      "type": "artist",
+      "name": "Zmey Gorynich",
+      "description": "Artist: Zmey Gorynich",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "32994013-40d7-49c7-a387-823a8c5d9f4f",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_66e7c674-1417-440d-8617-f1cb4e1f92fb",
+      "type": "artist",
+      "name": "Z\u00f8rza",
+      "description": "Artist: Z\u00f8rza",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "66e7c674-1417-440d-8617-f1cb4e1f92fb",
+        "country": "PL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1e10b758-77df-4e8f-b702-86316eff1636",
+      "type": "artist",
+      "name": "Z\u00e9 da Velha",
+      "description": "Artist: Z\u00e9 da Velha",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1e10b758-77df-4e8f-b702-86316eff1636",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zilizopendwa",
+      "type": "genre",
+      "name": "zilizopendwa",
+      "description": "Musical genre: zilizopendwa",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AA8410",
+        "playlist_id": "6ZjTAVi7EIot1EPgaxoyO5",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_d332f002-ef8e-45f0-8451-ad7822dd749f",
+      "type": "artist",
+      "name": "zyronell",
+      "description": "Artist: zyronell",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d332f002-ef8e-45f0-8451-ad7822dd749f",
+        "country": "LT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_103a58c9-e6af-4e96-a7d0-781df510cae6",
+      "type": "artist",
+      "name": "Zo\u00eb Blade",
+      "description": "Artist: Zo\u00eb Blade",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "103a58c9-e6af-4e96-a7d0-781df510cae6",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b1141d0f-8e55-4b3d-a2b2-958b8d3d96ae",
+      "type": "artist",
+      "name": "Zatox",
+      "description": "Artist: Zatox",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b1141d0f-8e55-4b3d-a2b2-958b8d3d96ae",
+        "country": "IT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_dac15180-dfad-452b-91c7-4c5acbdf4e1d",
+      "type": "artist",
+      "name": "Zhang Li",
+      "description": "Artist: Zhang Li",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dac15180-dfad-452b-91c7-4c5acbdf4e1d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6f4ee1ef-2db5-408c-97c1-d2797cdb86dd",
+      "type": "artist",
+      "name": "Zoliukas",
+      "description": "Artist: Zoliukas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6f4ee1ef-2db5-408c-97c1-d2797cdb86dd",
+        "country": "LT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f45a51e0-355b-49ef-ba4a-fc99f518dcd1",
+      "type": "artist",
+      "name": "ZVD",
+      "description": "Artist: ZVD",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f45a51e0-355b-49ef-ba4a-fc99f518dcd1",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_737a39d6-a115-4678-a7f7-13b916bed718",
+      "type": "artist",
+      "name": "Zorn",
+      "description": "Artist: Zorn",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "737a39d6-a115-4678-a7f7-13b916bed718",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f6797a8f-ea05-4c2b-8076-7c3e29b4119a",
+      "type": "artist",
+      "name": "Zvrra",
+      "description": "Artist: Zvrra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f6797a8f-ea05-4c2b-8076-7c3e29b4119a",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_eca0569c-877e-4d72-a280-90581c2adfd5",
+      "type": "artist",
+      "name": "ZHU",
+      "description": "Artist: ZHU",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eca0569c-877e-4d72-a280-90581c2adfd5",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_442efd80-011e-47e1-8ec9-f25bd9dfc770",
+      "type": "artist",
+      "name": "Zacharia Hajishacalli",
+      "description": "Artist: Zacharia Hajishacalli",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "442efd80-011e-47e1-8ec9-f25bd9dfc770",
+        "country": "CY",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zcc",
+      "type": "genre",
+      "name": "zcc",
+      "description": "Musical genre: zcc",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#858E05",
+        "playlist_id": "4rohSjUJ1bDLU1JLCi6n7y",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_zambianhiphop",
+      "type": "genre",
+      "name": "zambian hip hop",
+      "description": "Musical genre: zambian hip hop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B18C06",
+        "playlist_id": "5ZDuKkHD8vQMIINeFsTTyu",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_zambianpop",
+      "type": "genre",
+      "name": "zambian pop",
+      "description": "Musical genre: zambian pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B28805",
+        "playlist_id": "3AxsN9foojNcuPI9OXnVIB",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_zimurbangroove",
+      "type": "genre",
+      "name": "zim urban groove",
+      "description": "Musical genre: zim urban groove",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A38B1A",
+        "playlist_id": "54WupWz7dqaSAZvIv91ksb",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_498b8068-86bd-4b56-86fe-fc95427a16b0",
+      "type": "artist",
+      "name": "Z\u2019EV",
+      "description": "Artist: Z\u2019EV",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "498b8068-86bd-4b56-86fe-fc95427a16b0",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f609bb30-3610-48f9-ac50-0276f7d066f2",
+      "type": "artist",
+      "name": "Zihvya",
+      "description": "Artist: Zihvya",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f609bb30-3610-48f9-ac50-0276f7d066f2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e3573325-ec7c-43c9-8025-80895df6d043",
+      "type": "artist",
+      "name": "Zagreba\u010dki solisti",
+      "description": "Artist: Zagreba\u010dki solisti",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e3573325-ec7c-43c9-8025-80895df6d043",
+        "country": "HR",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_8b0f8e51-e556-41cf-962c-9f16ce880405",
+      "type": "artist",
+      "name": "Z\u00fcrcher Kammerorchester",
+      "description": "Artist: Z\u00fcrcher Kammerorchester",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8b0f8e51-e556-41cf-962c-9f16ce880405",
+        "country": "CH",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_177d883f-a219-454f-a236-bbbbc73e8e55",
+      "type": "artist",
+      "name": "Zektbach",
+      "description": "Artist: Zektbach",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "177d883f-a219-454f-a236-bbbbc73e8e55",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e588ddaf-81d4-40a0-82b3-12ba19406659",
+      "type": "artist",
+      "name": "ZetaZeroAlfa",
+      "description": "Artist: ZetaZeroAlfa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e588ddaf-81d4-40a0-82b3-12ba19406659",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zimhiphop",
+      "type": "genre",
+      "name": "zim hip hop",
+      "description": "Musical genre: zim hip hop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A7900B",
+        "playlist_id": "25zL0DjNC6mr6qB3F5iSWK",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_6194b2af-fc36-463d-af33-0df0cef17dec",
+      "type": "artist",
+      "name": "Zebbler Encanti Experience",
+      "description": "Artist: Zebbler Encanti Experience",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6194b2af-fc36-463d-af33-0df0cef17dec",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_86f95383-34f2-46dc-96a0-88fe3b853c80",
+      "type": "artist",
+      "name": "Zelzah",
+      "description": "Artist: Zelzah",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "86f95383-34f2-46dc-96a0-88fe3b853c80",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6824b304-edd8-4149-a280-1d332bad723f",
+      "type": "artist",
+      "name": "Zoungla",
+      "description": "Artist: Zoungla",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6824b304-edd8-4149-a280-1d332bad723f",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zurichindie",
+      "type": "genre",
+      "name": "zurich indie",
+      "description": "Musical genre: zurich indie",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#9C8848",
+        "playlist_id": "0jNHdwA4dCJkYmPBHlt4r2",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_cb6a0a3f-21c4-47f2-a876-0893f207d9f6",
+      "type": "artist",
+      "name": "Zondervan Publishing",
+      "description": "Artist: Zondervan Publishing",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cb6a0a3f-21c4-47f2-a876-0893f207d9f6",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_510494fd-584a-4ba4-a896-07688a16f993",
+      "type": "artist",
+      "name": "Zinvmm",
+      "description": "Artist: Zinvmm",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "510494fd-584a-4ba4-a896-07688a16f993",
+        "country": "ES",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zydeco",
+      "type": "genre",
+      "name": "zydeco",
+      "description": "Musical genre: zydeco",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A88117",
+        "playlist_id": "1BsskTfK2Sfg5mJI1o4MGr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_2b1999ba-5256-4e9b-84be-4a23b9283e84",
+      "type": "artist",
+      "name": "Zachary Richard",
+      "description": "Artist: Zachary Richard",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2b1999ba-5256-4e9b-84be-4a23b9283e84",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e21ca596-5b2d-4495-9477-85cf37e27a0f",
+      "type": "artist",
+      "name": "Zydeco All Stars",
+      "description": "Artist: Zydeco All Stars",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e21ca596-5b2d-4495-9477-85cf37e27a0f",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_256cac19-9b54-42d2-8f0a-e27a874691c0",
+      "type": "artist",
+      "name": "Zik",
+      "description": "Artist: Zik",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "256cac19-9b54-42d2-8f0a-e27a874691c0",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7869f379-ef54-4bb3-8c1b-5ecbaed8f8bf",
+      "type": "artist",
+      "name": "Zaiklophobia",
+      "description": "Artist: Zaiklophobia",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7869f379-ef54-4bb3-8c1b-5ecbaed8f8bf",
+        "country": "CY",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2a45cefc-f3b2-4629-9348-d51b5a99a50f",
+      "type": "artist",
+      "name": "Zentrr Music",
+      "description": "Artist: Zentrr Music",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2a45cefc-f3b2-4629-9348-d51b5a99a50f",
+        "country": "ES",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa037268-71bf-40ae-b3b2-05be18aacb10",
+      "type": "artist",
+      "name": "ZOMBIESHARK!",
+      "description": "Artist: ZOMBIESHARK!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa037268-71bf-40ae-b3b2-05be18aacb10",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zimgospel",
+      "type": "genre",
+      "name": "zim gospel",
+      "description": "Musical genre: zim gospel",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A38805",
+        "playlist_id": "1EfJDym7urLaa1hpi6TFwr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_49c9833a-f064-4d1a-a043-5f4d2453201b",
+      "type": "artist",
+      "name": "ZUKO.",
+      "description": "Artist: ZUKO.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "49c9833a-f064-4d1a-a043-5f4d2453201b",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_892431ad-3e32-4d10-aa34-ed191e74cfc0",
+      "type": "artist",
+      "name": "zeami",
+      "description": "Artist: zeami",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "892431ad-3e32-4d10-aa34-ed191e74cfc0",
+        "country": "JP",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_f9a9686f-e7fb-480c-8bb9-6bd09c04e1c0",
+      "type": "artist",
+      "name": "Zis0ky",
+      "description": "Artist: Zis0ky",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f9a9686f-e7fb-480c-8bb9-6bd09c04e1c0",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zenonesque",
+      "type": "genre",
+      "name": "zenonesque",
+      "description": "Musical genre: zenonesque",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B191C1",
+        "playlist_id": "1RbpXfjqUTf9iKExXjr2jp",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_9fcda3ab-a467-4ea9-8569-ae975de0f473",
+      "type": "artist",
+      "name": "Zeki M\u00fcren",
+      "description": "Artist: Zeki M\u00fcren",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9fcda3ab-a467-4ea9-8569-ae975de0f473",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zambiangospel",
+      "type": "genre",
+      "name": "zambian gospel",
+      "description": "Musical genre: zambian gospel",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#9E8B0B",
+        "playlist_id": "2KMOd9KmWLeUbbRySGHN5j",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_49aa1eff-9990-4ede-9fa8-aa9ae2357e66",
+      "type": "artist",
+      "name": "Zemlinsky Quartet",
+      "description": "Artist: Zemlinsky Quartet",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "49aa1eff-9990-4ede-9fa8-aa9ae2357e66",
+        "country": "CZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4d0c195c-0278-4e8e-8827-01c2607e1321",
+      "type": "artist",
+      "name": "ZHEER",
+      "description": "Artist: ZHEER",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4d0c195c-0278-4e8e-8827-01c2607e1321",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_08c3659c-4002-4ca3-bd9f-4d28ce032e41",
+      "type": "artist",
+      "name": "Zanmari Bar\u00e9",
+      "description": "Artist: Zanmari Bar\u00e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "08c3659c-4002-4ca3-bd9f-4d28ce032e41",
+        "country": "RE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e1d75229-b539-4870-b36a-11ea7e389948",
+      "type": "artist",
+      "name": "Zong",
+      "description": "Artist: Zong",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e1d75229-b539-4870-b36a-11ea7e389948",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b7e547fe-fc21-4cbf-ade1-4d7731bce9d1",
+      "type": "artist",
+      "name": "ZolloZ",
+      "description": "Artist: ZolloZ",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b7e547fe-fc21-4cbf-ade1-4d7731bce9d1",
+        "country": "CH",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_ef823199-3dda-465a-869e-0d9d79b88c23",
+      "type": "artist",
+      "name": "zabutom",
+      "description": "Artist: zabutom",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef823199-3dda-465a-869e-0d9d79b88c23",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d7aa3eb2-0475-4609-9ad9-b3b1708157b3",
+      "type": "artist",
+      "name": "Zipp",
+      "description": "Artist: Zipp",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d7aa3eb2-0475-4609-9ad9-b3b1708157b3",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2cfee029-6a72-440f-b70b-262f62242eba",
+      "type": "artist",
+      "name": "Zero Kama",
+      "description": "Artist: Zero Kama",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2cfee029-6a72-440f-b70b-262f62242eba",
+        "country": "AT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fb122a41-ef9c-47e4-b4be-b2aec982dc9d",
+      "type": "artist",
+      "name": "Zos Kia",
+      "description": "Artist: Zos Kia",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb122a41-ef9c-47e4-b4be-b2aec982dc9d",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7ff65e41-4b1d-48d8-a061-6d4132c1abe4",
+      "type": "artist",
+      "name": "Zo\u00e4t\u2010Aon",
+      "description": "Artist: Zo\u00e4t\u2010Aon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7ff65e41-4b1d-48d8-a061-6d4132c1abe4",
+        "country": "FI",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c96679aa-8b6b-4b9c-82f2-0d0b30940b52",
+      "type": "artist",
+      "name": "Zvonko Bogdan",
+      "description": "Artist: Zvonko Bogdan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c96679aa-8b6b-4b9c-82f2-0d0b30940b52",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zarzuela",
+      "type": "genre",
+      "name": "zarzuela",
+      "description": "Musical genre: zarzuela",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#449539",
+        "playlist_id": "0pMsLV9uQUZtDGyPYVIeAt",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_87e40ca2-cead-4b1c-8559-9a7cc335ff19",
+      "type": "artist",
+      "name": "Zweistein",
+      "description": "Artist: Zweistein",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "87e40ca2-cead-4b1c-8559-9a7cc335ff19",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zeuhl",
+      "type": "genre",
+      "name": "zeuhl",
+      "description": "Musical genre: zeuhl",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#937968",
+        "playlist_id": "2PvNMMgIu3xbKLuMBU8RlE",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_5f26d6b7-95df-420b-bbfb-5e8a86800ae8",
+      "type": "artist",
+      "name": "ZAO",
+      "description": "Artist: ZAO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5f26d6b7-95df-420b-bbfb-5e8a86800ae8",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0af51d9d-80f3-47d2-b388-d9b729a956b9",
+      "type": "artist",
+      "name": "Zero Zero Zero",
+      "description": "Artist: Zero Zero Zero",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0af51d9d-80f3-47d2-b388-d9b729a956b9",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_zither",
+      "type": "genre",
+      "name": "zither",
+      "description": "Musical genre: zither",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#5AA1A9",
+        "playlist_id": "6bpwGHlRRLkVqfmOpqfmvx",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_c80f8479-917e-44ab-b1a2-f6c384ea29d9",
+      "type": "artist",
+      "name": "Zhou-Mack Mafuila",
+      "description": "Artist: Zhou-Mack Mafuila",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c80f8479-917e-44ab-b1a2-f6c384ea29d9",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zohioliinduu",
+      "type": "genre",
+      "name": "zohioliin duu",
+      "description": "Musical genre: zohioliin duu",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#869A09",
+        "playlist_id": "7HNLEMjbJjqPCGK6AXxAqa",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_zomipop",
+      "type": "genre",
+      "name": "zomi pop",
+      "description": "Musical genre: zomi pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8A9812",
+        "playlist_id": "6OIvf4qxX3DEeobwlpRBHq",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_e38bc22a-1c4d-498d-a49c-f5676989810a",
+      "type": "artist",
+      "name": "Zuhura & Party",
+      "description": "Artist: Zuhura & Party",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e38bc22a-1c4d-498d-a49c-f5676989810a",
+        "country": "KE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c32aa19e-5930-4817-a2b4-d9ad09e8fb13",
+      "type": "artist",
+      "name": "Zuhura Swaleh",
+      "description": "Artist: Zuhura Swaleh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c32aa19e-5930-4817-a2b4-d9ad09e8fb13",
+        "country": "KE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_zampogna",
+      "type": "genre",
+      "name": "zampogna",
+      "description": "Musical genre: zampogna",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#629972",
+        "playlist_id": "6egS6vpB5c6raIlw1v0Nx2",
+        "source": "Every Noise At Once"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8c9b336e-acc8-4e20-9195-6ed0634da9fc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_97c86b2c-2765-46a2-aef8-76a7e24c430f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f58803e-8c4c-478e-8b51-477f38483ede",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d2db1078-c170-4e22-b261-14f3ad60a690",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f319b57a-a494-40f6-a467-3d196d3484e6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b014cfd-4927-4187-a741-715998e6d785",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ac6c2fd-daad-4c31-b266-017c79d2e9a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d860d97-677e-4bc4-b64f-2524a4a61a59",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bcc5fb7c-e8c8-4c2e-8f64-c46f1ea2b974",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9cb26bd0-5d78-4eac-a968-651c9e25a063",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9b048a76-b812-431e-8540-79a62bda5727",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_277e21a9-2d64-452d-96c4-2d23a7af5891",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5882e375-503f-4bd2-89b1-967e0bfcb199",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_876a58c9-4060-4a11-bf83-270462f3cc37",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_61291de1-1141-41c6-992a-9c132c82cbe8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f7338f2a-136b-4d5e-b099-5504cf997f58",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9050240a-73fa-4b42-b961-2a1c0a93cd6e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cfc1d352-611f-480b-a5db-b8e90dc11012",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2c916f95-f6ba-46fa-b9d8-dc0d9379f603",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fc257037-10a3-4e36-8f9a-91e18fa397d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5aa2afca-923c-42a6-9c62-da77118f3ec6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a615b8f7-a9f6-4d7a-90c7-6fdf26b13411",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_364a371f-827d-4b31-8c15-8da516ff5122",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79d2e41d-aede-49e8-9e18-9074056de7b4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8615b36c-a7b0-4db7-8443-4b80d3ca8fac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5041fa92-55f8-4bcc-8021-3d0c876ab795",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a08d716e-a51e-4a02-8092-93c3b0fb1322",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zolo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4da566cb-00c2-4de6-b224-876f31728865",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zhongguofeng",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a223958d-5c56-4b2c-a30a-87e357bc121b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zhongguofeng",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae0fd83f-8e50-4cb4-935e-ac7c0b7d7d17",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zhongguofeng",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b9efb4ae-81b8-43e3-95b7-884da2514152",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zhongguofeng",
+      "relation_type": "has_artist",
+      "entity_b": "artist_93daca1f-825b-4ee2-a753-3e6bea4b115b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3a1b3ea4-657d-4a8f-bc1b-ad28fdf66324",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_21dcc22d-afa9-49af-8548-b116ed818ffa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0efa01aa-2725-48af-a7df-273faa718ed6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_21c48caf-4d15-4541-b7d3-103117c6db0b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ace3bc80-08b5-4f4f-813e-5e752280e37a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b245f6b-b843-4df1-88c6-36236a605b51",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7cd2f431-d9d2-474c-811e-05e154bdf000",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c7d40f88-724d-460d-904c-5b5f331b0f06",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a17a4c60-2e46-4dc2-b9c0-b21ff7fb4e19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_427fae53-5021-4876-b295-dca4d7c7bcc8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d99a4cac-7726-4a3d-a41f-db1b0d3c65e2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79b347ce-eaee-4e17-bca8-f07e196fa9d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_22446eee-8a08-461f-85df-62720acbd09a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13e5f505-b47b-4b34-9d56-9e66ba0e2897",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_25cdf5da-0e53-4bb9-a1bd-8ecafd20d311",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0b94a945-f052-49b4-ad68-29a57c20c261",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_040df05c-5364-4550-bd3e-20510a3a6f5c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_09ea1071-163c-4d28-ab49-491c1c2cd08c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7ffdd4c5-3590-48cf-a3b2-67e56dbaa01a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89715efe-154a-47c2-b4e6-e6e01e7b4e2b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_982dd290-45d2-44cf-9ad0-413c35850c5b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23f19d7e-b0d7-40c3-823e-af253dee9761",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_37034ac2-4b67-468c-ba98-25d6b1185245",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_783c354c-64d6-433a-97fa-0fd583e29d54",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cb7c7895-fdbc-4283-ae71-8c5954395d83",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd8badad-a9f6-43e7-a317-791d8a2c07b5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2d085f30-020e-43bb-a664-17c1a3139306",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_85deec2e-2d45-4512-84aa-e881ce4e8191",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9bd028e0-d70a-4612-9a34-129f74960a8d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b369279-0e49-4144-954b-17a36abd6cf6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20e3f7b8-966a-43a8-a16d-03f15a1a8559",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1765ef54-237e-4b0e-a73c-c2ea14e8b527",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c7e44d06-4959-489b-85d9-f2895a4b1d65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5abe3ea2-d2e1-4486-8fab-625abcfb02eb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f775c27b-fe56-4d5b-9fd0-9229fc8db2e7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c8ecf6e0-9317-4b42-ad52-aa4dd1bf3df7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2eecd1cd-31ae-42f3-9e30-300ffbd7f2ef",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7ea07f0b-bc20-45a5-840e-60daa9f80b7c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f42c53fa-c2f0-4d24-9a79-8f56478b7a18",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f059ba4d-273b-4135-893b-38e73785ba94",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b3bddc05-17ca-41ca-ab81-f3c0333acdc7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cf0a33ce-b16a-47c3-840c-0479a6315416",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eb3f138d-9ebd-441b-b8ec-64d6b3bd9192",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f91883d-7a2c-4dba-8d36-ab088e4be740",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_07a118a1-3b95-4bd8-a260-0fcca9dbb7ee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_db1f42bd-5538-4f38-9030-a50aaa665649",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6fdf09f-f8fc-4371-ba60-609d422d9cf8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b4be61fc-ba0a-431a-9894-e663fb783d31",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3a271be-7206-4b8f-81b9-ba0b4168e73c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_64875595-20ab-49c4-bf51-2946d21964d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouglou",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d919a5e-1515-4e5f-b327-415398083098",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouglou",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3af8fdd-1184-4932-9033-44b6556e7420",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouglou",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e07d11f-b1e7-4598-be4b-62823b11f36e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zouglou",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4bfca726-0880-42a8-a882-c98d87b14ad1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zikir",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8169eebb-3c4e-4ada-a96a-2031c6535ab3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4431324-a5da-4e01-b5be-c5c5fe932399",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_32ca9065-c1f6-4c48-9855-875c1dc4d3f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_28d213ce-d892-4236-82c8-fc19181ad1b1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_be6dec3d-45ff-4640-b903-751df9196e23",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6e884516-573a-4e7c-8eab-269353cae8dd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zamba",
+      "relation_type": "has_artist",
+      "entity_b": "artist_04e1ad5b-a378-4070-8f24-cbeaabf4f52a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b143a19b-7161-4d93-a522-cd6771fd5a46",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_28432865-1af6-4c96-b570-ef4d46375ada",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0af92bd7-4046-44e7-b6a0-10fffe939ece",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_53ce0a88-0794-43d1-9abd-d022db3ef9bc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_434c7870-ea80-483b-941b-a5a2a4035a29",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zen",
+      "relation_type": "has_artist",
+      "entity_b": "artist_85fed954-b361-48a5-92a6-f4b5b6ec54bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zimdancehall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_066ba2d9-e981-4387-96cd-67dd4a83eb38",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zimhiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01c0ed79-1b88-4866-a29e-3e49b7901fc0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zimhiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c71e614b-ac4b-4643-80a4-c3c0ce3f9e8f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f10aa2b0-47c8-44a0-83a5-a93d61ef5c63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_143d190c-11e8-4ecd-adf7-a68a3ccdaab1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_db1a3066-1586-495d-a09c-1312cabab5be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_56ae315b-787f-472c-ba15-56e9a8a8028c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_693131d3-6ad0-4e19-b76e-e8e31ddcbbf7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_858b2651-9a71-4436-93b2-ea695fba0595",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ca2b920b-702a-4c4a-9e22-a07e052b4fd8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a45ed9f1-d1a4-4569-851b-bc5b4129997d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b9967c7-3246-4658-a561-ded5408dd9af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_199c611d-15cc-4f8d-a62f-351bd00662d1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0fa64acf-5007-4cbd-9cf7-d039fcb503be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ce5e97a-1f5b-47fb-86aa-c2a825f0f42f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4db48def-33c9-4b60-998c-f625c086938a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_480f5b4e-673a-429c-83a2-9b7021dad040",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b5290a1-0684-453e-9cdd-9946c0895849",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b1999ba-5256-4e9b-84be-4a23b9283e84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d1178687-d9da-4f26-bdd9-6b1d14c6b9e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_60a00bd8-ba3b-41ae-a404-5299a7069046",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e21ca596-5b2d-4495-9477-85cf37e27a0f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_66f025eb-28e4-4e8f-b89b-730f876814c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_61ad6fc2-cd5c-4fe4-a1d7-1c1f7dd6cd09",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fc8a5465-e3bd-4e2c-88e8-3f31b16d7f93",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_14d631fa-0471-4271-be8d-5fa0825c4620",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f122f40-805b-4097-b4cf-eb8268330f06",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_32cee8d0-46d0-47ce-bd5c-d84cf21b772d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c62db96d-8c28-4a9e-bc89-96fb57472e4a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a916ce0a-0ab7-4b2f-b169-2166b746e31e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c2e96b8e-65ef-44c7-8ce9-970894c05d71",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9b87c970-198e-4aa5-b1d9-244d008dbbe2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a7047c87-033e-482c-8d29-dd42c52e172b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dc134291-bde3-4113-aa76-6e0adfcb9cc8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8a44ef58-d3ab-4592-9122-a94379456782",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67bfa057-abe5-45ac-a1e7-d4d937325920",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6c3a1d56-4193-4479-a3c1-eb6a3510e28c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f5133038-c9d7-4fa2-8ec4-a44199571e25",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f044dc5-70e4-4bfc-984d-d43de5d059b5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c27ac77c-ef02-42b4-9a74-bee0e9d67935",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zydeco",
+      "relation_type": "has_artist",
+      "entity_b": "artist_92a1d777-9c5e-4b97-84e9-0270c0b5027a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zenonesque",
+      "relation_type": "has_artist",
+      "entity_b": "artist_782c0b2f-7562-41af-b3cc-6ef3d0a1722b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zenonesque",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b52f989-aa60-47a1-beb6-390e3cb5397a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zarzuela",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zarzuela",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0f4eb46a-e2f8-4145-980a-1f3e05dc91d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7eb38036-b783-4247-9054-465c0cf7f324",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc4f4031-8d5a-41c8-8cdd-ce8ed4d164a0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7f89e84d-4c35-4d53-a965-4f3ce1c4ef4f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b096a90-7b7f-4db3-8174-ccfa91059a01",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ca7f2ea-6a8d-412d-a188-f75abea72b67",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d37d0870-f6cc-4f17-8d84-353429665794",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e5c430c3-6343-4e8d-b737-3e367d773b63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cce4a4e3-d918-4d33-9172-176407bf2195",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0933c7f6-aaff-4bd8-bb69-deb3088db745",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aa6443ff-921b-4262-ba30-a8b762ad7533",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bbd11954-09aa-42af-9505-998d6bdc0b99",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f26d6b7-95df-420b-bbfb-5e8a86800ae8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_883f6001-ba97-4ba1-a27b-a678e3523cc4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0af51d9d-80f3-47d2-b388-d9b729a956b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3c107869-cc2d-403c-9ce6-93746a7807ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7a82840d-beb5-4819-aed3-6b732332b461",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bb6db112-544a-452e-8adb-7ad96245fa5f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13cab414-10c3-4e03-82e3-629e42b34875",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23d24f73-1954-4e08-9bfd-a0d5be0ed1f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7dc020ca-703b-4c3b-947e-a0dbd8a3ea00",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_afa54368-3c41-4291-a8c8-c2955c78866e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7235ecd3-363a-4331-84fe-3fceb755bc68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0cb6388-c50f-4731-b2a8-d794dd5a56cf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c11e00bf-8b91-4f74-9395-bfcc6fcf151d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_828fbb5a-7287-4486-941c-ad1d57f39f0b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89e882ef-be8f-468b-9d8e-4cfb3cbbba9b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c606cefe-3942-411b-b0ae-8b90f34a63c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81e4639b-5e86-48aa-a5bf-7df18921e43a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4dcacf3-b9c0-4df9-ad70-e08086102fa9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae913af2-2c3d-46a6-a078-80852e395e04",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_107705ec-b0dd-4b4f-936c-330e82472c4e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0e7d85ef-5cbb-44e4-85b5-28a3712cb51d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zeuhl",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5b2f2029-9cfc-47dd-af0c-30b5cfe10e47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zither",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c635851e-7da6-41cf-9a8a-4674f2c27d4a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zither",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1034e7f2-2e24-4728-b9ae-e94f5b3708f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_zither",
+      "relation_type": "has_artist",
+      "entity_b": "artist_322974c7-6c07-4210-9e08-f91d1705e9a6",
+      "strength": 1.0
+    }
+  ]
+}

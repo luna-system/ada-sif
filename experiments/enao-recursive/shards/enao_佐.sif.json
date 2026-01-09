@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u4f50",
+    "description": "Genres and artists starting with \u4f50",
+    "shard_id": "\u4f50",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_06830051-7031-4d4f-b879-27c1d7935800",
+      "type": "artist",
+      "name": "\u4f50\u6a4b\u4fca\u5f66",
+      "description": "Artist: \u4f50\u6a4b\u4fca\u5f66",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "06830051-7031-4d4f-b879-27c1d7935800",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d4bdf226-79c0-46f5-a6b5-fbab3fe20826",
+      "type": "artist",
+      "name": "\u4f50\u85e4\u76f4\u7d00",
+      "description": "Artist: \u4f50\u85e4\u76f4\u7d00",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d4bdf226-79c0-46f5-a6b5-fbab3fe20826",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_09a68081-81ef-4598-834c-0feab9a4b2df",
+      "type": "artist",
+      "name": "\u4f50\u85e4\u5f18\u548c",
+      "description": "Artist: \u4f50\u85e4\u5f18\u548c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "09a68081-81ef-4598-834c-0feab9a4b2df",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9dd853aa-12ee-465b-8ff6-b604f89112fd",
+      "type": "artist",
+      "name": "\u4f50\u85e4\u535a",
+      "description": "Artist: \u4f50\u85e4\u535a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9dd853aa-12ee-465b-8ff6-b604f89112fd",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ef9dac0c-ad57-450b-84b6-5d65e58be868",
+      "type": "artist",
+      "name": "\u4f50\u85e4\u5343\u591c\u5b50",
+      "description": "Artist: \u4f50\u85e4\u5343\u591c\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef9dac0c-ad57-450b-84b6-5d65e58be868",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

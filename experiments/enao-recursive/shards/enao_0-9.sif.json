@@ -1,0 +1,3752 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - 0-9",
+    "description": "Genres and artists starting with 0-9",
+    "shard_id": "0-9",
+    "entity_count": 273,
+    "relationship_count": 77
+  },
+  "entities": [
+    {
+      "id": "artist_125ec42a-7229-4250-afc5-e057484327fe",
+      "type": "artist",
+      "name": "[unknown]",
+      "description": "Artist: [unknown]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+        "country": "XW",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "type": "artist",
+      "name": "50 Cent",
+      "description": "Artist: 50 Cent",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "type": "artist",
+      "name": "2Pac",
+      "description": "Artist: 2Pac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_48513f24-37d5-423f-b9b7-2b712af7f50d",
+      "type": "artist",
+      "name": "9th Wonder",
+      "description": "Artist: 9th Wonder",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48513f24-37d5-423f-b9b7-2b712af7f50d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c318115d-1ead-493d-b7c0-3fe3d76de8d4",
+      "type": "artist",
+      "name": "5to Nivel",
+      "description": "Artist: 5to Nivel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c318115d-1ead-493d-b7c0-3fe3d76de8d4",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dff0d392-4cd5-4052-9fbb-f485df3891e5",
+      "type": "artist",
+      "name": "2 Chainz",
+      "description": "Artist: 2 Chainz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dff0d392-4cd5-4052-9fbb-f485df3891e5",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c8007593-b5a3-4d2c-bebb-e4629ef13fea",
+      "type": "artist",
+      "name": "\u273f lavenderlust \u273f",
+      "description": "Artist: \u273f lavenderlust \u273f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c8007593-b5a3-4d2c-bebb-e4629ef13fea",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf600e2b-dc2d-4839-a1be-6ebef4087cd0",
+      "type": "artist",
+      "name": "311",
+      "description": "Artist: 311",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf600e2b-dc2d-4839-a1be-6ebef4087cd0",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+      "type": "artist",
+      "name": "3 Doors Down",
+      "description": "Artist: 3 Doors Down",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9b94ac1a-b997-4414-9385-96178b5ef99c",
+      "type": "artist",
+      "name": "2PM",
+      "description": "Artist: 2PM",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9b94ac1a-b997-4414-9385-96178b5ef99c",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e119e5ff-0de0-421c-a630-0516c6acede8",
+      "type": "artist",
+      "name": "2NE1",
+      "description": "Artist: 2NE1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e119e5ff-0de0-421c-a630-0516c6acede8",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_515b236c-cce1-4dc2-aedd-50de7b1736e2",
+      "type": "artist",
+      "name": "2 Unlimited",
+      "description": "Artist: 2 Unlimited",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "515b236c-cce1-4dc2-aedd-50de7b1736e2",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_315de4fc-6bea-4987-a36f-04fd03082cd2",
+      "type": "artist",
+      "name": "2Cheniez",
+      "description": "Artist: 2Cheniez",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "315de4fc-6bea-4987-a36f-04fd03082cd2",
+        "country": "SS",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f37c537b-3557-4031-bfd6-ab63ced32854",
+      "type": "artist",
+      "name": "10cc",
+      "description": "Artist: 10cc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f37c537b-3557-4031-bfd6-ab63ced32854",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2071eb07-e9ce-48e9-8ab8-d4ea4f5eba48",
+      "type": "artist",
+      "name": "57 Grados",
+      "description": "Artist: 57 Grados",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2071eb07-e9ce-48e9-8ab8-d4ea4f5eba48",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "type": "artist",
+      "name": "5 Seconds of Summer",
+      "description": "Artist: 5 Seconds of Summer",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_03df376e-f696-4df0-a8e4-3bbc9c8c1c5d",
+      "type": "artist",
+      "name": "4LYN",
+      "description": "Artist: 4LYN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "03df376e-f696-4df0-a8e4-3bbc9c8c1c5d",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d30381e1-27bd-4596-a9c8-d28d6fdceb83",
+      "type": "artist",
+      "name": "24\u20107 Spyz",
+      "description": "Artist: 24\u20107 Spyz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d30381e1-27bd-4596-a9c8-d28d6fdceb83",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b9a06530-1241-4162-836f-7b8e79deaa58",
+      "type": "artist",
+      "name": "10,000 Maniacs",
+      "description": "Artist: 10,000 Maniacs",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b9a06530-1241-4162-836f-7b8e79deaa58",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3e63ef4f-93c5-48a6-b4d0-18dfb9e5a706",
+      "type": "artist",
+      "name": "38 Spesh",
+      "description": "Artist: 38 Spesh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e63ef4f-93c5-48a6-b4d0-18dfb9e5a706",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_34ea2ef9-c05c-427e-a26f-0bb35c7d6524",
+      "type": "artist",
+      "name": "3rd Bass",
+      "description": "Artist: 3rd Bass",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "34ea2ef9-c05c-427e-a26f-0bb35c7d6524",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_eaaae1cd-1307-4e79-8b3f-ba27bf3b9aee",
+      "type": "artist",
+      "name": "9ice",
+      "description": "Artist: 9ice",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eaaae1cd-1307-4e79-8b3f-ba27bf3b9aee",
+        "country": "NG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c53f316f-fc07-4d41-9314-80fc4d6b071f",
+      "type": "artist",
+      "name": "2Baba",
+      "description": "Artist: 2Baba",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c53f316f-fc07-4d41-9314-80fc4d6b071f",
+        "country": "NG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ef326b3d-61f0-4379-aca0-21237d696d63",
+      "type": "artist",
+      "name": "$uicideboy$",
+      "description": "Artist: $uicideboy$",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef326b3d-61f0-4379-aca0-21237d696d63",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_96843ba2-97ec-4120-8c25-044e001e95ed",
+      "type": "artist",
+      "name": "7 Minutes of Nausea",
+      "description": "Artist: 7 Minutes of Nausea",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "96843ba2-97ec-4120-8c25-044e001e95ed",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3f49566c-2c59-440e-8ea5-4d7afa1ee3f2",
+      "type": "artist",
+      "name": "4Him",
+      "description": "Artist: 4Him",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3f49566c-2c59-440e-8ea5-4d7afa1ee3f2",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1964494f-9f1a-41c1-b054-80ef3b95025c",
+      "type": "artist",
+      "name": "13th Floor Elevators",
+      "description": "Artist: 13th Floor Elevators",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1964494f-9f1a-41c1-b054-80ef3b95025c",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
+      "type": "artist",
+      "name": "10cm",
+      "description": "Artist: 10cm",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f731ccc4-e22a-43af-a747-64213329e088",
+      "type": "artist",
+      "name": "[anonymous]",
+      "description": "Artist: [anonymous]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f731ccc4-e22a-43af-a747-64213329e088",
+        "country": "XW",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_32dc3f24-253c-47ef-9f7c-157f8442f4a6",
+      "type": "artist",
+      "name": "113",
+      "description": "Artist: 113",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "32dc3f24-253c-47ef-9f7c-157f8442f4a6",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_85fed954-b361-48a5-92a6-f4b5b6ec54bf",
+      "type": "artist",
+      "name": "31DI3Z",
+      "description": "Artist: 31DI3Z",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "85fed954-b361-48a5-92a6-f4b5b6ec54bf",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_03bef19b-535e-4b8a-a882-01fcb7324386",
+      "type": "artist",
+      "name": "[Alexandros]",
+      "description": "Artist: [Alexandros]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "03bef19b-535e-4b8a-a882-01fcb7324386",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9be7f096-97ec-4615-8957-8d40b5dcbc41",
+      "type": "artist",
+      "name": "[traditional]",
+      "description": "Artist: [traditional]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+        "country": "XW",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_a0dedd56-290c-4d11-9cbc-85890c1128fb",
+      "type": "artist",
+      "name": "(K)NoW_NAME",
+      "description": "Artist: (K)NoW_NAME",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a0dedd56-290c-4d11-9cbc-85890c1128fb",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8629dda5-b729-43f9-a207-8a4cfbf9123c",
+      "type": "artist",
+      "name": "888x888",
+      "description": "Artist: 888x888",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8629dda5-b729-43f9-a207-8a4cfbf9123c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_77a641d5-7f82-4fe0-9b2d-59ed00d9061b",
+      "type": "artist",
+      "name": "[F.R.O.S.T.]",
+      "description": "Artist: [F.R.O.S.T.]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "77a641d5-7f82-4fe0-9b2d-59ed00d9061b",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5c176092-cb4d-4e05-806b-1e9414f2b28c",
+      "type": "artist",
+      "name": "101 Strings",
+      "description": "Artist: 101 Strings",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5c176092-cb4d-4e05-806b-1e9414f2b28c",
+        "country": "US",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_24864cf1-3c01-4031-8bf1-780faaa24264",
+      "type": "artist",
+      "name": "7 Days of Funk",
+      "description": "Artist: 7 Days of Funk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "24864cf1-3c01-4031-8bf1-780faaa24264",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8d8cfa13-814e-4d72-be51-8c48a5959e9c",
+      "type": "artist",
+      "name": "5th Ward Boyz",
+      "description": "Artist: 5th Ward Boyz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8d8cfa13-814e-4d72-be51-8c48a5959e9c",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1c294605-8a44-4a49-9f6e-be26f5fa4f38",
+      "type": "artist",
+      "name": "213",
+      "description": "Artist: 213",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1c294605-8a44-4a49-9f6e-be26f5fa4f38",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_41fabc90-d6d9-4783-8927-1eebad975ea5",
+      "type": "artist",
+      "name": "$WAGGOT",
+      "description": "Artist: $WAGGOT",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "41fabc90-d6d9-4783-8927-1eebad975ea5",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_27dedd67-b819-4040-b972-24ebf5dca374",
+      "type": "artist",
+      "name": "666",
+      "description": "Artist: 666",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "27dedd67-b819-4040-b972-24ebf5dca374",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3c460fe3-e801-43e7-9ea6-dc1dbeb28908",
+      "type": "artist",
+      "name": "3Berlin",
+      "description": "Artist: 3Berlin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3c460fe3-e801-43e7-9ea6-dc1dbeb28908",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d098a52b-8988-4459-bce6-ed62604fc70d",
+      "type": "artist",
+      "name": "123 Andr\u00e9s",
+      "description": "Artist: 123 Andr\u00e9s",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d098a52b-8988-4459-bce6-ed62604fc70d",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b12eaf15-9e92-421e-8b9e-5178b39e4626",
+      "type": "artist",
+      "name": "44closures",
+      "description": "Artist: 44closures",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b12eaf15-9e92-421e-8b9e-5178b39e4626",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa6521a7-56b5-4e56-b946-fda469becba9",
+      "type": "artist",
+      "name": "4 Strings",
+      "description": "Artist: 4 Strings",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa6521a7-56b5-4e56-b946-fda469becba9",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0330a83d-f61e-4989-adb3-afce3943c3ba",
+      "type": "artist",
+      "name": "38 Special",
+      "description": "Artist: 38 Special",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0330a83d-f61e-4989-adb3-afce3943c3ba",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_28abfefb-cceb-4605-8330-a53b6d161403",
+      "type": "artist",
+      "name": "=LOVE",
+      "description": "Artist: =LOVE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "28abfefb-cceb-4605-8330-a53b6d161403",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4d1c86ff-1287-4d9a-8c01-19585a5e1bea",
+      "type": "artist",
+      "name": "22/7",
+      "description": "Artist: 22/7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4d1c86ff-1287-4d9a-8c01-19585a5e1bea",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c8e94c78-0e17-4d9a-b1f6-96e1b22ebe97",
+      "type": "artist",
+      "name": "2CELLOS",
+      "description": "Artist: 2CELLOS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c8e94c78-0e17-4d9a-b1f6-96e1b22ebe97",
+        "country": "HR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9d2a3bb0-e8d2-412f-9584-5286e11d2ce9",
+      "type": "artist",
+      "name": "\u2026 who calls so loud",
+      "description": "Artist: \u2026 who calls so loud",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9d2a3bb0-e8d2-412f-9584-5286e11d2ce9",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a4219d49-f66a-48e5-b06b-dc0324c0bbe5",
+      "type": "artist",
+      "name": "1000 Travels of Jawaharlal",
+      "description": "Artist: 1000 Travels of Jawaharlal",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a4219d49-f66a-48e5-b06b-dc0324c0bbe5",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_36f35db0-bc09-43e7-8650-a123224943c7",
+      "type": "artist",
+      "name": "808 State",
+      "description": "Artist: 808 State",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36f35db0-bc09-43e7-8650-a123224943c7",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ce81ea82-bb3b-4b57-931c-0859b40dc9e8",
+      "type": "artist",
+      "name": "5 D\u00f2ng K\u1ebb",
+      "description": "Artist: 5 D\u00f2ng K\u1ebb",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ce81ea82-bb3b-4b57-931c-0859b40dc9e8",
+        "country": "VN",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3e7108b0-91a7-4599-8313-38594939c8b5",
+      "type": "artist",
+      "name": "25/17",
+      "description": "Artist: 25/17",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e7108b0-91a7-4599-8313-38594939c8b5",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a5955e7a-c520-4eaa-b999-e71d375689d5",
+      "type": "artist",
+      "name": "3HIEF",
+      "description": "Artist: 3HIEF",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a5955e7a-c520-4eaa-b999-e71d375689d5",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ba85753c-671a-409e-b813-1e3be41e2a2e",
+      "type": "artist",
+      "name": "3 Inches of Blood",
+      "description": "Artist: 3 Inches of Blood",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ba85753c-671a-409e-b813-1e3be41e2a2e",
+        "country": "CA",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e6c5a910-6255-4d49-bb87-8c3982d3e5fe",
+      "type": "artist",
+      "name": "4s4ki",
+      "description": "Artist: 4s4ki",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e6c5a910-6255-4d49-bb87-8c3982d3e5fe",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d6d45dda-2377-4faa-947b-e071efa085c0",
+      "type": "artist",
+      "name": "100 gecs",
+      "description": "Artist: 100 gecs",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_12864f4f-a578-4b2f-b200-a2289ffa835a",
+      "type": "artist",
+      "name": "32framespersecond",
+      "description": "Artist: 32framespersecond",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "12864f4f-a578-4b2f-b200-a2289ffa835a",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_718a88a0-6d93-4f2f-8c76-acc2edf1a79c",
+      "type": "artist",
+      "name": "3Ds",
+      "description": "Artist: 3Ds",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "718a88a0-6d93-4f2f-8c76-acc2edf1a79c",
+        "country": "NZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_da966a4a-b62b-4e13-8106-048d2c10fa4c",
+      "type": "artist",
+      "name": "1200",
+      "description": "Artist: 1200",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "da966a4a-b62b-4e13-8106-048d2c10fa4c",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c6b1f6b2-995f-4bd7-b99d-6cf3c9b47552",
+      "type": "artist",
+      "name": "610 SAARi",
+      "description": "Artist: 610 SAARi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c6b1f6b2-995f-4bd7-b99d-6cf3c9b47552",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e4e79264-c1ec-490c-b823-b2918204cd4f",
+      "type": "artist",
+      "name": ":wumpscut:",
+      "description": "Artist: :wumpscut:",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e4e79264-c1ec-490c-b823-b2918204cd4f",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_deb1e3a9-59c7-485b-8fbf-6604487654de",
+      "type": "artist",
+      "name": "501Bryze",
+      "description": "Artist: 501Bryze",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "deb1e3a9-59c7-485b-8fbf-6604487654de",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_2dd5ef92-0eab-4518-90e7-1311cd023888",
+      "type": "artist",
+      "name": "5LOVER",
+      "description": "Artist: 5LOVER",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2dd5ef92-0eab-4518-90e7-1311cd023888",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_68eae9ac-43a1-465f-97dd-ce5ea3cb9dc9",
+      "type": "artist",
+      "name": "8485",
+      "description": "Artist: 8485",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "68eae9ac-43a1-465f-97dd-ce5ea3cb9dc9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a5d87879-6531-485a-b330-612c392e445e",
+      "type": "artist",
+      "name": ")6",
+      "description": "Artist: )6",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a5d87879-6531-485a-b330-612c392e445e",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_ee7718ab-6b11-4ee8-8665-6e5805bee71b",
+      "type": "artist",
+      "name": "5opka",
+      "description": "Artist: 5opka",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ee7718ab-6b11-4ee8-8665-6e5805bee71b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_af60c726-97f7-4428-bc65-70a408c3289f",
+      "type": "artist",
+      "name": "3-Dee",
+      "description": "Artist: 3-Dee",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "af60c726-97f7-4428-bc65-70a408c3289f",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f5dd24ca-611d-4ad1-bb43-04601901ac0d",
+      "type": "artist",
+      "name": "2 Mello",
+      "description": "Artist: 2 Mello",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f5dd24ca-611d-4ad1-bb43-04601901ac0d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aa961147-5120-48c3-a77b-65e4665bf601",
+      "type": "artist",
+      "name": "90sFlav",
+      "description": "Artist: 90sFlav",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa961147-5120-48c3-a77b-65e4665bf601",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9797be9e-d439-4a95-885b-8608bc02ed61",
+      "type": "artist",
+      "name": ".anxious.",
+      "description": "Artist: .anxious.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9797be9e-d439-4a95-885b-8608bc02ed61",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9a32a7c5-8169-4f56-a6c5-f4699c8ddccb",
+      "type": "artist",
+      "name": ".Tetsuo",
+      "description": "Artist: .Tetsuo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9a32a7c5-8169-4f56-a6c5-f4699c8ddccb",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a3716f75-7549-4228-aa51-e3049ca89d88",
+      "type": "artist",
+      "name": "_houseplants",
+      "description": "Artist: _houseplants",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a3716f75-7549-4228-aa51-e3049ca89d88",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_7a0bb49b-7a3f-4201-8493-0345fd091b9f",
+      "type": "artist",
+      "name": "$wagCh0de",
+      "description": "Artist: $wagCh0de",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7a0bb49b-7a3f-4201-8493-0345fd091b9f",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_69d0a377-e815-43a7-a8bb-f74ca4ead721",
+      "type": "artist",
+      "name": "1910 Fruitgum Co.",
+      "description": "Artist: 1910 Fruitgum Co.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "69d0a377-e815-43a7-a8bb-f74ca4ead721",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_912fcb75-fa16-49e6-9e19-becf0f7dea4d",
+      "type": "artist",
+      "name": "? and the Mysterians",
+      "description": "Artist: ? and the Mysterians",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "912fcb75-fa16-49e6-9e19-becf0f7dea4d",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_58daf317-be5f-439f-a04d-0d6727f1a3b2",
+      "type": "artist",
+      "name": "\u00a5$",
+      "description": "Artist: \u00a5$",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "58daf317-be5f-439f-a04d-0d6727f1a3b2",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_98a62678-8db1-4bd5-add8-f24b198cdba8",
+      "type": "artist",
+      "name": "2 in a Room",
+      "description": "Artist: 2 in a Room",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "98a62678-8db1-4bd5-add8-f24b198cdba8",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ae667c89-4be1-4100-bb44-39bcfbe9cc28",
+      "type": "artist",
+      "name": "257ers",
+      "description": "Artist: 257ers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ae667c89-4be1-4100-bb44-39bcfbe9cc28",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_af280a39-5dd2-4604-8f51-7cd78778856f",
+      "type": "artist",
+      "name": "24 Hour Chip",
+      "description": "Artist: 24 Hour Chip",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "af280a39-5dd2-4604-8f51-7cd78778856f",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7d6d9be2-76f1-4c83-92a7-d1f48c2bc6cb",
+      "type": "artist",
+      "name": "\u2606 L U C K Y \u2606",
+      "description": "Artist: \u2606 L U C K Y \u2606",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7d6d9be2-76f1-4c83-92a7-d1f48c2bc6cb",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_f26c72d3-e52c-467b-b651-679c73d8e1a7",
+      "type": "artist",
+      "name": "!!!",
+      "description": "Artist: !!!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f26c72d3-e52c-467b-b651-679c73d8e1a7",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1991b91c-cb89-48f7-91bb-c25a3f31bd37",
+      "type": "artist",
+      "name": "98s",
+      "description": "Artist: 98s",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1991b91c-cb89-48f7-91bb-c25a3f31bd37",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2758b4e1-51a0-4ebc-ae86-1c50d47ce768",
+      "type": "artist",
+      "name": "9th Street",
+      "description": "Artist: 9th Street",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2758b4e1-51a0-4ebc-ae86-1c50d47ce768",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_881c5d0b-149d-4b31-b96e-855780577fd1",
+      "type": "artist",
+      "name": "3rd Force",
+      "description": "Artist: 3rd Force",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "881c5d0b-149d-4b31-b96e-855780577fd1",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_789899ca-c271-4074-a154-75c0df3dae28",
+      "type": "artist",
+      "name": "3LY",
+      "description": "Artist: 3LY",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "789899ca-c271-4074-a154-75c0df3dae28",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0cd33e5-f664-4a21-b7eb-f0b07dd2c1d0",
+      "type": "artist",
+      "name": "\u201cBrother\u201d Jack McDuff",
+      "description": "Artist: \u201cBrother\u201d Jack McDuff",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0cd33e5-f664-4a21-b7eb-f0b07dd2c1d0",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_376fc3df-7d90-4b93-bf38-8246203fd101",
+      "type": "artist",
+      "name": "7 Mile Clee",
+      "description": "Artist: 7 Mile Clee",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "376fc3df-7d90-4b93-bf38-8246203fd101",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4214aa04-64b0-442a-982b-0560e6d3a5bd",
+      "type": "artist",
+      "name": "42 Dugg",
+      "description": "Artist: 42 Dugg",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4214aa04-64b0-442a-982b-0560e6d3a5bd",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8d3c7a85-ecbe-4762-9549-eda7dde408b1",
+      "type": "artist",
+      "name": "90 PROOF Country",
+      "description": "Artist: 90 PROOF Country",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8d3c7a85-ecbe-4762-9549-eda7dde408b1",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_840973c8-154a-44a2-97eb-092899983e06",
+      "type": "artist",
+      "name": "4YKT",
+      "description": "Artist: 4YKT",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "840973c8-154a-44a2-97eb-092899983e06",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd",
+      "type": "artist",
+      "name": "16 Horsepower",
+      "description": "Artist: 16 Horsepower",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1d860d97-677e-4bc4-b64f-2524a4a61a59",
+      "type": "artist",
+      "name": "5uu's",
+      "description": "Artist: 5uu's",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1d860d97-677e-4bc4-b64f-2524a4a61a59",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5a557973-2e65-4429-a60d-a9886bfbac6a",
+      "type": "artist",
+      "name": "2562",
+      "description": "Artist: 2562",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5a557973-2e65-4429-a60d-a9886bfbac6a",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2b432f65-89a9-47a0-a116-3c9c09863524",
+      "type": "artist",
+      "name": "4Tomorrow",
+      "description": "Artist: 4Tomorrow",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2b432f65-89a9-47a0-a116-3c9c09863524",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c48d0f34-9e58-41e3-87f6-1fbfed51bb0b",
+      "type": "artist",
+      "name": "90sitcom",
+      "description": "Artist: 90sitcom",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c48d0f34-9e58-41e3-87f6-1fbfed51bb0b",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_07832b42-8826-4ab1-acd3-c49a2f595ffe",
+      "type": "artist",
+      "name": "6LACK",
+      "description": "Artist: 6LACK",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "07832b42-8826-4ab1-acd3-c49a2f595ffe",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f6d88fde-afb3-4716-be43-17b2e69cc408",
+      "type": "artist",
+      "name": "4batz",
+      "description": "Artist: 4batz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f6d88fde-afb3-4716-be43-17b2e69cc408",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_3ef9b87e-ecc3-4899-8837-8c1e4df0a410",
+      "type": "artist",
+      "name": "28Mojo",
+      "description": "Artist: 28Mojo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3ef9b87e-ecc3-4899-8837-8c1e4df0a410",
+        "country": "NG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9f824dc1-eede-408f-96bf-fbc04aa58be9",
+      "type": "artist",
+      "name": "7co",
+      "description": "Artist: 7co",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f824dc1-eede-408f-96bf-fbc04aa58be9",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e48995e0-6ff9-43ba-b942-9f0875fcc712",
+      "type": "artist",
+      "name": "1000 Robota",
+      "description": "Artist: 1000 Robota",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e48995e0-6ff9-43ba-b942-9f0875fcc712",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+      "type": "artist",
+      "name": "[no artist]",
+      "description": "Artist: [no artist]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_856fd456-a940-4e12-970a-66bffaf0ffbd",
+      "type": "artist",
+      "name": "175R",
+      "description": "Artist: 175R",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "856fd456-a940-4e12-970a-66bffaf0ffbd",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4a176b2e-5191-4804-91b4-1a42aa0f31eb",
+      "type": "artist",
+      "name": "(a is to b)",
+      "description": "Artist: (a is to b)",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4a176b2e-5191-4804-91b4-1a42aa0f31eb",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8a661dc0-6591-4069-ad7f-8f46312b34aa",
+      "type": "artist",
+      "name": "8mm",
+      "description": "Artist: 8mm",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8a661dc0-6591-4069-ad7f-8f46312b34aa",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0cd12ab3-9628-45ef-a97b-ff18624f14a0",
+      "type": "artist",
+      "name": "65daysofstatic",
+      "description": "Artist: 65daysofstatic",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0cd12ab3-9628-45ef-a97b-ff18624f14a0",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6e2dbfcc-d2cf-43f7-980c-6df2d769107b",
+      "type": "artist",
+      "name": "6-Zylinder",
+      "description": "Artist: 6-Zylinder",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6e2dbfcc-d2cf-43f7-980c-6df2d769107b",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_522bac4c-6262-4963-ace0-5f7a1e49b090",
+      "type": "artist",
+      "name": "7DD9",
+      "description": "Artist: 7DD9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "522bac4c-6262-4963-ace0-5f7a1e49b090",
+        "country": "GR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9f9478dc-abc1-4f38-885f-5dca8e2d9060",
+      "type": "artist",
+      "name": "200038",
+      "description": "Artist: 200038",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f9478dc-abc1-4f38-885f-5dca8e2d9060",
+        "country": "IT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_21c0fd52-4234-4407-bc4e-9870b0a48a3d",
+      "type": "artist",
+      "name": "94 East",
+      "description": "Artist: 94 East",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "21c0fd52-4234-4407-bc4e-9870b0a48a3d",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e4cda05a-22b5-4971-a5b6-6ccaccdf1838",
+      "type": "artist",
+      "name": "6EQUJ5-11-1",
+      "description": "Artist: 6EQUJ5-11-1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e4cda05a-22b5-4971-a5b6-6ccaccdf1838",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_07147be7-fdb9-444c-94ad-0b1721818e86",
+      "type": "artist",
+      "name": "10.000 km\u00b2 gegen die Zeit",
+      "description": "Artist: 10.000 km\u00b2 gegen die Zeit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "07147be7-fdb9-444c-94ad-0b1721818e86",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b50e6d43-5e0a-48e2-849f-84febfdbca82",
+      "type": "artist",
+      "name": "5 in Love",
+      "description": "Artist: 5 in Love",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b50e6d43-5e0a-48e2-849f-84febfdbca82",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ef943908-5368-4e2c-8a3f-a0987308241e",
+      "type": "artist",
+      "name": "3 Steps Ahead",
+      "description": "Artist: 3 Steps Ahead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef943908-5368-4e2c-8a3f-a0987308241e",
+        "country": "NL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5bdb86ad-2012-4d13-aea1-61677868e2f2",
+      "type": "artist",
+      "name": "100 DEAD",
+      "description": "Artist: 100 DEAD",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5bdb86ad-2012-4d13-aea1-61677868e2f2",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1d5b337f-7fa0-4664-ab85-a58f2e3f6ce2",
+      "type": "artist",
+      "name": "89ers",
+      "description": "Artist: 89ers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1d5b337f-7fa0-4664-ab85-a58f2e3f6ce2",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8044aad5-0a21-4cd4-805c-a628d3fb60bf",
+      "type": "artist",
+      "name": "174UDSI",
+      "description": "Artist: 174UDSI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8044aad5-0a21-4cd4-805c-a628d3fb60bf",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_72b0be76-ad7b-4766-b296-1994a917f7f9",
+      "type": "artist",
+      "name": "047",
+      "description": "Artist: 047",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "72b0be76-ad7b-4766-b296-1994a917f7f9",
+        "country": "SE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_70ffbe31-6c61-44a3-abbb-095a57eb4420",
+      "type": "artist",
+      "name": "3Phaz",
+      "description": "Artist: 3Phaz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70ffbe31-6c61-44a3-abbb-095a57eb4420",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4c97413b-9800-4d1c-abb4-9efa3b16997f",
+      "type": "artist",
+      "name": "4lung",
+      "description": "Artist: 4lung",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4c97413b-9800-4d1c-abb4-9efa3b16997f",
+        "country": "Unknown",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_521ebd50-c9fe-4ae2-bf3f-b407a4f25279",
+      "type": "artist",
+      "name": "3D Stas",
+      "description": "Artist: 3D Stas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "521ebd50-c9fe-4ae2-bf3f-b407a4f25279",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+      "type": "artist",
+      "name": "4hero",
+      "description": "Artist: 4hero",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d05eb8b-1644-4143-9a61-b28e33c4d85f",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cec48eb3-8570-42aa-bab2-1abe0f577b02",
+      "type": "artist",
+      "name": "839",
+      "description": "Artist: 839",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cec48eb3-8570-42aa-bab2-1abe0f577b02",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1e773206-e2f5-46e4-b29c-a78aa965bd51",
+      "type": "artist",
+      "name": "2DCAT",
+      "description": "Artist: 2DCAT",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1e773206-e2f5-46e4-b29c-a78aa965bd51",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4950088e-be4d-4839-89b0-6bb5f9f4ca42",
+      "type": "artist",
+      "name": "\u2665 GOJII \u2665",
+      "description": "Artist: \u2665 GOJII \u2665",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4950088e-be4d-4839-89b0-6bb5f9f4ca42",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_18ba80b4-28ef-4726-aab4-f2fc9fc4eaf7",
+      "type": "artist",
+      "name": "4-Kuma",
+      "description": "Artist: 4-Kuma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "18ba80b4-28ef-4726-aab4-f2fc9fc4eaf7",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_6b73d915-b3b6-44fe-b445-b5042f822069",
+      "type": "artist",
+      "name": "\u273f mujitsu \u273f",
+      "description": "Artist: \u273f mujitsu \u273f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6b73d915-b3b6-44fe-b445-b5042f822069",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_bfcd277f-e73c-42ab-b6af-d216428181a9",
+      "type": "artist",
+      "name": "\u273f\u273f SLUT \u273f\u273f",
+      "description": "Artist: \u273f\u273f SLUT \u273f\u273f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bfcd277f-e73c-42ab-b6af-d216428181a9",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_54183b75-a320-40b1-b0ee-cfe42758e5f3",
+      "type": "artist",
+      "name": "666dash",
+      "description": "Artist: 666dash",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "54183b75-a320-40b1-b0ee-cfe42758e5f3",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_91d06612-5c1e-4278-b40b-b6ce22dc9bb4",
+      "type": "artist",
+      "name": "7 Year Bitch",
+      "description": "Artist: 7 Year Bitch",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "91d06612-5c1e-4278-b40b-b6ce22dc9bb4",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b5051686-e0d2-4eb9-a38a-176899860752",
+      "type": "artist",
+      "name": "16",
+      "description": "Artist: 16",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b5051686-e0d2-4eb9-a38a-176899860752",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_061ba849-8ab7-49c2-afaa-a517d0c6a288",
+      "type": "artist",
+      "name": "1st Impression",
+      "description": "Artist: 1st Impression",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "061ba849-8ab7-49c2-afaa-a517d0c6a288",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d884c0ab-e11f-4d87-95d7-54da9d725c5f",
+      "type": "artist",
+      "name": "36",
+      "description": "Artist: 36",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d884c0ab-e11f-4d87-95d7-54da9d725c5f",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4939ae61-24c7-4a38-844b-ebedf38fc0f0",
+      "type": "artist",
+      "name": "41",
+      "description": "Artist: 41",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4939ae61-24c7-4a38-844b-ebedf38fc0f0",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_56b14aae-c9c7-4276-8eef-fb7af4ac70de",
+      "type": "artist",
+      "name": "2wice",
+      "description": "Artist: 2wice",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "56b14aae-c9c7-4276-8eef-fb7af4ac70de",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e979515f-fd52-4592-8d35-dab6d2420db7",
+      "type": "artist",
+      "name": "90beatz",
+      "description": "Artist: 90beatz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e979515f-fd52-4592-8d35-dab6d2420db7",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ff8431d2-19ab-4ff4-94db-ab251861c157",
+      "type": "artist",
+      "name": "(029)",
+      "description": "Artist: (029)",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ff8431d2-19ab-4ff4-94db-ab251861c157",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d8fb9fbd-f811-4882-b560-66b08002caab",
+      "type": "artist",
+      "name": "3x3cute",
+      "description": "Artist: 3x3cute",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d8fb9fbd-f811-4882-b560-66b08002caab",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6e9caa56-7527-4528-8228-24d72492a069",
+      "type": "artist",
+      "name": "808 Minimal",
+      "description": "Artist: 808 Minimal",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6e9caa56-7527-4528-8228-24d72492a069",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf346e67-b4b1-41c0-bcc7-a8f4df4fbbbb",
+      "type": "artist",
+      "name": "1200 Micrograms",
+      "description": "Artist: 1200 Micrograms",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf346e67-b4b1-41c0-bcc7-a8f4df4fbbbb",
+        "country": "ES",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6c4b099e-ee6c-47c1-8ee5-0624d0b5e80a",
+      "type": "artist",
+      "name": "01-N",
+      "description": "Artist: 01-N",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6c4b099e-ee6c-47c1-8ee5-0624d0b5e80a",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9c1ff574-2ae4-4fea-881f-83293d0d5881",
+      "type": "artist",
+      "name": "\u2026And You Will Know Us by the Trail of Dead",
+      "description": "Artist: \u2026And You Will Know Us by the Trail of Dead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9c1ff574-2ae4-4fea-881f-83293d0d5881",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_13798b1d-009e-4122-9925-408e75512065",
+      "type": "artist",
+      "name": "18 Carat Affair",
+      "description": "Artist: 18 Carat Affair",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "13798b1d-009e-4122-9925-408e75512065",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1e486307-3f30-4e1e-91d2-4eac5204134a",
+      "type": "artist",
+      "name": "\u2993\ud83c\udf4a\u2994 \u30bf\u30f3\u30b8\u30a7\u30ea\u30f3",
+      "description": "Artist: \u2993\ud83c\udf4a\u2994 \u30bf\u30f3\u30b8\u30a7\u30ea\u30f3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1e486307-3f30-4e1e-91d2-4eac5204134a",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4125b34b-9284-43bf-84d4-11cc163663cd",
+      "type": "artist",
+      "name": "3D BLAST",
+      "description": "Artist: 3D BLAST",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4125b34b-9284-43bf-84d4-11cc163663cd",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c119e4b6-9e6d-4ec3-9799-d01d1e42c3d6",
+      "type": "artist",
+      "name": "101",
+      "description": "Artist: 101",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c119e4b6-9e6d-4ec3-9799-d01d1e42c3d6",
+        "country": "BE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f6443dc6-214a-40be-91de-63c5f1fe9685",
+      "type": "artist",
+      "name": "7th Jet Balloon",
+      "description": "Artist: 7th Jet Balloon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f6443dc6-214a-40be-91de-63c5f1fe9685",
+        "country": "JP",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_6093cf80-f82f-4141-bd9a-d139d8016196",
+      "type": "artist",
+      "name": "800 Octane",
+      "description": "Artist: 800 Octane",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6093cf80-f82f-4141-bd9a-d139d8016196",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0d35b2f0-7a41-4476-a858-884feb23a9fb",
+      "type": "artist",
+      "name": "(EchO)",
+      "description": "Artist: (EchO)",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0d35b2f0-7a41-4476-a858-884feb23a9fb",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4c1a7fe5-e619-40c4-bbee-371e6e027f07",
+      "type": "artist",
+      "name": "00110100 01010100",
+      "description": "Artist: 00110100 01010100",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4c1a7fe5-e619-40c4-bbee-371e6e027f07",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0bf4b26b-01b5-4e8b-9f38-4b3d75486fbf",
+      "type": "artist",
+      "name": "0thoughts",
+      "description": "Artist: 0thoughts",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0bf4b26b-01b5-4e8b-9f38-4b3d75486fbf",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d68e2c4b-8411-4f80-8b55-6682ae70881d",
+      "type": "artist",
+      "name": "8-Bit Arcade",
+      "description": "Artist: 8-Bit Arcade",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d68e2c4b-8411-4f80-8b55-6682ae70881d",
+        "country": "AU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0438aeb-9793-404c-8618-eb751faf1c24",
+      "type": "artist",
+      "name": "8-Bit Misfits",
+      "description": "Artist: 8-Bit Misfits",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0438aeb-9793-404c-8618-eb751faf1c24",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_f0094b6d-5c0a-40c9-9c4f-500dd5601741",
+      "type": "artist",
+      "name": "8 Bit Universe",
+      "description": "Artist: 8 Bit Universe",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f0094b6d-5c0a-40c9-9c4f-500dd5601741",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_b8951162-89d7-45b1-bb70-e554bb06a878",
+      "type": "artist",
+      "name": "8 Bit Weapon",
+      "description": "Artist: 8 Bit Weapon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b8951162-89d7-45b1-bb70-e554bb06a878",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7746d775-9550-4360-b8d5-c37bd448ce01",
+      "type": "artist",
+      "name": "\u201cWeird Al\u201d Yankovic",
+      "description": "Artist: \u201cWeird Al\u201d Yankovic",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7746d775-9550-4360-b8d5-c37bd448ce01",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2fc659fa-293f-4288-bff5-29447f31f628",
+      "type": "artist",
+      "name": "1. Futurologischer Congress",
+      "description": "Artist: 1. Futurologischer Congress",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2fc659fa-293f-4288-bff5-29447f31f628",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c0b3d632-282e-4323-a242-104f60bb8645",
+      "type": "artist",
+      "name": "\u201cFast\u201d Eddie Smith",
+      "description": "Artist: \u201cFast\u201d Eddie Smith",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c0b3d632-282e-4323-a242-104f60bb8645",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1439c3e6-31df-4442-80da-dab350cdac5c",
+      "type": "artist",
+      "name": "6th Floor Orchestra",
+      "description": "Artist: 6th Floor Orchestra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1439c3e6-31df-4442-80da-dab350cdac5c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_acd52841-eb01-4090-bda2-1de5a22684dc",
+      "type": "artist",
+      "name": "7 Angels 7 Plagues",
+      "description": "Artist: 7 Angels 7 Plagues",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "acd52841-eb01-4090-bda2-1de5a22684dc",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ce2348e0-1819-4877-83d3-ed8c43133a5c",
+      "type": "artist",
+      "name": "4am Kru",
+      "description": "Artist: 4am Kru",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ce2348e0-1819-4877-83d3-ed8c43133a5c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_184097dd-207a-4671-876c-48e2ad64bee5",
+      "type": "artist",
+      "name": "\u300c\ud835\udc12\ud835\udc14\ud835\udc0d\ud835\udc12\ud835\udc04\ud835\udc13\ud835\udfd6\ud835\udfd3 \u30b0\u30eb\u30fc\u30d7\u300d",
+      "description": "Artist: \u300c\ud835\udc12\ud835\udc14\ud835\udc0d\ud835\udc12\ud835\udc04\ud835\udc13\ud835\udfd6\ud835\udfd3 \u30b0\u30eb\u30fc\u30d7\u300d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "184097dd-207a-4671-876c-48e2ad64bee5",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3e097ed6-f52e-473b-a622-2152a3ae9485",
+      "type": "artist",
+      "name": ".nebula",
+      "description": "Artist: .nebula",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e097ed6-f52e-473b-a622-2152a3ae9485",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_e42438f0-fef7-4900-a93c-ffdc48eb3b2b",
+      "type": "artist",
+      "name": "7Eleven",
+      "description": "Artist: 7Eleven",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e42438f0-fef7-4900-a93c-ffdc48eb3b2b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa5f19b1-d087-471d-be66-9eea46a2bf69",
+      "type": "artist",
+      "name": "4weekend",
+      "description": "Artist: 4weekend",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa5f19b1-d087-471d-be66-9eea46a2bf69",
+        "country": "BR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a27b0dee-65c3-486a-a04f-b64b7f8d74cc",
+      "type": "artist",
+      "name": "4 PS",
+      "description": "Artist: 4 PS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a27b0dee-65c3-486a-a04f-b64b7f8d74cc",
+        "country": "XG",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d0a6f193-72a4-46a6-9fb5-c8095894482c",
+      "type": "artist",
+      "name": "21st Century Archetype",
+      "description": "Artist: 21st Century Archetype",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d0a6f193-72a4-46a6-9fb5-c8095894482c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4b585f70-385c-4d55-871b-24ac1b1622e9",
+      "type": "artist",
+      "name": "69 Boyz",
+      "description": "Artist: 69 Boyz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4b585f70-385c-4d55-871b-24ac1b1622e9",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8346942d-7ed7-4b2d-87ee-81612c8235d8",
+      "type": "artist",
+      "name": "6Blocc",
+      "description": "Artist: 6Blocc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8346942d-7ed7-4b2d-87ee-81612c8235d8",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6b6ae2c9-bdc9-4db3-b070-bc04dc20ac6a",
+      "type": "artist",
+      "name": "44",
+      "description": "Artist: 44",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6b6ae2c9-bdc9-4db3-b070-bc04dc20ac6a",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d613cf9-ab9a-4a0b-9283-f3b190d858eb",
+      "type": "artist",
+      "name": "7th Nemesis",
+      "description": "Artist: 7th Nemesis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d613cf9-ab9a-4a0b-9283-f3b190d858eb",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0c4691e1-6aa3-4f17-beaa-b38c4f5e2dcd",
+      "type": "artist",
+      "name": "1980",
+      "description": "Artist: 1980",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0c4691e1-6aa3-4f17-beaa-b38c4f5e2dcd",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_8d",
+      "type": "genre",
+      "name": "8d",
+      "description": "Musical genre: 8d",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#714DAD",
+        "playlist_id": "2vLez030U00PBsuE2ug926",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b72b33e1-c563-4a7b-8d98-4b9466760c5e",
+      "type": "artist",
+      "name": "\u263d\u014a\u0223\u04c4\u0236i\u1d82\u046fr\u0325\u263e",
+      "description": "Artist: \u263d\u014a\u0223\u04c4\u0236i\u1d82\u046fr\u0325\u263e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b72b33e1-c563-4a7b-8d98-4b9466760c5e",
+        "country": "ES",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c5df0954-b77a-4626-be06-48f498a99a24",
+      "type": "artist",
+      "name": "+d33b+",
+      "description": "Artist: +d33b+",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c5df0954-b77a-4626-be06-48f498a99a24",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_84e68571-ce11-4825-82f5-9fbc6258f8b1",
+      "type": "artist",
+      "name": "/f",
+      "description": "Artist: /f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "84e68571-ce11-4825-82f5-9fbc6258f8b1",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_5thwaveemo",
+      "type": "genre",
+      "name": "5th wave emo",
+      "description": "Musical genre: 5th wave emo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AF762A",
+        "playlist_id": "5jJRdxN4pD29Uhj0ZIRFPf",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_09981380-534b-46f8-8767-ddfe67e3c0c3",
+      "type": "artist",
+      "name": "2814",
+      "description": "Artist: 2814",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "09981380-534b-46f8-8767-ddfe67e3c0c3",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_259704e2-4fb1-46df-8ba4-69b0c167a7bf",
+      "type": "artist",
+      "name": "700 Bliss",
+      "description": "Artist: 700 Bliss",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "259704e2-4fb1-46df-8ba4-69b0c167a7bf",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a7c660ae-be34-4d46-b8ff-1fe38b314046",
+      "type": "artist",
+      "name": "1127",
+      "description": "Artist: 1127",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a7c660ae-be34-4d46-b8ff-1fe38b314046",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_27432fdc-9530-4ca5-b866-087ae8f32cd2",
+      "type": "artist",
+      "name": "\u201cSpider\u201d John Koerner",
+      "description": "Artist: \u201cSpider\u201d John Koerner",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "27432fdc-9530-4ca5-b866-087ae8f32cd2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_19bdc2ab-f133-46cd-af5c-a5db213d2003",
+      "type": "artist",
+      "name": "90 Day Men",
+      "description": "Artist: 90 Day Men",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "19bdc2ab-f133-46cd-af5c-a5db213d2003",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5966cf23-85a9-4217-876a-c5e4348bd8f0",
+      "type": "artist",
+      "name": "11th Hour",
+      "description": "Artist: 11th Hour",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5966cf23-85a9-4217-876a-c5e4348bd8f0",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_30e6cd5b-2549-49bb-bead-0896918398bc",
+      "type": "artist",
+      "name": "2lane",
+      "description": "Artist: 2lane",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30e6cd5b-2549-49bb-bead-0896918398bc",
+        "country": "MZ",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a0042b1f-8c1c-4408-8078-2d0174a97c73",
+      "type": "artist",
+      "name": "12bit Jungle Out There",
+      "description": "Artist: 12bit Jungle Out There",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a0042b1f-8c1c-4408-8078-2d0174a97c73",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8b6fa76e-db9a-46b9-8632-c935853d8e2d",
+      "type": "artist",
+      "name": "[dunkelbunt]",
+      "description": "Artist: [dunkelbunt]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8b6fa76e-db9a-46b9-8632-c935853d8e2d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8a48c5fe-3c6c-4f1b-9d64-478318e89d09",
+      "type": "artist",
+      "name": "\u00a1Cubanismo!",
+      "description": "Artist: \u00a1Cubanismo!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8a48c5fe-3c6c-4f1b-9d64-478318e89d09",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3dbb7720-341f-4b25-afdb-cb745e0ce8f5",
+      "type": "artist",
+      "name": "\u2606NoAki\u2606",
+      "description": "Artist: \u2606NoAki\u2606",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3dbb7720-341f-4b25-afdb-cb745e0ce8f5",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_02bec9dc-18f4-46af-b18a-a156b8a0583c",
+      "type": "artist",
+      "name": "'Ale'a",
+      "description": "Artist: 'Ale'a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "02bec9dc-18f4-46af-b18a-a156b8a0583c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6aea4c84-42db-4216-8b9a-799723c5a087",
+      "type": "artist",
+      "name": "24Hours",
+      "description": "Artist: 24Hours",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6aea4c84-42db-4216-8b9a-799723c5a087",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c2a7fb29-eb0d-4ecc-82da-24f94af0c6da",
+      "type": "artist",
+      "name": "\u201968",
+      "description": "Artist: \u201968",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c2a7fb29-eb0d-4ecc-82da-24f94af0c6da",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d2929365-18b6-40c6-82cc-d906446d3b6d",
+      "type": "artist",
+      "name": "+\\-",
+      "description": "Artist: +\\-",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2929365-18b6-40c6-82cc-d906446d3b6d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_bb1c0a99-6abe-4675-ada5-601da83a926f",
+      "type": "artist",
+      "name": "[:SITD:]",
+      "description": "Artist: [:SITD:]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bb1c0a99-6abe-4675-ada5-601da83a926f",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_764addf1-15ee-4b8c-84e9-a0f2b208e54d",
+      "type": "artist",
+      "name": ".//phenethylamine",
+      "description": "Artist: .//phenethylamine",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "764addf1-15ee-4b8c-84e9-a0f2b208e54d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a1e7cbc5-6079-4b36-b94a-0defe674f3e0",
+      "type": "artist",
+      "name": "20 Years",
+      "description": "Artist: 20 Years",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a1e7cbc5-6079-4b36-b94a-0defe674f3e0",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e5fcad6b-8b77-460e-9a06-c73385716687",
+      "type": "artist",
+      "name": "709sec.",
+      "description": "Artist: 709sec.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e5fcad6b-8b77-460e-9a06-c73385716687",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e59bc341-499f-4924-87cf-617cecf5fe4f",
+      "type": "artist",
+      "name": "=NeutraL=",
+      "description": "Artist: =NeutraL=",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e59bc341-499f-4924-87cf-617cecf5fe4f",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_21stcenturyclassical",
+      "type": "genre",
+      "name": "21st century classical",
+      "description": "Musical genre: 21st century classical",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#219C79",
+        "playlist_id": "2HUpNZLoYHe0Sa9dglqQOg",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_9638ab84-d24d-4862-a49d-d9e1ed61d0e3",
+      "type": "artist",
+      "name": "2/3 de Sextet",
+      "description": "Artist: 2/3 de Sextet",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9638ab84-d24d-4862-a49d-d9e1ed61d0e3",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c692d339-646b-4b66-bb17-2124d62afb5c",
+      "type": "artist",
+      "name": "187 Lockdown",
+      "description": "Artist: 187 Lockdown",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c692d339-646b-4b66-bb17-2124d62afb5c",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_88d3e1ed-09cf-4862-a382-46182dd56206",
+      "type": "artist",
+      "name": "504icygrl",
+      "description": "Artist: 504icygrl",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "88d3e1ed-09cf-4862-a382-46182dd56206",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_448957cf-050d-413a-a859-494f1fe65efe",
+      "type": "artist",
+      "name": "400 Blows",
+      "description": "Artist: 400 Blows",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "448957cf-050d-413a-a859-494f1fe65efe",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_24cf24c8-578d-469c-a968-2f66f12d17eb",
+      "type": "artist",
+      "name": "747",
+      "description": "Artist: 747",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "24cf24c8-578d-469c-a968-2f66f12d17eb",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3528516a-4a4c-4dff-9014-85f88115e593",
+      "type": "artist",
+      "name": "\u201cBumps\u201d Myers",
+      "description": "Artist: \u201cBumps\u201d Myers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3528516a-4a4c-4dff-9014-85f88115e593",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b731acb5-6f83-420b-9a3c-d6f8d4123940",
+      "type": "artist",
+      "name": "_Algol_",
+      "description": "Artist: _Algol_",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b731acb5-6f83-420b-9a3c-d6f8d4123940",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_528hz",
+      "type": "genre",
+      "name": "528hz",
+      "description": "Musical genre: 528hz",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#2D96DA",
+        "playlist_id": "3qHTGXTTyexCin7nO1Wbv1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_a5c07e9f-1995-4c81-9425-7fea1489c37d",
+      "type": "artist",
+      "name": "4 Promille",
+      "description": "Artist: 4 Promille",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a5c07e9f-1995-4c81-9425-7fea1489c37d",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3c5ce8b0-9214-450a-b2b4-f55a9970abf1",
+      "type": "artist",
+      "name": "69db",
+      "description": "Artist: 69db",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3c5ce8b0-9214-450a-b2b4-f55a9970abf1",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_54a1dd0e-a535-46a9-9ad8-b49ebe1ce482",
+      "type": "artist",
+      "name": "!T.O.O.H.!",
+      "description": "Artist: !T.O.O.H.!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "54a1dd0e-a535-46a9-9ad8-b49ebe1ce482",
+        "country": "CZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_03a654c0-0c9e-47a9-9562-ce937ec90e60",
+      "type": "artist",
+      "name": "51CK",
+      "description": "Artist: 51CK",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "03a654c0-0c9e-47a9-9562-ce937ec90e60",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a19ce1f6-c36f-4189-816d-63d986518280",
+      "type": "artist",
+      "name": "\u2022INC\u00d8GNIT\u00d8\u2022",
+      "description": "Artist: \u2022INC\u00d8GNIT\u00d8\u2022",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a19ce1f6-c36f-4189-816d-63d986518280",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_4e018b44-d997-4c30-961d-29aadf435af2",
+      "type": "artist",
+      "name": "753",
+      "description": "Artist: 753",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4e018b44-d997-4c30-961d-29aadf435af2",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1e3c9033-7eb3-4543-af92-5e8c9b778318",
+      "type": "artist",
+      "name": "14 Iced Bears",
+      "description": "Artist: 14 Iced Bears",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1e3c9033-7eb3-4543-af92-5e8c9b778318",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2fd207b3-0f88-4bab-88c0-e1373161b8a2",
+      "type": "artist",
+      "name": "127",
+      "description": "Artist: 127",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2fd207b3-0f88-4bab-88c0-e1373161b8a2",
+        "country": "IR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_690956ee-6d9f-4741-b931-70f90ad25d7e",
+      "type": "artist",
+      "name": "\u2605Lolitwinx\u2605",
+      "description": "Artist: \u2605Lolitwinx\u2605",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "690956ee-6d9f-4741-b931-70f90ad25d7e",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_4018982d-9cd7-4db5-bd8e-e1360a7b7032",
+      "type": "artist",
+      "name": "7 Rh\u00f6ner FRANK\u2019en",
+      "description": "Artist: 7 Rh\u00f6ner FRANK\u2019en",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4018982d-9cd7-4db5-bd8e-e1360a7b7032",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a7479430-8ecf-40e7-af99-a4286ad29e8c",
+      "type": "artist",
+      "name": "97th Regimental String Band",
+      "description": "Artist: 97th Regimental String Band",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a7479430-8ecf-40e7-af99-a4286ad29e8c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_432hz",
+      "type": "genre",
+      "name": "432hz",
+      "description": "Musical genre: 432hz",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#20A3DA",
+        "playlist_id": "5qQLE1iuD3CKOEXIb0fi7Z",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_c93f4558-f56f-4291-81df-9a68f78d78ee",
+      "type": "artist",
+      "name": "\u2591\u2591disease\u2592\u2592",
+      "description": "Artist: \u2591\u2591disease\u2592\u2592",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c93f4558-f56f-4291-81df-9a68f78d78ee",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_48g",
+      "type": "genre",
+      "name": "48g",
+      "description": "Musical genre: 48g",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E06841",
+        "playlist_id": "4GhzIuuhKmoxP4WMDukGhR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_fcbe306b-ee33-4ab4-ae97-ea9494175e15",
+      "type": "artist",
+      "name": "1476",
+      "description": "Artist: 1476",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fcbe306b-ee33-4ab4-ae97-ea9494175e15",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6ebbcd94-2045-4e89-8688-b9b33fce43e8",
+      "type": "artist",
+      "name": "13th Chime",
+      "description": "Artist: 13th Chime",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6ebbcd94-2045-4e89-8688-b9b33fce43e8",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dca0d1d9-e9f6-439e-8567-96da7ada6611",
+      "type": "artist",
+      "name": "1919",
+      "description": "Artist: 1919",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dca0d1d9-e9f6-439e-8567-96da7ada6611",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_337027f4-4f29-42f4-bc4d-63e7d4e74e1a",
+      "type": "artist",
+      "name": "45 Grave",
+      "description": "Artist: 45 Grave",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "337027f4-4f29-42f4-bc4d-63e7d4e74e1a",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9144471f-3f82-40b0-b322-808dae98c91d",
+      "type": "artist",
+      "name": "805 Enavol",
+      "description": "Artist: 805 Enavol",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9144471f-3f82-40b0-b322-808dae98c91d",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ab80d6b3-0caf-4040-9a9a-6ed3c88d941d",
+      "type": "artist",
+      "name": ":Of the Wand & the Moon:",
+      "description": "Artist: :Of the Wand & the Moon:",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ab80d6b3-0caf-4040-9a9a-6ed3c88d941d",
+        "country": "DK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7b95a59f-ac5d-40ca-a6f1-3857f28cff2a",
+      "type": "artist",
+      "name": "8 Kambarys",
+      "description": "Artist: 8 Kambarys",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7b95a59f-ac5d-40ca-a6f1-3857f28cff2a",
+        "country": "LT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_68361d33-68df-4b49-b340-35cd380fe204",
+      "type": "artist",
+      "name": "2Kv\u0117pavimas",
+      "description": "Artist: 2Kv\u0117pavimas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "68361d33-68df-4b49-b340-35cd380fe204",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc",
+      "type": "artist",
+      "name": "[dialogue]",
+      "description": "Artist: [dialogue]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "314e1c25-dde7-4e4d-b2f4-0a7b9f7c56dc",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_a0ef7e1d-44ff-4039-9435-7d5fefdeecc9",
+      "type": "artist",
+      "name": "[theatre]",
+      "description": "Artist: [theatre]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a0ef7e1d-44ff-4039-9435-7d5fefdeecc9",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_90068d37-bae7-4292-be4a-704c145bd616",
+      "type": "artist",
+      "name": "[church chimes]",
+      "description": "Artist: [church chimes]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "90068d37-bae7-4292-be4a-704c145bd616",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_2a7276cf-e768-4e7e-bf71-be7468d3604f",
+      "type": "artist",
+      "name": "96-glass",
+      "description": "Artist: 96-glass",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2a7276cf-e768-4e7e-bf71-be7468d3604f",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_1c6bb329-0b00-42d0-b838-94341420b642",
+      "type": "artist",
+      "name": "49ers",
+      "description": "Artist: 49ers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1c6bb329-0b00-42d0-b838-94341420b642",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_51e954f0-2bc5-40b2-a5b5-c2cded0ca086",
+      "type": "artist",
+      "name": ".357 Homicide",
+      "description": "Artist: .357 Homicide",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "51e954f0-2bc5-40b2-a5b5-c2cded0ca086",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f50b612d-537e-4a1f-9d0b-7c5804253360",
+      "type": "artist",
+      "name": "12 Inch Thumpers",
+      "description": "Artist: 12 Inch Thumpers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f50b612d-537e-4a1f-9d0b-7c5804253360",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_491244a7-ed6c-4fe5-a19a-0170a014f7ea",
+      "type": "artist",
+      "name": ":zoviet*france:",
+      "description": "Artist: :zoviet*france:",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "491244a7-ed6c-4fe5-a19a-0170a014f7ea",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_2step",
+      "type": "genre",
+      "name": "2-step",
+      "description": "Musical genre: 2-step",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C47972",
+        "playlist_id": "3YOSwaEFJsA3fbYH8lArkR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_0dbc85a7-e9d6-4924-9624-79d38f6dee63",
+      "type": "artist",
+      "name": "16bit",
+      "description": "Artist: 16bit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0dbc85a7-e9d6-4924-9624-79d38f6dee63",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_40bb88d4-701b-445e-a500-692fcda13069",
+      "type": "artist",
+      "name": "\u2143IMI\u0418A\u2143",
+      "description": "Artist: \u2143IMI\u0418A\u2143",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "40bb88d4-701b-445e-a500-692fcda13069",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_cfc26b9f-b5be-449e-a405-daad200527f2",
+      "type": "artist",
+      "name": "(LUNE AM\u00c8RE)",
+      "description": "Artist: (LUNE AM\u00c8RE)",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cfc26b9f-b5be-449e-a405-daad200527f2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1fe17170-1399-456b-a8b7-764a70a257a8",
+      "type": "artist",
+      "name": "\u25ca",
+      "description": "Artist: \u25ca",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1fe17170-1399-456b-a8b7-764a70a257a8",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_8bit",
+      "type": "genre",
+      "name": "8-bit",
+      "description": "Musical genre: 8-bit",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#93A0B7",
+        "playlist_id": "0ORjwYMeNv9v441v6aHPa1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_ef858200-8361-4b51-98c2-75023e5732ea",
+      "type": "artist",
+      "name": "505",
+      "description": "Artist: 505",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef858200-8361-4b51-98c2-75023e5732ea",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fc85edee-2156-4b4a-a4b5-6a0bf2882a7b",
+      "type": "artist",
+      "name": "_ensnare_",
+      "description": "Artist: _ensnare_",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fc85edee-2156-4b4a-a4b5-6a0bf2882a7b",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_413c5909-eee8-4034-8543-be8cb735d79c",
+      "type": "artist",
+      "name": "2Legit2Quit",
+      "description": "Artist: 2Legit2Quit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "413c5909-eee8-4034-8543-be8cb735d79c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d346f993-83b9-42f7-8119-12600793bfde",
+      "type": "artist",
+      "name": "777minus111",
+      "description": "Artist: 777minus111",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d346f993-83b9-42f7-8119-12600793bfde",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7f034c95-968a-4dd8-9869-30efeee20d32",
+      "type": "artist",
+      "name": "3D63",
+      "description": "Artist: 3D63",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7f034c95-968a-4dd8-9869-30efeee20d32",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4a106c6a-a8f9-43bf-9afc-1ab7f2dc0d99",
+      "type": "artist",
+      "name": ".Marchewa",
+      "description": "Artist: .Marchewa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4a106c6a-a8f9-43bf-9afc-1ab7f2dc0d99",
+        "country": "PL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_80a8851f-444c-4539-892b-ad2a49292aa9",
+      "type": "artist",
+      "name": "[language instruction]",
+      "description": "Artist: [language instruction]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "80a8851f-444c-4539-892b-ad2a49292aa9",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_3f0ca087-0176-433f-b4d8-e3374684b12e",
+      "type": "artist",
+      "name": "3A Corporation",
+      "description": "Artist: 3A Corporation",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3f0ca087-0176-433f-b4d8-e3374684b12e",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_81a18e47-d143-416a-941e-8a042dd36277",
+      "type": "artist",
+      "name": "'Round Midnight",
+      "description": "Artist: 'Round Midnight",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "81a18e47-d143-416a-941e-8a042dd36277",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a2770d6a-5fe7-4a86-a5d4-06d53cc0ec23",
+      "type": "artist",
+      "name": ".gif from god",
+      "description": "Artist: .gif from god",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a2770d6a-5fe7-4a86-a5d4-06d53cc0ec23",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dcdb5072-556c-44ce-a887-28232d707c9e",
+      "type": "artist",
+      "name": "3rdegree",
+      "description": "Artist: 3rdegree",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dcdb5072-556c-44ce-a887-28232d707c9e",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b518c32a-796c-4292-9b43-e1a7548ddb2a",
+      "type": "artist",
+      "name": "###",
+      "description": "Artist: ###",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b518c32a-796c-4292-9b43-e1a7548ddb2a",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fda1b5d2-ac86-4130-bf10-ddd6c17f6e17",
+      "type": "artist",
+      "name": "44.caliberloveletter",
+      "description": "Artist: 44.caliberloveletter",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fda1b5d2-ac86-4130-bf10-ddd6c17f6e17",
+        "country": "SE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_89aa0a3d-0a21-4b23-ad0e-bf7341966a78",
+      "type": "artist",
+      "name": "29/09",
+      "description": "Artist: 29/09",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "89aa0a3d-0a21-4b23-ad0e-bf7341966a78",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0fe52736-ef88-49dc-8168-69e3a67c7f94",
+      "type": "artist",
+      "name": "2 Player",
+      "description": "Artist: 2 Player",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0fe52736-ef88-49dc-8168-69e3a67c7f94",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_82f68ef2-d2a6-45c4-b285-cee49279cbfd",
+      "type": "artist",
+      "name": "2 Minutos",
+      "description": "Artist: 2 Minutos",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "82f68ef2-d2a6-45c4-b285-cee49279cbfd",
+        "country": "AR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2cf874cd-6bb2-49a3-956a-a7228e7a317f",
+      "type": "artist",
+      "name": "88 Fingers Louie",
+      "description": "Artist: 88 Fingers Louie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2cf874cd-6bb2-49a3-956a-a7228e7a317f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d5c32655-cc48-4d73-96c6-1b2bece74a30",
+      "type": "artist",
+      "name": "1000 Golpes",
+      "description": "Artist: 1000 Golpes",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d5c32655-cc48-4d73-96c6-1b2bece74a30",
+        "country": "AR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_de002549-2efb-4827-a11d-2248aa31540d",
+      "type": "artist",
+      "name": "(V.E.G.A.)",
+      "description": "Artist: (V.E.G.A.)",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "de002549-2efb-4827-a11d-2248aa31540d",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1a0bf64f-8e7e-4e98-a7c2-04620710e0f9",
+      "type": "artist",
+      "name": "16-17",
+      "description": "Artist: 16-17",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1a0bf64f-8e7e-4e98-a7c2-04620710e0f9",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e8aafb4a-ec6f-4da0-8d2d-1fd160d48e40",
+      "type": "artist",
+      "name": "7.5 Tonnes of Beard",
+      "description": "Artist: 7.5 Tonnes of Beard",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8aafb4a-ec6f-4da0-8d2d-1fd160d48e40",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_481c6ea3-23b9-4927-910b-1fdaad42095a",
+      "type": "artist",
+      "name": "77p egg",
+      "description": "Artist: 77p egg",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "481c6ea3-23b9-4927-910b-1fdaad42095a",
+        "country": "GB",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_f5af8ea3-1c87-41d5-9934-2a744de6c41a",
+      "type": "artist",
+      "name": "4mat",
+      "description": "Artist: 4mat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f5af8ea3-1c87-41d5-9934-2a744de6c41a",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aeddc1ce-65e9-4553-a3f9-2b3321b161f7",
+      "type": "artist",
+      "name": "23 Skidoo",
+      "description": "Artist: 23 Skidoo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aeddc1ce-65e9-4553-a3f9-2b3321b161f7",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_23a334a5-f236-4e51-97c1-3a3bfd85a956",
+      "type": "artist",
+      "name": "2 Love or 2 Hate",
+      "description": "Artist: 2 Love or 2 Hate",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "23a334a5-f236-4e51-97c1-3a3bfd85a956",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e643a9f1-b3cb-4c1b-914d-a75605506fdf",
+      "type": "artist",
+      "name": ",.:.,",
+      "description": "Artist: ,.:.,",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e643a9f1-b3cb-4c1b-914d-a75605506fdf",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e93f445d-425b-4974-9730-815b0ce864ad",
+      "type": "artist",
+      "name": "1960\u2019s Daisuki",
+      "description": "Artist: 1960\u2019s Daisuki",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e93f445d-425b-4974-9730-815b0ce864ad",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1fe63bd4-d264-4104-9308-a02afdaaac73",
+      "type": "artist",
+      "name": "\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632",
+      "description": "Artist: \u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632\u2635\u2632",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1fe63bd4-d264-4104-9308-a02afdaaac73",
+        "country": "RU",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_454604c2-8557-41a3-bad1-321f22f6bda1",
+      "type": "artist",
+      "name": "\u21e7 & \u21e9",
+      "description": "Artist: \u21e7 & \u21e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "454604c2-8557-41a3-bad1-321f22f6bda1",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_5thwaveemo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b3d97a1-8b7d-4f67-8704-d0efc6be7b63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_5thwaveemo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7788f4a7-b815-48cb-afa4-9523358458ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_5thwaveemo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_769d3339-8dce-42e6-a69f-a6a6c5dced36",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_5thwaveemo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f52788e5-9b21-4e1a-9a7c-cad891bbbaa4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_21stcenturyclassical",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e871dff-df89-45f5-857f-28067cdc9d5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_21stcenturyclassical",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9df1d12-f48b-4adc-baa1-4bff255ee24b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1cfbc7d1-299c-46e6-ba4c-1facb84ba435",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fb5ee67e-e31a-40cf-8b06-5f1a0f53529a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_463134ce-d510-4f9d-a84a-19fb3d706ff5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8542f9a4-bd91-4066-91cf-359d2d9950db",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6e5c1366-5891-4e01-bb13-6c8b2c8cdd35",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3ee6c983-4d00-4ef0-85c7-419433e71129",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72814073-d2e2-4c3f-808a-1b150961da5a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d3c65f62-c0d7-4d98-b1c8-7061959f4508",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f8ea3197-0a2a-4368-9b87-881acf76d042",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ee4fae76-0f8e-4985-8f29-e5b869bffa34",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a84c4814-4afc-48c0-8b45-ed72fa8407f7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_27936557-7543-4dc5-bcfd-10832fff2420",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51cff875-4de6-4c89-8c26-d2f519a1dcee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0d3e6b79-418a-4dc1-a17d-596265ce133f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_87b23e08-369d-4403-841f-e5b2b7d1d7b1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc854ff2-c913-40c1-bd97-e28db453e723",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b716c12c-72e5-417e-b97b-7ade2bdb5030",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eaf48f03-5962-449d-ac82-04abc820b1ac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f3834a4c-5615-429e-b74d-ab3bc400186c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_2step",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c162362c-a542-4b2e-b424-1188fa1991fd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0094b6d-5c0a-40c9-9c4f-500dd5601741",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ade87d86-1ec2-42bf-b704-7315c56d5473",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a09cea0e-9d05-48f7-9507-7f60532cf53f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b8951162-89d7-45b1-bb70-e554bb06a878",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0f26281f-3add-4e54-b7da-4d335c0ca19c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae0534cf-9061-4825-96e7-7d8eba90dd9b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f7ebd534-760a-46c4-b8b4-c6d34b0e02d6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b12fbe65-adf8-4d76-bc2f-016d7e7e3c87",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ef858200-8361-4b51-98c2-75023e5732ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc1ff172-ac70-42b8-bbb8-6ff9b4b15614",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc43c90f-e3a8-4824-8ed3-61c7d22d54e7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e4d7cfe5-0bed-46cf-acad-ab9a4dcb7aa6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_03c7cf89-4a49-438b-9a3c-fefe8815898f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72b0be76-ad7b-4766-b296-1994a917f7f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83443f35-4617-4c1c-b75f-d535b66614f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15ba6421-9c5c-428f-ae7d-c2d40010734b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fc85edee-2156-4b4a-a4b5-6a0bf2882a7b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d3353993-f81f-4d92-b9fe-fb6f2918025c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d68db4cf-b6a9-45d1-9304-a1a27d4adf7c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0636e1b1-a5c3-4aaa-a925-e0623d3c5e26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2734acbe-35c6-474b-8832-2cc7364d382c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a0f64d67-2cf5-4e60-920f-1836f7288a07",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_74e7eb10-8e19-4f42-b190-d2e57f89f51d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_413c5909-eee8-4034-8543-be8cb735d79c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b66475ab-12fc-4c1d-91ca-6cdec6405545",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a1738a90-97aa-4761-9ac5-291fed8a5a5a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_804c0e56-09f3-42bc-b924-acfa0819b09a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_420051de-b17a-4cd0-b98b-4689b5963119",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ca2aaf7c-dbb3-402c-9c1d-c36b2a970d71",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_db314841-3517-4cdb-8a3b-7031837fd877",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44012c53-d485-4001-947b-e7d7030f3d19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c2bb026a-b6eb-46ee-84e0-db20e4143801",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a92decc-cf0c-4587-acc7-8bd9e2573cb5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_de0748c9-ed32-4a7c-aaaa-cfac23ec5299",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_842f8803-63d4-457d-af4d-d2fba10f8d68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_26468fbb-de63-4680-85f0-bd17e49e75d8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_286028ae-e319-47ae-8838-31df6ebe726b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ad041707-0a84-4988-b32b-79f152dec9fc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d346f993-83b9-42f7-8119-12600793bfde",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7f034c95-968a-4dd8-9869-30efeee20d32",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_09757bc2-bc5c-42ae-9e96-7db4313bead2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_34fe6d8d-3f82-4da2-803a-9cb63ddfdb87",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5bdb86ad-2012-4d13-aea1-61677868e2f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_627d6633-6939-4ea9-8942-c4049a51fbcd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f9248c7-08bb-4a09-b1e4-a97702e4e21e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6974d225-561e-44d3-8991-80bd5f646a75",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1ec77bb2-d8a7-4cd7-a6eb-c097f406f6f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ebfd86a6-58c4-4b56-8013-e501b3183de2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4a106c6a-a8f9-43bf-9afc-1ab7f2dc0d99",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_8bit",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f7c78ce-86c6-4666-92aa-81174ae8e2b0",
+      "strength": 1.0
+    }
+  ]
+}

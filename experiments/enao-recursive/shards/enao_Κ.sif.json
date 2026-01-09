@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u039a",
+    "description": "Genres and artists starting with \u039a",
+    "shard_id": "\u039a",
+    "entity_count": 7,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b136565d-384b-4c6e-96f3-50639e294dd9",
+      "type": "artist",
+      "name": "\u039a\u03b1\u03af\u03c4\u03b7 \u0393\u03b1\u03c1\u03bc\u03c0\u03ae",
+      "description": "Artist: \u039a\u03b1\u03af\u03c4\u03b7 \u0393\u03b1\u03c1\u03bc\u03c0\u03ae",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b136565d-384b-4c6e-96f3-50639e294dd9",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_33ea31c2-9c07-4648-b193-726221300777",
+      "type": "artist",
+      "name": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03c7\u03cc\u03c2",
+      "description": "Artist: \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039c\u03bf\u03bd\u03b1\u03c7\u03cc\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "33ea31c2-9c07-4648-b193-726221300777",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_43e5c4c2-0bc8-4e5d-b53f-85d4e69a8053",
+      "type": "artist",
+      "name": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u03a3\u03c4\u03b1\u03bd\u03af\u03c3\u03b7",
+      "description": "Artist: \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1 \u03a3\u03c4\u03b1\u03bd\u03af\u03c3\u03b7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "43e5c4c2-0bc8-4e5d-b53f-85d4e69a8053",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fb6e49c0-edd4-4beb-a060-83ece5223a2f",
+      "type": "artist",
+      "name": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039c\u03b1\u03bd\u03c4\u03b6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "description": "Artist: \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039c\u03b1\u03bd\u03c4\u03b6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb6e49c0-edd4-4beb-a060-83ece5223a2f",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cf67b830-5933-47a5-88d3-676d2340f026",
+      "type": "artist",
+      "name": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039a\u03b1\u03c0\u03bb\u03ac\u03bd\u03b7\u03c2",
+      "description": "Artist: \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039a\u03b1\u03c0\u03bb\u03ac\u03bd\u03b7\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cf67b830-5933-47a5-88d3-676d2340f026",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0d356fa-7927-4d69-8640-abf07e6cc0f6",
+      "type": "artist",
+      "name": "\u039a\u03b1\u03af\u03c4\u03b7 \u03a7\u03c9\u03bc\u03b1\u03c4\u03ac",
+      "description": "Artist: \u039a\u03b1\u03af\u03c4\u03b7 \u03a7\u03c9\u03bc\u03b1\u03c4\u03ac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0d356fa-7927-4d69-8640-abf07e6cc0f6",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d2a58437-6437-4cbb-875f-8262d84ccc50",
+      "type": "artist",
+      "name": "\u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u039a\u03b1\u03bb\u03b1\u03ca\u03c4\u03b6\u03af\u03b4\u03b7\u03c2",
+      "description": "Artist: \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u039a\u03b1\u03bb\u03b1\u03ca\u03c4\u03b6\u03af\u03b4\u03b7\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2a58437-6437-4cbb-875f-8262d84ccc50",
+        "country": "GR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

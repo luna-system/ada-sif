@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6f58",
+    "description": "Genres and artists starting with \u6f58",
+    "shard_id": "\u6f58",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_293fb363-d832-48bd-8a7e-3e75129852e0",
+      "type": "artist",
+      "name": "\u6f58PAN",
+      "description": "Artist: \u6f58PAN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "293fb363-d832-48bd-8a7e-3e75129852e0",
+        "country": "GB",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

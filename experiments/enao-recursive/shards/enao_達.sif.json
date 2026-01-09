@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9054",
+    "description": "Genres and artists starting with \u9054",
+    "shard_id": "\u9054",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_ea746640-7a3a-40cd-9681-d71d83b31d49",
+      "type": "artist",
+      "name": "\u9054\u660e\u4e00\u6d3e",
+      "description": "Artist: \u9054\u660e\u4e00\u6d3e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ea746640-7a3a-40cd-9681-d71d83b31d49",
+        "country": "HK",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

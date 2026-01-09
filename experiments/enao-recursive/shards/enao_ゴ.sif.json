@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u30b4",
+    "description": "Genres and artists starting with \u30b4",
+    "shard_id": "\u30b4",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_820eba45-24a9-4698-a5cb-73230ab96c19",
+      "type": "artist",
+      "name": "\u30b4\u30b9\u30da\u30e9\u30fc\u30ba",
+      "description": "Artist: \u30b4\u30b9\u30da\u30e9\u30fc\u30ba",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "820eba45-24a9-4698-a5cb-73230ab96c19",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fb5f7361-375c-4bb1-ad6f-b0ebb99e1c92",
+      "type": "artist",
+      "name": "\u30b4\u30c0\u30a4\u30b4",
+      "description": "Artist: \u30b4\u30c0\u30a4\u30b4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb5f7361-375c-4bb1-ad6f-b0ebb99e1c92",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

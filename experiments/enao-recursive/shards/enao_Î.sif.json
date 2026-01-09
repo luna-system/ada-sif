@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00ce",
+    "description": "Genres and artists starting with \u00ce",
+    "shard_id": "\u00ce",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_5f27a70f-c6f2-4392-b08d-c5cb5a3c4865",
+      "type": "artist",
+      "name": "\u00cele-de-France",
+      "description": "Artist: \u00cele-de-France",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5f27a70f-c6f2-4392-b08d-c5cb5a3c4865",
+        "country": "FR",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

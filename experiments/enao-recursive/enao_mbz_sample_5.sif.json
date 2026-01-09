@@ -1,0 +1,735 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "timestamp": "2026-01-08T14:07:49.560415Z",
+    "domain": "music",
+    "source": "Every Noise At Once + MusicBrainz"
+  },
+  "summary": {
+    "text": "A semantic graph of 5 music genres and their artists.",
+    "keywords": [
+      "music",
+      "genres",
+      "artists",
+      "musicbrainz"
+    ]
+  },
+  "entities": [
+    {
+      "id": "genre_pop",
+      "type": "genre",
+      "name": "pop",
+      "description": "Musical genre: pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AD8A07",
+        "playlist_id": "6gS3HhOiI17QNojjPuPzqc",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "type": "artist",
+      "name": "Various Artists",
+      "description": "Artist: Various Artists",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_125ec42a-7229-4250-afc5-e057484327fe",
+      "type": "artist",
+      "name": "[unknown]",
+      "description": "Artist: [unknown]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+        "country": "XW",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "type": "artist",
+      "name": "Bruce Springsteen",
+      "description": "Artist: Bruce Springsteen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "type": "artist",
+      "name": "The Beatles",
+      "description": "Artist: The Beatles",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "type": "artist",
+      "name": "The E Street Band",
+      "description": "Artist: The E Street Band",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "type": "artist",
+      "name": "The Rolling Stones",
+      "description": "Artist: The Rolling Stones",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "type": "artist",
+      "name": "Elvis Presley",
+      "description": "Artist: Elvis Presley",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "type": "artist",
+      "name": "Bob Dylan",
+      "description": "Artist: Bob Dylan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "type": "artist",
+      "name": "U2",
+      "description": "Artist: U2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "country": "IE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "artist",
+      "name": "Frank Sinatra",
+      "description": "Artist: Frank Sinatra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "197450cd-0124-4164-b723-3c22dd16494d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_rap",
+      "type": "genre",
+      "name": "rap",
+      "description": "Musical genre: rap",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A88A04",
+        "playlist_id": "6s5MoZzR70Qef7x4bVxDO1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "type": "artist",
+      "name": "Eminem",
+      "description": "Artist: Eminem",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "type": "artist",
+      "name": "Lil B",
+      "description": "Artist: Lil B",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1550f952-c91b-40d7-9b4d-d26a259ee932",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "type": "artist",
+      "name": "Michael Jackson",
+      "description": "Artist: Michael Jackson",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+      "type": "artist",
+      "name": "Red Hot Chili Peppers",
+      "description": "Artist: Red Hot Chili Peppers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "type": "artist",
+      "name": "50 Cent",
+      "description": "Artist: 50 Cent",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "type": "artist",
+      "name": "Linkin Park",
+      "description": "Artist: Linkin Park",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "type": "artist",
+      "name": "Lil Wayne",
+      "description": "Artist: Lil Wayne",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+      "type": "artist",
+      "name": "Cypress Hill",
+      "description": "Artist: Cypress Hill",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "type": "artist",
+      "name": "Ye",
+      "description": "Artist: Ye",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_rock",
+      "type": "genre",
+      "name": "rock",
+      "description": "Musical genre: rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AC711A",
+        "playlist_id": "7dowgSWOmvdpwNkGFMUs6e",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "type": "artist",
+      "name": "Pearl Jam",
+      "description": "Artist: Pearl Jam",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e01646f2-2a04-450d-8bf2-0d993082e058",
+      "type": "artist",
+      "name": "Phish",
+      "description": "Artist: Phish",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e01646f2-2a04-450d-8bf2-0d993082e058",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "type": "artist",
+      "name": "Grateful Dead",
+      "description": "Artist: Grateful Dead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_urbanolatino",
+      "type": "genre",
+      "name": "urbano latino",
+      "description": "Musical genre: urbano latino",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BE9102",
+        "playlist_id": "1kfJj9rUlOGawu2U1U4oZn",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_a06afacd-7894-442e-95ba-49366b2b3e02",
+      "type": "artist",
+      "name": "Zion & Lennox",
+      "description": "Artist: Zion & Lennox",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a06afacd-7894-442e-95ba-49366b2b3e02",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9ad05894-b480-42a6-8ddc-d886518d5698",
+      "type": "artist",
+      "name": "Jezyel",
+      "description": "Artist: Jezyel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9ad05894-b480-42a6-8ddc-d886518d5698",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa4152e2-dfd7-459f-8439-7387d199271f",
+      "type": "artist",
+      "name": "Isleña Antumalen",
+      "description": "Artist: Isleña Antumalen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa4152e2-dfd7-459f-8439-7387d199271f",
+        "country": "CL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d077fd5-f657-4746-ae7c-687e866c5eb1",
+      "type": "artist",
+      "name": "Kiroyumeto",
+      "description": "Artist: Kiroyumeto",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d077fd5-f657-4746-ae7c-687e866c5eb1",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+      "type": "artist",
+      "name": "Yeidy Eish",
+      "description": "Artist: Yeidy Eish",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_hiphop",
+      "type": "genre",
+      "name": "hip hop",
+      "description": "Musical genre: hip hop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AD7F09",
+        "playlist_id": "6MXkE0uYF4XwU4VTtyrpfP",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "type": "artist",
+      "name": "Beastie Boys",
+      "description": "Artist: Beastie Boys",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dd884b36-c727-4c74-bb06-ee7827611098",
+      "type": "artist",
+      "name": "Knxwledge",
+      "description": "Artist: Knxwledge",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dd884b36-c727-4c74-bb06-ee7827611098",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "type": "artist",
+      "name": "Gucci Mane",
+      "description": "Artist: Gucci Mane",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf2e15d0-4b77-469e-bfb4-f8414415baca",
+      "type": "artist",
+      "name": "Public Enemy",
+      "description": "Artist: Public Enemy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "type": "artist",
+      "name": "JAY‐Z",
+      "description": "Artist: JAY‐Z",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "country": "US",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_125ec42a-7229-4250-afc5-e057484327fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_197450cd-0124-4164-b723-3c22dd16494d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e01646f2-2a04-450d-8bf2-0d993082e058",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a06afacd-7894-442e-95ba-49366b2b3e02",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9ad05894-b480-42a6-8ddc-d886518d5698",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fa4152e2-dfd7-459f-8439-7387d199271f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3d077fd5-f657-4746-ae7c-687e866c5eb1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dd884b36-c727-4c74-bb06-ee7827611098",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf2e15d0-4b77-469e-bfb4-f8414415baca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "strength": 1.0
+    }
+  ]
+}

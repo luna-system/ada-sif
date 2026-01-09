@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc2dc",
+    "description": "Genres and artists starting with \uc2dc",
+    "shard_id": "\uc2dc",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_cd1869fe-b1f3-4b63-a623-149956a2dce1",
+      "type": "artist",
+      "name": "\uc2dc\uc720",
+      "description": "Artist: \uc2dc\uc720",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cd1869fe-b1f3-4b63-a623-149956a2dce1",
+        "country": "KR",
+        "type": "Other"
+      }
+    }
+  ],
+  "relationships": []
+}

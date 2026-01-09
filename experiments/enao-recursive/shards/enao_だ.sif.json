@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u3060",
+    "description": "Genres and artists starting with \u3060",
+    "shard_id": "\u3060",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b90de27c-40bf-42df-b477-10b6d6d7021d",
+      "type": "artist",
+      "name": "\u3060\u3044\u3084\u3041\u2606\u3082\u3093\u3069",
+      "description": "Artist: \u3060\u3044\u3084\u3041\u2606\u3082\u3093\u3069",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b90de27c-40bf-42df-b477-10b6d6d7021d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

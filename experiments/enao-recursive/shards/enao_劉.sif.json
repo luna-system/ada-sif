@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5289",
+    "description": "Genres and artists starting with \u5289",
+    "shard_id": "\u5289",
+    "entity_count": 6,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f738bc44-5806-4013-aee4-5469c0c2ec30",
+      "type": "artist",
+      "name": "\u5289\u5fb7\u83ef",
+      "description": "Artist: \u5289\u5fb7\u83ef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f738bc44-5806-4013-aee4-5469c0c2ec30",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_983d1026-217b-40a9-bb94-3b4e3b906097",
+      "type": "artist",
+      "name": "\u5289\u82e5\u82f1",
+      "description": "Artist: \u5289\u82e5\u82f1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "983d1026-217b-40a9-bb94-3b4e3b906097",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bb8eab6c-7334-454e-84f6-9605f7d1fefd",
+      "type": "artist",
+      "name": "\u5289\u82b3",
+      "description": "Artist: \u5289\u82b3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bb8eab6c-7334-454e-84f6-9605f7d1fefd",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f39b7f71-4796-47bc-bb81-53e373a365ad",
+      "type": "artist",
+      "name": "\u5289\u5929\u83ef",
+      "description": "Artist: \u5289\u5929\u83ef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f39b7f71-4796-47bc-bb81-53e373a365ad",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_77e07390-5e5d-4bd7-af6b-9a26dd8fd993",
+      "type": "artist",
+      "name": "\u5289\u5b8f\u8ecd",
+      "description": "Artist: \u5289\u5b8f\u8ecd",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "77e07390-5e5d-4bd7-af6b-9a26dd8fd993",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a033275c-87ae-4f7e-89bd-b1522f69eab2",
+      "type": "artist",
+      "name": "\u5289\u9e97",
+      "description": "Artist: \u5289\u9e97",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a033275c-87ae-4f7e-89bd-b1522f69eab2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

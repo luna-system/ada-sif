@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6771",
+    "description": "Genres and artists starting with \u6771",
+    "shard_id": "\u6771",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_05cbaf37-6dc2-4f71-a0ce-d633447d90c3",
+      "type": "artist",
+      "name": "\u6771\u65b9\u795e\u8d77",
+      "description": "Artist: \u6771\u65b9\u795e\u8d77",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "05cbaf37-6dc2-4f71-a0ce-d633447d90c3",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cb589717-2cd2-47b4-9262-84cf46adea54",
+      "type": "artist",
+      "name": "\u6771\u4eac\u5973\u5b50\u6d41",
+      "description": "Artist: \u6771\u4eac\u5973\u5b50\u6d41",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cb589717-2cd2-47b4-9262-84cf46adea54",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d77f4539-0661-4741-9307-60ebbd72f5ee",
+      "type": "artist",
+      "name": "\u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+      "description": "Artist: \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d77f4539-0661-4741-9307-60ebbd72f5ee",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fb75393e-b5e2-4e29-b304-5427447192d3",
+      "type": "artist",
+      "name": "\u6771\u4eac\u697d\u6240",
+      "description": "Artist: \u6771\u4eac\u697d\u6240",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb75393e-b5e2-4e29-b304-5427447192d3",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ee4f2900-9da3-42a9-b13b-49e03f17a2b4",
+      "type": "artist",
+      "name": "\u6771\u6d77\u6797\u592a\u90ce",
+      "description": "Artist: \u6771\u6d77\u6797\u592a\u90ce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ee4f2900-9da3-42a9-b13b-49e03f17a2b4",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

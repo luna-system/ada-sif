@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uae40",
+    "description": "Genres and artists starting with \uae40",
+    "shard_id": "\uae40",
+    "entity_count": 10,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_08790934-4001-4c01-86ea-475a6734d02f",
+      "type": "artist",
+      "name": "\uae40\ud604\uc911",
+      "description": "Artist: \uae40\ud604\uc911",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "08790934-4001-4c01-86ea-475a6734d02f",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2304cb80-bb44-4727-a6b2-7a4a2cd1c5c8",
+      "type": "artist",
+      "name": "\uae40\uc815\ubbf8",
+      "description": "Artist: \uae40\uc815\ubbf8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2304cb80-bb44-4727-a6b2-7a4a2cd1c5c8",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_41727ca6-fc60-4787-a8ef-2e145a9e33a8",
+      "type": "artist",
+      "name": "\uae40\uc544\ub984",
+      "description": "Artist: \uae40\uc544\ub984",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "41727ca6-fc60-4787-a8ef-2e145a9e33a8",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_076f463f-34ba-4e77-aa83-6262ffe1ce08",
+      "type": "artist",
+      "name": "\uae40\ud765\uad6d",
+      "description": "Artist: \uae40\ud765\uad6d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "076f463f-34ba-4e77-aa83-6262ffe1ce08",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_93252364-d742-41dc-9f26-f50dea41cbf6",
+      "type": "artist",
+      "name": "\uae40\ub098\uc728",
+      "description": "Artist: \uae40\ub098\uc728",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "93252364-d742-41dc-9f26-f50dea41cbf6",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_70049ef5-ab1b-45e0-b8d0-2632c59b0c98",
+      "type": "artist",
+      "name": "\uae40\uc5f0\uc219",
+      "description": "Artist: \uae40\uc5f0\uc219",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70049ef5-ab1b-45e0-b8d0-2632c59b0c98",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1aa3200f-bb46-45e2-869b-e9a98cb3b594",
+      "type": "artist",
+      "name": "\uae40\uc0c1\ubc30",
+      "description": "Artist: \uae40\uc0c1\ubc30",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1aa3200f-bb46-45e2-869b-e9a98cb3b594",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_635a4b40-e88b-4c7d-9b22-ea1f2ca22ed4",
+      "type": "artist",
+      "name": "\uae40\uc5f0\uc790",
+      "description": "Artist: \uae40\uc5f0\uc790",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "635a4b40-e88b-4c7d-9b22-ea1f2ca22ed4",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0da2870e-d645-4cc4-ace0-98d6923d9cc5",
+      "type": "artist",
+      "name": "\uae40\uc218\ud76c",
+      "description": "Artist: \uae40\uc218\ud76c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0da2870e-d645-4cc4-ace0-98d6923d9cc5",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_940875c4-3547-4160-a573-2cfad340030a",
+      "type": "artist",
+      "name": "\uae40\uc18c\ud76c",
+      "description": "Artist: \uae40\uc18c\ud76c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "940875c4-3547-4160-a573-2cfad340030a",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

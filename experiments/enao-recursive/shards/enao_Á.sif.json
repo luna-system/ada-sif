@@ -1,0 +1,193 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c1",
+    "description": "Genres and artists starting with \u00c1",
+    "shard_id": "\u00c1",
+    "entity_count": 15,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_29c713f5-744a-4d0b-8d77-736770983aab",
+      "type": "artist",
+      "name": "\u00c1ngel & Khriz",
+      "description": "Artist: \u00c1ngel & Khriz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "29c713f5-744a-4d0b-8d77-736770983aab",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4863c533-61cd-4287-93a1-3157732ecfd5",
+      "type": "artist",
+      "name": "\u00c1lvaro Soler",
+      "description": "Artist: \u00c1lvaro Soler",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4863c533-61cd-4287-93a1-3157732ecfd5",
+        "country": "ES",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cda7b93f-f9e9-4a1b-b66a-7d0c8678d4ae",
+      "type": "artist",
+      "name": "\u00c1ngela Aguilar",
+      "description": "Artist: \u00c1ngela Aguilar",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cda7b93f-f9e9-4a1b-b66a-7d0c8678d4ae",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_82f19b9b-4b1f-46c6-8c78-a6aa6f729092",
+      "type": "artist",
+      "name": "\u00c1ngel del Amor",
+      "description": "Artist: \u00c1ngel del Amor",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "82f19b9b-4b1f-46c6-8c78-a6aa6f729092",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_69f26306-6750-4908-87b4-56cc1a024856",
+      "type": "artist",
+      "name": "\u00c1ngela Carrasco",
+      "description": "Artist: \u00c1ngela Carrasco",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "69f26306-6750-4908-87b4-56cc1a024856",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_791e6f80-6aa9-4abc-8c46-48376bd56d10",
+      "type": "artist",
+      "name": "\u00c1ngel Parra",
+      "description": "Artist: \u00c1ngel Parra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "791e6f80-6aa9-4abc-8c46-48376bd56d10",
+        "country": "CL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_380429da-3827-43fd-9e67-558e4c6a91bf",
+      "type": "artist",
+      "name": "\u00c1sgeir",
+      "description": "Artist: \u00c1sgeir",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "380429da-3827-43fd-9e67-558e4c6a91bf",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4f6a521b-a769-4761-b89c-76946f319914",
+      "type": "artist",
+      "name": "\u00c1smegin",
+      "description": "Artist: \u00c1smegin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4f6a521b-a769-4761-b89c-76946f319914",
+        "country": "NO",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_054f06dd-7f90-4694-bdf7-be80b31097aa",
+      "type": "artist",
+      "name": "\u00c1ngel Vargas",
+      "description": "Artist: \u00c1ngel Vargas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "054f06dd-7f90-4694-bdf7-be80b31097aa",
+        "country": "AR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5ab7c8bd-c8cf-4026-94a3-84eba9bc2abf",
+      "type": "artist",
+      "name": "\u00c1ngel D\u2019Agostino",
+      "description": "Artist: \u00c1ngel D\u2019Agostino",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5ab7c8bd-c8cf-4026-94a3-84eba9bc2abf",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_86174c3f-3ea4-4348-a6b2-ae47c72490e5",
+      "type": "artist",
+      "name": "\u00c1frica Negra",
+      "description": "Artist: \u00c1frica Negra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "86174c3f-3ea4-4348-a6b2-ae47c72490e5",
+        "country": "ST",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_dd7d173a-3edd-40af-abfb-7a60d8066ae5",
+      "type": "artist",
+      "name": "\u00c1lvaro Tito",
+      "description": "Artist: \u00c1lvaro Tito",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dd7d173a-3edd-40af-abfb-7a60d8066ae5",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7a708aaf-5631-4ee7-9c37-2d9f43f8ec8c",
+      "type": "artist",
+      "name": "\u00c1lvaro L\u00f3pez",
+      "description": "Artist: \u00c1lvaro L\u00f3pez",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7a708aaf-5631-4ee7-9c37-2d9f43f8ec8c",
+        "country": "CO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7c10675f-5564-4f7d-81c6-57964f688c5c",
+      "type": "artist",
+      "name": "\u00c1lvaro Meza",
+      "description": "Artist: \u00c1lvaro Meza",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7c10675f-5564-4f7d-81c6-57964f688c5c",
+        "country": "CO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3a7aa0c4-bd8f-44b3-81cd-f7c40852e012",
+      "type": "artist",
+      "name": "\u00c1kos R\u00f3zmann",
+      "description": "Artist: \u00c1kos R\u00f3zmann",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3a7aa0c4-bd8f-44b3-81cd-f7c40852e012",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8a79",
+    "description": "Genres and artists starting with \u8a79",
+    "shard_id": "\u8a79",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_46012fa8-ef08-4785-8a9a-d5917922e0ed",
+      "type": "artist",
+      "name": "\u8a79\u96c5\u96ef",
+      "description": "Artist: \u8a79\u96c5\u96ef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "46012fa8-ef08-4785-8a9a-d5917922e0ed",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1f71854b-6552-4468-81de-14b7031c6753",
+      "type": "artist",
+      "name": "\u8a79\u6c38\u660e",
+      "description": "Artist: \u8a79\u6c38\u660e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1f71854b-6552-4468-81de-14b7031c6753",
+        "country": "SG",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,2174 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - Mid-Electric + Spiky/Bouncy",
+    "description": "Genres in the Mid-Electric + Spiky/Bouncy region of the music space",
+    "shard_id": "q32",
+    "entity_count": 36,
+    "relationship_count": 288
+  },
+  "entities": [
+    {
+      "id": "genre_hoerspiel",
+      "type": "genre",
+      "name": "hoerspiel",
+      "description": "Musical genre: hoerspiel",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#5E6801",
+        "playlist_id": "6XDdeW5toilpyJXBi0Plxl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_kleinehoerspiel",
+      "type": "genre",
+      "name": "kleine hoerspiel",
+      "description": "Musical genre: kleine hoerspiel",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#766902",
+        "playlist_id": "27XLynMa4krkiA9piuqyT1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_musicapopularcolombiana",
+      "type": "genre",
+      "name": "musica popular colombiana",
+      "description": "Musical genre: musica popular colombiana",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8A9804",
+        "playlist_id": "0Srh9dNBtSw4FRAHozAUqj",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_cartoon",
+      "type": "genre",
+      "name": "cartoon",
+      "description": "Musical genre: cartoon",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#7D8107",
+        "playlist_id": "47E4xm9bQeseKh6tSasQqG",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_writing",
+      "type": "genre",
+      "name": "writing",
+      "description": "Musical genre: writing",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#497000",
+        "playlist_id": "6AMYqzWEHpzHQspdGpBH5s",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_cumbia",
+      "type": "genre",
+      "name": "cumbia",
+      "description": "Musical genre: cumbia",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A18C11",
+        "playlist_id": "0bWU5c6DF4sKYDGX2CX2Cr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_classiccolombianpop",
+      "type": "genre",
+      "name": "classic colombian pop",
+      "description": "Musical genre: classic colombian pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#85960C",
+        "playlist_id": "0GO4HceKLkcQHrMkSvy9tM",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_barnsagor",
+      "type": "genre",
+      "name": "barnsagor",
+      "description": "Musical genre: barnsagor",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4F7303",
+        "playlist_id": "5VfLpPyTr7A2k9CdAzp0Mz",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_lustrum",
+      "type": "genre",
+      "name": "lustrum",
+      "description": "Musical genre: lustrum",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#78860A",
+        "playlist_id": "1z4JkNqD4UHNWMTfIOKZBe",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_comedyrock",
+      "type": "genre",
+      "name": "comedy rock",
+      "description": "Musical genre: comedy rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#599404",
+        "playlist_id": "72L14B7jz0mAKlF8jdxPlW",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_lesen",
+      "type": "genre",
+      "name": "lesen",
+      "description": "Musical genre: lesen",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#418101",
+        "playlist_id": "5lhSLZIxNEpC4uttsZZdrN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_folkloreecuatoriano",
+      "type": "genre",
+      "name": "folklore ecuatoriano",
+      "description": "Musical genre: folklore ecuatoriano",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#6E9A1E",
+        "playlist_id": "61SGkW9FkioyT880cxk73k",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_chinderlieder",
+      "type": "genre",
+      "name": "chinderlieder",
+      "description": "Musical genre: chinderlieder",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#69820A",
+        "playlist_id": "6BgFgiPTSv1S3guy1ImK3e",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_motivation",
+      "type": "genre",
+      "name": "motivation",
+      "description": "Musical genre: motivation",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4D740C",
+        "playlist_id": "5BBSSBa1Joklnlwpu0Np7L",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_musicacriolla",
+      "type": "genre",
+      "name": "musica criolla",
+      "description": "Musical genre: musica criolla",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8E8C0A",
+        "playlist_id": "7nKjcrZCdbtM0PZc5hSau2",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_porro",
+      "type": "genre",
+      "name": "porro",
+      "description": "Musical genre: porro",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A48B21",
+        "playlist_id": "17tvDMuDgyuAvBSwF7zk9s",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_jamaicanska",
+      "type": "genre",
+      "name": "jamaican ska",
+      "description": "Musical genre: jamaican ska",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#848A31",
+        "playlist_id": "6yXBRWwY8Tq2RTB2XiR9l3",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_eventyr",
+      "type": "genre",
+      "name": "eventyr",
+      "description": "Musical genre: eventyr",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4B7C05",
+        "playlist_id": "2IfQvbwOmPhvVhcZhMEXUl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_germanliterature",
+      "type": "genre",
+      "name": "german literature",
+      "description": "Musical genre: german literature",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#447301",
+        "playlist_id": "69eKo1hKxQTZwMbrqrrATV",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_histoirepourenfants",
+      "type": "genre",
+      "name": "histoire pour enfants",
+      "description": "Musical genre: histoire pour enfants",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#548806",
+        "playlist_id": "6BMz3GRTJ0ykYZzCtyFrcV",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_ukulelecover",
+      "type": "genre",
+      "name": "ukulele cover",
+      "description": "Musical genre: ukulele cover",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#52AA8E",
+        "playlist_id": "5DYnlrlFQR9IecczHvfzaj",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_erotik",
+      "type": "genre",
+      "name": "erotik",
+      "description": "Musical genre: erotik",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#358A80",
+        "playlist_id": "4CMUF1K2xAkuqrxpwnINtr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_guidance",
+      "type": "genre",
+      "name": "guidance",
+      "description": "Musical genre: guidance",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#427304",
+        "playlist_id": "78WdKuEUr6gpUMpQpDeaYe",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_forromanauara",
+      "type": "genre",
+      "name": "forro manauara",
+      "description": "Musical genre: forro manauara",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B68C01",
+        "playlist_id": "1KEkhbwh9el79SK5AsyjLP",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_igbotraditional",
+      "type": "genre",
+      "name": "igbo traditional",
+      "description": "Musical genre: igbo traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BA8323",
+        "playlist_id": "7pSvV59D4TlOOcPkGWSpZZ",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_lastensatuja",
+      "type": "genre",
+      "name": "lasten satuja",
+      "description": "Musical genre: lasten satuja",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4F8104",
+        "playlist_id": "4RhupISMLdVdHZoCJFhWCt",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_comptineafricaine",
+      "type": "genre",
+      "name": "comptine africaine",
+      "description": "Musical genre: comptine africaine",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#85941E",
+        "playlist_id": "7zC8y6bSAPAgorCGTJUuVo",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_afrocubantraditional",
+      "type": "genre",
+      "name": "afro-cuban traditional",
+      "description": "Musical genre: afro-cuban traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#85801A",
+        "playlist_id": "1x7ttJPXcB6jJM51MRiG4I",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_reading",
+      "type": "genre",
+      "name": "reading",
+      "description": "Musical genre: reading",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#3F7001",
+        "playlist_id": "06jaFdgGApTdAScZ5FggYC",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_drama",
+      "type": "genre",
+      "name": "drama",
+      "description": "Musical genre: drama",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#417203",
+        "playlist_id": "6vx1kgPpIzxF492o7ShEvf",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_poetry",
+      "type": "genre",
+      "name": "poetry",
+      "description": "Musical genre: poetry",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#436B03",
+        "playlist_id": "7f1rBV6PnRYeBkrZKRcgCj",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_mento",
+      "type": "genre",
+      "name": "mento",
+      "description": "Musical genre: mento",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8D7B14",
+        "playlist_id": "37tpe7yDWnfu2clBqtvMxI",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_vintageradioshow",
+      "type": "genre",
+      "name": "vintage radio show",
+      "description": "Musical genre: vintage radio show",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#437107",
+        "playlist_id": "6iZjfdAaRSwpDCIkeamvX3",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_djembe",
+      "type": "genre",
+      "name": "djembe",
+      "description": "Musical genre: djembe",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#9B7B9B",
+        "playlist_id": "5V4K0899rz3Tq7wbhl1XXn",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_ghanaiantraditional",
+      "type": "genre",
+      "name": "ghanaian traditional",
+      "description": "Musical genre: ghanaian traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#887A59",
+        "playlist_id": "3IzGDWlfu7VTZEK9Cnadyf",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_burundiantraditional",
+      "type": "genre",
+      "name": "burundian traditional",
+      "description": "Musical genre: burundian traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#718251",
+        "playlist_id": "1M7XycuFu8GTTCZ4SwPRBB",
+        "source": "Every Noise At Once"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_hoerspiel",
+      "relation_type": "has_artist",
+      "entity_b": "artist_07dae2e3-a391-44d0-9b2d-b9711841e9b6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hoerspiel",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7bd655e2-9121-45e1-9eee-ebe20d58e269",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicapopularcolombiana",
+      "relation_type": "has_artist",
+      "entity_b": "artist_998001b2-1e2a-49ed-8ebf-d1b7eaa5c8e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicapopularcolombiana",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ce2a284a-ee14-48d8-a77f-660d76fea958",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0eb58fc2-a70b-4e02-a503-115e42da9b4e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e878d1d5-b1ea-490c-8a7f-743a656392aa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ea256690-e0f3-48bb-a7ab-f4a4ca9839ca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ee81ca2d-2e6d-49cf-87bd-b3c3ad0dda9a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0d746f7c-14de-4269-88c2-c6792e97e092",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4757328b-9bb9-44d6-8ca0-09f202807e46",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8cb60d23-a974-4544-8ef3-e58fd36a3b02",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_84872888-bee0-4241-a3f9-3b674b293a07",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8f33bbf9-e320-47c8-9cae-acd5ad69c6ef",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cartoon",
+      "relation_type": "has_artist",
+      "entity_b": "artist_28c2421a-def3-4305-b4ac-4ffa8c0121b6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4ac255f-9775-4c16-8642-7f51502e45dd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fd4332e7-378f-4d40-95ff-cf2be1920727",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_25f414b8-89e7-4d0b-a2a3-ea8b951ee119",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a17b101c-6300-4d84-8177-a4e66bfa86f7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f8ddf91-9beb-46da-b88e-0cfa6ae45a38",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9df1d12-f48b-4adc-baa1-4bff255ee24b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15475859-eaf2-4c75-80ff-73bcd96f2e15",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc17fef6-970d-4368-8410-bc11c97922d2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_writing",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67c7dc9c-4349-4bb7-9fc9-831d84f200c2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_46a153df-a143-403b-948c-0131cb1a1067",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_38812860-5534-42d2-9fe3-35293d46d882",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7968034e-117f-4275-a2e6-a88472794cb2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9f90e7d4-7695-4926-99af-25a02f53461d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d873f9ee-d46f-45e3-9b92-6d2bfab2bb0d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dcb5e5c6-5f21-4266-b5b6-556f54a6b6b5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_890a34a7-bfcb-4e3a-b70b-47a4eadc343f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b4d9bc42-4765-4ab1-afe8-ea127b6be048",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5a162170-d306-4331-bddc-54365c52b3e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d726a2b3-5c6b-4cae-8e79-81d52db9462b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b018580-5dbb-4c5e-88e1-845286d16ce0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ddcbd7c8-73da-4669-8f4a-cd020b2e89ae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b9967c7-3246-4658-a561-ded5408dd9af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23fbd79b-2937-4140-b988-0865a9ba9ef6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f109c6b-51a3-4012-81ff-fbf5457fbed6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9106e92a-aad0-4996-ac95-37b21fd70737",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_90dbc966-4490-4586-831f-946c0e38703f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b16de89c-a251-4a0c-a463-9a5d744a1fc5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_967775fc-8997-47ed-8c2e-55a0eb59bfae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b8686ad9-6aa7-45b4-b97c-f9d1042f44cb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9e6e9c7-a435-4557-b114-3476b5bda21d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0fea436e-be7f-49b8-aec0-1f044e8eeb27",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ee8bb84b-b97e-4a39-a6de-5642d98fceed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e4be19b8-d9a3-4000-9bda-7b6e26bae6d2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_12be7648-7094-495f-90e6-df4189d68615",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_101d3c29-b414-42d4-aabc-02fd2fbf935d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aea8576d-7ad5-4430-bf2e-63725d80f05c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8174abea-0428-4480-8f97-7bc5db389244",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_970b6941-2a9f-4b99-9040-fa9d5beff577",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5922c949-8249-4b6d-9bc9-0e8367461c02",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_619a20bb-f174-4ec0-a1b6-200b262807ed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81aa035d-9c0e-4080-b956-9dec7ff921b6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2e574282-8fd1-4625-a6ce-eecad43232d8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_03746227-c9f9-4b3b-b2c6-9b31f79564f7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ec9ae1a-b318-4f65-bb47-0e2585e6257d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_62b6875e-f507-4f32-9e61-61e8eabc8877",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f70170e5-398a-4c7d-84a6-160ffbf951a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_326162e7-0e56-49ba-8aa9-a0b12dbc6526",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b0f05ce-354e-4121-9e0b-8b4732ea844f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8bb6daa4-a98c-4670-bb1f-d1933c51986d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_039f02d8-f111-45b8-bbed-36084bcd775f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae6e6005-8049-465c-a788-2d48651d2ce3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aebe2b4a-c296-4878-9168-8490cef5d906",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c4a7d321-c1ab-4c75-bba8-f02d145baa81",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20ef4f94-b4f2-4cd0-87e2-fd89e594dc7b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f1560407-8826-4ec9-b78f-e0c3fa3ea4f5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_94cd92cf-5b72-4283-bab5-555dc25e52a0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b619297f-04ad-43b3-91d4-2b52c77773e2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_40b032dc-8035-4f2a-b478-eb15ddcf6674",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cumbia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7fdcc6b6-267f-4df9-95e5-454f90572db7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e20747e7-55a4-452e-8766-7b985585082d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_86e736b4-93e2-40ff-9e1c-fb7c63fef5f6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fe98e268-4ddd-441b-95a0-b219375f9ae4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5179744-f217-4455-9d8b-17b8d4fdeb93",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c1a0178b-830c-4d4f-9ce4-89f5e56672dd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0eee88b-47f2-4cd2-ac48-a045e902a432",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf103bd9-7a20-4a7e-95e0-369fe494fc88",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_95c962ac-9160-4d4d-8195-aba27aa68079",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_725d0c22-17a0-43ed-900e-37a9ba8f50c4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7746d775-9550-4360-b8d5-c37bd448ce01",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2fe8f530-861d-40ff-ac74-51f7e2701965",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_888b9014-96eb-4794-8e7c-04385ff923ae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1a71713c-6cef-49e2-b2b7-8cdb6eb3f8cf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23a03e33-a603-404e-bcbf-2c00159d7067",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b3246b58-1cfe-416e-aa7f-1e776d88b188",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8602561b-caa1-4ef7-9501-a4159b3a41c3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cdd2e0f0-703d-454d-b5c7-cc3bb6dd5552",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_148ddea2-6839-4354-8e2c-5dfadf136b7f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_970fb29f-e288-403e-a388-d2a7889bfa47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f742fac6-9349-4a2b-8c94-ed0515bf2301",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f7ccd53a-234c-4800-8d1b-21b201bad1de",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_303c8c64-1143-4026-865f-4392a6b065da",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_26811b9b-d8f7-43d4-bb36-e4064e70be1b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e4d32f51-bc57-42a4-8165-b80f7a86496d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2aa4540c-093c-444a-8ba3-65d60ce73d6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd872e2f-3dce-4932-b8dc-91cf949cfbb5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b2dbfc09-b332-408b-a235-1850e41971c5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fdf0d5e1-e773-4740-a50f-a032c96c63d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6e987552-beba-4cc2-900d-ac01c7b4c964",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4f8916d6-a7d2-43e9-96b6-ce3168c39c84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f291ffa8-891c-46ae-ba5e-fd3c53db56f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8cde362e-2c23-41d3-834f-5015aa3b334f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1e3c1562-c498-44f0-9fcf-fa97f2e4d396",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5845b9fb-e5aa-4e96-9f62-6e8ec4b02c39",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_165522fe-6ae1-4195-a7d2-f64e45d2fb1a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b5e0d5a-b6c1-43d7-b890-c98d6cf82bf7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b6c32494-03ea-443f-a95d-ee9f318fb3e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67ed4dc5-143d-4e34-b83b-0932cacfe09a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f82927e4-b905-4e3b-a82e-5184fbb68b29",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc152868-9b88-440c-9094-b66c0379ddae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_abda62ca-e383-423b-a939-b14e1d0e38b0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_09aee210-8761-4b66-84fa-1a5a835636c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ccff9688-b735-4e84-bd1c-ff02d8b9bfbc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_593e8cc4-fa1d-484c-9a18-76c33fe7d6fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_517e8c0e-0232-4e31-89c8-038c3cf01f60",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5aa6e122-45ce-4750-9204-999721850437",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3cab57f1-0f9a-4781-9611-e54fac9fbac5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3ab30511-1f5e-4706-840a-acc9fc318c30",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8862e2f2-1ca5-432a-8ff8-ba9785e7ce3a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedyrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_425218ee-516f-4e71-8718-29e7d19d7a4e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_00bc50f5-a3f1-4293-bcf7-44d42480fd8e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fb4c271-72af-4eb6-a54e-d5bacb4bb723",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3de90082-86fb-495e-a554-aebb07208101",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e920b4c-596c-4b85-ada9-c8ff806f34b3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc3b4f31-6626-46ac-acd0-ffbfc16d5781",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_motivation",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2c5649e0-be70-4adf-a111-5722e6400680",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_176af481-a5db-4902-84e0-393e7811b8c4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ad92ec10-7f8b-4f9a-a0a0-c02982722b6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1fc04b2d-d824-4d2d-9ca8-30f41a63b63b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_809d8202-bb05-433e-9806-0739319329fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57ed5f18-ac09-4870-ad97-c2a410caad6f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ac07217-5942-4afd-8bd1-6da8e80daf3a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_37144252-a16f-4326-b69f-1eafde8f8cbf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7e48d085-1d36-44c8-9866-04ec6527ed86",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_674c1b29-e0f8-46e4-95c6-c56a89a076ac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_515d48b1-8ee7-488f-9f93-384dbcc84ff2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_53bad57d-31df-4242-8415-b2238961a98c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2a2582d4-c58f-4ddd-84c1-ee713eeb2d71",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_musicacriolla",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e70108fc-94f2-4e98-86af-cb7fad741c5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_porro",
+      "relation_type": "has_artist",
+      "entity_b": "artist_19aafa48-d250-4402-9bbf-8f5c463fed54",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_porro",
+      "relation_type": "has_artist",
+      "entity_b": "artist_98693961-8854-40bc-a707-63ff54c9135a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c296e10c-110a-4103-9e77-47bfebb7fb2e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aca5ece8-80dd-478e-bb53-d6641c157122",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2caa54a7-b08c-41da-b892-3a41abe778be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7db6aae5-6644-4513-9bfc-ca2e79d4469c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0aeb4e9-4d8f-403c-b529-d8950326bfbf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2f2c85b9-135d-4830-a925-ee7548332f70",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4b3fb24-a04e-4249-9fa5-5a198ca9d73c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0bf4a9b6-773f-49a5-a31d-76639926699c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dc340029-a165-4139-a80e-e1cae33b37b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_jamaicanska",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b0b343bf-cebf-4612-883c-e01b8da92d89",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ee0588b9-1428-4b64-ae8a-25bfddeb65c5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ec57fd0-04e6-4a8a-a4b2-94b20afe4b56",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c3a9106d-0f13-4410-bcdb-68895a3e24e6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_508c026d-ded7-4d58-afeb-e65d3c6a75ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_981a6356-91a4-4d18-a622-18bec1fdaec4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9f9efe3a-27a4-4fc1-929f-fd3723f7eec6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e33fc560-8158-48ce-a202-36ab5354c3d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3bac54fa-1d2e-4064-a7e8-973537fbf710",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_65dfc512-9439-4583-a96e-18e5052decfe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44ef73b1-24fd-4882-bfa4-58e41bb069d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_25c279f8-252e-44b0-b146-d8e9d10128f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_378b9848-c14f-4440-b098-1cf3311acaba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5003b73f-4f5f-4232-a0ac-80d3196e6d71",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_35c1680f-7bec-481b-9e8f-966294ed3c81",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_717cb067-05e0-4bff-8cd7-7796581987c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a749daf3-a8c7-4919-a5d7-fae831debe32",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d1da4be8-dbe0-4346-8149-572c40c85ac4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ade87c7d-3fe2-4e8d-8aca-7cf352a9e168",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_32c1fc1c-92b2-4fc7-bdba-9f2c11605bda",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b188a48b-b630-4088-8c18-1b2de264ec4b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_reading",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2503f33e-55c3-44d5-9e5f-7092fa5245e3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_db758363-1ad0-4d2b-ab0a-49379419105c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4ac255f-9775-4c16-8642-7f51502e45dd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0568c60f-9852-4708-82ab-1afb8bb1342f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8060e859-1f5d-4912-a998-9f7aacc0d448",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4d63ad6-3904-4151-b5b7-83b960f4bca6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_46a098f3-272d-4bec-9746-67e8ab48ed40",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e028fab5-39ae-4ed9-b8c2-c4344d88b171",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44f85621-f8db-45dd-93de-e9f069d28d7d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_777e1c46-9895-4647-9c5f-c3dcb7de03d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d3d9bc09-f1c1-49bc-94e0-e7897f60f4c3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_97f3efea-558f-4137-9e4c-8a2fcec3c2d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_58537de9-45ed-4b6b-9f67-e9571c63bc03",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67e47f12-5257-47d9-8050-96239a05de65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8d5e485c-d30a-47fa-97f7-5f2dfa7fdd84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f4b441a-3197-47bd-b572-a53ae4ba3b00",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44089e89-a61c-403e-b652-0fca1121843e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5e10fafc-9459-445c-9e33-d083ce40c6aa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2c89e930-7769-403f-8145-f215bb8fb5ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2167935f-196b-42ce-9708-52d5731f2650",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_92bc25ee-decc-4d83-9932-e1b4bd20a749",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c7d4bc4a-ccb2-4cdb-b0ae-b4c6b4902ccc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f2e0ad6a-10a7-4b9e-b9ce-f35494ff93db",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cb7dfb86-7a94-4f90-80f9-8933c170bca8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dbbe9d1b-08bb-47c3-b099-348c0be218e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2e71888d-6385-473f-8035-e0d7d838efb0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ca3f366-96ef-4be1-aa66-426b7ec98ce6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c5fa1fc-f9d8-491a-87cb-507972a0ad43",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a16cbe98-d8ca-4fd5-8f64-b7738a350112",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e1a81f67-996b-418a-9784-ceddae596458",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e9ed318d-8cc5-4cf8-ab77-505e39ab6ea4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_07604f0c-218b-4233-94d9-57c4a5432c3a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_250841fd-2278-4d10-a8a0-9951fe322c7c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_69c2d08b-871b-4841-bf98-40518e6a2a86",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_90d1df77-1c55-4539-8112-8beb8fcfa1d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3207a596-387d-47af-9d37-0200735c64a5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5737094d-d52d-4ba2-918c-fb42864e8ba3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_05722d0a-11ea-443a-a942-a783dca867f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd590fda-ee99-40ff-a48e-c77a766f2bd1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4269886d-55b6-4a43-80a7-edb3ac8939a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5fde5ec9-77a1-47b4-a195-fd788148ca13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_179ce055-83cb-494b-8103-6106c1088164",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a25661f3-9576-48df-8b2a-74d0717abda1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_21442134-2f58-41ed-aa6d-70a250c44c54",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0afa6783-cd3a-4377-85ef-de31c355351d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_660d8265-2d29-4231-939e-97e14fbfb98e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_28588bde-9c1f-4e16-ae0d-5f9bc587cd2c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ec871bbe-908d-4e77-86b3-40af4cc89d14",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f8445676-27d6-4ff9-a9ac-a31c9f5f66ce",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cb802a9c-efc9-4a1d-9dd2-b6fd080f6298",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_drama",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd627508-6ea8-4fee-a44f-d8a6d28f8d6e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_654188a5-bbfc-41d8-aa27-86a946dfd757",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9efff43b-3b29-4082-824e-bc82f646f93d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c3aeb863-7b26-4388-94e8-5a240f2be21b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_906bddec-bc73-49f8-ac1e-eaee691c6cf9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b58165ba-ac55-49a1-8855-caf16c68f5f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15b1cbac-060a-4136-9e07-4622c52c0f60",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9457a08d-a2d0-4f2d-9876-b8870612d54f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f150ed27-bee7-49d8-a226-31fef88c29b3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d17b505f-a6e3-44e7-afcc-415d407c414f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_65314b12-0e08-43fa-ba33-baaa7b874c15",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fc551bc-0c60-43fd-a234-2776561c2b18",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a855f632-8bba-4c58-bb91-d9d304955096",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8067c102-4996-42bc-9980-06ce2e644eae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3111ef6b-e7e5-4040-bb6d-78cb414d8240",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_944655bc-16b1-48d2-b4ff-f73654612fcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6cf0eb67-e09a-484d-9e8f-f865cf473bcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5b89643-c488-4f39-a302-25cab31084a5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_996b444f-2f1c-4f41-bb85-c3b9a709c9bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ae5648d-d9b7-4083-b538-17f71672990f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72e779e0-e4f7-4ff6-b3b3-caa9b926256b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13345566-4b5f-4308-b361-14ea6e1f7b5b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_60e7f0a8-ca9a-4cc4-a20b-764e3a0defe3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51ba0416-9192-461b-8e13-763c8c7d3f13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a81dde75-8a81-40aa-ba73-cad6d3dd9ed9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70b02d03-01b6-4e41-a39b-83d30ca512af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d898e082-70d1-4a86-ac8e-ecdf89892994",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_14f1d4f3-da6c-4257-a4e9-15d1f0daf5c3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6104605d-c878-4e3f-8797-e0a3ea01cbca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_718cef12-d41e-4da8-a050-5757a494346d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_54a42c67-2f58-4a80-8a5f-424a0eecd106",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7e820444-47d7-4e81-8018-60353e1b8458",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f27042c2-3a42-4529-876c-3aa0b4fd53fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_88b53a2c-aac3-426d-b179-73f2355fddd8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_02559a81-c2b5-46fd-a4d7-51d452fd3b3e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_88934398-4750-476f-89fe-2fa7ca264644",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4c6f5f9-a9b8-43b7-8743-38d5b058786a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4c7a7959-7cf8-4de8-b7b7-6fe83122926b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36e78836-5dee-4ca7-b3d4-1635f6df22d5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e030cfc-2f0c-4d45-8687-d5b347a33732",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a560f6f9-b7a7-451d-9644-71244f557bdf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a1594afa-2f6b-4596-a156-a35853dca691",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b97677ab-8c5d-40ea-a5e4-f501997597d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6619f89-5454-4e2d-aa19-b5596ba3b4c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a5f0ba41-f33c-4f63-9fb1-506e684cf7a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_73a9d3f7-b0bb-4b11-8a3d-2fb4e2388ecf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7988cdcb-2259-47af-84ba-fe21cc62c63f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a075f4fc-7b3d-4a0e-a84d-6fc9b2f9a77a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7df6e6eb-8e3a-4402-a243-b5b01f0d9bec",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a1936df0-b178-41a6-ba81-bb8bbfe9ac86",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poetry",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b0a4168-2164-4370-be8b-d78a87f5e888",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_mento",
+      "relation_type": "has_artist",
+      "entity_b": "artist_49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_mento",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9e7065ee-71a4-4ee3-9b68-dc8d21779bfe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_mento",
+      "relation_type": "has_artist",
+      "entity_b": "artist_990097f7-c541-4b2c-addd-dd99f037766e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_mento",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b0b343bf-cebf-4612-883c-e01b8da92d89",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2436c15c-5573-4f0d-ba78-b97bce93cd16",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_339d4973-d3ce-420a-9dfd-d6616b4a9250",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_009e4740-783e-44eb-bc8f-8391b8a3974a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_db7a253f-5c5b-40b9-b6a4-669ed91e7e17",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6e3d45e-2ba7-4f4d-bcee-e0d876ba49c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_09e1e8e0-9896-40a1-a106-9aa20e584bac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djembe",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8771d7ef-4741-4939-b334-986415d878be",
+      "strength": 1.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6768",
+    "description": "Genres and artists starting with \u6768",
+    "shard_id": "\u6768",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_977cd83a-c5a9-43e2-863c-9bbe7e8db19a",
+      "type": "artist",
+      "name": "\u6768\u9756",
+      "description": "Artist: \u6768\u9756",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "977cd83a-c5a9-43e2-863c-9bbe7e8db19a",
+        "country": "CH",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

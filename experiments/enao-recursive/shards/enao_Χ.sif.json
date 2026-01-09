@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u03a7",
+    "description": "Genres and artists starting with \u03a7",
+    "shard_id": "\u03a7",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_2dc67a2d-5914-4064-bf7b-8c8ea77bfab6",
+      "type": "artist",
+      "name": "\u03a7\u03ac\u03c1\u03b9\u03c2 \u0391\u03bb\u03b5\u03be\u03af\u03bf\u03c5",
+      "description": "Artist: \u03a7\u03ac\u03c1\u03b9\u03c2 \u0391\u03bb\u03b5\u03be\u03af\u03bf\u03c5",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2dc67a2d-5914-4064-bf7b-8c8ea77bfab6",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1126d6ff-03cd-466d-b56a-ac162aa266fc",
+      "type": "artist",
+      "name": "\u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u039d\u03b9\u03ba\u03bf\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "description": "Artist: \u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u039d\u03b9\u03ba\u03bf\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1126d6ff-03cd-466d-b56a-ac162aa266fc",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_13698b35-2f36-436b-b725-55b045b7db31",
+      "type": "artist",
+      "name": "\u03a7\u03b1\u03c1\u03bf\u03cd\u03bb\u03b1 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7",
+      "description": "Artist: \u03a7\u03b1\u03c1\u03bf\u03cd\u03bb\u03b1 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "13698b35-2f36-436b-b725-55b045b7db31",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ed644667-6ed4-4ccc-bab2-51c3e9d25e2e",
+      "type": "artist",
+      "name": "\u03a7\u03c1\u03cc\u03bd\u03b7\u03c2 \u0391\u03b7\u03b4\u03bf\u03bd\u03af\u03b4\u03b7\u03c2",
+      "description": "Artist: \u03a7\u03c1\u03cc\u03bd\u03b7\u03c2 \u0391\u03b7\u03b4\u03bf\u03bd\u03af\u03b4\u03b7\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ed644667-6ed4-4ccc-bab2-51c3e9d25e2e",
+        "country": "GR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc815",
+    "description": "Genres and artists starting with \uc815",
+    "shard_id": "\uc815",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_22469f66-5886-47c7-97de-b5f323b5b301",
+      "type": "artist",
+      "name": "\uc815\uc7ac\uc740",
+      "description": "Artist: \uc815\uc7ac\uc740",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "22469f66-5886-47c7-97de-b5f323b5b301",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

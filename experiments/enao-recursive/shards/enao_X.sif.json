@@ -1,0 +1,1112 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - X",
+    "description": "Genres and artists starting with X",
+    "shard_id": "X",
+    "entity_count": 89,
+    "relationship_count": 5
+  },
+  "entities": [
+    {
+      "id": "artist_96edeebb-d173-41e9-a1c2-5ae52959ab41",
+      "type": "artist",
+      "name": "X\u2010Press 2",
+      "description": "Artist: X\u2010Press 2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "96edeebb-d173-41e9-a1c2-5ae52959ab41",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_97c86b2c-2765-46a2-aef8-76a7e24c430f",
+      "type": "artist",
+      "name": "XTC",
+      "description": "Artist: XTC",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "97c86b2c-2765-46a2-aef8-76a7e24c430f",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6c7aac91-d780-4c24-9700-590c69f1c8f9",
+      "type": "artist",
+      "name": "X\u2010Raided",
+      "description": "Artist: X\u2010Raided",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6c7aac91-d780-4c24-9700-590c69f1c8f9",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_61a569e2-4f5e-44a5-b158-9ad8974dc5b4",
+      "type": "artist",
+      "name": "Xelpy",
+      "description": "Artist: Xelpy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "61a569e2-4f5e-44a5-b158-9ad8974dc5b4",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_61af87f4-16ee-4431-8504-cc06187079fb",
+      "type": "artist",
+      "name": "XXXTENTACION",
+      "description": "Artist: XXXTENTACION",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e167a029-fd9f-43c1-96c2-c3da6b15164f",
+      "type": "artist",
+      "name": "Xavier Wulf",
+      "description": "Artist: Xavier Wulf",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e167a029-fd9f-43c1-96c2-c3da6b15164f",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_83a45847-0c18-4794-964a-500e49df7aac",
+      "type": "artist",
+      "name": "Xavier Naidoo",
+      "description": "Artist: Xavier Naidoo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83a45847-0c18-4794-964a-500e49df7aac",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9e839dc3-55f3-4492-ad0e-a1a2e84275e2",
+      "type": "artist",
+      "name": "Xzibit",
+      "description": "Artist: Xzibit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9e839dc3-55f3-4492-ad0e-a1a2e84275e2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e783857a-203c-45cd-8ff3-dba745238be6",
+      "type": "artist",
+      "name": "Xtreme",
+      "description": "Artist: Xtreme",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e783857a-203c-45cd-8ff3-dba745238be6",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e7327a2e-a352-430e-a7a2-ea7292505ee3",
+      "type": "artist",
+      "name": "XO1",
+      "description": "Artist: XO1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e7327a2e-a352-430e-a7a2-ea7292505ee3",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_2592e0b0-0c5f-4a1d-96d3-a29d115685f2",
+      "type": "artist",
+      "name": "X SMILE",
+      "description": "Artist: X SMILE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2592e0b0-0c5f-4a1d-96d3-a29d115685f2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cf07508b-4762-4650-990a-23376e023f55",
+      "type": "artist",
+      "name": "Xuxa",
+      "description": "Artist: Xuxa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cf07508b-4762-4650-990a-23376e023f55",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_befc1f24-50f1-4f96-8cf3-0503fecb3366",
+      "type": "artist",
+      "name": "Xcelencia",
+      "description": "Artist: Xcelencia",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "befc1f24-50f1-4f96-8cf3-0503fecb3366",
+        "country": "PR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8b431ac6-0806-4e4a-9b6b-1734370fa890",
+      "type": "artist",
+      "name": "Xiu Xiu",
+      "description": "Artist: Xiu Xiu",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8b431ac6-0806-4e4a-9b6b-1734370fa890",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_656a0800-3a2b-47ed-a3ff-1e2908fdd2ff",
+      "type": "artist",
+      "name": "Xandria",
+      "description": "Artist: Xandria",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "656a0800-3a2b-47ed-a3ff-1e2908fdd2ff",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5e35a109-b46f-47a3-9476-757f75cffc65",
+      "type": "artist",
+      "name": "Xiphea",
+      "description": "Artist: Xiphea",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5e35a109-b46f-47a3-9476-757f75cffc65",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c8b07b52-f4a0-4ecd-8b7b-333d019fd502",
+      "type": "artist",
+      "name": "Xi Tian",
+      "description": "Artist: Xi Tian",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c8b07b52-f4a0-4ecd-8b7b-333d019fd502",
+        "country": "AU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b3d90dd7-dd85-4fe1-b75e-c06ae829ef53",
+      "type": "artist",
+      "name": "XOC",
+      "description": "Artist: XOC",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b3d90dd7-dd85-4fe1-b75e-c06ae829ef53",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b12baf4b-b24a-4912-b568-ac867ec4792c",
+      "type": "artist",
+      "name": "Xaxanity",
+      "description": "Artist: Xaxanity",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b12baf4b-b24a-4912-b568-ac867ec4792c",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_accd3139-10cf-421f-94d6-68764e572fec",
+      "type": "artist",
+      "name": "X-Ziliot",
+      "description": "Artist: X-Ziliot",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "accd3139-10cf-421f-94d6-68764e572fec",
+        "country": "AR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c4f23271-52e1-42ab-b734-91d99ab7e72b",
+      "type": "artist",
+      "name": "Xaver Fischer Trio",
+      "description": "Artist: Xaver Fischer Trio",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c4f23271-52e1-42ab-b734-91d99ab7e72b",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0fd82861-8184-4b6e-a6b1-f2093e2b3163",
+      "type": "artist",
+      "name": "XXYYXX",
+      "description": "Artist: XXYYXX",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0fd82861-8184-4b6e-a6b1-f2093e2b3163",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3c1caafe-87ed-4949-87b9-43ef74e40d4d",
+      "type": "artist",
+      "name": "XIRA",
+      "description": "Artist: XIRA",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3c1caafe-87ed-4949-87b9-43ef74e40d4d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d35bb4d4-8045-4bcf-87c2-b4f8d96f9577",
+      "type": "artist",
+      "name": "XIII",
+      "description": "Artist: XIII",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d35bb4d4-8045-4bcf-87c2-b4f8d96f9577",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a60f09c0-35ab-47c7-8d9e-cbaf67378ee4",
+      "type": "artist",
+      "name": "X5s",
+      "description": "Artist: X5s",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a60f09c0-35ab-47c7-8d9e-cbaf67378ee4",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_39e92581-e59d-4070-b157-abadd9969f3f",
+      "type": "artist",
+      "name": "Xasthur",
+      "description": "Artist: Xasthur",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_61c92db1-7d45-43e1-9275-6ff59862edcf",
+      "type": "artist",
+      "name": "Xavi",
+      "description": "Artist: Xavi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "61c92db1-7d45-43e1-9275-6ff59862edcf",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_402b09ff-f1a0-4a9b-b4a6-8ef98627dfe3",
+      "type": "artist",
+      "name": "xrvr",
+      "description": "Artist: xrvr",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "402b09ff-f1a0-4a9b-b4a6-8ef98627dfe3",
+        "country": "NZ",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_db6bdfc3-f891-4b0b-b263-fbd335e78bac",
+      "type": "artist",
+      "name": "XRS",
+      "description": "Artist: XRS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "db6bdfc3-f891-4b0b-b263-fbd335e78bac",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_44377af5-5fdc-4dbd-b007-b00f647f801d",
+      "type": "artist",
+      "name": "Xenith",
+      "description": "Artist: Xenith",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "44377af5-5fdc-4dbd-b007-b00f647f801d",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3b4c3d65-3c9a-416f-89b6-d71143051dd0",
+      "type": "artist",
+      "name": "Xenobiotic",
+      "description": "Artist: Xenobiotic",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3b4c3d65-3c9a-416f-89b6-d71143051dd0",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b371b486-402b-4c8b-8cfe-e3ab84a202b8",
+      "type": "artist",
+      "name": "xyce",
+      "description": "Artist: xyce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b371b486-402b-4c8b-8cfe-e3ab84a202b8",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fc478377-1627-4391-9942-2ff60374bd9b",
+      "type": "artist",
+      "name": "XIII. stolet\u00ed",
+      "description": "Artist: XIII. stolet\u00ed",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fc478377-1627-4391-9942-2ff60374bd9b",
+        "country": "CZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_078a5d52-d179-47f1-a16a-71419f740d0c",
+      "type": "artist",
+      "name": "Xavier Cugat and His Orchestra",
+      "description": "Artist: Xavier Cugat and His Orchestra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "078a5d52-d179-47f1-a16a-71419f740d0c",
+        "country": "CU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_xtraraw",
+      "type": "genre",
+      "name": "xtra raw",
+      "description": "Musical genre: xtra raw",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#ED5A14",
+        "playlist_id": "7oe7qiYLUxsfhZXlT6AIiS",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_7ec82933-b4be-4821-8ef7-3216db6a35c5",
+      "type": "artist",
+      "name": "Xavier Cugat",
+      "description": "Artist: Xavier Cugat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7ec82933-b4be-4821-8ef7-3216db6a35c5",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_78308fa1-b583-4b6c-a592-931df0126d29",
+      "type": "artist",
+      "name": "x#!*\u252697",
+      "description": "Artist: x#!*\u252697",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "78308fa1-b583-4b6c-a592-931df0126d29",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8894ef37-830c-423b-80f3-afad9cf1e729",
+      "type": "artist",
+      "name": "Xenotheory",
+      "description": "Artist: Xenotheory",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8894ef37-830c-423b-80f3-afad9cf1e729",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5584d7cc-572e-4263-9c9a-20e25007cf90",
+      "type": "artist",
+      "name": "Xtrunk",
+      "description": "Artist: Xtrunk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5584d7cc-572e-4263-9c9a-20e25007cf90",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a7591987-467c-43b4-a88e-fa27137815af",
+      "type": "artist",
+      "name": "Xoli M",
+      "description": "Artist: Xoli M",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a7591987-467c-43b4-a88e-fa27137815af",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c3f9dce5-51b8-4217-a12a-e7fb8890009a",
+      "type": "artist",
+      "name": "Xavier Moyano",
+      "description": "Artist: Xavier Moyano",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c3f9dce5-51b8-4217-a12a-e7fb8890009a",
+        "country": "AR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f8bf837d-b75b-4c2f-8548-4c63341fe8be",
+      "type": "artist",
+      "name": "X Marks the Pedwalk",
+      "description": "Artist: X Marks the Pedwalk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f8bf837d-b75b-4c2f-8548-4c63341fe8be",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e8d9c6f0-6a7c-4f26-bf08-6c6e9a1b9ca9",
+      "type": "artist",
+      "name": "X-Trans",
+      "description": "Artist: X-Trans",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8d9c6f0-6a7c-4f26-bf08-6c6e9a1b9ca9",
+        "country": "PL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_78bc4775-8c22-4087-b653-1089926b2124",
+      "type": "artist",
+      "name": "Xotla",
+      "description": "Artist: Xotla",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "78bc4775-8c22-4087-b653-1089926b2124",
+        "country": "AU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a9d2f8b1-67df-44ca-8f1d-1ddc1c0848f2",
+      "type": "artist",
+      "name": "X\u044d\u043d\u043a\u00f8\u0440X",
+      "description": "Artist: X\u044d\u043d\u043a\u00f8\u0440X",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a9d2f8b1-67df-44ca-8f1d-1ddc1c0848f2",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_104abd32-dc88-486d-8e1a-197632ac5477",
+      "type": "artist",
+      "name": "XEN",
+      "description": "Artist: XEN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "104abd32-dc88-486d-8e1a-197632ac5477",
+        "country": "CH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_59e6d016-1b24-4f95-a8d6-ab9191463faa",
+      "type": "artist",
+      "name": "xaev",
+      "description": "Artist: xaev",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "59e6d016-1b24-4f95-a8d6-ab9191463faa",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_18697273-1643-4a9a-8300-c8ad25f11264",
+      "type": "artist",
+      "name": "XI",
+      "description": "Artist: XI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "18697273-1643-4a9a-8300-c8ad25f11264",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_776d3fa9-8e72-4449-bf79-5ff40444a090",
+      "type": "artist",
+      "name": "Xaaron",
+      "description": "Artist: Xaaron",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "776d3fa9-8e72-4449-bf79-5ff40444a090",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5d34eceb-86d0-4dfe-a255-42bd6a983785",
+      "type": "artist",
+      "name": "XIV Dark Centuries",
+      "description": "Artist: XIV Dark Centuries",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5d34eceb-86d0-4dfe-a255-42bd6a983785",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1533a61d-4744-4339-bdf5-970e2c8e036c",
+      "type": "artist",
+      "name": "X-Fusion",
+      "description": "Artist: X-Fusion",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1533a61d-4744-4339-bdf5-970e2c8e036c",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9bb0ae46-c22c-499f-915f-9b4fc8d4f767",
+      "type": "artist",
+      "name": "X\u2010Ecutioners",
+      "description": "Artist: X\u2010Ecutioners",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9bb0ae46-c22c-499f-915f-9b4fc8d4f767",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_bfa769d9-735e-47a3-a6f5-7f1363de474a",
+      "type": "artist",
+      "name": "Xeno & Oaklander",
+      "description": "Artist: Xeno & Oaklander",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bfa769d9-735e-47a3-a6f5-7f1363de474a",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5255e5fc-cf02-4ce0-8879-73ebec5c9b3e",
+      "type": "artist",
+      "name": "X4U",
+      "description": "Artist: X4U",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5255e5fc-cf02-4ce0-8879-73ebec5c9b3e",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_adf71cc6-08f6-4680-af93-9e2967b259fe",
+      "type": "artist",
+      "name": "xAFBx",
+      "description": "Artist: xAFBx",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "adf71cc6-08f6-4680-af93-9e2967b259fe",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9bf00261-f3b3-412b-a399-362d43f4cd8e",
+      "type": "artist",
+      "name": "xMeans to an Endx",
+      "description": "Artist: xMeans to an Endx",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9bf00261-f3b3-412b-a399-362d43f4cd8e",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fad7c751-e73a-4229-bd89-dc3131b89791",
+      "type": "artist",
+      "name": "X-Threat",
+      "description": "Artist: X-Threat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fad7c751-e73a-4229-bd89-dc3131b89791",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b1fedd29-577d-45b1-95a7-d477f0fb6bd5",
+      "type": "artist",
+      "name": "Xploding Plastix",
+      "description": "Artist: Xploding Plastix",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b1fedd29-577d-45b1-95a7-d477f0fb6bd5",
+        "country": "NO",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0cc8e679-1515-4e31-af20-82c44a3633b8",
+      "type": "artist",
+      "name": "X-Cabs",
+      "description": "Artist: X-Cabs",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0cc8e679-1515-4e31-af20-82c44a3633b8",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_155cfd40-dcde-471e-acc0-32179916165c",
+      "type": "artist",
+      "name": "xaviersobased",
+      "description": "Artist: xaviersobased",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "155cfd40-dcde-471e-acc0-32179916165c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_309662ca-747b-4eef-9771-0007986c532f",
+      "type": "artist",
+      "name": "XLBaron",
+      "description": "Artist: XLBaron",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "309662ca-747b-4eef-9771-0007986c532f",
+        "country": "UA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_388c5e4a-e76b-442d-939a-778437f5be18",
+      "type": "artist",
+      "name": "xiangyu",
+      "description": "Artist: xiangyu",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "388c5e4a-e76b-442d-939a-778437f5be18",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6a9cf6c0-fcdc-48a3-ab2b-76b6cd205282",
+      "type": "artist",
+      "name": "Xaon",
+      "description": "Artist: Xaon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6a9cf6c0-fcdc-48a3-ab2b-76b6cd205282",
+        "country": "CH",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5baff192-79d4-4aba-a0fd-85a6f9b7d6a2",
+      "type": "artist",
+      "name": "Xxtarlit\u26b8",
+      "description": "Artist: Xxtarlit\u26b8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5baff192-79d4-4aba-a0fd-85a6f9b7d6a2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3e2aa1bb-cd11-44f2-91f8-be808270d888",
+      "type": "artist",
+      "name": "xKhen",
+      "description": "Artist: xKhen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e2aa1bb-cd11-44f2-91f8-be808270d888",
+        "country": "LT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa93cd81-0a5f-4db6-a026-d2ca9caaa298",
+      "type": "artist",
+      "name": "X\u2010Fade",
+      "description": "Artist: X\u2010Fade",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa93cd81-0a5f-4db6-a026-d2ca9caaa298",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cc674a0f-6b55-44c3-acd0-85b2b047aa42",
+      "type": "artist",
+      "name": "X-Ite",
+      "description": "Artist: X-Ite",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cc674a0f-6b55-44c3-acd0-85b2b047aa42",
+        "country": "IT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_xitsongapop",
+      "type": "genre",
+      "name": "xitsonga pop",
+      "description": "Musical genre: xitsonga pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C1901D",
+        "playlist_id": "23MUSPH44uYB10onXR9mRe",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b4c43f96-a1d8-4488-b185-bbbfcceed488",
+      "type": "artist",
+      "name": "Xan Alexander",
+      "description": "Artist: Xan Alexander",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b4c43f96-a1d8-4488-b185-bbbfcceed488",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bc02d844-575a-4d82-a0ac-09d9d93377f1",
+      "type": "artist",
+      "name": "Xysma",
+      "description": "Artist: Xysma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bc02d844-575a-4d82-a0ac-09d9d93377f1",
+        "country": "FI",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ce2bc064-c846-4dc3-b323-22532871e7fb",
+      "type": "artist",
+      "name": "XCORPIIIO",
+      "description": "Artist: XCORPIIIO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ce2bc064-c846-4dc3-b323-22532871e7fb",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_59b5a970-bd8c-4cc1-b48f-e54e9764a2a5",
+      "type": "artist",
+      "name": "xPxMxSx",
+      "description": "Artist: xPxMxSx",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "59b5a970-bd8c-4cc1-b48f-e54e9764a2a5",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_33a5cd85-1862-4ba8-9b85-57d741645741",
+      "type": "artist",
+      "name": "Xqu\u00e8?",
+      "description": "Artist: Xqu\u00e8?",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "33a5cd85-1862-4ba8-9b85-57d741645741",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_47aa155b-2888-4830-bf92-ce6883faf6e4",
+      "type": "artist",
+      "name": "Xavi Mu\u00f1oz",
+      "description": "Artist: Xavi Mu\u00f1oz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "47aa155b-2888-4830-bf92-ce6883faf6e4",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ed40d4f9-cb79-4248-9b77-bc7ccd76b988",
+      "type": "artist",
+      "name": "Xavi Metralla",
+      "description": "Artist: Xavi Metralla",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ed40d4f9-cb79-4248-9b77-bc7ccd76b988",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cbc34cc2-bcf4-4bf3-b12c-41b1e6f054ec",
+      "type": "artist",
+      "name": "Xtacy",
+      "description": "Artist: Xtacy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cbc34cc2-bcf4-4bf3-b12c-41b1e6f054ec",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_xhosa",
+      "type": "genre",
+      "name": "xhosa",
+      "description": "Musical genre: xhosa",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#718F09",
+        "playlist_id": "1SPR7yk4kwmz09NovuUzKN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_46e86bc3-381a-4dd9-a92f-f0709421e89b",
+      "type": "artist",
+      "name": "Xolotl",
+      "description": "Artist: Xolotl",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "46e86bc3-381a-4dd9-a92f-f0709421e89b",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_095ef906-f6a2-40b1-8632-d4f15559d0f8",
+      "type": "artist",
+      "name": "xego",
+      "description": "Artist: xego",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "095ef906-f6a2-40b1-8632-d4f15559d0f8",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bdf57534-1bb6-4240-9207-9626e9e9b96b",
+      "type": "artist",
+      "name": "X.EGO",
+      "description": "Artist: X.EGO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bdf57534-1bb6-4240-9207-9626e9e9b96b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_xinyao",
+      "type": "genre",
+      "name": "xinyao",
+      "description": "Musical genre: xinyao",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#739908",
+        "playlist_id": "3OdedP3CjT68YpId2B1BFk",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_xhosahiphop",
+      "type": "genre",
+      "name": "xhosa hip hop",
+      "description": "Musical genre: xhosa hip hop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#959605",
+        "playlist_id": "03gnvuMqmf0w2E5qv4bHsy",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_d3c4de0a-6e5b-410f-bb1c-a781490af765",
+      "type": "artist",
+      "name": "Xanthochroid",
+      "description": "Artist: Xanthochroid",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d3c4de0a-6e5b-410f-bb1c-a781490af765",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_635da8c0-f19a-41b9-8764-fd80306b4159",
+      "type": "artist",
+      "name": "X-Dream",
+      "description": "Artist: X-Dream",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "635da8c0-f19a-41b9-8764-fd80306b4159",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_00e78d16-7cf4-43d1-939e-73a89776a912",
+      "type": "artist",
+      "name": "Xenzodiak",
+      "description": "Artist: Xenzodiak",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "00e78d16-7cf4-43d1-939e-73a89776a912",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_2dc013cc-3031-402a-9d00-eb24fedd01f9",
+      "type": "artist",
+      "name": "Xerxes",
+      "description": "Artist: Xerxes",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2dc013cc-3031-402a-9d00-eb24fedd01f9",
+        "country": "NO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1aaef522-4420-41c6-92b4-5ab7df010aac",
+      "type": "artist",
+      "name": "Xenophobic Ejaculation",
+      "description": "Artist: Xenophobic Ejaculation",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1aaef522-4420-41c6-92b4-5ab7df010aac",
+        "country": "FI",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_xenharmonic",
+      "type": "genre",
+      "name": "xenharmonic",
+      "description": "Musical genre: xenharmonic",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#269C89",
+        "playlist_id": "31vMSXGJYkMnYVfP4MVUMB",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_0e7d85ef-5cbb-44e4-85b5-28a3712cb51d",
+      "type": "artist",
+      "name": "XHOHX",
+      "description": "Artist: XHOHX",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0e7d85ef-5cbb-44e4-85b5-28a3712cb51d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_xhosa",
+      "relation_type": "has_artist",
+      "entity_b": "artist_43040ee9-7e27-40ea-82a7-355048c052f3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_xenharmonic",
+      "relation_type": "has_artist",
+      "entity_b": "artist_736c9358-4111-4938-a333-4e383ef9267b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_xenharmonic",
+      "relation_type": "has_artist",
+      "entity_b": "artist_de921e55-d899-4eee-9984-bfb6c8afa335",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_xenharmonic",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f928f220-7a46-4be5-9529-9e12b9b72b68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_xenharmonic",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9df1d12-f48b-4adc-baa1-4bff255ee24b",
+      "strength": 1.0
+    }
+  ]
+}

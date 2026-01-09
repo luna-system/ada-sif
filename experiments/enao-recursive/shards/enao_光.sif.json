@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5149",
+    "description": "Genres and artists starting with \u5149",
+    "shard_id": "\u5149",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_6fcdb710-4b3c-48f4-9855-6cf0f8d86f47",
+      "type": "artist",
+      "name": "\u5149GENJI",
+      "description": "Artist: \u5149GENJI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6fcdb710-4b3c-48f4-9855-6cf0f8d86f47",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_118bf512-9ce9-42a5-95e0-10359bb3e3ea",
+      "type": "artist",
+      "name": "\u5149\u7530\u5eb7\u5178",
+      "description": "Artist: \u5149\u7530\u5eb7\u5178",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "118bf512-9ce9-42a5-95e0-10359bb3e3ea",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

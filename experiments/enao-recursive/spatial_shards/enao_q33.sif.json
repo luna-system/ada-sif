@@ -1,0 +1,614 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - Mechanical/Electric + Spiky/Bouncy",
+    "description": "Genres in the Mechanical/Electric + Spiky/Bouncy region of the music space",
+    "shard_id": "q33",
+    "entity_count": 17,
+    "relationship_count": 66
+  },
+  "entities": [
+    {
+      "id": "genre_chillguitar",
+      "type": "genre",
+      "name": "chill guitar",
+      "description": "Musical genre: chill guitar",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#28B5D0",
+        "playlist_id": "4XhnpVMVwnL8e7EHxA2Rna",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_kabarett",
+      "type": "genre",
+      "name": "kabarett",
+      "description": "Musical genre: kabarett",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#7A6503",
+        "playlist_id": "7ptDZTQFdaqA519GUfff8k",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_comedia",
+      "type": "genre",
+      "name": "comedia",
+      "description": "Musical genre: comedia",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#766F05",
+        "playlist_id": "3oXNPFl1SakoBnaFnGKbZC",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_cuentoinfantile",
+      "type": "genre",
+      "name": "cuento infantile",
+      "description": "Musical genre: cuento infantile",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#58890C",
+        "playlist_id": "1TufwPOsgXigZyIUoh1GHj",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_bible",
+      "type": "genre",
+      "name": "bible",
+      "description": "Musical genre: bible",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#448101",
+        "playlist_id": "5Kg0nXuFU5d95KSFSN8k76",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_prewarblues",
+      "type": "genre",
+      "name": "pre-war blues",
+      "description": "Musical genre: pre-war blues",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#389C2A",
+        "playlist_id": "0vFJAnZTtSZ6LoIKoH0sBl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_pohadky",
+      "type": "genre",
+      "name": "pohadky",
+      "description": "Musical genre: pohadky",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#477F04",
+        "playlist_id": "2LWCWNdVk4bfLaaVMZVh6z",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_oratory",
+      "type": "genre",
+      "name": "oratory",
+      "description": "Musical genre: oratory",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#3A8105",
+        "playlist_id": "7bTaT6ImEJpkPb3OzYzk2Z",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_vintageswing",
+      "type": "genre",
+      "name": "vintage swing",
+      "description": "Musical genre: vintage swing",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4A8942",
+        "playlist_id": "4v2xTCDjMAWwXw1jvUahtv",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_triocubano",
+      "type": "genre",
+      "name": "trio cubano",
+      "description": "Musical genre: trio cubano",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#768C22",
+        "playlist_id": "1S961pBNDi5wvBim1dcxiq",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_prank",
+      "type": "genre",
+      "name": "prank",
+      "description": "Musical genre: prank",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#795D09",
+        "playlist_id": "7gMN44gKyJeABIt5tc34tA",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_piada",
+      "type": "genre",
+      "name": "piada",
+      "description": "Musical genre: piada",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#877305",
+        "playlist_id": "7hc9ogiNnd0EIvckgjRbjP",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_hangoskonyvek",
+      "type": "genre",
+      "name": "hangoskonyvek",
+      "description": "Musical genre: hangoskonyvek",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#326E07",
+        "playlist_id": "2BiLkczPTyfOtJx04FCdKn",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_rakugo",
+      "type": "genre",
+      "name": "rakugo",
+      "description": "Musical genre: rakugo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4F631E",
+        "playlist_id": "2eRw9eqaDyvtlYq1y2RlxR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_detskierasskazy",
+      "type": "genre",
+      "name": "detskie rasskazy",
+      "description": "Musical genre: detskie rasskazy",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#387F01",
+        "playlist_id": "4vCRbt59p7oHtBkwCzaX6b",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_gayageum",
+      "type": "genre",
+      "name": "gayageum",
+      "description": "Musical genre: gayageum",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#2FA498",
+        "playlist_id": "763GSASOYgfhcUcxqiklHL",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_tanci",
+      "type": "genre",
+      "name": "tanci",
+      "description": "Musical genre: tanci",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#447F12",
+        "playlist_id": "7ratOul7KberTWrn86l4O7",
+        "source": "Every Noise At Once"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8d7bee9d-373b-4ab5-b9ec-4c69b3543c8f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b84057c6-e3b7-4705-ad48-ac4306bc9d4d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1a5f7021-3742-4b0e-8b60-e21c3b593f5a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6add35d5-1e7f-47a3-ba3e-2765a52ab6bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_929b7a20-2f82-472a-a23d-429935cd6d34",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_290323a0-69cd-4868-9a6d-c054b024fd41",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57707543-db9b-4176-ab7e-916bd41f6f47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7f404dc2-7b25-4b38-b67d-efa380cb7213",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_da17fc71-228f-4294-94f8-6553ae541988",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f455c22-3515-4877-94c9-69830b3c2bc1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0c86aa8-90eb-422e-a0ba-a69f426627fb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c8f37f90-8870-481d-aa9e-64c7a0177e9f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3994dca2-69c4-4dbe-b6d3-30ba75c0f0f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b3583d0-413d-401f-b733-2e938dcda28c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ecf319c6-f86f-4d27-92cf-f087bf6fe7fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72e779e0-e4f7-4ff6-b3b3-caa9b926256b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0bab1a11-982c-4238-8758-c802667a990f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9f122e2-75b8-48ef-97ee-d5109b3a8424",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_60e7f0a8-ca9a-4cc4-a20b-764e3a0defe3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ca74c498-d116-41c9-8dce-6b655df1f0a4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a47249e2-d241-4beb-8933-ad86b30facb9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_22fdc4e1-1fd3-41f3-8cfc-1c3ce641ae6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a9c5cd7d-1027-4536-ba43-92f1167659ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3cd66a8b-326d-4a3d-b037-f3cadd3cef99",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51ba0416-9192-461b-8e13-763c8c7d3f13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_536b6014-3513-4ef4-84c4-f7883db26cfc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_68b58c1c-13a9-4b52-a439-e7f431c21d7e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15a37838-b256-43b8-975e-d9a2f20d5b26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b2c96bc2-e483-4cb3-b83b-7830df0b9f0d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67c64a73-e4bb-4b60-acb2-562c210a55d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae955732-7199-463f-ab07-489439302d7a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_47a08262-4566-4e00-b120-af1bfa7c3e83",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_390845c1-04d2-4624-84f2-314f5c44c9a3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf26e37a-e451-451e-bbde-b21b977cd8d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b2a0602-e21b-4110-a239-6a44e8108796",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dd2fe182-7c20-4fec-aa05-c8a603c29582",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_95f4354b-a706-4bb5-9aae-d5da425624a1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_655a9d3c-31fc-4586-8315-7c832dcb3543",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_84867b75-e15b-4d0f-af8a-993943eb6ffc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_138eac4d-2658-4c35-9ba4-99ce1c1150db",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0e680e3-56e6-4d27-99af-97b0523d3c57",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f7434d1-f209-4088-b8a3-e6ca78f4195e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2f1ce856-95e2-4d7f-b551-0cc6cab3feb4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fbc13a6c-2823-4cf7-bd46-e37037e0ce64",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0070faf1-adaa-4404-82d8-fe035c06f80b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_017289ad-7ead-4404-8caf-bf498a11eb6d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1427be04-4680-4f05-8143-56a4f63352e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_836a75d5-67f9-4b30-9efd-68b4a2c344d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4c6f5f9-a9b8-43b7-8743-38d5b058786a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kabarett",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ede6285d-1bda-45d9-93f3-0261a18018ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_comedia",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fea59f2-ffee-450f-9757-def553b73b19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cb6a0a3f-21c4-47f2-a876-0893f207d9f6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ed3f3ab7-7176-456f-bac2-c0873828d998",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_98104127-d15c-4b65-88c1-b79521342267",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9e2d4db3-36c3-45e0-b2c7-4c4cd0102f7f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a8531462-9335-4ab9-a18e-fe0cc18c9689",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70308970-01a9-40fa-833d-d49c6acc203d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_bible",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fe92a6ee-0136-44d9-9493-d2d6eb53d9e4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_affbbd26-0ed0-4abf-9457-6d0c763b191a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ccf7e67f-ecc5-4a27-861a-a039fd141627",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a075f4fc-7b3d-4a0e-a84d-6fc9b2f9a77a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3151e87-01ab-4188-9b37-bb6ef4cee038",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_prank",
+      "relation_type": "has_artist",
+      "entity_b": "artist_40e9249b-9922-413c-a654-a1755a0d6b44",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gayageum",
+      "relation_type": "has_artist",
+      "entity_b": "artist_04ad0e0f-9b1d-4f7a-b97f-e77d87d8b1f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gayageum",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5289949-f9a8-4b17-b2b5-5cbe7ad6ccc8",
+      "strength": 1.0
+    }
+  ]
+}

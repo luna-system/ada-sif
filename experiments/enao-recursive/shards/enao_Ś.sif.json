@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u015a",
+    "description": "Genres and artists starting with \u015a",
+    "shard_id": "\u015a",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_6104605d-c878-4e3f-8797-e0a3ea01cbca",
+      "type": "artist",
+      "name": "\u015awietliki",
+      "description": "Artist: \u015awietliki",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6104605d-c878-4e3f-8797-e0a3ea01cbca",
+        "country": "PL",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5929",
+    "description": "Genres and artists starting with \u5929",
+    "shard_id": "\u5929",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_06eac690-49c6-48c6-be8c-88b21c8c7d9c",
+      "type": "artist",
+      "name": "\u5929\u4f7f\u3046\u3068",
+      "description": "Artist: \u5929\u4f7f\u3046\u3068",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "06eac690-49c6-48c6-be8c-88b21c8c7d9c",
+        "country": "JP",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_0299623c-72fc-40d6-adf5-f4548f4d5aab",
+      "type": "artist",
+      "name": "\u5929\u6c17\u4e88\u5831",
+      "description": "Artist: \u5929\u6c17\u4e88\u5831",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0299623c-72fc-40d6-adf5-f4548f4d5aab",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e4d28ff6-9235-4c42-8e3a-e20d2534b843",
+      "type": "artist",
+      "name": "\u5929\u91ce\u6b63\u9053",
+      "description": "Artist: \u5929\u91ce\u6b63\u9053",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e4d28ff6-9235-4c42-8e3a-e20d2534b843",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_41ae1766-655c-4ae3-9ea1-1594c46430d5",
+      "type": "artist",
+      "name": "\u5929\u7ae5\u3088\u3057\u307f",
+      "description": "Artist: \u5929\u7ae5\u3088\u3057\u307f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "41ae1766-655c-4ae3-9ea1-1594c46430d5",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_96d6a3c2-439f-4ab2-80eb-e8cbd9a8beb7",
+      "type": "artist",
+      "name": "\u5929\u71d0",
+      "description": "Artist: \u5929\u71d0",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "96d6a3c2-439f-4ab2-80eb-e8cbd9a8beb7",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

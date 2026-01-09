@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u3072",
+    "description": "Genres and artists starting with \u3072",
+    "shard_id": "\u3072",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_4e9137f8-a20d-4f09-9cae-dedf421870b2",
+      "type": "artist",
+      "name": "\u3072\u3081\u30ad\u30e5\u30f3\u30d5\u30eb\u30fc\u30c4\u7f36",
+      "description": "Artist: \u3072\u3081\u30ad\u30e5\u30f3\u30d5\u30eb\u30fc\u30c4\u7f36",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4e9137f8-a20d-4f09-9cae-dedf421870b2",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2a90b676-bb3f-4e25-9f80-a7911dfd8eac",
+      "type": "artist",
+      "name": "\u3072\u308d\u3057\u307e MAPLE\u2605S",
+      "description": "Artist: \u3072\u308d\u3057\u307e MAPLE\u2605S",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2a90b676-bb3f-4e25-9f80-a7911dfd8eac",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

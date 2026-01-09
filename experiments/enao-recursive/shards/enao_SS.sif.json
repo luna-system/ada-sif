@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - SS",
+    "description": "Genres and artists starting with SS",
+    "shard_id": "SS",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c7171d97-8331-4872-b627-2e5f330eeb2d",
+      "type": "artist",
+      "name": "\u00df\u0119\u0111\u0167\u012bm\u0115 \u0160\u0167\u014d\u0157\u0129\u0117\u015f",
+      "description": "Artist: \u00df\u0119\u0111\u0167\u012bm\u0115 \u0160\u0167\u014d\u0157\u0129\u0117\u015f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c7171d97-8331-4872-b627-2e5f330eeb2d",
+        "country": "FR",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

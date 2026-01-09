@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0130",
+    "description": "Genres and artists starting with \u0130",
+    "shard_id": "\u0130",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_50212d97-29c6-44e5-99f1-345001587723",
+      "type": "artist",
+      "name": "\u0130lhan \u0130rem",
+      "description": "Artist: \u0130lhan \u0130rem",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "50212d97-29c6-44e5-99f1-345001587723",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_67345f3f-d77f-4b75-b454-5716b19ccae7",
+      "type": "artist",
+      "name": "\u0130brahim Tatl\u0131ses",
+      "description": "Artist: \u0130brahim Tatl\u0131ses",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "67345f3f-d77f-4b75-b454-5716b19ccae7",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a3de3b5f-952e-42fb-b2fa-639aa4f8fbb7",
+      "type": "artist",
+      "name": "\u0130brahim Erkal",
+      "description": "Artist: \u0130brahim Erkal",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a3de3b5f-952e-42fb-b2fa-639aa4f8fbb7",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ebee3206-d1bf-444f-8da5-c42284f5984a",
+      "type": "artist",
+      "name": "\u0130mera",
+      "description": "Artist: \u0130mera",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ebee3206-d1bf-444f-8da5-c42284f5984a",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_74db65a8-3e56-4978-bbc0-6996ae597ec0",
+      "type": "artist",
+      "name": "\u0130nci \u00c7ay\u0131rl\u0131",
+      "description": "Artist: \u0130nci \u00c7ay\u0131rl\u0131",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "74db65a8-3e56-4978-bbc0-6996ae597ec0",
+        "country": "TR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

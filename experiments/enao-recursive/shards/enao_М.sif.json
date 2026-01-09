@@ -1,0 +1,325 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u041c",
+    "description": "Genres and artists starting with \u041c",
+    "shard_id": "\u041c",
+    "entity_count": 26,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c1380b12-3909-47d8-a5fd-d20e76123310",
+      "type": "artist",
+      "name": "\u041c\u043e\u0434\u0435\u0441\u0442 \u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0447 \u041c\u0443\u0441\u043e\u0440\u0433\u0441\u043a\u0438\u0439",
+      "description": "Artist: \u041c\u043e\u0434\u0435\u0441\u0442 \u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0447 \u041c\u0443\u0441\u043e\u0440\u0433\u0441\u043a\u0438\u0439",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c1380b12-3909-47d8-a5fd-d20e76123310",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f91b9b28-25b7-4064-81d1-f43163085770",
+      "type": "artist",
+      "name": "\u041c\u0443\u043c\u0438\u0439 \u0422\u0440\u043e\u043b\u043b\u044c",
+      "description": "Artist: \u041c\u0443\u043c\u0438\u0439 \u0422\u0440\u043e\u043b\u043b\u044c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f91b9b28-25b7-4064-81d1-f43163085770",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_eccda5d3-901b-4d41-b931-5177f7b0b40e",
+      "type": "artist",
+      "name": "\u043c\u0438\u0449\u0430",
+      "description": "Artist: \u043c\u0438\u0449\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eccda5d3-901b-4d41-b931-5177f7b0b40e",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f1abe724-c26a-4ff4-bbf0-d28ed9f7740a",
+      "type": "artist",
+      "name": "\u041c\u0438\u0440\u0430\u0436",
+      "description": "Artist: \u041c\u0438\u0440\u0430\u0436",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f1abe724-c26a-4ff4-bbf0-d28ed9f7740a",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c05bbc73-0230-49ab-a47f-3e7fe7bcc192",
+      "type": "artist",
+      "name": "\u041c\u0430\u0448\u0430 \u041c\u0438\u0440\u043e\u0432\u0430",
+      "description": "Artist: \u041c\u0430\u0448\u0430 \u041c\u0438\u0440\u043e\u0432\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c05bbc73-0230-49ab-a47f-3e7fe7bcc192",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3b7a7d74-a671-46cf-b231-1341dbf2bf17",
+      "type": "artist",
+      "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
+      "description": "Artist: \u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3b7a7d74-a671-46cf-b231-1341dbf2bf17",
+        "country": "UA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1b67ca7b-3da9-4607-a5aa-93ed56034924",
+      "type": "artist",
+      "name": "\u041c\u0430\u0448\u0438\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+      "description": "Artist: \u041c\u0430\u0448\u0438\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1b67ca7b-3da9-4607-a5aa-93ed56034924",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_133274f4-266e-4d21-a329-109c5543f1a7",
+      "type": "artist",
+      "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0411\u0430\u0448\u0430\u043a\u043e\u0432",
+      "description": "Artist: \u041c\u0438\u0445\u0430\u0438\u043b \u0411\u0430\u0448\u0430\u043a\u043e\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "133274f4-266e-4d21-a329-109c5543f1a7",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d86ba505-a14f-445a-a679-cab927768206",
+      "type": "artist",
+      "name": "\u041c\u0430\u0440\u0438\u044f",
+      "description": "Artist: \u041c\u0430\u0440\u0438\u044f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d86ba505-a14f-445a-a679-cab927768206",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_015aa754-c36f-45c0-87e2-89179305ab99",
+      "type": "artist",
+      "name": "\u041c\u0438\u043b\u043a\u043e \u041a\u0430\u043b\u0430\u0439\u0434\u0436\u0438\u0435\u0432",
+      "description": "Artist: \u041c\u0438\u043b\u043a\u043e \u041a\u0430\u043b\u0430\u0439\u0434\u0436\u0438\u0435\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "015aa754-c36f-45c0-87e2-89179305ab99",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7ce583e9-55e2-491a-bb65-f8d80e327450",
+      "type": "artist",
+      "name": "\u041c\u0430\u0433\u0434\u0430",
+      "description": "Artist: \u041c\u0430\u0433\u0434\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7ce583e9-55e2-491a-bb65-f8d80e327450",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_33e04d42-291f-4204-b7b7-9dee1fe41688",
+      "type": "artist",
+      "name": "\u041c\u0430\u0433\u0430\u043f\u0430\u0441\u0430",
+      "description": "Artist: \u041c\u0430\u0433\u0430\u043f\u0430\u0441\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "33e04d42-291f-4204-b7b7-9dee1fe41688",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b8ab08c6-ae71-4465-9755-0e548b60a66b",
+      "type": "artist",
+      "name": "\u041c\u0430\u0440\u0438\u0430\u043d\u0430 \u041a\u0430\u043b\u0447\u0435\u0432\u0430",
+      "description": "Artist: \u041c\u0430\u0440\u0438\u0430\u043d\u0430 \u041a\u0430\u043b\u0447\u0435\u0432\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b8ab08c6-ae71-4465-9755-0e548b60a66b",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9f7f490e-d425-4d04-b6c5-2c00f2c2827a",
+      "type": "artist",
+      "name": "\u041c\u0443\u0442\u0430\u043d\u0442 \u042a\u0445\u0432\u043b\u0430\u043c",
+      "description": "Artist: \u041c\u0443\u0442\u0430\u043d\u0442 \u042a\u0445\u0432\u043b\u0430\u043c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f7f490e-d425-4d04-b6c5-2c00f2c2827a",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2c71b5c7-afae-4f39-b583-54e67a112a13",
+      "type": "artist",
+      "name": "\u041c\u0430\u044f",
+      "description": "Artist: \u041c\u0430\u044f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2c71b5c7-afae-4f39-b583-54e67a112a13",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_16e64b6a-1eab-46fc-9463-0465f1dfe56c",
+      "type": "artist",
+      "name": "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0421\u0443\u0445\u0430\u043d\u043a\u0438\u043d\u0430",
+      "description": "Artist: \u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430 \u0421\u0443\u0445\u0430\u043d\u043a\u0438\u043d\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "16e64b6a-1eab-46fc-9463-0465f1dfe56c",
+        "country": "SU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_37784744-9854-45f0-bd9b-fbb53626aef1",
+      "type": "artist",
+      "name": "\u041c\u0430\u044f\u043a",
+      "description": "Artist: \u041c\u0430\u044f\u043a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "37784744-9854-45f0-bd9b-fbb53626aef1",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c5fbd2a7-574b-47f9-b3c8-14dfcabf283d",
+      "type": "artist",
+      "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u0428\u0443\u0444\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
+      "description": "Artist: \u041c\u0438\u0445\u0430\u0438\u043b \u0428\u0443\u0444\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c5fbd2a7-574b-47f9-b3c8-14dfcabf283d",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8523fe01-b990-45af-a8ab-aaa4fb3db907",
+      "type": "artist",
+      "name": "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u0440\u0443\u0433",
+      "description": "Artist: \u041c\u0438\u0445\u0430\u0438\u043b \u041a\u0440\u0443\u0433",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8523fe01-b990-45af-a8ab-aaa4fb3db907",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_669408e1-b700-420b-8f52-c1e59eb93e81",
+      "type": "artist",
+      "name": "\u041c\u043e\u043d\u0433\u043e\u043b \u0428\u0443\u0443\u0434\u0430\u043d",
+      "description": "Artist: \u041c\u043e\u043d\u0433\u043e\u043b \u0428\u0443\u0443\u0434\u0430\u043d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "669408e1-b700-420b-8f52-c1e59eb93e81",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b795441a-927f-4b25-b167-10fd75ea6f3d",
+      "type": "artist",
+      "name": "\u041c\u043e\u0440",
+      "description": "Artist: \u041c\u043e\u0440",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b795441a-927f-4b25-b167-10fd75ea6f3d",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0508e904-2a03-4d6b-8c08-f8a755612f21",
+      "type": "artist",
+      "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+      "description": "Artist: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0508e904-2a03-4d6b-8c08-f8a755612f21",
+        "country": "Unknown",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_9dfe0065-b37b-42c5-a212-3f7abc9035a8",
+      "type": "artist",
+      "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0430\u043c\u0435\u0440\u043d\u044b\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440 \u00abMusica Viva\u00bb",
+      "description": "Artist: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0430\u043c\u0435\u0440\u043d\u044b\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440 \u00abMusica Viva\u00bb",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9dfe0065-b37b-42c5-a212-3f7abc9035a8",
+        "country": "RU",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_cd1056ab-7145-485f-ba0c-67687e955f61",
+      "type": "artist",
+      "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+      "description": "Artist: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cd1056ab-7145-485f-ba0c-67687e955f61",
+        "country": "Unknown",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_bb21b167-572f-4bfb-8c91-63e22863ec5d",
+      "type": "artist",
+      "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0445\u043e\u0440\u043e\u0432\u0430\u044f \u043a\u0430\u043f\u0435\u043b\u043b\u0430 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u0432",
+      "description": "Artist: \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0445\u043e\u0440\u043e\u0432\u0430\u044f \u043a\u0430\u043f\u0435\u043b\u043b\u0430 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bb21b167-572f-4bfb-8c91-63e22863ec5d",
+        "country": "RU",
+        "type": "Choir"
+      }
+    },
+    {
+      "id": "artist_6f33572c-5fe3-4115-9b28-fc6ccf04b933",
+      "type": "artist",
+      "name": "\u041c\u0440\u0430\u043a\u043e\u0431\u0435\u0441\u0438\u0435",
+      "description": "Artist: \u041c\u0440\u0430\u043a\u043e\u0431\u0435\u0441\u0438\u0435",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6f33572c-5fe3-4115-9b28-fc6ccf04b933",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

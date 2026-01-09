@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00cc",
+    "description": "Genres and artists starting with \u00cc",
+    "shard_id": "\u00cc",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_48cbefc4-c8d5-4249-b170-d251361fd903",
+      "type": "artist",
+      "name": "\u00ccxtahuele",
+      "description": "Artist: \u00ccxtahuele",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48cbefc4-c8d5-4249-b170-d251361fd903",
+        "country": "SE",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

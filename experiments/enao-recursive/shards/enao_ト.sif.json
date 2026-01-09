@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u30c8",
+    "description": "Genres and artists starting with \u30c8",
+    "shard_id": "\u30c8",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_21bfd325-b158-4fe9-af07-20c45a4a114e",
+      "type": "artist",
+      "name": "\u30c8\u30e2\u30b3DEATH",
+      "description": "Artist: \u30c8\u30e2\u30b3DEATH",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "21bfd325-b158-4fe9-af07-20c45a4a114e",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9b443a43-7b1e-44bc-b9bb-9030eec18c86",
+      "type": "artist",
+      "name": "\u30c8\u30ec\u30d0\u30fc",
+      "description": "Artist: \u30c8\u30ec\u30d0\u30fc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9b443a43-7b1e-44bc-b9bb-9030eec18c86",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

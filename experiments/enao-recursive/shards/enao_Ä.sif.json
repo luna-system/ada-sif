@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c4",
+    "description": "Genres and artists starting with \u00c4",
+    "shard_id": "\u00c4",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_e4a1117b-a155-4753-a3e9-807149122af6",
+      "type": "artist",
+      "name": "\u00c4l Jawala",
+      "description": "Artist: \u00c4l Jawala",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e4a1117b-a155-4753-a3e9-807149122af6",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_201ac6bb-c268-4e9d-9390-5305512d5ee2",
+      "type": "artist",
+      "name": "\u00c4rsenik",
+      "description": "Artist: \u00c4rsenik",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "201ac6bb-c268-4e9d-9390-5305512d5ee2",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5b197a43-f9b2-4cfa-ac23-f96aec3a6201",
+      "type": "artist",
+      "name": "\u00c4ndl\u00f6s Otukt",
+      "description": "Artist: \u00c4ndl\u00f6s Otukt",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5b197a43-f9b2-4cfa-ac23-f96aec3a6201",
+        "country": "PT",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

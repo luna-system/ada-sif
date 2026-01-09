@@ -1,0 +1,2966 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "timestamp": "2026-01-08T14:27:30.066963Z",
+    "domain": "music",
+    "source": "Every Noise Index + MusicBrainz API",
+    "stats": {
+      "genres": 5,
+      "entities": 143,
+      "relationships": 205
+    }
+  },
+  "summary": {
+    "text": "A maximalist semantic graph of 5 genres and 138 artists from MusicBrainz."
+  },
+  "entities": [
+    {
+      "id": "genre_pop",
+      "type": "genre",
+      "name": "pop",
+      "description": "Musical genre: pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AD8A07",
+        "playlist_id": "6gS3HhOiI17QNojjPuPzqc",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "type": "artist",
+      "name": "Various Artists",
+      "description": "Artist: Various Artists",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
+        "country": "Unknown",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_125ec42a-7229-4250-afc5-e057484327fe",
+      "type": "artist",
+      "name": "[unknown]",
+      "description": "Artist: [unknown]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+        "country": "XW",
+        "type": "Other"
+      }
+    },
+    {
+      "id": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "type": "artist",
+      "name": "Bruce Springsteen",
+      "description": "Artist: Bruce Springsteen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "type": "artist",
+      "name": "The Beatles",
+      "description": "Artist: The Beatles",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "type": "artist",
+      "name": "The E Street Band",
+      "description": "Artist: The E Street Band",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d6652e7b-33fe-49ef-8336-4c863b4f996f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "type": "artist",
+      "name": "The Rolling Stones",
+      "description": "Artist: The Rolling Stones",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "type": "artist",
+      "name": "Elvis Presley",
+      "description": "Artist: Elvis Presley",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "type": "artist",
+      "name": "Bob Dylan",
+      "description": "Artist: Bob Dylan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "type": "artist",
+      "name": "U2",
+      "description": "Artist: U2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+        "country": "IE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "artist",
+      "name": "Frank Sinatra",
+      "description": "Artist: Frank Sinatra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "197450cd-0124-4164-b723-3c22dd16494d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "type": "artist",
+      "name": "Pearl Jam",
+      "description": "Artist: Pearl Jam",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "type": "artist",
+      "name": "Grateful Dead",
+      "description": "Artist: Grateful Dead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_eea8a864-fcda-4602-9569-38ab446decd6",
+      "type": "artist",
+      "name": "Louis Armstrong",
+      "description": "Artist: Louis Armstrong",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eea8a864-fcda-4602-9569-38ab446decd6",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_83d91898-7763-47d7-b03b-b92132375c47",
+      "type": "artist",
+      "name": "Pink Floyd",
+      "description": "Artist: Pink Floyd",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "type": "artist",
+      "name": "David Bowie",
+      "description": "Artist: David Bowie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "type": "artist",
+      "name": "The Beach Boys",
+      "description": "Artist: The Beach Boys",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_070d193a-845c-479f-980e-bef15710653e",
+      "type": "artist",
+      "name": "Prince",
+      "description": "Artist: Prince",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "070d193a-845c-479f-980e-bef15710653e",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_54799c0e-eb45-4eea-996d-c4d71a63c499",
+      "type": "artist",
+      "name": "Ella Fitzgerald",
+      "description": "Artist: Ella Fitzgerald",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "type": "artist",
+      "name": "Led Zeppelin",
+      "description": "Artist: Led Zeppelin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "type": "artist",
+      "name": "Metallica",
+      "description": "Artist: Metallica",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_20244d07-534f-4eff-b4d4-930878889970",
+      "type": "artist",
+      "name": "Taylor Swift",
+      "description": "Artist: Taylor Swift",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+      "type": "artist",
+      "name": "Ennio Morricone",
+      "description": "Artist: Ennio Morricone",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+        "country": "IT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+      "type": "artist",
+      "name": "Johnny Cash",
+      "description": "Artist: Johnny Cash",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+      "type": "artist",
+      "name": "Queen",
+      "description": "Artist: Queen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "type": "artist",
+      "name": "Billie Holiday",
+      "description": "Artist: Billie Holiday",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "type": "artist",
+      "name": "Nat King Cole",
+      "description": "Artist: Nat King Cole",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_618b6900-0618-4f1e-b835-bccb17f84294",
+      "type": "artist",
+      "name": "Eric Clapton",
+      "description": "Artist: Eric Clapton",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+      "type": "artist",
+      "name": "KISS",
+      "description": "Artist: KISS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+      "type": "artist",
+      "name": "Genesis",
+      "description": "Artist: Genesis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+      "type": "artist",
+      "name": "Depeche Mode",
+      "description": "Artist: Depeche Mode",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_75167b8b-44e4-407b-9d35-effe87b223cf",
+      "type": "artist",
+      "name": "Neil Young",
+      "description": "Artist: Neil Young",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "type": "artist",
+      "name": "Radiohead",
+      "description": "Artist: Radiohead",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ba0d6274-db14-4ef5-b28d-657ebde1a396",
+      "type": "artist",
+      "name": "The Smashing Pumpkins",
+      "description": "Artist: The Smashing Pumpkins",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "type": "artist",
+      "name": "The Cure",
+      "description": "Artist: The Cure",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+      "type": "artist",
+      "name": "Elton John",
+      "description": "Artist: Elton John",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+      "type": "artist",
+      "name": "The Who",
+      "description": "Artist: The Who",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+      "type": "artist",
+      "name": "Bing Crosby",
+      "description": "Artist: Bing Crosby",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "type": "artist",
+      "name": "R.E.M.",
+      "description": "Artist: R.E.M.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5e6c760b-42e0-4df4-a221-0269355da00a",
+      "type": "artist",
+      "name": "Dean Martin",
+      "description": "Artist: Dean Martin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5e6c760b-42e0-4df4-a221-0269355da00a",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_17b53d9f-5c63-4a09-a593-dde4608e0db9",
+      "type": "artist",
+      "name": "The Kinks",
+      "description": "Artist: The Kinks",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2ce02909-598b-44ef-a456-151ba0a3bd70",
+      "type": "artist",
+      "name": "Ray Charles",
+      "description": "Artist: Ray Charles",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c296e10c-110a-4103-9e77-47bfebb7fb2e",
+      "type": "artist",
+      "name": "Bob Marley & The Wailers",
+      "description": "Artist: Bob Marley & The Wailers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+        "country": "JM",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_79239441-bfd5-4981-a70c-55c3f15c1287",
+      "type": "artist",
+      "name": "Madonna",
+      "description": "Artist: Madonna",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "type": "artist",
+      "name": "Fleetwood Mac",
+      "description": "Artist: Fleetwood Mac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+      "type": "artist",
+      "name": "Roy Orbison",
+      "description": "Artist: Roy Orbison",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ba550d0e-adac-4864-b88b-407cab5e76af",
+      "type": "artist",
+      "name": "Paul McCartney",
+      "description": "Artist: Paul McCartney",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+      "type": "artist",
+      "name": "John Lennon",
+      "description": "Artist: John Lennon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+      "type": "artist",
+      "name": "Kylie Minogue",
+      "description": "Artist: Kylie Minogue",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+        "country": "AU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+      "type": "artist",
+      "name": "Marillion",
+      "description": "Artist: Marillion",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e20747e7-55a4-452e-8766-7b985585082d",
+      "type": "artist",
+      "name": "Frank Zappa",
+      "description": "Artist: Frank Zappa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e20747e7-55a4-452e-8766-7b985585082d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_rap",
+      "type": "genre",
+      "name": "rap",
+      "description": "Musical genre: rap",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A88A04",
+        "playlist_id": "6s5MoZzR70Qef7x4bVxDO1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "type": "artist",
+      "name": "Eminem",
+      "description": "Artist: Eminem",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "type": "artist",
+      "name": "Lil B",
+      "description": "Artist: Lil B",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1550f952-c91b-40d7-9b4d-d26a259ee932",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "type": "artist",
+      "name": "Michael Jackson",
+      "description": "Artist: Michael Jackson",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+      "type": "artist",
+      "name": "Red Hot Chili Peppers",
+      "description": "Artist: Red Hot Chili Peppers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "type": "artist",
+      "name": "50 Cent",
+      "description": "Artist: 50 Cent",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "type": "artist",
+      "name": "Linkin Park",
+      "description": "Artist: Linkin Park",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "type": "artist",
+      "name": "Lil Wayne",
+      "description": "Artist: Lil Wayne",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+      "type": "artist",
+      "name": "Cypress Hill",
+      "description": "Artist: Cypress Hill",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "type": "artist",
+      "name": "Ye",
+      "description": "Artist: Ye",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+      "type": "artist",
+      "name": "Nicki Minaj",
+      "description": "Artist: Nicki Minaj",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "type": "artist",
+      "name": "Beastie Boys",
+      "description": "Artist: Beastie Boys",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cfbc0924-0035-4d6c-8197-f024653af823",
+      "type": "artist",
+      "name": "Nas",
+      "description": "Artist: Nas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "type": "artist",
+      "name": "JAY‐Z",
+      "description": "Artist: JAY‐Z",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "type": "artist",
+      "name": "Drake",
+      "description": "Artist: Drake",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "type": "artist",
+      "name": "Gucci Mane",
+      "description": "Artist: Gucci Mane",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_859d0860-d480-4efd-970c-c05d5f1776b8",
+      "type": "artist",
+      "name": "Beyoncé",
+      "description": "Artist: Beyoncé",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+      "type": "artist",
+      "name": "Chief Keef",
+      "description": "Artist: Chief Keef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b15ebd71-a252-417d-9e1c-3e6863da68f8",
+      "type": "artist",
+      "name": "Faith No More",
+      "description": "Artist: Faith No More",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b15ebd71-a252-417d-9e1c-3e6863da68f8",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_373b3663-ecc3-40c4-9241-838ae8ca34d0",
+      "type": "artist",
+      "name": "Jovanotti",
+      "description": "Artist: Jovanotti",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "373b3663-ecc3-40c4-9241-838ae8ca34d0",
+        "country": "IT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+      "type": "artist",
+      "name": "Juice WRLD",
+      "description": "Artist: Juice WRLD",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36cf5c5e-14fb-42c0-a232-56bd449a81df",
+      "type": "artist",
+      "name": "Z‐Ro",
+      "description": "Artist: Z‐Ro",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36cf5c5e-14fb-42c0-a232-56bd449a81df",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "type": "artist",
+      "name": "2Pac",
+      "description": "Artist: 2Pac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3798b104-01cb-484c-a3b0-56adc6399b80",
+      "type": "artist",
+      "name": "Rage Against the Machine",
+      "description": "Artist: Rage Against the Machine",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_38033d8c-9f77-4610-b861-e920bbd2e88d",
+      "type": "artist",
+      "name": "Kollegah",
+      "description": "Artist: Kollegah",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "38033d8c-9f77-4610-b861-e920bbd2e88d",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_48262e82-db9f-4a92-b650-dfef979b73ec",
+      "type": "artist",
+      "name": "Future",
+      "description": "Artist: Future",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8837b875-3689-4646-b3fd-d8b53815c7a8",
+      "type": "artist",
+      "name": "Lil Uzi Vert",
+      "description": "Artist: Lil Uzi Vert",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "type": "artist",
+      "name": "Slipknot",
+      "description": "Artist: Slipknot",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_012dec9f-0ff0-4eee-ab20-347280aa1e47",
+      "type": "artist",
+      "name": "Swishahouse",
+      "description": "Artist: Swishahouse",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "012dec9f-0ff0-4eee-ab20-347280aa1e47",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6c0143f4-f950-4608-8572-6ebefc2a37c9",
+      "type": "artist",
+      "name": "SpaceGhostPurrp",
+      "description": "Artist: SpaceGhostPurrp",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6c0143f4-f950-4608-8572-6ebefc2a37c9",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b420ff86-e1d9-4387-b1e6-d04600a8a25b",
+      "type": "artist",
+      "name": "Viper",
+      "description": "Artist: Viper",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b420ff86-e1d9-4387-b1e6-d04600a8a25b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7aa4a16e-9d5a-41d3-968e-fae1a2c84d05",
+      "type": "artist",
+      "name": "IAM",
+      "description": "Artist: IAM",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7aa4a16e-9d5a-41d3-968e-fae1a2c84d05",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "type": "artist",
+      "name": "Ed Sheeran",
+      "description": "Artist: Ed Sheeran",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+      "type": "artist",
+      "name": "Jeezy",
+      "description": "Artist: Jeezy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8a6ccf62-b8fa-46d7-87df-f2dd14e6280d",
+      "type": "artist",
+      "name": "Lloyd Banks",
+      "description": "Artist: Lloyd Banks",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8a6ccf62-b8fa-46d7-87df-f2dd14e6280d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "type": "artist",
+      "name": "twenty one pilots",
+      "description": "Artist: twenty one pilots",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_aa74f3dc-c63b-463f-a7ed-bfe42e0c59c0",
+      "type": "artist",
+      "name": "Funky DL",
+      "description": "Artist: Funky DL",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa74f3dc-c63b-463f-a7ed-bfe42e0c59c0",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f0602f55-1770-483d-89bd-4bae0d0ac086",
+      "type": "artist",
+      "name": "Jennifer Lopez",
+      "description": "Artist: Jennifer Lopez",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f0602f55-1770-483d-89bd-4bae0d0ac086",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_23d9d74d-c95e-46a6-be26-a6075c49747a",
+      "type": "artist",
+      "name": "Faithless",
+      "description": "Artist: Faithless",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "23d9d74d-c95e-46a6-be26-a6075c49747a",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a8ebde98-7e91-46c7-992c-90039ba42017",
+      "type": "artist",
+      "name": "De La Soul",
+      "description": "Artist: De La Soul",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a4dd0e77-83b8-4e92-89b7-effb0e47fd8c",
+      "type": "artist",
+      "name": "LL Cool J",
+      "description": "Artist: LL Cool J",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a4dd0e77-83b8-4e92-89b7-effb0e47fd8c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_381086ea-f511-4aba-bdf9-71c753dc5077",
+      "type": "artist",
+      "name": "Kendrick Lamar",
+      "description": "Artist: Kendrick Lamar",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5f6ab597-f57a-40da-be9e-adad48708203",
+      "type": "artist",
+      "name": "Dr. Dre",
+      "description": "Artist: Dr. Dre",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5f6ab597-f57a-40da-be9e-adad48708203",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+      "type": "artist",
+      "name": "Kid Cudi",
+      "description": "Artist: Kid Cudi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7928481f-848e-4551-b658-472c0aaf0c85",
+      "type": "artist",
+      "name": "Die Fantastischen Vier",
+      "description": "Artist: Die Fantastischen Vier",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7928481f-848e-4551-b658-472c0aaf0c85",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f90e8b26-9e52-4669-a5c9-e28529c47894",
+      "type": "artist",
+      "name": "Snoop Dogg",
+      "description": "Artist: Snoop Dogg",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+      "type": "artist",
+      "name": "Falco",
+      "description": "Artist: Falco",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+        "country": "AT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c2d25856-a09a-4d15-b404-77dd19c19e63",
+      "type": "artist",
+      "name": "R. Kelly",
+      "description": "Artist: R. Kelly",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c2d25856-a09a-4d15-b404-77dd19c19e63",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_07cc14fb-4784-4a25-804b-2686ed5ef52c",
+      "type": "artist",
+      "name": "The Game",
+      "description": "Artist: The Game",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+      "type": "artist",
+      "name": "Run‐D.M.C.",
+      "description": "Artist: Run‐D.M.C.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_rock",
+      "type": "genre",
+      "name": "rock",
+      "description": "Musical genre: rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AC711A",
+        "playlist_id": "7dowgSWOmvdpwNkGFMUs6e",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_e01646f2-2a04-450d-8bf2-0d993082e058",
+      "type": "artist",
+      "name": "Phish",
+      "description": "Artist: Phish",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e01646f2-2a04-450d-8bf2-0d993082e058",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "type": "artist",
+      "name": "Nirvana",
+      "description": "Artist: Nirvana",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+      "type": "artist",
+      "name": "Wilco",
+      "description": "Artist: Wilco",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_66c662b6-6e2f-4930-8610-912e24c63ed1",
+      "type": "artist",
+      "name": "AC/DC",
+      "description": "Artist: AC/DC",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+      "type": "artist",
+      "name": "Miles Davis",
+      "description": "Artist: Miles Davis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5a28f8c2-31fb-4047-ae57-c5c326989262",
+      "type": "artist",
+      "name": "Hawkwind",
+      "description": "Artist: Hawkwind",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5a28f8c2-31fb-4047-ae57-c5c326989262",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_79491354-3d83-40e3-9d8e-7592d58d790a",
+      "type": "artist",
+      "name": "Deep Purple",
+      "description": "Artist: Deep Purple",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_92bb085a-2924-4479-b627-181a1835d2f5",
+      "type": "artist",
+      "name": "植松伸夫",
+      "description": "Artist: 植松伸夫",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "92bb085a-2924-4479-b627-181a1835d2f5",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_06fb1c8b-566e-4cb2-985b-b467c90781d4",
+      "type": "artist",
+      "name": "Jimi Hendrix",
+      "description": "Artist: Jimi Hendrix",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b59ac58d-036e-4bba-8112-c32a34c4575b",
+      "type": "artist",
+      "name": "Jerry Lee Lewis",
+      "description": "Artist: Jerry Lee Lewis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b59ac58d-036e-4bba-8112-c32a34c4575b",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_urbanolatino",
+      "type": "genre",
+      "name": "urbano latino",
+      "description": "Musical genre: urbano latino",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BE9102",
+        "playlist_id": "1kfJj9rUlOGawu2U1U4oZn",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_a06afacd-7894-442e-95ba-49366b2b3e02",
+      "type": "artist",
+      "name": "Zion & Lennox",
+      "description": "Artist: Zion & Lennox",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a06afacd-7894-442e-95ba-49366b2b3e02",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9ad05894-b480-42a6-8ddc-d886518d5698",
+      "type": "artist",
+      "name": "Jezyel",
+      "description": "Artist: Jezyel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9ad05894-b480-42a6-8ddc-d886518d5698",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa4152e2-dfd7-459f-8439-7387d199271f",
+      "type": "artist",
+      "name": "Isleña Antumalen",
+      "description": "Artist: Isleña Antumalen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa4152e2-dfd7-459f-8439-7387d199271f",
+        "country": "CL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d077fd5-f657-4746-ae7c-687e866c5eb1",
+      "type": "artist",
+      "name": "Kiroyumeto",
+      "description": "Artist: Kiroyumeto",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d077fd5-f657-4746-ae7c-687e866c5eb1",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+      "type": "artist",
+      "name": "Yeidy Eish",
+      "description": "Artist: Yeidy Eish",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_hiphop",
+      "type": "genre",
+      "name": "hip hop",
+      "description": "Musical genre: hip hop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AD7F09",
+        "playlist_id": "6MXkE0uYF4XwU4VTtyrpfP",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_dd884b36-c727-4c74-bb06-ee7827611098",
+      "type": "artist",
+      "name": "Knxwledge",
+      "description": "Artist: Knxwledge",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "dd884b36-c727-4c74-bb06-ee7827611098",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf2e15d0-4b77-469e-bfb4-f8414415baca",
+      "type": "artist",
+      "name": "Public Enemy",
+      "description": "Artist: Public Enemy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ef954679-5ee7-4016-acef-7ac71f2fa3d8",
+      "type": "artist",
+      "name": "Atmosphere",
+      "description": "Artist: Atmosphere",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef954679-5ee7-4016-acef-7ac71f2fa3d8",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ea9078ef-20ca-4506-81ea-2ae5fe3a42e8",
+      "type": "artist",
+      "name": "Madlib",
+      "description": "Artist: Madlib",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ea9078ef-20ca-4506-81ea-2ae5fe3a42e8",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_10a9ff92-9637-4498-afea-7044b2ab0dc0",
+      "type": "artist",
+      "name": "Busta Rhymes",
+      "description": "Artist: Busta Rhymes",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_73fdb566-a9b1-494c-9f32-51768ec9fd27",
+      "type": "artist",
+      "name": "OutKast",
+      "description": "Artist: OutKast",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6b656576-9504-432e-823d-8920139db2f0",
+      "type": "artist",
+      "name": "Zippy Kid",
+      "description": "Artist: Zippy Kid",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6b656576-9504-432e-823d-8920139db2f0",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
+      "type": "artist",
+      "name": "J Dilla",
+      "description": "Artist: J Dilla",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "type": "artist",
+      "name": "JPEGMAFIA",
+      "description": "Artist: JPEGMAFIA",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_535afeda-2538-435d-9dd1-5e10be586774",
+      "type": "artist",
+      "name": "Earth, Wind & Fire",
+      "description": "Artist: Earth, Wind & Fire",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "535afeda-2538-435d-9dd1-5e10be586774",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0febdcf7-4e1f-4661-9493-b40427de2c13",
+      "type": "artist",
+      "name": "Wu‐Tang Clan",
+      "description": "Artist: Wu‐Tang Clan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0febdcf7-4e1f-4661-9493-b40427de2c13",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+      "type": "artist",
+      "name": "A Tribe Called Quest",
+      "description": "Artist: A Tribe Called Quest",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+      "type": "artist",
+      "name": "Ice Cube",
+      "description": "Artist: Ice Cube",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3da0e6e7-e10a-4d83-b481-37705b8a2f3c",
+      "type": "artist",
+      "name": "Tha Soloist",
+      "description": "Artist: Tha Soloist",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3da0e6e7-e10a-4d83-b481-37705b8a2f3c",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1f456d75-4d69-4bf8-9c49-cb23d758b4a4",
+      "type": "artist",
+      "name": "目黒将司",
+      "description": "Artist: 目黒将司",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1f456d75-4d69-4bf8-9c49-cb23d758b4a4",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+      "type": "artist",
+      "name": "Ghostface Killah",
+      "description": "Artist: Ghostface Killah",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_188711ed-c99b-439c-844a-ca831f63a727",
+      "type": "artist",
+      "name": "MF DOOM",
+      "description": "Artist: MF DOOM",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "188711ed-c99b-439c-844a-ca831f63a727",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_494e8d09-f85b-4543-892f-a5096aed1cd4",
+      "type": "artist",
+      "name": "Mariah Carey",
+      "description": "Artist: Mariah Carey",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4939695e-1f38-496f-978f-4ebf9ef13e9d",
+      "type": "artist",
+      "name": "Kool Keith",
+      "description": "Artist: Kool Keith",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4939695e-1f38-496f-978f-4ebf9ef13e9d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2fa45bbb-0efb-4950-9d40-94bf23cbfec1",
+      "type": "artist",
+      "name": "Bone Thugs‐n‐Harmony",
+      "description": "Artist: Bone Thugs‐n‐Harmony",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2fa45bbb-0efb-4950-9d40-94bf23cbfec1",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_48513f24-37d5-423f-b9b7-2b712af7f50d",
+      "type": "artist",
+      "name": "9th Wonder",
+      "description": "Artist: 9th Wonder",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48513f24-37d5-423f-b9b7-2b712af7f50d",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d5be5333-4171-427e-8e12-732087c6b78e",
+      "type": "artist",
+      "name": "Black Eyed Peas",
+      "description": "Artist: Black Eyed Peas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d0dd58c4-ab66-41c4-9883-4f493ef6653f",
+      "type": "artist",
+      "name": "DJ Screw",
+      "description": "Artist: DJ Screw",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d0dd58c4-ab66-41c4-9883-4f493ef6653f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cf15719f-51f9-4db8-a15d-5eed9664ce69",
+      "type": "artist",
+      "name": "Lupe Fiasco",
+      "description": "Artist: Lupe Fiasco",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cf15719f-51f9-4db8-a15d-5eed9664ce69",
+        "country": "US",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_125ec42a-7229-4250-afc5-e057484327fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_197450cd-0124-4164-b723-3c22dd16494d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eea8a864-fcda-4602-9569-38ab446decd6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83d91898-7763-47d7-b03b-b92132375c47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_070d193a-845c-479f-980e-bef15710653e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_54799c0e-eb45-4eea-996d-c4d71a63c499",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20244d07-534f-4eff-b4d4-930878889970",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_618b6900-0618-4f1e-b835-bccb17f84294",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_75167b8b-44e4-407b-9d35-effe87b223cf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ba0d6274-db14-4ef5-b28d-657ebde1a396",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5e6c760b-42e0-4df4-a221-0269355da00a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_17b53d9f-5c63-4a09-a593-dde4608e0db9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2ce02909-598b-44ef-a456-151ba0a3bd70",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c296e10c-110a-4103-9e77-47bfebb7fb2e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79239441-bfd5-4981-a70c-55c3f15c1287",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ba550d0e-adac-4864-b88b-407cab5e76af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e20747e7-55a4-452e-8766-7b985585082d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cfbc0924-0035-4d6c-8197-f024653af823",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_859d0860-d480-4efd-970c-c05d5f1776b8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b15ebd71-a252-417d-9e1c-3e6863da68f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_373b3663-ecc3-40c4-9241-838ae8ca34d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36cf5c5e-14fb-42c0-a232-56bd449a81df",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3798b104-01cb-484c-a3b0-56adc6399b80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_38033d8c-9f77-4610-b861-e920bbd2e88d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_48262e82-db9f-4a92-b650-dfef979b73ec",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8837b875-3689-4646-b3fd-d8b53815c7a8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_012dec9f-0ff0-4eee-ab20-347280aa1e47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6c0143f4-f950-4608-8572-6ebefc2a37c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b420ff86-e1d9-4387-b1e6-d04600a8a25b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7aa4a16e-9d5a-41d3-968e-fae1a2c84d05",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dcad99e7-3c3e-4c78-bf8a-68203e17da48",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8a6ccf62-b8fa-46d7-87df-f2dd14e6280d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aa74f3dc-c63b-463f-a7ed-bfe42e0c59c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0602f55-1770-483d-89bd-4bae0d0ac086",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23d9d74d-c95e-46a6-be26-a6075c49747a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a8ebde98-7e91-46c7-992c-90039ba42017",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4dd0e77-83b8-4e92-89b7-effb0e47fd8c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_381086ea-f511-4aba-bdf9-71c753dc5077",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f6ab597-f57a-40da-be9e-adad48708203",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7928481f-848e-4551-b658-472c0aaf0c85",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f90e8b26-9e52-4669-a5c9-e28529c47894",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dcd95aa4-f3ff-492d-a621-8518ada0f58b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c2d25856-a09a-4d15-b404-77dd19c19e63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_07cc14fb-4784-4a25-804b-2686ed5ef52c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rap",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_70248960-cb53-4ea4-943a-edb18f7d336f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6652e7b-33fe-49ef-8336-4c863b4f996f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01809552-4f87-45b0-afff-2c6f0730a3be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e01646f2-2a04-450d-8bf2-0d993082e058",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_72c536dc-7137-4477-a521-567eeb840fa8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83d91898-7763-47d7-b03b-b92132375c47",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_75167b8b-44e4-407b-9d35-effe87b223cf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_070d193a-845c-479f-980e-bef15710653e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ba0d6274-db14-4ef5-b28d-657ebde1a396",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eea8a864-fcda-4602-9569-38ab446decd6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_54799c0e-eb45-4eea-996d-c4d71a63c499",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_618b6900-0618-4f1e-b835-bccb17f84294",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e20747e7-55a4-452e-8766-7b985585082d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_66c662b6-6e2f-4930-8610-912e24c63ed1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_17b53d9f-5c63-4a09-a593-dde4608e0db9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5a28f8c2-31fb-4047-ae57-c5c326989262",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79491354-3d83-40e3-9d8e-7592d58d790a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_92bb085a-2924-4479-b627-181a1835d2f5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c296e10c-110a-4103-9e77-47bfebb7fb2e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20244d07-534f-4eff-b4d4-930878889970",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_06fb1c8b-566e-4cb2-985b-b467c90781d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_rock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b59ac58d-036e-4bba-8112-c32a34c4575b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a06afacd-7894-442e-95ba-49366b2b3e02",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9ad05894-b480-42a6-8ddc-d886518d5698",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fa4152e2-dfd7-459f-8439-7387d199271f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3d077fd5-f657-4746-ae7c-687e866c5eb1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_urbanolatino",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89ad4ac3-39f7-470e-963a-56509c546377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9beb62b2-88db-4cea-801e-162cd344ee53",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1550f952-c91b-40d7-9b4d-d26a259ee932",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dd884b36-c727-4c74-bb06-ee7827611098",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf2e15d0-4b77-469e-bfb4-f8414415baca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cfbc0924-0035-4d6c-8197-f024653af823",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a8ebde98-7e91-46c7-992c-90039ba42017",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ef954679-5ee7-4016-acef-7ac71f2fa3d8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f90e8b26-9e52-4669-a5c9-e28529c47894",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ea9078ef-20ca-4506-81ea-2ae5fe3a42e8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_10a9ff92-9637-4498-afea-7044b2ab0dc0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_73fdb566-a9b1-494c-9f32-51768ec9fd27",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b420ff86-e1d9-4387-b1e6-d04600a8a25b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c2d25856-a09a-4d15-b404-77dd19c19e63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b656576-9504-432e-823d-8920139db2f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_535afeda-2538-435d-9dd1-5e10be586774",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_381086ea-f511-4aba-bdf9-71c753dc5077",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0febdcf7-4e1f-4661-9493-b40427de2c13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3da0e6e7-e10a-4d83-b481-37705b8a2f3c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f456d75-4d69-4bf8-9c49-cb23d758b4a4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4dd0e77-83b8-4e92-89b7-effb0e47fd8c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_188711ed-c99b-439c-844a-ca831f63a727",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_494e8d09-f85b-4543-892f-a5096aed1cd4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4939695e-1f38-496f-978f-4ebf9ef13e9d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2fa45bbb-0efb-4950-9d40-94bf23cbfec1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_48513f24-37d5-423f-b9b7-2b712af7f50d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d5be5333-4171-427e-8e12-732087c6b78e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_48262e82-db9f-4a92-b650-dfef979b73ec",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d0dd58c4-ab66-41c4-9883-4f493ef6653f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_859d0860-d480-4efd-970c-c05d5f1776b8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cf15719f-51f9-4db8-a15d-5eed9664ce69",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hiphop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f6ab597-f57a-40da-be9e-adad48708203",
+      "strength": 1.0
+    }
+  ]
+}

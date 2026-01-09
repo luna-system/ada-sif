@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u30df",
+    "description": "Genres and artists starting with \u30df",
+    "shard_id": "\u30df",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_2f39bcb3-6fbe-4579-9842-990d385b4689",
+      "type": "artist",
+      "name": "\u30df\u30c4\u30ad\u30e8",
+      "description": "Artist: \u30df\u30c4\u30ad\u30e8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2f39bcb3-6fbe-4579-9842-990d385b4689",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cf970580-4a0a-4e56-9f44-e9a7a09929b6",
+      "type": "artist",
+      "name": "\u30df\u30ab\u30c5\u30adBIGWAVE",
+      "description": "Artist: \u30df\u30ab\u30c5\u30adBIGWAVE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cf970580-4a0a-4e56-9f44-e9a7a09929b6",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uff33",
+    "description": "Genres and artists starting with \uff33",
+    "shard_id": "\uff33",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_0abf3d5f-9cc1-4f25-806f-cec716154e1e",
+      "type": "artist",
+      "name": "\uff33\uff29\uff27\uff2e\uff21\uff2c\u971e",
+      "description": "Artist: \uff33\uff29\uff27\uff2e\uff21\uff2c\u971e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0abf3d5f-9cc1-4f25-806f-cec716154e1e",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_b01a27ef-8ca3-4d91-9e68-b5fe43b19688",
+      "type": "artist",
+      "name": "\uff33\uff35\uff33\uff30\uff25\uff23\uff34\u30c7\u30b8\u30bf\u30eb",
+      "description": "Artist: \uff33\uff35\uff33\uff30\uff25\uff23\uff34\u30c7\u30b8\u30bf\u30eb",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b01a27ef-8ca3-4d91-9e68-b5fe43b19688",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

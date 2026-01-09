@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8523",
+    "description": "Genres and artists starting with \u8523",
+    "shard_id": "\u8523",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_6c41410a-f1d3-4d31-8dd4-8de53f23ccd2",
+      "type": "artist",
+      "name": "\u8523\u9e97\u840d",
+      "description": "Artist: \u8523\u9e97\u840d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6c41410a-f1d3-4d31-8dd4-8de53f23ccd2",
+        "country": "HK",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

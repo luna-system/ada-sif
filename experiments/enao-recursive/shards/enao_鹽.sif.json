@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9e7d",
+    "description": "Genres and artists starting with \u9e7d",
+    "shard_id": "\u9e7d",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_8359e1dd-714f-4bd3-b585-03299aa718ff",
+      "type": "artist",
+      "name": "\u9e7d\u7117\u96de $alty Chick",
+      "description": "Artist: \u9e7d\u7117\u96de $alty Chick",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8359e1dd-714f-4bd3-b585-03299aa718ff",
+        "country": "HK",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

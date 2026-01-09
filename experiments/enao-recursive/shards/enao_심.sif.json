@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc2ec",
+    "description": "Genres and artists starting with \uc2ec",
+    "shard_id": "\uc2ec",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c31ad89f-1c08-45ea-ac8d-6b21c29aa9dd",
+      "type": "artist",
+      "name": "\uc2ec\uc218\ubd09",
+      "description": "Artist: \uc2ec\uc218\ubd09",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c31ad89f-1c08-45ea-ac8d-6b21c29aa9dd",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

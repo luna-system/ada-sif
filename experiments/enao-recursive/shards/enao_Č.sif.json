@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u010c",
+    "description": "Genres and artists starting with \u010c",
+    "shard_id": "\u010c",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_afad991b-c46d-465f-8d65-f02606f08fe8",
+      "type": "artist",
+      "name": "\u010cesk\u00e1 filharmonie",
+      "description": "Artist: \u010cesk\u00e1 filharmonie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "afad991b-c46d-465f-8d65-f02606f08fe8",
+        "country": "CZ",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_5f01d5c3-0744-4ecd-8fad-48b91411d8de",
+      "type": "artist",
+      "name": "\u010cad",
+      "description": "Artist: \u010cad",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5f01d5c3-0744-4ecd-8fad-48b91411d8de",
+        "country": "SK",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

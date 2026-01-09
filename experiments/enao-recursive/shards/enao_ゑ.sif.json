@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u3091",
+    "description": "Genres and artists starting with \u3091",
+    "shard_id": "\u3091",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_ceeaf3c9-20ea-4340-a19a-089dd17e8ce5",
+      "type": "artist",
+      "name": "\u3091\u3067\u3043\u307e\u3041\u3053\u3093",
+      "description": "Artist: \u3091\u3067\u3043\u307e\u3041\u3053\u3093",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ceeaf3c9-20ea-4340-a19a-089dd17e8ce5",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

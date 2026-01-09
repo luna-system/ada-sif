@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u7206",
+    "description": "Genres and artists starting with \u7206",
+    "shard_id": "\u7206",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7535d59f-d9ef-4af4-8c01-b6eb6f668ae0",
+      "type": "artist",
+      "name": "\u7206\u98a8\u30b9\u30e9\u30f3\u30d7",
+      "description": "Artist: \u7206\u98a8\u30b9\u30e9\u30f3\u30d7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7535d59f-d9ef-4af4-8c01-b6eb6f668ae0",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

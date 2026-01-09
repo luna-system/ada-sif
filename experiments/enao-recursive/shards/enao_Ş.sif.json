@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u015e",
+    "description": "Genres and artists starting with \u015e",
+    "shard_id": "\u015e",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f984dae5-0a52-438f-9459-e4d0f40b983d",
+      "type": "artist",
+      "name": "\u015eevval Sam",
+      "description": "Artist: \u015eevval Sam",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f984dae5-0a52-438f-9459-e4d0f40b983d",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b0570bbc-05f0-44d3-9c7c-f267f03a880a",
+      "type": "artist",
+      "name": "\u015eatellites",
+      "description": "Artist: \u015eatellites",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b0570bbc-05f0-44d3-9c7c-f267f03a880a",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

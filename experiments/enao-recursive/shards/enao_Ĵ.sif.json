@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0134",
+    "description": "Genres and artists starting with \u0134",
+    "shard_id": "\u0134",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f72575b9-b4f6-4b2c-ae93-40484fa83f42",
+      "type": "artist",
+      "name": "\u0134omart kaj Nata\u015da",
+      "description": "Artist: \u0134omart kaj Nata\u015da",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f72575b9-b4f6-4b2c-ae93-40484fa83f42",
+        "country": "KZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4f3e3e7f-578c-4ade-a526-8d90ba80720f",
+      "type": "artist",
+      "name": "\u0134ak le Puil",
+      "description": "Artist: \u0134ak le Puil",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4f3e3e7f-578c-4ade-a526-8d90ba80720f",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

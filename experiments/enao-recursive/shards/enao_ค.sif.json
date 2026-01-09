@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0e04",
+    "description": "Genres and artists starting with \u0e04",
+    "shard_id": "\u0e04",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_bdf33e78-1582-45cd-996f-00040cfcf0aa",
+      "type": "artist",
+      "name": "\u0e04\u0e31\u0e21\u0e20\u0e35\u0e23\u0e4c \u0e41\u0e2a\u0e07\u0e17\u0e2d\u0e07",
+      "description": "Artist: \u0e04\u0e31\u0e21\u0e20\u0e35\u0e23\u0e4c \u0e41\u0e2a\u0e07\u0e17\u0e2d\u0e07",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bdf33e78-1582-45cd-996f-00040cfcf0aa",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f77ee6f1-9b57-499e-a926-5decd2661f67",
+      "type": "artist",
+      "name": "\u0e04\u0e32\u0e23\u0e32\u0e27\u0e32\u0e19",
+      "description": "Artist: \u0e04\u0e32\u0e23\u0e32\u0e27\u0e32\u0e19",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f77ee6f1-9b57-499e-a926-5decd2661f67",
+        "country": "TH",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0f16032c-bb57-4901-91fd-2860132d698d",
+      "type": "artist",
+      "name": "\u0e04\u0e32\u0e23\u0e32\u0e1a\u0e32\u0e27",
+      "description": "Artist: \u0e04\u0e32\u0e23\u0e32\u0e1a\u0e32\u0e27",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0f16032c-bb57-4901-91fd-2860132d698d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

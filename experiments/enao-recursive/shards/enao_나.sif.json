@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ub098",
+    "description": "Genres and artists starting with \ub098",
+    "shard_id": "\ub098",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_79de65f4-4f6e-4118-9f1d-87787d15d247",
+      "type": "artist",
+      "name": "\ub098\uc724\uc120",
+      "description": "Artist: \ub098\uc724\uc120",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "79de65f4-4f6e-4118-9f1d-87787d15d247",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5063c332-4eba-49e4-b0a4-ea302aba303a",
+      "type": "artist",
+      "name": "\ub098\ud6c8\uc544",
+      "description": "Artist: \ub098\ud6c8\uc544",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5063c332-4eba-49e4-b0a4-ea302aba303a",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

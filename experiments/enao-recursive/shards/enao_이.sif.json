@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc774",
+    "description": "Genres and artists starting with \uc774",
+    "shard_id": "\uc774",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_0433e75d-70b6-4118-9ff8-9b6f7e534093",
+      "type": "artist",
+      "name": "\uc774\uc601\uc9c0",
+      "description": "Artist: \uc774\uc601\uc9c0",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0433e75d-70b6-4118-9ff8-9b6f7e534093",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_559fa8cf-8d0b-4634-bc2f-75de52acc971",
+      "type": "artist",
+      "name": "\uc774\ubbf8\uc790",
+      "description": "Artist: \uc774\ubbf8\uc790",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "559fa8cf-8d0b-4634-bc2f-75de52acc971",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_92da6620-e990-4e21-a1dd-78b474b9c741",
+      "type": "artist",
+      "name": "\uc774\uc790\uc5f0",
+      "description": "Artist: \uc774\uc790\uc5f0",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "92da6620-e990-4e21-a1dd-78b474b9c741",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ed10aafc-6182-49dd-9075-2c7e6b580803",
+      "type": "artist",
+      "name": "\uc774\uc131\uc560",
+      "description": "Artist: \uc774\uc131\uc560",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ed10aafc-6182-49dd-9075-2c7e6b580803",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

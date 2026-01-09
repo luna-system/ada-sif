@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9b31",
+    "description": "Genres and artists starting with \u9b31",
+    "shard_id": "\u9b31",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_3fdaac99-0261-49a7-92b3-5a909cba187d",
+      "type": "artist",
+      "name": "\u9b31P",
+      "description": "Artist: \u9b31P",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3fdaac99-0261-49a7-92b3-5a909cba187d",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

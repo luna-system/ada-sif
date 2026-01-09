@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6749",
+    "description": "Genres and artists starting with \u6749",
+    "shard_id": "\u6749",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_9a28e9a6-f848-4e33-be94-cd84d4a20b92",
+      "type": "artist",
+      "name": "\u6749\u5c71\u6e05\u8cb4",
+      "description": "Artist: \u6749\u5c71\u6e05\u8cb4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9a28e9a6-f848-4e33-be94-cd84d4a20b92",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_09ded9a7-8a07-4fb2-ad6f-668bb1e90a5b",
+      "type": "artist",
+      "name": "\u6749\u826f\u592a\u90ce",
+      "description": "Artist: \u6749\u826f\u592a\u90ce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "09ded9a7-8a07-4fb2-ad6f-668bb1e90a5b",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_804b1081-b5cd-4f13-baa3-b0ff46a86292",
+      "type": "artist",
+      "name": "\u6749\u672c\u62d3",
+      "description": "Artist: \u6749\u672c\u62d3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "804b1081-b5cd-4f13-baa3-b0ff46a86292",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

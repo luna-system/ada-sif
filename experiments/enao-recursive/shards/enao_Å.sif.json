@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c5",
+    "description": "Genres and artists starting with \u00c5",
+    "shard_id": "\u00c5",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_aca81f6e-fe29-491c-adf8-4ff12851483c",
+      "type": "artist",
+      "name": "\u00c5-Festival",
+      "description": "Artist: \u00c5-Festival",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aca81f6e-fe29-491c-adf8-4ff12851483c",
+        "country": "DK",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

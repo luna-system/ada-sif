@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6681",
+    "description": "Genres and artists starting with \u6681",
+    "shard_id": "\u6681",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_6c252d46-d89d-4778-819b-dd1570150ea5",
+      "type": "artist",
+      "name": "\u6681Records",
+      "description": "Artist: \u6681Records",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6c252d46-d89d-4778-819b-dd1570150ea5",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

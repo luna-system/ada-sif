@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u95dc",
+    "description": "Genres and artists starting with \u95dc",
+    "shard_id": "\u95dc",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_701e418e-c88c-4c31-875a-e6889f051f13",
+      "type": "artist",
+      "name": "\u95dc\u6b63\u5091",
+      "description": "Artist: \u95dc\u6b63\u5091",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "701e418e-c88c-4c31-875a-e6889f051f13",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4eb19ca8-aba6-4318-8324-4fef3b8fe2d6",
+      "type": "artist",
+      "name": "\u95dc\u6dd1\u6021",
+      "description": "Artist: \u95dc\u6dd1\u6021",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4eb19ca8-aba6-4318-8324-4fef3b8fe2d6",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_70587392-9a9e-4aa2-8477-cce02f711427",
+      "type": "artist",
+      "name": "\u95dc\u6d77\u5c71",
+      "description": "Artist: \u95dc\u6d77\u5c71",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70587392-9a9e-4aa2-8477-cce02f711427",
+        "country": "HK",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

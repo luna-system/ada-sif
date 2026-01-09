@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6843",
+    "description": "Genres and artists starting with \u6843",
+    "shard_id": "\u6843",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_905809e7-9928-49e7-9407-0629cf73e519",
+      "type": "artist",
+      "name": "\u6843\u5c71\u6674\u8863",
+      "description": "Artist: \u6843\u5c71\u6674\u8863",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "905809e7-9928-49e7-9407-0629cf73e519",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

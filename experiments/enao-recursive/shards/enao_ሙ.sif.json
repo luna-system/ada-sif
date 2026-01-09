@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u1219",
+    "description": "Genres and artists starting with \u1219",
+    "shard_id": "\u1219",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7296039f-992c-4807-b818-c9e79f7d73b9",
+      "type": "artist",
+      "name": "\u1219\u1209\u1240\u1295 \u1218\u1208\u1230",
+      "description": "Artist: \u1219\u1209\u1240\u1295 \u1218\u1208\u1230",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7296039f-992c-4807-b818-c9e79f7d73b9",
+        "country": "ET",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_67f0c7ca-14e8-47a3-be0e-bd2f2ffe25bb",
+      "type": "artist",
+      "name": "\u1219\u120b\u1271 \u12a0\u1235\u1273\u1325\u1244",
+      "description": "Artist: \u1219\u120b\u1271 \u12a0\u1235\u1273\u1325\u1244",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "67f0c7ca-14e8-47a3-be0e-bd2f2ffe25bb",
+        "country": "ET",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u7f85",
+    "description": "Genres and artists starting with \u7f85",
+    "shard_id": "\u7f85",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c1153a67-6cda-406c-a7c8-e6e7cb3f2786",
+      "type": "artist",
+      "name": "\u7f85\u6642\u8c50",
+      "description": "Artist: \u7f85\u6642\u8c50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c1153a67-6cda-406c-a7c8-e6e7cb3f2786",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_22f044dc-970c-4bac-abf7-69d71f62247d",
+      "type": "artist",
+      "name": "\u7f85\u5bb6\u82f1",
+      "description": "Artist: \u7f85\u5bb6\u82f1",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "22f044dc-970c-4bac-abf7-69d71f62247d",
+        "country": "HK",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

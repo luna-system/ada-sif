@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u548c",
+    "description": "Genres and artists starting with \u548c",
+    "shard_id": "\u548c",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c5ae5832-cbbf-44d0-8b9c-36e67360c5b1",
+      "type": "artist",
+      "name": "\u548c\u697d\u5668\u30d0\u30f3\u30c9",
+      "description": "Artist: \u548c\u697d\u5668\u30d0\u30f3\u30c9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c5ae5832-cbbf-44d0-8b9c-36e67360c5b1",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d2fec39e-25c5-4b3e-9419-7f6c243b2f74",
+      "type": "artist",
+      "name": "\u548c\u7530\u8cb4\u53f2",
+      "description": "Artist: \u548c\u7530\u8cb4\u53f2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2fec39e-25c5-4b3e-9419-7f6c243b2f74",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_10041f2c-17b0-42b1-89a1-f836664d6289",
+      "type": "artist",
+      "name": "\u548c\u7530\u52a0\u5948\u5b50",
+      "description": "Artist: \u548c\u7530\u52a0\u5948\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "10041f2c-17b0-42b1-89a1-f836664d6289",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9c547ab6-01af-4a10-9b18-f12ba5d24a48",
+      "type": "artist",
+      "name": "\u548c\u7530\u30a2\u30ad\u5b50",
+      "description": "Artist: \u548c\u7530\u30a2\u30ad\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9c547ab6-01af-4a10-9b18-f12ba5d24a48",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_be525bd6-a16f-4956-a46d-5f91ff1a8299",
+      "type": "artist",
+      "name": "\u548c\u592a\u9f13\u677e\u6751\u7d44",
+      "description": "Artist: \u548c\u592a\u9f13\u677e\u6751\u7d44",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "be525bd6-a16f-4956-a46d-5f91ff1a8299",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

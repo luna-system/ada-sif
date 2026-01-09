@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc624",
+    "description": "Genres and artists starting with \uc624",
+    "shard_id": "\uc624",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_45d1bbd3-b826-4470-afa4-4b30f287b7af",
+      "type": "artist",
+      "name": "\uc624\uae30\ud0dd",
+      "description": "Artist: \uc624\uae30\ud0dd",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "45d1bbd3-b826-4470-afa4-4b30f287b7af",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5b59",
+    "description": "Genres and artists starting with \u5b59",
+    "shard_id": "\u5b59",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_ff0ecbbe-34b0-49c7-a36d-81a47700ac13",
+      "type": "artist",
+      "name": "\u5b59\u71d5\u59ff",
+      "description": "Artist: \u5b59\u71d5\u59ff",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ff0ecbbe-34b0-49c7-a36d-81a47700ac13",
+        "country": "SG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_789c350f-5713-4b54-a968-2fe7fcf40cf8",
+      "type": "artist",
+      "name": "\u5b59\u5949\u4e2d",
+      "description": "Artist: \u5b59\u5949\u4e2d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "789c350f-5713-4b54-a968-2fe7fcf40cf8",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_63ed0832-d719-4edd-b4b8-f834693e2a27",
+      "type": "artist",
+      "name": "\u5b59\u8d35\u751f",
+      "description": "Artist: \u5b59\u8d35\u751f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "63ed0832-d719-4edd-b4b8-f834693e2a27",
+        "country": "CN",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

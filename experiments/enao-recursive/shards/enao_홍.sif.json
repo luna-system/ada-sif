@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ud64d",
+    "description": "Genres and artists starting with \ud64d",
+    "shard_id": "\ud64d",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_70e2b455-ac86-4d18-baf4-f69f92134f17",
+      "type": "artist",
+      "name": "\ud64d\uc9c4\uc601",
+      "description": "Artist: \ud64d\uc9c4\uc601",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "70e2b455-ac86-4d18-baf4-f69f92134f17",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

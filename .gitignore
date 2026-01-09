@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+.astro/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store
+
+# Data (keep data/ but ignore temp stuff inside)
+# actually we WANT to commit our data/ folder since it contains our precious SIFs
+# but maybe ignore huge raw files if we had them?
+# for now, commit everything in data/
+
+# Experiments
+# Ignore random experiment output unless specified
+experiments/**/output/
+
+# Raw Data Sources (Large)
+*.dat
+*.dat.gz
+*.csv
+# But keep our SIFs
+!*.sif.json
+!*.sif.json.gz

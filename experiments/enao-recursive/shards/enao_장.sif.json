@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc7a5",
+    "description": "Genres and artists starting with \uc7a5",
+    "shard_id": "\uc7a5",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7a001fa0-1f81-4b57-9d8d-ddc92d9395dd",
+      "type": "artist",
+      "name": "\uc7a5\uc724\uc815",
+      "description": "Artist: \uc7a5\uc724\uc815",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7a001fa0-1f81-4b57-9d8d-ddc92d9395dd",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

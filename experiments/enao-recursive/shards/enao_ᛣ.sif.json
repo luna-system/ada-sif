@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u16e3",
+    "description": "Genres and artists starting with \u16e3",
+    "shard_id": "\u16e3",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_a9b298e8-b2fe-4d8a-aea9-119f20a3799e",
+      "type": "artist",
+      "name": "\u16e3 MROK \u16e3",
+      "description": "Artist: \u16e3 MROK \u16e3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a9b298e8-b2fe-4d8a-aea9-119f20a3799e",
+        "country": "RU",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u85e4",
+    "description": "Genres and artists starting with \u85e4",
+    "shard_id": "\u85e4",
+    "entity_count": 7,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c3a4aeca-8f02-4d22-b1ff-693434ab09a8",
+      "type": "artist",
+      "name": "\u85e4\u4e95\u98a8",
+      "description": "Artist: \u85e4\u4e95\u98a8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c3a4aeca-8f02-4d22-b1ff-693434ab09a8",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8bc03f2e-9617-4023-8357-6afb4af77df2",
+      "type": "artist",
+      "name": "\u85e4\u7530\u306f\u3058\u3081",
+      "description": "Artist: \u85e4\u7530\u306f\u3058\u3081",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8bc03f2e-9617-4023-8357-6afb4af77df2",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2fb29c13-2a59-4f8b-8b91-6d5ba4c4b4a9",
+      "type": "artist",
+      "name": "\u85e4\u3042\u3084\u5b50",
+      "description": "Artist: \u85e4\u3042\u3084\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2fb29c13-2a59-4f8b-8b91-6d5ba4c4b4a9",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9f4ec2c0-8d3b-43e5-9a73-d85357ae5b3d",
+      "type": "artist",
+      "name": "\u85e4\u5c71\u4e00\u90ce",
+      "description": "Artist: \u85e4\u5c71\u4e00\u90ce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f4ec2c0-8d3b-43e5-9a73-d85357ae5b3d",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b634b174-c6dd-4156-b899-96cbe24be2f3",
+      "type": "artist",
+      "name": "\u85e4\u539f\u4eae\u5b50",
+      "description": "Artist: \u85e4\u539f\u4eae\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b634b174-c6dd-4156-b899-96cbe24be2f3",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_83f69dc5-a744-48f4-9c1a-273b9700a731",
+      "type": "artist",
+      "name": "\u85e4\u539f\u7fa9\u6c5f",
+      "description": "Artist: \u85e4\u539f\u7fa9\u6c5f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83f69dc5-a744-48f4-9c1a-273b9700a731",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_01918090-83b2-4911-8951-b33ee4090d9d",
+      "type": "artist",
+      "name": "\u85e4\u4e95\u90f7\u5b50",
+      "description": "Artist: \u85e4\u4e95\u90f7\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "01918090-83b2-4911-8951-b33ee4090d9d",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

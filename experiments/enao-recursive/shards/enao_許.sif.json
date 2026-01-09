@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8a31",
+    "description": "Genres and artists starting with \u8a31",
+    "shard_id": "\u8a31",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_d244c64f-a39d-4a76-91d9-f3e6b23bdf4d",
+      "type": "artist",
+      "name": "\u8a31\u5fd7\u5b89",
+      "description": "Artist: \u8a31\u5fd7\u5b89",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d244c64f-a39d-4a76-91d9-f3e6b23bdf4d",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36ef3857-5be4-4ee0-9e8b-3280a9913a67",
+      "type": "artist",
+      "name": "\u8a31\u51a0\u5091",
+      "description": "Artist: \u8a31\u51a0\u5091",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36ef3857-5be4-4ee0-9e8b-3280a9913a67",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fb76911f-14c4-4565-8573-336f13e3966e",
+      "type": "artist",
+      "name": "\u8a31\u8339\u82b8",
+      "description": "Artist: \u8a31\u8339\u82b8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb76911f-14c4-4565-8573-336f13e3966e",
+        "country": "TW",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

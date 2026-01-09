@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc2f9",
+    "description": "Genres and artists starting with \uc2f9",
+    "shard_id": "\uc2f9",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_8c3372f8-f3b2-40b0-be2e-bf62115f5dbf",
+      "type": "artist",
+      "name": "\uc2f9\uc4f0\ub9ac",
+      "description": "Artist: \uc2f9\uc4f0\ub9ac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8c3372f8-f3b2-40b0-be2e-bf62115f5dbf",
+        "country": "KR",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

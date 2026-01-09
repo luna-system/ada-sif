@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5009",
+    "description": "Genres and artists starting with \u5009",
+    "shard_id": "\u5009",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_60f41bf9-86cb-482b-a1b3-64a3da90fa4a",
+      "type": "artist",
+      "name": "\u5009\u6728\u9ebb\u8863",
+      "description": "Artist: \u5009\u6728\u9ebb\u8863",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "60f41bf9-86cb-482b-a1b3-64a3da90fa4a",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

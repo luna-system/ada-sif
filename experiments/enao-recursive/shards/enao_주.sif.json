@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc8fc",
+    "description": "Genres and artists starting with \uc8fc",
+    "shard_id": "\uc8fc",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c86d8b36-2ebc-42bc-b503-9b9d5d443167",
+      "type": "artist",
+      "name": "\uc8fc\ud604\ubbf8",
+      "description": "Artist: \uc8fc\ud604\ubbf8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c86d8b36-2ebc-42bc-b503-9b9d5d443167",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_49e6f120-fdc6-45ed-a19a-e9710f7bba63",
+      "type": "artist",
+      "name": "\uc8fc\ubcd1\uc120",
+      "description": "Artist: \uc8fc\ubcd1\uc120",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "49e6f120-fdc6-45ed-a19a-e9710f7bba63",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0416",
+    "description": "Genres and artists starting with \u0416",
+    "shard_id": "\u0416",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_352b2bf4-c0a5-4b95-bbd5-0f75ea79ad8c",
+      "type": "artist",
+      "name": "\u0416\u0430\u0440\u043e\u043a",
+      "description": "Artist: \u0416\u0430\u0440\u043e\u043a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "352b2bf4-c0a5-4b95-bbd5-0f75ea79ad8c",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2412c10e-9af6-4167-a093-b35ae27af94c",
+      "type": "artist",
+      "name": "\u0416\u043e\u0440\u043e \u041b\u044e\u0431\u0438\u043c\u0435\u0446\u0430",
+      "description": "Artist: \u0416\u043e\u0440\u043e \u041b\u044e\u0431\u0438\u043c\u0435\u0446\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2412c10e-9af6-4167-a093-b35ae27af94c",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2ac94681-8e76-43c1-8287-e6dbbb1745ac",
+      "type": "artist",
+      "name": "\u0416\u0435\u0441\u0442\u042c \u0414\u043e\u0431\u0440\u043e\u0439 \u0412\u043e\u043b\u0438",
+      "description": "Artist: \u0416\u0435\u0441\u0442\u042c \u0414\u043e\u0431\u0440\u043e\u0439 \u0412\u043e\u043b\u0438",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2ac94681-8e76-43c1-8287-e6dbbb1745ac",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e3b99cd6-ad99-4583-9cc9-65c01a8f6857",
+      "type": "artist",
+      "name": "\u0416\u0430\u0440\u043a\u043e \u0424\u0435\u0434\u0456\u0440",
+      "description": "Artist: \u0416\u0430\u0440\u043a\u043e \u0424\u0435\u0434\u0456\u0440",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e3b99cd6-ad99-4583-9cc9-65c01a8f6857",
+        "country": "UA",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

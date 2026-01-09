@@ -1,0 +1,153 @@
+{
+  "version": "1.1",
+  "metadata": {
+    "title": "Hipparcos Star Catalog (Sharded)",
+    "description": "Hipparcos-2 catalog split into constellation-based shards for progressive loading",
+    "total_entities": 117975,
+    "total_relationships": 44708,
+    "shard_count": 20,
+    "shard_strategy": "constellation"
+  },
+  "shards": [
+    {
+      "id": "constellation_andromeda",
+      "name": "Andromeda",
+      "url": "constellation_andromeda.sif.json",
+      "entity_count": 3175,
+      "relationship_count": 3174
+    },
+    {
+      "id": "constellation_cassiopeia",
+      "name": "Cassiopeia",
+      "url": "constellation_cassiopeia.sif.json",
+      "entity_count": 1635,
+      "relationship_count": 1634
+    },
+    {
+      "id": "constellation_pegasus",
+      "name": "Pegasus",
+      "url": "constellation_pegasus.sif.json",
+      "entity_count": 2993,
+      "relationship_count": 2992
+    },
+    {
+      "id": "constellation_aries",
+      "name": "Aries",
+      "url": "constellation_aries.sif.json",
+      "entity_count": 635,
+      "relationship_count": 634
+    },
+    {
+      "id": "constellation_perseus",
+      "name": "Perseus",
+      "url": "constellation_perseus.sif.json",
+      "entity_count": 1167,
+      "relationship_count": 1166
+    },
+    {
+      "id": "constellation_taurus",
+      "name": "Taurus",
+      "url": "constellation_taurus.sif.json",
+      "entity_count": 1947,
+      "relationship_count": 1946
+    },
+    {
+      "id": "constellation_orion",
+      "name": "Orion",
+      "url": "constellation_orion.sif.json",
+      "entity_count": 2054,
+      "relationship_count": 2053
+    },
+    {
+      "id": "constellation_gemini",
+      "name": "Gemini",
+      "url": "constellation_gemini.sif.json",
+      "entity_count": 1735,
+      "relationship_count": 1734
+    },
+    {
+      "id": "constellation_canis_major",
+      "name": "Canis Major",
+      "url": "constellation_canis_major.sif.json",
+      "entity_count": 1669,
+      "relationship_count": 1668
+    },
+    {
+      "id": "constellation_cancer",
+      "name": "Cancer",
+      "url": "constellation_cancer.sif.json",
+      "entity_count": 2031,
+      "relationship_count": 2030
+    },
+    {
+      "id": "constellation_ursa_major",
+      "name": "Ursa Major",
+      "url": "constellation_ursa_major.sif.json",
+      "entity_count": 4764,
+      "relationship_count": 4763
+    },
+    {
+      "id": "constellation_leo",
+      "name": "Leo",
+      "url": "constellation_leo.sif.json",
+      "entity_count": 2578,
+      "relationship_count": 2577
+    },
+    {
+      "id": "constellation_virgo",
+      "name": "Virgo",
+      "url": "constellation_virgo.sif.json",
+      "entity_count": 3449,
+      "relationship_count": 3448
+    },
+    {
+      "id": "constellation_scorpius",
+      "name": "Scorpius",
+      "url": "constellation_scorpius.sif.json",
+      "entity_count": 2769,
+      "relationship_count": 2768
+    },
+    {
+      "id": "constellation_sagittarius",
+      "name": "Sagittarius",
+      "url": "constellation_sagittarius.sif.json",
+      "entity_count": 2358,
+      "relationship_count": 2357
+    },
+    {
+      "id": "constellation_lyra",
+      "name": "Lyra",
+      "url": "constellation_lyra.sif.json",
+      "entity_count": 1252,
+      "relationship_count": 1251
+    },
+    {
+      "id": "constellation_aquila",
+      "name": "Aquila",
+      "url": "constellation_aquila.sif.json",
+      "entity_count": 2364,
+      "relationship_count": 2363
+    },
+    {
+      "id": "constellation_cygnus",
+      "name": "Cygnus",
+      "url": "constellation_cygnus.sif.json",
+      "entity_count": 2915,
+      "relationship_count": 2914
+    },
+    {
+      "id": "constellation_capricornus",
+      "name": "Capricornus",
+      "url": "constellation_capricornus.sif.json",
+      "entity_count": 679,
+      "relationship_count": 678
+    },
+    {
+      "id": "constellation_aquarius",
+      "name": "Aquarius",
+      "url": "constellation_aquarius.sif.json",
+      "entity_count": 2559,
+      "relationship_count": 2558
+    }
+  ]
+}

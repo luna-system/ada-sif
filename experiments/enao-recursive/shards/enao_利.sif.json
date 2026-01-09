@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5229",
+    "description": "Genres and artists starting with \u5229",
+    "shard_id": "\u5229",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_a24d1d51-d9a6-4d6c-b68c-ed747c8c795e",
+      "type": "artist",
+      "name": "\u5229\u76ca\u97f3\u697d CASSETTE DE LUXE",
+      "description": "Artist: \u5229\u76ca\u97f3\u697d CASSETTE DE LUXE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a24d1d51-d9a6-4d6c-b68c-ed747c8c795e",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

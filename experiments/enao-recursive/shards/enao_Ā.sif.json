@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0100",
+    "description": "Genres and artists starting with \u0100",
+    "shard_id": "\u0100",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_be4aed5d-28d5-423a-a229-cb812cbe0167",
+      "type": "artist",
+      "name": "\u0101tman",
+      "description": "Artist: \u0101tman",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "be4aed5d-28d5-423a-a229-cb812cbe0167",
+        "country": "PT",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

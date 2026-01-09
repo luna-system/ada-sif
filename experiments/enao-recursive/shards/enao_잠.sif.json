@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc7a0",
+    "description": "Genres and artists starting with \uc7a0",
+    "shard_id": "\uc7a0",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_74c9db5a-cece-4381-afa8-a5f381901487",
+      "type": "artist",
+      "name": "\uc7a0\ube44\ub098\uc774",
+      "description": "Artist: \uc7a0\ube44\ub098\uc774",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "74c9db5a-cece-4381-afa8-a5f381901487",
+        "country": "KR",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

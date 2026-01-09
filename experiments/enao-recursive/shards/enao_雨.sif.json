@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u96e8",
+    "description": "Genres and artists starting with \u96e8",
+    "shard_id": "\u96e8",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b7f02d15-1c58-458e-95fd-f2477f133095",
+      "type": "artist",
+      "name": "\u96e8\u5bae\u5929",
+      "description": "Artist: \u96e8\u5bae\u5929",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b7f02d15-1c58-458e-95fd-f2477f133095",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f10c79eb-c3f4-4e3a-9d53-8cba8670426a",
+      "type": "artist",
+      "name": "\u96e8\u6f0f\u308aP",
+      "description": "Artist: \u96e8\u6f0f\u308aP",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f10c79eb-c3f4-4e3a-9d53-8cba8670426a",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_74b4d464-7b7c-48c4-b96d-c5adf7f8e1c9",
+      "type": "artist",
+      "name": "\u96e8\u826f",
+      "description": "Artist: \u96e8\u826f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "74b4d464-7b7c-48c4-b96d-c5adf7f8e1c9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

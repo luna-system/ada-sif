@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u017d",
+    "description": "Genres and artists starting with \u017d",
+    "shard_id": "\u017d",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_08cc70db-3e63-4c97-b2d5-e1a2ada52abf",
+      "type": "artist",
+      "name": "\u017demaitukai",
+      "description": "Artist: \u017demaitukai",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "08cc70db-3e63-4c97-b2d5-e1a2ada52abf",
+        "country": "LT",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_38195435-0ec3-4af2-9b93-a304280d6db6",
+      "type": "artist",
+      "name": "\u017dilvinas Sadauskas",
+      "description": "Artist: \u017dilvinas Sadauskas",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "38195435-0ec3-4af2-9b93-a304280d6db6",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

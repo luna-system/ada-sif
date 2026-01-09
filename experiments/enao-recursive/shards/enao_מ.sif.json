@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u05de",
+    "description": "Genres and artists starting with \u05de",
+    "shard_id": "\u05de",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b1b61ba1-8040-4e18-a40e-e1f8891bacec",
+      "type": "artist",
+      "name": "\u05de\u05d6\u05de\u05d5\u05e8",
+      "description": "Artist: \u05de\u05d6\u05de\u05d5\u05e8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b1b61ba1-8040-4e18-a40e-e1f8891bacec",
+        "country": "US",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

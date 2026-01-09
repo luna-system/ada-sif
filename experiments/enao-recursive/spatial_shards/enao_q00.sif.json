@@ -1,0 +1,6596 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - Organic + Dense/Atmospheric",
+    "description": "Genres in the Organic + Dense/Atmospheric region of the music space",
+    "shard_id": "q00",
+    "entity_count": 127,
+    "relationship_count": 843
+  },
+  "entities": [
+    {
+      "id": "genre_postgrunge",
+      "type": "genre",
+      "name": "post-grunge",
+      "description": "Musical genre: post-grunge",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CD6D0F",
+        "playlist_id": "60NgGlktCblheYPBSSUUXz",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_poppunk",
+      "type": "genre",
+      "name": "pop punk",
+      "description": "Musical genre: pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26A08",
+        "playlist_id": "5prkai2xWcnqLxwORZSYbN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_metalcore",
+      "type": "genre",
+      "name": "metalcore",
+      "description": "Musical genre: metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E75222",
+        "playlist_id": "71kedeh6L7P0equUL0vOqe",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_neonpoppunk",
+      "type": "genre",
+      "name": "neon pop punk",
+      "description": "Musical genre: neon pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CB6F06",
+        "playlist_id": "52NjfVJ2mAEaeOorFvrGvk",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_pixie",
+      "type": "genre",
+      "name": "pixie",
+      "description": "Musical genre: pixie",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C6750A",
+        "playlist_id": "79AOdu3ELUDHkDPJT1rXUt",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_popemo",
+      "type": "genre",
+      "name": "pop emo",
+      "description": "Musical genre: pop emo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CC7006",
+        "playlist_id": "3Gf8bbUuqd7zLFt4LrSLej",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_christianrock",
+      "type": "genre",
+      "name": "christian rock",
+      "description": "Musical genre: christian rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26B10",
+        "playlist_id": "0l4beRwx17QIjP7kTciYUk",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_jpixie",
+      "type": "genre",
+      "name": "j-pixie",
+      "description": "Musical genre: j-pixie",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D46D18",
+        "playlist_id": "5SWKs0Pa7zEtc1jVKmmFDs",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_trancecore",
+      "type": "genre",
+      "name": "trancecore",
+      "description": "Musical genre: trancecore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E25F19",
+        "playlist_id": "3GL4HNVOg9IqD5jxVpSRp7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_americanmetalcore",
+      "type": "genre",
+      "name": "american metalcore",
+      "description": "Musical genre: american metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E65024",
+        "playlist_id": "2omkyD8BvE3JD7yxK2PEv0",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_visualkei",
+      "type": "genre",
+      "name": "visual kei",
+      "description": "Musical genre: visual kei",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DE5D1C",
+        "playlist_id": "2zxjp4qMAoiRr8xY1Uq1SW",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_canadianpoppunk",
+      "type": "genre",
+      "name": "canadian pop punk",
+      "description": "Musical genre: canadian pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E15C10",
+        "playlist_id": "2n39wrdsYsdsEUrzMRYVdo",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_australiansurfrock",
+      "type": "genre",
+      "name": "australian surf rock",
+      "description": "Musical genre: australian surf rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C4790E",
+        "playlist_id": "4vMgNE1HNtqzmGr8Qmto06",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_swedishalternativerock",
+      "type": "genre",
+      "name": "swedish alternative rock",
+      "description": "Musical genre: swedish alternative rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CF6D1F",
+        "playlist_id": "42I35nX6LVqu5PqNj8824b",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_numetalcore",
+      "type": "genre",
+      "name": "nu-metalcore",
+      "description": "Musical genre: nu-metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E35724",
+        "playlist_id": "0SYBSM50ldqqPQgxDhEspE",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_gymcore",
+      "type": "genre",
+      "name": "gymcore",
+      "description": "Musical genre: gymcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26B1A",
+        "playlist_id": "4iJOZzUyARH8EpZngrkiBm",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_djent",
+      "type": "genre",
+      "name": "djent",
+      "description": "Musical genre: djent",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB5D68",
+        "playlist_id": "6dRyRBIZl5acVd14h733T1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_swedishpowermetal",
+      "type": "genre",
+      "name": "swedish power metal",
+      "description": "Musical genre: swedish power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D95F19",
+        "playlist_id": "4vTdyEz1xpzPJ45jfFHWYl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_anthememo",
+      "type": "genre",
+      "name": "anthem emo",
+      "description": "Musical genre: anthem emo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D0680C",
+        "playlist_id": "1dHm6fhlORhY2O1v6aO4fc",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishmetal",
+      "type": "genre",
+      "name": "finnish metal",
+      "description": "Musical genre: finnish metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D2674A",
+        "playlist_id": "18oX7hhCoQ3AIQyBmtD6Fn",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_australianmetalcore",
+      "type": "genre",
+      "name": "australian metalcore",
+      "description": "Musical genre: australian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E85124",
+        "playlist_id": "0HPtrFbEfJh8xp12L2JJR0",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishpowermetal",
+      "type": "genre",
+      "name": "finnish power metal",
+      "description": "Musical genre: finnish power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D46A22",
+        "playlist_id": "33KhDl0itx7zYyzuEhwDQA",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_progressivemetalcore",
+      "type": "genre",
+      "name": "progressive metalcore",
+      "description": "Musical genre: progressive metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E6593F",
+        "playlist_id": "2dNnJRyRUcwVBuAtBQTrQQ",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_germanpowermetal",
+      "type": "genre",
+      "name": "german power metal",
+      "description": "Musical genre: german power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DD561B",
+        "playlist_id": "6Nc6imqfPkI1PvvGGH8WS7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_slayer",
+      "type": "genre",
+      "name": "slayer",
+      "description": "Musical genre: slayer",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D76422",
+        "playlist_id": "5RSFiF5lKFazAm26oCvJO2",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_ukpoppunk",
+      "type": "genre",
+      "name": "uk pop punk",
+      "description": "Musical genre: uk pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D8660F",
+        "playlist_id": "36ixGm7UcqjpBUEHmAY1R1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_easycore",
+      "type": "genre",
+      "name": "easycore",
+      "description": "Musical genre: easycore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E15D0B",
+        "playlist_id": "3RbRDy3iktE2Zf0AP6cCK3",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_mexicanpoppunk",
+      "type": "genre",
+      "name": "mexican pop punk",
+      "description": "Musical genre: mexican pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D06C0F",
+        "playlist_id": "3cVAl7O4S4qAqTRFTcwN8p",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_melodicmetal",
+      "type": "genre",
+      "name": "melodic metal",
+      "description": "Musical genre: melodic metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC5F18",
+        "playlist_id": "20iIYgQhyO7JlYOGsFYu0h",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_germanmetalcore",
+      "type": "genre",
+      "name": "german metalcore",
+      "description": "Musical genre: german metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E5542A",
+        "playlist_id": "4xuMjOPD5nNuJqxDLtvAo7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_idolrock",
+      "type": "genre",
+      "name": "idol rock",
+      "description": "Musical genre: idol rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E56320",
+        "playlist_id": "0koXwc1zC8xeYcwaATGQcI",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_spanishmodernrock",
+      "type": "genre",
+      "name": "spanish modern rock",
+      "description": "Musical genre: spanish modern rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B87F20",
+        "playlist_id": "6n2KfHmhzxgfssyfKwnk6d",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_gothicrock",
+      "type": "genre",
+      "name": "gothic rock",
+      "description": "Musical genre: gothic rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B66F48",
+        "playlist_id": "14bpCLkVLcFmPMzGVXI7tN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_indonesianpunk",
+      "type": "genre",
+      "name": "indonesian punk",
+      "description": "Musical genre: indonesian punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DA601E",
+        "playlist_id": "2FXemjCXofbSNrPVODowoR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_postscreamo",
+      "type": "genre",
+      "name": "post-screamo",
+      "description": "Musical genre: post-screamo",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DE6414",
+        "playlist_id": "0XeSjSOh2uwuysKcBqboqD",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_texaspoppunk",
+      "type": "genre",
+      "name": "texas pop punk",
+      "description": "Musical genre: texas pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D7650B",
+        "playlist_id": "6b1lscdaMR50HSUSLSqNPK",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_japanesemetalcore",
+      "type": "genre",
+      "name": "japanese metalcore",
+      "description": "Musical genre: japanese metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E95027",
+        "playlist_id": "7uYRzhR9AcsXvPj89OYX9d",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_australianposthardcore",
+      "type": "genre",
+      "name": "australian post-hardcore",
+      "description": "Musical genre: australian post-hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E7551E",
+        "playlist_id": "1FVDUHQtMQJG35Ym31BnDr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_darkrock",
+      "type": "genre",
+      "name": "dark rock",
+      "description": "Musical genre: dark rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C5732F",
+        "playlist_id": "7BIohhHm3WSs2i2U5Atns6",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_swedishmelodicrock",
+      "type": "genre",
+      "name": "swedish melodic rock",
+      "description": "Musical genre: swedish melodic rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CC6D0E",
+        "playlist_id": "1nqvj06t4SEP57pxFuga0D",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_kawaiimetal",
+      "type": "genre",
+      "name": "kawaii metal",
+      "description": "Musical genre: kawaii metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E65724",
+        "playlist_id": "5sLhmwkeZsqxUfx1871zjC",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_canadianmetalcore",
+      "type": "genre",
+      "name": "canadian metalcore",
+      "description": "Musical genre: canadian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#EB493C",
+        "playlist_id": "2C7ZlaZapi5PJTbg3H48kZ",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_indonesianposthardcore",
+      "type": "genre",
+      "name": "indonesian post-hardcore",
+      "description": "Musical genre: indonesian post-hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D16027",
+        "playlist_id": "0WP043tSbyP4wmryLD5sDf",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_nightrun",
+      "type": "genre",
+      "name": "nightrun",
+      "description": "Musical genre: nightrun",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CA7A33",
+        "playlist_id": "2kDooijmZr5ZNFXF37OggB",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishheavymetal",
+      "type": "genre",
+      "name": "finnish heavy metal",
+      "description": "Musical genre: finnish heavy metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D9642A",
+        "playlist_id": "1UJTujbW6NmQ1xqzNcDaY7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishmelodeath",
+      "type": "genre",
+      "name": "finnish melodeath",
+      "description": "Musical genre: finnish melodeath",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E05C57",
+        "playlist_id": "1h7iHbS21hpvGF5ZnzLN3Q",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishalternativerock",
+      "type": "genre",
+      "name": "finnish alternative rock",
+      "description": "Musical genre: finnish alternative rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C4731B",
+        "playlist_id": "1cxkt9NI4V0glkXJsY0eMo",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_melodicdeathcore",
+      "type": "genre",
+      "name": "melodic deathcore",
+      "description": "Musical genre: melodic deathcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#EB474C",
+        "playlist_id": "6HZcdwcWYuzyIGgPSJWoxV",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_britishpowermetal",
+      "type": "genre",
+      "name": "british power metal",
+      "description": "Musical genre: british power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E4591C",
+        "playlist_id": "3RXQ3Vu6OkKnehN0QE0H2F",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_metalcover",
+      "type": "genre",
+      "name": "metal cover",
+      "description": "Musical genre: metal cover",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC6321",
+        "playlist_id": "3vwNGdBeZuk4qH5rmcQMdr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_scottishindierock",
+      "type": "genre",
+      "name": "scottish indie rock",
+      "description": "Musical genre: scottish indie rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BC791A",
+        "playlist_id": "5HintVVklsFbeTTlQFqmlw",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_britpoprevival",
+      "type": "genre",
+      "name": "britpop revival",
+      "description": "Musical genre: britpop revival",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C4780E",
+        "playlist_id": "6jOp6WuIpRNcUXOVDrIqTm",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_symphonicpowermetal",
+      "type": "genre",
+      "name": "symphonic power metal",
+      "description": "Musical genre: symphonic power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D9631A",
+        "playlist_id": "07K0fnv9a9jclwEojIFMha",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_japaneseindierock",
+      "type": "genre",
+      "name": "japanese indie rock",
+      "description": "Musical genre: japanese indie rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C37420",
+        "playlist_id": "7lqV7lzog3hotsBkAVUJIl",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_melodicgroovemetal",
+      "type": "genre",
+      "name": "melodic groove metal",
+      "description": "Musical genre: melodic groove metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#EE4928",
+        "playlist_id": "4J4aZLtiQzaVIWgyNKd1JX",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_swedishmetalcore",
+      "type": "genre",
+      "name": "swedish metalcore",
+      "description": "Musical genre: swedish metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E95518",
+        "playlist_id": "73wlrju5qMPbYENDR1CW92",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_latincore",
+      "type": "genre",
+      "name": "latincore",
+      "description": "Musical genre: latincore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB6412",
+        "playlist_id": "212BIjWzEJVNkScamNoETN",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_italianpowermetal",
+      "type": "genre",
+      "name": "italian power metal",
+      "description": "Musical genre: italian power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D9611A",
+        "playlist_id": "767v4hBm6bZAwHptya3LcP",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_germanposthardcore",
+      "type": "genre",
+      "name": "german post-hardcore",
+      "description": "Musical genre: german post-hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D46323",
+        "playlist_id": "5FzQOFCqG92Ja7AvQJu31o",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_hardalternative",
+      "type": "genre",
+      "name": "hard alternative",
+      "description": "Musical genre: hard alternative",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D5690F",
+        "playlist_id": "2DbQNCosMDvDew7dKFGEMa",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_taiwanpunk",
+      "type": "genre",
+      "name": "taiwan punk",
+      "description": "Musical genre: taiwan punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CF6B14",
+        "playlist_id": "0KFA1EhvZjMISnKhtzbSiE",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_italianfolkmetal",
+      "type": "genre",
+      "name": "italian folk metal",
+      "description": "Musical genre: italian folk metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D56420",
+        "playlist_id": "26advC90paRzW89GH6WeKU",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_russianmetalcore",
+      "type": "genre",
+      "name": "russian metalcore",
+      "description": "Musical genre: russian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E75B32",
+        "playlist_id": "6NLtxoSHgVwYSgaaqsh1ff",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_nordicfolkmetal",
+      "type": "genre",
+      "name": "nordic folk metal",
+      "description": "Musical genre: nordic folk metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26344",
+        "playlist_id": "5pTlHziwBE6lzIvpBvjfnL",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_japanesepowermetal",
+      "type": "genre",
+      "name": "japanese power metal",
+      "description": "Musical genre: japanese power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DE5A26",
+        "playlist_id": "45zrIOyjGiR04qvOUBhltM",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_chicagopoppunk",
+      "type": "genre",
+      "name": "chicago pop punk",
+      "description": "Musical genre: chicago pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D76118",
+        "playlist_id": "0sCxbu4WgloqSoxM5WZhjd",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_postposthardcore",
+      "type": "genre",
+      "name": "post-post-hardcore",
+      "description": "Musical genre: post-post-hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E55616",
+        "playlist_id": "0m55vLjsDe1eh1MjdPufNH",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_electronicdjent",
+      "type": "genre",
+      "name": "electronic djent",
+      "description": "Musical genre: electronic djent",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C8708D",
+        "playlist_id": "3KVK40I3oBqzCiEm8nR5SX",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_fallenangel",
+      "type": "genre",
+      "name": "fallen angel",
+      "description": "Musical genre: fallen angel",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C87220",
+        "playlist_id": "5Voot6Qf3OJX5KukZ1dn4n",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_instrumentaldjent",
+      "type": "genre",
+      "name": "instrumental djent",
+      "description": "Musical genre: instrumental djent",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D96DC0",
+        "playlist_id": "73fiuq4L8KLuDghQs9Bs7D",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_germanheavymetal",
+      "type": "genre",
+      "name": "german heavy metal",
+      "description": "Musical genre: german heavy metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D95F16",
+        "playlist_id": "6V610CI0YGTFiMWvm8fzeU",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_melodichardrock",
+      "type": "genre",
+      "name": "melodic hard rock",
+      "description": "Musical genre: melodic hard rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26C0A",
+        "playlist_id": "33jX0HQ4Ghh1RrEfZqFs1O",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishhardrock",
+      "type": "genre",
+      "name": "finnish hard rock",
+      "description": "Musical genre: finnish hard rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D86217",
+        "playlist_id": "6o5FOjzzal4sPtjeonHloI",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_nwocr",
+      "type": "genre",
+      "name": "nwocr",
+      "description": "Musical genre: nwocr",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D36912",
+        "playlist_id": "3uHhaeuWuy5wuL6WIAxaWV",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_osharekei",
+      "type": "genre",
+      "name": "oshare kei",
+      "description": "Musical genre: oshare kei",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB6211",
+        "playlist_id": "477CYgQVNHk8Z76QbYjz01",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_heavyalternative",
+      "type": "genre",
+      "name": "heavy alternative",
+      "description": "Musical genre: heavy alternative",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D66F09",
+        "playlist_id": "6KCEBhb5eYhZfJQQBL6W3Q",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_corrosion",
+      "type": "genre",
+      "name": "corrosion",
+      "description": "Musical genre: corrosion",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BD7454",
+        "playlist_id": "5GgCJWob1ZqTc6JNtiQRBp",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_48g",
+      "type": "genre",
+      "name": "48g",
+      "description": "Musical genre: 48g",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E06841",
+        "playlist_id": "4GhzIuuhKmoxP4WMDukGhR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_laplandmetal",
+      "type": "genre",
+      "name": "lapland metal",
+      "description": "Musical genre: lapland metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D26239",
+        "playlist_id": "2roNZbSQjCICekvwRQnAUz",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_neometal",
+      "type": "genre",
+      "name": "neo metal",
+      "description": "Musical genre: neo metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC5D29",
+        "playlist_id": "2Wh7WpNxoec6eoJXv7QNDk",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_cybermetal",
+      "type": "genre",
+      "name": "cyber metal",
+      "description": "Musical genre: cyber metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E75748",
+        "playlist_id": "3tBFVR4AL91lnjtkPrfsPa",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_melodicpowermetal",
+      "type": "genre",
+      "name": "melodic power metal",
+      "description": "Musical genre: melodic power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB6022",
+        "playlist_id": "1zX5Zu0uGJDr9ZDxA5hKV9",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_christianhardrock",
+      "type": "genre",
+      "name": "christian hard rock",
+      "description": "Musical genre: christian hard rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CE6E19",
+        "playlist_id": "7l2qOZAyDLC2YH99jiBnT0",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_vocaloidmetal",
+      "type": "genre",
+      "name": "vocaloid metal",
+      "description": "Musical genre: vocaloid metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D86A32",
+        "playlist_id": "7HoucTIMv5vuyQDKHVUlBT",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_hungarianmetal",
+      "type": "genre",
+      "name": "hungarian metal",
+      "description": "Musical genre: hungarian metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB5C2E",
+        "playlist_id": "4vpfMnKhs2KHHrCPzfhh3Q",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_punkcover",
+      "type": "genre",
+      "name": "punk cover",
+      "description": "Musical genre: punk cover",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DA670D",
+        "playlist_id": "6xV04IYvXayJc0eDrVFzxb",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_thall",
+      "type": "genre",
+      "name": "thall",
+      "description": "Musical genre: thall",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC5C78",
+        "playlist_id": "1mfUIv1E5Q7Yc9A93jBl2Z",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_christianpowermetal",
+      "type": "genre",
+      "name": "christian power metal",
+      "description": "Musical genre: christian power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D7631B",
+        "playlist_id": "1QARasWas7RvvcCyiXEjlV",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_ramonescore",
+      "type": "genre",
+      "name": "ramonescore",
+      "description": "Musical genre: ramonescore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E55919",
+        "playlist_id": "2v9nYMvQnYXxYFZ5vLE9d8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_instrumentalprogressivemetal",
+      "type": "genre",
+      "name": "instrumental progressive metal",
+      "description": "Musical genre: instrumental progressive metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#CB6EBF",
+        "playlist_id": "4KcMILB3MEuiqCtL03JvX8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_gothicalternative",
+      "type": "genre",
+      "name": "gothic alternative",
+      "description": "Musical genre: gothic alternative",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D36B0D",
+        "playlist_id": "5S4nocceN9d2bFLsBlD3Pt",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_deepgothicpostpunk",
+      "type": "genre",
+      "name": "deep gothic post-punk",
+      "description": "Musical genre: deep gothic post-punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#BF7761",
+        "playlist_id": "0XnPl86ItWuB4Wcvb2qfC8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_newwaveofglammetal",
+      "type": "genre",
+      "name": "new wave of glam metal",
+      "description": "Musical genre: new wave of glam metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC640D",
+        "playlist_id": "3o7Cu2rwpygk6zJiCqE0Z7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_deepmetalcore",
+      "type": "genre",
+      "name": "deep metalcore",
+      "description": "Musical genre: deep metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E2572D",
+        "playlist_id": "3o0fl3nB08es8tf2Gqwda5",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_grungepop",
+      "type": "genre",
+      "name": "grunge pop",
+      "description": "Musical genre: grunge pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C27416",
+        "playlist_id": "7uGtuTM65i6r8zxYuD7Kwp",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_electronicore",
+      "type": "genre",
+      "name": "electronicore",
+      "description": "Musical genre: electronicore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E4561A",
+        "playlist_id": "3Ma38ruHiz5DzF1Pb4sY1Y",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_neotradmetal",
+      "type": "genre",
+      "name": "neo-trad metal",
+      "description": "Musical genre: neo-trad metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E35622",
+        "playlist_id": "4lPm47P0NUPUdaKpaSOSTX",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_thaimetal",
+      "type": "genre",
+      "name": "thai metal",
+      "description": "Musical genre: thai metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DA5731",
+        "playlist_id": "4zkz0xTiMoXFzbpTz112Rr",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_italianmetalcore",
+      "type": "genre",
+      "name": "italian metalcore",
+      "description": "Musical genre: italian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC5D38",
+        "playlist_id": "78Pqr3lS2uzNDowQRsFbau",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_finnishmetalcore",
+      "type": "genre",
+      "name": "finnish metalcore",
+      "description": "Musical genre: finnish metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#EA5733",
+        "playlist_id": "4E95uV8A7beH7t5SolOBjX",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_deepmelodicdeathmetal",
+      "type": "genre",
+      "name": "deep melodic death metal",
+      "description": "Musical genre: deep melodic death metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DF5658",
+        "playlist_id": "4RJgpX5hWvmuNw45qr2mxL",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_indonesiandeathcore",
+      "type": "genre",
+      "name": "indonesian deathcore",
+      "description": "Musical genre: indonesian deathcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E54647",
+        "playlist_id": "10PT5OvCyg3tkZarwaKpuQ",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_italianpoppunk",
+      "type": "genre",
+      "name": "italian pop punk",
+      "description": "Musical genre: italian pop punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D76D11",
+        "playlist_id": "4QeDsh5JaGusYsFQHEBobD",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_symphonicmelodicdeathmetal",
+      "type": "genre",
+      "name": "symphonic melodic death metal",
+      "description": "Musical genre: symphonic melodic death metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E05753",
+        "playlist_id": "41CIPcZqdtvb5gm5J5RPk7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_taiwanmetal",
+      "type": "genre",
+      "name": "taiwan metal",
+      "description": "Musical genre: taiwan metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DE515A",
+        "playlist_id": "1Q9cpdmMDXzc76i8nFbNTS",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_chinesemetalcore",
+      "type": "genre",
+      "name": "chinese metalcore",
+      "description": "Musical genre: chinese metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E15929",
+        "playlist_id": "7DXmRDKwSNv3RB2NuYIfL7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_ukrainianmetalcore",
+      "type": "genre",
+      "name": "ukrainian metalcore",
+      "description": "Musical genre: ukrainian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DF601B",
+        "playlist_id": "0W9zWriThPyQw3kmq6xJ1e",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_malangpunk",
+      "type": "genre",
+      "name": "malang punk",
+      "description": "Musical genre: malang punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DF5F1B",
+        "playlist_id": "2CZdtxWA0si9PFhWl51h7C",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_brazilianmetalcore",
+      "type": "genre",
+      "name": "brazilian metalcore",
+      "description": "Musical genre: brazilian metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E6503A",
+        "playlist_id": "2lybnXPgntmfOoxDm31UQR",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_southafricanmetal",
+      "type": "genre",
+      "name": "south african metal",
+      "description": "Musical genre: south african metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DA5C62",
+        "playlist_id": "1VdhLpUxXQT2SN1Vnum7Eu",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_idolgame",
+      "type": "genre",
+      "name": "idol game",
+      "description": "Musical genre: idol game",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E5682E",
+        "playlist_id": "5c0efazHur2H93z7zI5tl1",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_austrianpunk",
+      "type": "genre",
+      "name": "austrian punk",
+      "description": "Musical genre: austrian punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DF5D19",
+        "playlist_id": "3suLYeJHg2ANaSgtN0PnAA",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_japanesemelodichardcore",
+      "type": "genre",
+      "name": "japanese melodic hardcore",
+      "description": "Musical genre: japanese melodic hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E55720",
+        "playlist_id": "5my2tRvZRn2bjVMsWtZmuG",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_chinesemetal",
+      "type": "genre",
+      "name": "chinese metal",
+      "description": "Musical genre: chinese metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#C9695C",
+        "playlist_id": "56w4CTZ5B1kCuJfw0IEmrk",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_croatianmetal",
+      "type": "genre",
+      "name": "croatian metal",
+      "description": "Musical genre: croatian metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DB5D31",
+        "playlist_id": "2gQSoiXsgD9wpAp9aSdfMd",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_russianpowermetal",
+      "type": "genre",
+      "name": "russian power metal",
+      "description": "Musical genre: russian power metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DC6518",
+        "playlist_id": "2GvYCSgXhZ0UnUpNDZRJZF",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_belgianpunk",
+      "type": "genre",
+      "name": "belgian punk",
+      "description": "Musical genre: belgian punk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D75F21",
+        "playlist_id": "4sLca0JgChDj5bhtfPXejv",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_russiandeathmetal",
+      "type": "genre",
+      "name": "russian death metal",
+      "description": "Musical genre: russian death metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E65182",
+        "playlist_id": "2mkZK1x9xqySv82Bx6pw4i",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_estonianmetal",
+      "type": "genre",
+      "name": "estonian metal",
+      "description": "Musical genre: estonian metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#DA5D63",
+        "playlist_id": "3YU0yEYcmTV7U4urOabDi9",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_thrashgroovemetal",
+      "type": "genre",
+      "name": "thrash-groove metal",
+      "description": "Musical genre: thrash-groove metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E64F2E",
+        "playlist_id": "1ulrJ0uK6zy2P4bruCmiZ4",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_russianthrashmetal",
+      "type": "genre",
+      "name": "russian thrash metal",
+      "description": "Musical genre: russian thrash metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E5522D",
+        "playlist_id": "5G9AZ1XmZXIZofHotOQnB4",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_brazilianheavymetal",
+      "type": "genre",
+      "name": "brazilian heavy metal",
+      "description": "Musical genre: brazilian heavy metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E45537",
+        "playlist_id": "3NmBEW27cR3QZHMVIXRYAv",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_luxembourgianmetal",
+      "type": "genre",
+      "name": "luxembourgian metal",
+      "description": "Musical genre: luxembourgian metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D66261",
+        "playlist_id": "6XJ2Qa8gDoXrT7tafPbwIj",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_polishmetalcore",
+      "type": "genre",
+      "name": "polish metalcore",
+      "description": "Musical genre: polish metalcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E65045",
+        "playlist_id": "7BbCYGsbE3F7stw0OOEVJM",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_deepactiverock",
+      "type": "genre",
+      "name": "deep active rock",
+      "description": "Musical genre: deep active rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D96616",
+        "playlist_id": "4lNcZ9bBI5BHRTGaWUUBiv",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_latvianmetal",
+      "type": "genre",
+      "name": "latvian metal",
+      "description": "Musical genre: latvian metal",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#D75B54",
+        "playlist_id": "6B1R2NhaSBVDEuKRDqhjAo",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_czechhardcore",
+      "type": "genre",
+      "name": "czech hardcore",
+      "description": "Musical genre: czech hardcore",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#E3561A",
+        "playlist_id": "0NIUQZCng8iw1JLyT9loOf",
+        "source": "Every Noise At Once"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_67f66c07-6e61-4026-ade5-7e782fad3a5d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cba77ba2-862d-4cee-a8f6-d3f9daf7211c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7249b899-8db8-43e7-9e6e-22f1e736024e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_084308bd-1654-436f-ba03-df6697104e19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aa266ac7-d919-4132-982e-76cbd95591a7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6fe07aa5-fec0-4eca-a456-f29bff451b04",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_066e598e-baa0-4e34-b511-c70bcec6f783",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_75af9d25-cf32-49c0-9192-60bd8e9784e6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9bd1e632-b17b-4842-b520-ddfce3b538b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_93ccd76c-3790-4435-a8bf-02bc26294b93",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4bdcee62-4902-4773-8cd1-e252e2e31225",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10db9ad-b4c3-47f3-a7a4-37864b134f65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ff865aa0-4603-4f79-ae8b-8735332e2cfa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e9516ba-f417-47dd-a8a5-8998b94553f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8c32bb01-58a3-453b-8050-8c0620edb0e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79d60c41-8fe0-448c-9bec-3f43c10f860a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0103c1cc-4a09-4a5d-a344-56ad99a77193",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_05f4fbf4-d01f-4dac-bd66-9613e4db8044",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_baaf92f5-f2b2-4f51-9723-abed41a257f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7509421d-1074-442f-be8f-b526167afcb3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b2374e3-1f73-4299-a036-19c6a7bd5368",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b0799818-22cb-4564-8e68-3c410d0722ee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_183e636e-d41c-43fe-a428-8a034eb20c7b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_64d62f45-e001-40a1-a055-c3545fcc14de",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c571d0d0-c47f-4e51-8a13-a3ec81a6e296",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3604c99d-c146-4276-aa0c-9376d333aeb8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e3ce660-79ed-4072-bd3d-e8db7a409946",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7b9ab1b7-7cef-4965-bad7-9f119ce8b6ff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e2c00c56-8365-4160-9f40-a64682917633",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f0c596e-c5e6-4bae-87c2-4c69cb3d4067",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_078a9376-3c04-4280-b7d7-b20e158f345d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_66da25f9-1534-4dd1-b88c-718bc24e1ccd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_92a42e82-b36f-4308-82c1-68bad2e03c89",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0d35199-d7a8-4d13-bf8f-8997934a0a4c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postgrunge",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a8ac837-a0e0-4a56-a1cf-b677759a44e2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_084308bd-1654-436f-ba03-df6697104e19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6ed7887-a401-47a8-893c-34b967444d26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_183d6ef6-e161-47ff-9085-063c8b897e97",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c3bc80a6-1f4a-4e17-8cf0-6b1efe8302f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bcb95908-5c6e-453a-97fc-d69003d250ff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d4c7c69d-a1f9-4717-a409-0346fd90d517",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0743b15a-3c32-48c8-ad58-cb325350befa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6fe07aa5-fec0-4eca-a456-f29bff451b04",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57805d77-f947-4851-b7fb-78baad154451",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_31e9c35b-2675-4632-8596-f9bd9286f6c8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0103c1cc-4a09-4a5d-a344-56ad99a77193",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a0387b9b-236d-475f-8846-b2dea4af1112",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23a03e33-a603-404e-bcbf-2c00159d7067",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b10db9ad-b4c3-47f3-a7a4-37864b134f65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_69421e11-e4c3-4854-951b-ceab4972e38e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24f8d8a5-269b-475c-a1cb-792990b0b2ee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_28fd67e8-573c-4cdd-a37d-8b74af74109c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e799a5eb-3d11-4687-b1ae-9295b44d364a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_99164692-c02d-407c-81c9-25d338dd21f4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6acb932e-840d-47ac-8e0d-725ad8a6e52c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6386ddff-0d13-4685-9f0a-a82bf022fb1c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e4a135d0-1948-4620-bc07-b0217d09ccc1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5089b746-7612-4a13-9153-33ff2560e161",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_516cef4d-0718-4007-9939-f9b38af3f784",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b88f21a7-a1b9-48fd-bbc4-ae758026f17f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3fe64039-d8e0-4ac2-838f-9a3bf97c4931",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_593f8594-83ad-4df4-a9b8-e4d225f55440",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c9aee98e-b409-4197-b671-e959d2640e63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e2c00c56-8365-4160-9f40-a64682917633",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ec93e078-ef9c-4f0b-aab0-6eec009443dc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_58a53082-a629-4ff1-a44d-7492d6f6e8fb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fd429857-5ace-4609-ae54-1502c3bdac11",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b4081cd-1af7-4422-aa3d-1545efdf30c8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7509421d-1074-442f-be8f-b526167afcb3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3604c99d-c146-4276-aa0c-9376d333aeb8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_03215924-4c6d-4ac8-b41e-9e0866bed680",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44cf61b8-5197-448a-b82b-cef6ee89fac5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_05f4fbf4-d01f-4dac-bd66-9613e4db8044",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_606bf117-494f-4864-891f-09d63ff6aa4b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f035837e-4117-438d-a524-cacf43500e68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_35581de7-591f-424f-9c64-7b22fd45605e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d188e4cd-d187-4df2-8516-6ff8dfd3735c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_poppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c07f0676-9143-4217-8a9f-4c26bd636f13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0da0f48c-3689-4c38-bf4a-c5b50d516689",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f5ff245-2837-4d4a-a609-e93e544478c3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_31745282-b1ea-4d62-939f-226b14d68e7c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d044577e-aa22-43b7-ab29-cabee5f6643c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7bace718-5f56-4311-9568-e46a70830605",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a436dd02-0549-4c91-b608-df451217fdeb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1870fb43-50f1-4660-a879-bb596d1519b6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d530dbf9-69b1-404f-98f2-0431104f5a1e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dae36f6d-dc92-4eaa-b74d-d6470aa338d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f626335d-d234-408d-a67c-37a3c2c7e98a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8295ee00-0096-461d-95c7-c2263d2a4c6d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2e3b75d8-00a8-486a-b4e7-a1f8f65e64c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eeee01ef-15b6-4741-9f42-9477c9ee0804",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_97501ef9-b868-4d05-89d8-6161ccdf8d3f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_298909e4-ebcb-47b8-95e9-cc53b087fc65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4f8b7186-b2a2-40db-97ae-6e1cd46d57b1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24e1b53c-3085-4581-8472-0b0088d2508c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_73fe4a37-6860-4bb5-b3ec-0d0c367900ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0ededb4-6085-4f68-90f7-89bc560930a3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_074e3847-f67f-49f9-81f1-8c8cea147e8e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9f336c50-ae4c-4440-bda7-958aa12bc15a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_95c4e9ef-291b-4f94-8bc9-2b00e76eacb0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_674a7e8c-9682-419a-8e05-2358e28b5359",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4d6dc2b7-b881-475e-9f1a-792fbcad3118",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ac3eac8-02dd-47b4-8ee9-f789d93c0405",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_17e137fb-59e5-4fd7-af48-afc34995396c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6318e724-7e6b-4e41-a35b-080065077c80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4fd53e84-ffa1-4434-9146-3fab25ece7e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20883363-1ea4-4d72-ad72-c0e767038f3e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d8f0f6ac-a0a7-47bd-9786-f9106d7bdd11",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_40b7efb7-1268-4a80-b354-600afdcbe9e2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b702f1f7-6634-4580-8ffc-25edaea50da4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ba147ea0-60c4-4a40-9da6-0d5c2b2e7b03",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fa31e7d4-a03a-4110-98fc-f8826e95ec25",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_43c0958c-27ef-46c4-b4cc-83cfca54170d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eb380962-99bb-46c0-af40-1c7790a7822a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c62afc98-8596-4532-a1dd-bc1a595c927e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b0dd5e7-c795-42bd-8311-bc9f71fabd0a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5c14e10e-735e-4108-a8a5-74d8771672da",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ffb7be4-0a53-4014-853d-83790cd5e091",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_10a402b7-0e50-4479-b007-9cfdd5eaa287",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_55fd865d-4a0d-4fd0-af19-7e6feb168ab8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a0cef17a-4574-44f4-9f97-fd068615dac6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8c770687-7b7a-4c3c-a2ea-f954440bfa43",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b463a831-8ea0-40c4-9a56-34cfe0896931",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6d4da93f-6fc3-4aa0-9801-cd85a7673f0a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_91e2e08f-abd7-44d6-9a84-b8a4afa8a265",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e55aa79e-e1a6-4e01-81c9-d90cdbc832af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bcbc08d6-4615-4f40-963c-5158ebe2b9e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5c6f8874-cb53-4f4d-9168-cc2af8c7ecf9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6bf62b1c-2dc5-419e-ba38-e0c6516a9868",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ec79457-b06b-4e3b-83f9-9b26fc7a99bc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5028bb70-8872-4806-8b4a-b693ae0da7fc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d6e65033-b56a-49df-8744-6fc3ffd75edd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_da9fd274-e5b3-49b0-a761-42f3407d02d5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neonpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_85254845-6782-47de-a845-d18d0a0f930e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_pixie",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4c3bab23-0dbc-44bb-990f-4ddcd0033071",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_popemo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6680859d-5df3-4f9a-83eb-26f35b6e4b21",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4d4c3444-f06e-4591-9f3c-55a21fa7ebc2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_18f9a328-9bed-4997-922e-9bfbf0887b37",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77215d1d-9d7e-443d-9f1e-da34e1e3d6e4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_df0a1dad-f15b-4e4c-9f47-60cfca58a255",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7badd4c2-4462-46b6-bd42-4ffdc7a462c7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2393e891-c63c-4654-b7a9-c5fb9dc0c8a0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ca1ca0e3-8506-40b4-ac29-dbfb60c5a0bd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4948bef5-4b89-4086-a885-aee68af7b47d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c5c2f1bb-09db-429f-8f77-ed9dfe39a36b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aa266ac7-d919-4132-982e-76cbd95591a7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f444240-5397-4e63-a3e8-a3eac2aace32",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ed20b805-2e45-4ccb-838d-56cfb3947a4c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1564678d-dbcc-4b3d-9e13-d2c32b3c7bf2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cbee65fc-e11c-439b-b5b4-e068fb1c169a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b221a54-54b9-435c-a7f3-5cf8e2ce9fb2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0926f5d-098c-4f29-a463-5489b43a273a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ff865aa0-4603-4f79-ae8b-8735332e2cfa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_64b58850-3d5d-48cb-82be-74921fb5ecdf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79eee543-914e-4d4c-8872-3c1feac1406c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_97841710-38e2-491a-9510-95a61e1de3ae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_16a43d5e-c52d-4eaa-9c3b-00b2c1d8e816",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c5136927-432f-4588-bd35-8248b6c9abe1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a7e00a08-01b6-4f85-bed3-6ffc852af2f6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f2b81310-d559-4fd7-957d-2555c3887ab6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b80c55aa-0531-42e0-8c83-d2bd7c7b711c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_31da91d3-a60c-4df4-af62-67e3913c0db3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_56657cd4-bffb-4cd4-b4ed-063afa85b562",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c648509e-9916-4c56-ab63-652a03da16dd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_594beb50-0853-4e48-b3b9-b9ce1c3b72c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c5a016d4-567e-4698-96a2-af134adb8395",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dde55c12-c221-47a0-81f3-4101655dd394",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cbf344ae-68f6-45c8-9b52-fcb25dce4646",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51013eb4-dcd1-4fd2-945c-e5cf1eb85e84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c4f279af-c8f3-4752-b34d-c6d8fbc0c560",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89621490-e0ef-4915-8b1f-6ad57dba3d7a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bb0814de-3de2-4f00-811f-7c2d9ada7e51",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_750c5d0a-24c2-4cfe-bf61-f13a5f040f4f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f12a9472-02be-40f4-9ff3-a836e2b9ece8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ac21eea-3aaf-42b9-834b-e8b820a83294",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ebed31c-4984-432c-8d78-0f08a4b169a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3ba72992-4665-458f-a52a-b4939360f9e1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d85074e1-1f3b-45fe-9cc2-3c2b4e9e2ab6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a49b5d41-7399-49ef-bcb8-a5779a30d2e9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_09e6b7fd-09ee-4679-8985-9e2ea6ad9130",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d176915b-71d9-49ca-ba47-da52d46d0e4a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57e79d57-b795-475e-9fa2-5dd9d5513b8c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b925cf23-bfe1-46c1-a34c-e7e265938920",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8484e4ab-b6b5-4326-b837-72eb72c9e8a4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24089276-caa8-4c70-97ae-75f887078b0d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_329f95db-f02e-40bf-a5f7-0dea11529ce3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6356a6dd-8fa4-4477-8306-a43540d6dfe2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cf075492-d880-4afc-b87b-d6b03e33dacc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ee944257-940d-44c3-abae-2aae243b9373",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_82b6784e-8161-42a0-9b5c-b9d31e63fd85",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3e00927c-7101-4539-9951-eaaf346a33e3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f4a6e99-3a3d-4607-90b5-db02a052bdeb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5cf3bae7-166f-44c2-b48f-63ddea9d4fb2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_048e4667-f45c-40c0-827b-bc6378da2dbb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e4b40a5a-757e-4276-bdb3-e91c81723ab2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_47b49d58-586e-4b8d-bef8-f5d4435ab261",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_11acb203-fa5d-4956-ac3f-4736d55b5962",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c04309f2-7ace-4ec6-bb3c-cfba39c75401",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e8f5801d-2947-428a-b64e-117cc252a0ff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_00864544-3bdf-4599-baed-8a7ca9f792bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7773f12d-82ee-4033-b515-0e966bc25d80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5614e10-e7a1-4f3f-8ac4-256922121958",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e6ed3092-14f9-42aa-82eb-17890bc81891",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_303995cb-bcda-44ef-be5d-6efbb1e377a3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79fa05a5-6a60-447c-a499-c35c4c330250",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_trancecore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81b2c74c-f4f6-4c51-b429-f6dc16a91c5c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ab309b83-904f-4e2c-8d11-a0223bba51f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_007223f3-54c6-450c-81b6-a917596f3891",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_31c2bbcc-4713-4105-ab71-a216235e1ea6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2649bbb1-16cc-4aff-bd4a-f90df1326c8c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8d4c13de-6e61-4a8e-ac4d-d0e1996bcef8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_658f8795-2e39-40aa-9b5a-5050573f5cb3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_450a1f43-c0af-4191-ae89-a322624bc3e8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20a73138-e451-4d24-9ee3-f2bf450c5f8e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_654f84d3-a94f-4d55-9364-7e6de8c861ed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_724a879a-77a9-44e7-89c8-8c600cc92861",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd211b0a-fe2e-4960-98fa-0bef7f195a2e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c9bbc4da-e0a0-4f4d-8d49-753c3e02971b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a70fca82-889a-4f70-98bb-39f7ec968566",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13554215-eec6-4420-8a60-47c029507f7b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_61ac244d-3201-4c43-a234-f99d7166400e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a7ed7e10-d6f4-485d-b4b6-46540ed38123",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f95cf98-cfeb-484d-bc6b-5753c3961b5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0da0f48c-3689-4c38-bf4a-c5b50d516689",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_21fe991f-c3ed-4381-8f1c-954cb076d9a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_08e56714-b09d-4121-b319-524264c33749",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c7500b20-9855-4157-a335-8ce7f8afcaa7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7e27ad97-8788-40af-aed7-20f30242d354",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b58ac34f-e412-4316-8ad3-a721ce598ac3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fde93f13-1e1d-4ab8-9027-72048a600b38",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_051b8830-8aae-4b4e-a48c-ee8d6a2dec50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_94469def-f865-43b5-9281-242abc250db1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0afebce8-950e-416a-8b8d-fbb52ad0f9a0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_62b61409-d13e-4281-9e3f-06941c2c5f5f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5efaf9af-0c14-4935-b00c-f11890711513",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_40232300-f830-4c77-99dd-0c3dbdd9fc78",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a09229e1-b307-4a18-aa05-6bd7b1b4fd68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_de8828a1-ae51-4449-a217-cd4e3ae51be7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c25de522-93a8-45cb-b668-0bea99fc6677",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ebc58277-1927-4d64-8832-0ea754138b7f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b989f2ba-4b10-4e26-adbd-b734250311af",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_22425b78-dde3-4253-a6c9-a656c88ef26b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd615f3d-6f88-4e51-87af-3b4b7b7d0ab9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_533f085c-aa28-4a71-8ba5-ee1a78ce1574",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6553803a-5794-407c-9879-dcec17354630",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_efef4f79-bfe0-458c-9f3f-9b5ed51c9916",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_333c36f5-22a9-44ef-80dd-5cbb0182b0cd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d8818460-c15e-4725-adc3-7a3dd5ca532c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d7e40eb3-bf43-459b-96e9-66134be32184",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_be702739-f872-413a-89fb-0a5afee100a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ec93e078-ef9c-4f0b-aab0-6eec009443dc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_935d146a-ab8a-4745-b4c4-6043d4cc15c4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc6c0149-2c01-4fc4-803d-8ff656270442",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ebff017-9d34-47cb-9ae6-568c61ce9ad0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_visualkei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c461611b-403f-478a-a044-64ea21d3167e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_swedishalternativerock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e6cbc503-90c0-492a-ae61-ffb987bd48d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7bf615e2-78ef-4fc9-9db1-674cbf09474a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f861d53a-7078-4217-9b1c-08af3d536863",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ea89deb6-10f0-4c85-bf32-cc1102dc8d58",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4283dcb7-d1b5-4408-a3c4-3a6a8d0a5a6d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f79fa401-653a-4646-aa88-ee1954a7ac8a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d0ff3b94-70db-4a0c-8f02-95fbe5372f24",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c8aec965-db4b-4f8e-a133-d3afb4556d82",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d35bb4d4-8045-4bcf-87c2-b4f8d96f9577",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_79fa05a5-6a60-447c-a499-c35c4c330250",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6993f658-4b2e-461a-a569-904bd4db2d3b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_34c5e8b0-f721-4977-bdc0-da70298ed748",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_numetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4214a6ca-3147-48c5-9464-1a81ac6d9895",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_da815da5-bcc8-43f5-9796-72e77f5c5a04",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6587f760-9529-423c-a5e2-a3352500be73",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a0cef17a-4574-44f4-9f97-fd068615dac6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cf8b3b8c-118e-4136-8d1d-c37091173413",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4d6dc2b7-b881-475e-9f1a-792fbcad3118",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_01a36baf-fa2d-4659-8bc2-dbfb5ffed791",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e71ae04-e368-4e3a-8c5a-e9fdbe5b35b9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2bbc7a00-ead2-42cb-85ae-1d666893e7ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dac7fe9e-9d77-4bf9-bf9a-22bf3bbb27a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d1bd42da-538d-43f5-88ba-59468b9a9b03",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6e7df885-7aef-4c67-bd85-f2417ccb3663",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f2883c50-5a86-46f4-9f94-6567cc0a07f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77d71b20-17a7-4945-b184-4a9871416fee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b7e442b4-30cd-4bd2-9238-032e74f7807d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5c2d2520-950b-4c78-84fc-78a9328172a3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_05517f7b-af80-4abf-9de8-5a69d0b7b013",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8aa329be-d939-4e94-bfba-6bc5368575e4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ba1bd10-44fb-4335-a295-37f26c8a5f37",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_988e0d37-3866-47ce-9e8a-88db43dde371",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fc70aeea-a6a9-4657-83b2-5054968ad80d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_388cfcf7-a7a4-4a54-b47e-3fadf2475205",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a75f009f-7234-4f69-81a2-c1f7492f4106",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9ec5ede-b8d4-4fa1-aee3-1e3329e17377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c935736-7530-41e4-b776-1dbcf534c061",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_af3fd27c-c59f-4eb7-9303-042ee3eef006",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ab4554b5-ea24-44ae-b04e-3e72ba173010",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ef3eb759-49b3-4f20-ac12-a92b87a3cb4c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f1ec4765-e5da-4591-8b50-a8ff9627dda8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_051cbe3b-fe24-428f-936e-0bf3e364348a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2d5d1e8e-98b2-4e9c-994f-a331c2a9502e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15d13225-86ff-48ac-824b-0a0620ba468b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_160c6ff9-a1af-4b10-97b7-6fb8faeb6ecf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13b7e66c-854f-4928-a578-103d76bbe0a6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9d397404-907d-4355-b5d6-299bae93f6d9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1c5efd53-d6b6-4d63-9d22-a15025cf5f07",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0120056a-c80e-49d8-aacd-87b6b8284f03",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6acd7885-0337-4dcc-834f-a16be5fcd677",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a9d72c8b-fea3-4927-9521-156e6fe05f37",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc30f760-3043-48d0-81cf-5b7665eecece",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_af92786c-f3da-41c3-a1b8-14f9a713899d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7bf615e2-78ef-4fc9-9db1-674cbf09474a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ba0a730-5c23-4a34-8246-015276ff4a3e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_21b127b5-d21c-4b4c-bcd4-9af7b380a7e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_56eb02c4-1f16-4613-8bb3-b4a752283fc3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c62afc98-8596-4532-a1dd-bc1a595c927e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b496310d-af7b-4e54-b710-b22954ba4193",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ec98a44-ce37-4264-abfc-0496e389538d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ced303c7-fdc7-4b42-b689-2e597865bd6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_daea9ad2-be29-45f8-8efa-d90dc7c4d6c5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_djent",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ffdc10f2-2fa6-426b-9504-f23cd24ec0f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_anthememo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77ee581f-984e-4762-8609-a3fe1b4cad15",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_anthememo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c7c5d40-aba9-4dff-8ad7-cd062d3b3269",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_866269d0-7dbc-42ed-8174-51b9de47ba5c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7279b517-56fe-4403-9021-ddca18dbbae5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81e6457c-3a3f-45a8-946a-160ebc009023",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e9de3cb9-7764-4869-990f-5283667c4d12",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_33f2d13d-ac76-44df-a0db-a75affff505e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e082eaf4-9c61-45f8-b873-d96b8c1dae9d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_australianmetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b6f8cce8-cbac-48a0-b0fa-d6cc06447928",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_19614fb6-b8a7-4837-991f-7565288f99c8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1870fb43-50f1-4660-a879-bb596d1519b6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6215d7ae-ef90-4d66-b4ec-3c6af9091e0e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6318e724-7e6b-4e41-a35b-080065077c80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b7e442b4-30cd-4bd2-9238-032e74f7807d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1791098d-952b-42c3-b196-95eca031ba67",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_431ed486-4606-485a-b11d-f05feb860257",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ba1bd10-44fb-4335-a295-37f26c8a5f37",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c935736-7530-41e4-b776-1dbcf534c061",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_af3fd27c-c59f-4eb7-9303-042ee3eef006",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51b37017-859c-465e-8810-2d2dd41a401e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6d4da93f-6fc3-4aa0-9801-cd85a7673f0a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f28a20fe-5339-4ed2-8035-4a6789f7fb55",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7bf615e2-78ef-4fc9-9db1-674cbf09474a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6bf185b-3a3b-408e-a8b9-f51e5ed7371b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_368f19e5-51c0-45d7-80c5-963be6971ac7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f0777a9-50f2-4577-966d-de0943b0b766",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ced303c7-fdc7-4b42-b689-2e597865bd6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5c14e10e-735e-4108-a8a5-74d8771672da",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c62afc98-8596-4532-a1dd-bc1a595c927e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20aed90b-6a92-496d-9acc-262ef775d06d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7767a522-c0a8-4039-8c18-a0a83f085186",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fc66972-d2fa-4fe9-b1ed-f6bb90e6f5ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0ee71d0c-9f6f-4bf5-aaec-3989d336c566",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d54271ec-d883-4aec-b224-7e34a36c7a06",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4e44995-1890-42a0-a6c1-9185b71655fa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3bdd932d-f442-451a-93f6-286d2bb8075d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c9e45157-2099-4353-ad25-abc4c7dc8a42",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bd25b4a6-09ee-4c88-96f3-04464e36c2e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2d011f96-395d-47f4-82d0-590c43825ea6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c03e760f-c289-45c2-b5b3-d8cd2138f71c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e6740571-e2bf-4cf3-abb3-5ea142f0965f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4b4030f6-0588-4292-a7f4-72f3ca30ae54",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5e923294-72bd-4dbc-9334-9792bfadba8d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ad4fc520-aa0d-4e62-be31-15d9d2eacad2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6dd9b71e-2e2f-4a66-bfce-5e820589b390",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_45512b6b-8044-47af-8edf-ba4745ca4082",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_07e8c0d7-03c3-4e2d-8e4c-e2072c0b50b8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c33d50c4-7eca-4922-93a0-ba5fc9ce1733",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_02fb23da-6a41-4d98-bae1-ba9721a1fd12",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3b2f53f9-2975-4cfe-be99-96c8fe7620f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2512cb5c-370c-44d9-bdb6-fc9c16c177a1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d094ebee-5cee-49fb-b4a9-18f06e8f7bff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_18ed7a32-6846-49ff-8445-186174c13220",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_008ef761-5d59-4c36-bfe9-8cd95b4e2ff6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_61ef78a3-514a-4417-bb73-d3124e6aeb5e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d32b1f9e-7b43-4fe9-9fe5-e29d557d2a54",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a87fe74-514c-4025-afa8-fdcfaec31258",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6d72e3cc-cbec-4825-8233-021348b0190b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_progressivemetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c8aec965-db4b-4f8e-a133-d3afb4556d82",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_germanpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f16f8b71-f43e-4d3a-aff7-fdd7dd9f69d6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1a20495d-5063-43d1-b786-e1c84c167cf8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_36134464-6e24-4989-bcf7-89011124286b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0f4fa442-3e9c-4355-8e17-a39386a52077",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fe125f58-6c39-42fa-85c8-3eeddda5ad21",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_59468158-78cc-4ed6-963e-1540e27a55bd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2ec394a9-eae3-456c-8f3b-1df4cd634888",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_718b115f-97fb-46c2-a615-8a0451a91ec3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_slayer",
+      "relation_type": "has_artist",
+      "entity_b": "artist_502f1fa9-b9b5-4a42-bd15-0c839c05615c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_ukpoppunk",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2877eca3-2abc-44ec-97b6-c5b20d5b610c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6acb932e-840d-47ac-8e0d-725ad8a6e52c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8473ffeb-7fb6-486a-be51-7d162fec4788",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b0442f82-6322-4096-8535-b3bb776019d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae13e1fc-a2b1-4e3c-bfb9-737d3aeb7dab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b1f7eada-8f0d-4a3e-8bb7-3c87677b8734",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f7f36295-7a65-4a91-9501-cd5eb879a234",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4df5d35b-a9d4-4d4f-91f6-bae55693de31",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5a70a507-5a89-4eeb-9914-aed6cbb6f599",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d0353f7-2ec7-4626-8eb5-91d9731f5a50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0b7184ba-a240-4255-b9de-4fcf874cdefd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a382adc5-1c9f-42fb-a906-13b3c608cfb7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7f803597-5423-4620-a95a-b4cdae0c081e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5bbdfe0-0f64-4331-8eab-8016239a4403",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e9b950c3-bcfb-4c25-bc20-5b92cacb538f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0a138e2-cef7-471b-8fbb-524e1076256a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_325afbbe-68eb-4938-9186-f6869e64c7b4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_294eb15b-be5b-412b-af2b-1c4d524b9025",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1079b087-a5b3-4a07-abbc-88043ceda334",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_efb2b5ce-8a50-4857-826d-c25d7e8941ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57cfe909-5860-4c83-83c9-cedc2c11c0f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3d59ebf7-f9e1-4f20-a21f-48e5fb952a95",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23fc0668-e49a-4c73-abf2-811f87cbbc13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_219c0352-6515-49b5-ab81-43184b5d02cb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5fb7374f-74ef-409d-995d-06da102f6336",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_57df93a7-a714-412e-ae4e-71d08386a519",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fbf421f2-7333-48c0-8d22-9ea27f794690",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_50fe20bb-0503-406a-b891-8b648bd80ac9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_55ad1cce-8349-4db6-9fd2-b821d69c961a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_64a895dc-08b2-43ea-bb66-640060fa0b17",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8a06598e-5274-44dd-b695-3ce123a22a16",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_858a41c7-7a06-4d96-afd6-a70846d3f117",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_baa79ac9-5819-4fff-a3b5-e28cb7010a21",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_469a499c-bce4-4eb6-9788-15fa56ef2570",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_05b10d62-061f-4230-a50b-512cb562fbb7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a2b7a65e-0bdb-4f14-a34d-f0ae470603d6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e9ba9841-90dc-4ab5-8de9-9f1ed13f53ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_58e802f6-59d1-42d2-b667-5ac7562a408a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3834c1d4-b3e1-40a5-a1a1-5f0315bca0b4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_91011921-c32a-41eb-a1f4-16789f1af499",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f393254a-16a8-4e76-a388-c555c3232707",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4718169c-0c75-4d9c-bea5-a8fda8bfbb13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_66ef6e99-6469-4dc1-aee1-e5a8835ca146",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2ac6f1cb-838f-4771-a9a3-a43ddac45074",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_963e881a-c5e3-4f6e-862d-a412d2db4ce2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d3e5ca65-3d73-41d0-ac44-1370a2ae855f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_990f8893-9aa3-4667-bb6a-02f04dbbe9a3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_88910bc1-6cf4-4f27-9fb4-823f9c1c0972",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_03d8f83e-a647-4bde-968a-189c0f147783",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_easycore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6bb69a99-7ba7-45c1-8d04-a45f8a80195d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2449300a-6ca7-45da-8102-22789d256475",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_91022966-c8de-4f0c-863c-10d026f6c843",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_06f442f7-b158-4446-8a78-18bd2f67f597",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f2e771c-6559-4603-8c4a-90c89bc94aa1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c054ea6b-c585-41eb-ae7e-4b0ca43308ff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1a1f0516-c5da-456d-8368-0118d0201493",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ce66ca71-f34c-4b6d-abf7-3a4fc46d0b29",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3056e723-42ea-478e-926a-1d476a35c35d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dda90b5f-4f22-4261-ae0f-1d1870d7fd92",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e97865a-c20b-47e2-b1b7-c8b06cf03337",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0efb258-e7fc-4305-96fa-45e8bac2200e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_187cb7a8-85c5-4b80-a984-efd2d87bc434",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_48284ed3-61fe-4e6c-b2ed-5450d6b12909",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_53948a05-6c6f-4100-974b-6721de84ce53",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7593fbbf-5dac-453e-9aba-2a50a97b191b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b53a4a1-b2ec-4710-992a-3954c1ae6e42",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c2e02e6e-0791-4e0e-8676-acff9c3af9f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2171e67e-7576-471f-aaf0-7cec2ca54e9f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2030bea5-333f-4db2-bc29-aefff5207ee7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b29bbdd0-bf25-4904-af5a-c9698914107c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dac3a2eb-6dd4-406f-9ac3-cb02b0d11464",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b1dd189-92d7-453a-9be0-977832dfe91b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_78fa8ebd-dcdc-4482-8170-9b83f75e0651",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a5f8d3b-2821-47c2-a4ee-a4b712b84e61",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f16f8b71-f43e-4d3a-aff7-fdd7dd9f69d6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44377af5-5fdc-4dbd-b007-b00f647f801d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b9148b1f-a2fb-4746-8574-e930ef501c68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b98e43d3-d93c-466c-b583-bd2271f679b0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_138f1eb1-1de2-444c-aab2-11e75114e52c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf0578ea-3dd0-4366-b34a-aa61ac887d9c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fef912af-423d-47b4-9bc9-8ebe5ee4577a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0a07cc0-5fbd-43ea-aac8-398f0c12759b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6af98a43-2307-4ee8-ba7e-865e56771fed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_96274dc2-abeb-4907-91be-4a658f73ccd9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_acd4f0f8-c188-4aea-b52d-5fda940a41a8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a493739e-ac9a-4bd5-b010-0671c8f18b6f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5d9076fc-40db-4b60-8574-23188908be5a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81d84bc2-edab-4e96-a4d4-b5a06c2aaa2c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3922820d-5c95-41f1-967f-ca32186371a6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0d35b2f0-7a41-4476-a858-884feb23a9fb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_be6a4fbd-f432-4649-8710-ec3031172a13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0edba144-4942-4703-804c-681623e41048",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f9da6537-6d62-4224-a0e2-549212beb280",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1364f984-8453-4c7a-8191-ed789321a33e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ab40b83-0b41-46af-b330-7162df3512ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_63d08eb2-6a5f-423a-9550-fd7d1ccc5c19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24340f1e-cf12-42b0-847e-cf1a695a7d34",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e1a79d2a-0b56-402f-8921-8b2b36f94d10",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ef0a8ed4-6b3c-4b86-96bb-947896e50fdd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_42b00f3c-c1f8-4b03-88f7-bdfe548ae09b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_idolrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e9137f8-a20d-4f09-9cae-dedf421870b2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9efff43b-3b29-4082-824e-bc82f646f93d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_172e1f1a-504d-4488-b053-6344ba63e6d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77d21c13-846f-4f48-9546-873949eff6ae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6cb79cb2-9087-44d4-828b-5c6fdff2c957",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_944402e1-7e5b-49c0-9b31-f5959233e744",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_064db6e8-fdfb-4acb-a327-fc2de75b37de",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8846e4ff-0c19-4af2-872b-7a8dc7497f68",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d85e95a3-07c7-4c04-a411-234290615113",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ad7b6571-9832-4aa1-8e58-d345d9ee06c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3580a118-49e3-4aa1-972a-f5f0ff750dd2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_10bf95b6-30e3-44f1-817f-45762cdc0de0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8de149a4-bbdc-4d15-aeea-0d66773c9f80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1fc54353-dcd0-47b1-bb59-7bd2974df829",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_22fa6038-d14c-4aab-a057-d397132e9191",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_38f0dd4f-bcbb-4e7a-afae-a41a2bbf9d74",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2a09f8e7-1138-4030-96a3-fddfdf82127b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f3032ef-8f91-4675-b728-d9746109ae03",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fc478377-1627-4391-9942-2ff60374bd9b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_553d8166-27b0-49fe-b8e4-89a984e2c375",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d3f9254c-08fe-4aa6-b601-8dd43dd1ba19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d72c9ab4-0b73-44e3-8601-c4da02a43b25",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f52d9622-2527-4b73-9e40-810f4d05f09b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_96c1edac-1011-4cb8-882c-27248de35071",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6dfa03fb-8b02-4055-b7cc-e48f426b13f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_97fc5a1d-f2f3-4aa5-ab5c-309c921d3810",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0688add2-c282-4ee2-ba61-223ffdb3c201",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_beb88f79-6c9b-4d47-9c56-28a12fd1ada9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ed743bb-1323-4ba8-b33f-322f4ecda526",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_463f056c-56bf-429d-b3a3-f8fe467c427d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3285dc48-9505-469d-ad8a-bdf2d3dba632",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7a50113f-12f9-4e2a-8406-80b26a5ac692",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_20aa23e3-3532-42ca-acf6-e8c2e9df2688",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77cf7619-d032-4b59-bbde-512457bda41e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8cf95123-5023-4257-933e-4d7ebbc5d8a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f75ba0a6-9bc0-41c4-b7b7-00ecfc3563be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cbb568ff-921e-44fe-8894-0892d6668e88",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2f82b117-1cee-433d-b223-a540a5a7f615",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_686dffc5-e13c-4b14-b2b7-097cbef040f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_edccc6cc-a517-4cee-89d1-a8bbc38c66eb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_000fc734-b7e1-4a01-92d1-f544261b43f5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_df143112-24ef-403b-8d3d-4eff8d0db791",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_30ea9ff8-9481-4617-8513-4fce6ce237f9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_gothicrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8930ec4e-51c7-4905-ac40-684459878085",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5cf3bae7-166f-44c2-b48f-63ddea9d4fb2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3468a2dd-9bf8-454d-bf9e-2d89578636f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7208784f-73b2-47ce-85fc-fb1bd40c4b50",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9dd5668f-4bba-4b48-a35e-e8b13de80a8c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6093290-deda-449a-843b-c047fba4f785",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_postscreamo",
+      "relation_type": "has_artist",
+      "entity_b": "artist_56accbcb-f0e2-4485-a75d-a398cfdffec6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_055b6082-b9cc-4688-85c4-8153c0ef2d70",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24412926-c7bd-48e8-afad-8a285b42e131",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7389b838-9bd1-46d3-b514-95e0df255a52",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d475063-14af-4225-8004-14cf63286e1d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_13fee76b-6543-4256-b400-514bec1f351e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_56d42150-9522-4a5a-b229-022c9c0c8d1a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f7af8836-13b2-41ac-9155-e7b52e714e9a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_780fdb55-eddf-43de-ba15-b5ed16591d5b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_961bbeca-e00c-4b44-b4ec-6a21296bc53d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e52de6aa-2fe0-40f0-9c91-a25ed81bf851",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ff269bb7-81d7-49df-bc11-e96a72939222",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_328f0db3-1701-4e1a-bb9c-75b18ef843dc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ddda3622-ee1b-49e3-abaa-94c62e04bc6d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8426c151-6c64-485c-8ec7-cd476d7e0356",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6694f2ee-910f-4e30-9165-9001ad821a30",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fd3ac764-0a86-4876-a00b-cd400c5957e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4db40e28-118e-472d-b041-6278ec42a9d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_52b37d73-945b-457f-a2e8-17aa59631696",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_27bf2c47-c9ef-45be-8267-2235408f6969",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a3c9d546-3726-4a8a-8e57-613709b08a0a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4c06f082-b8d3-45ac-a1be-3dd7cb2b4105",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8335a798-e0b5-49e6-938a-3470d8e767d3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c60d4f2e-e8b6-4ee9-b542-dd1c19bd34de",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5ac3044-3c82-44f0-9454-7749c7690018",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_488f9e7c-0d31-4b21-b513-91f175d092e3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_84b742c5-8a84-4e8f-9f41-8c9d87caf792",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_be74e997-d477-49ee-90ab-0992d540bc8b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f38d58cd-a038-4c93-963d-ab4a389a248b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1498e0bd-8941-44fc-a08f-3040a3400ec3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_029efad7-1352-451a-8e1b-aa7098edc1f0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_darkrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4859be28-26c7-4dd5-8676-6caba94be5be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b875bcd-6f09-4b70-87fc-17d3f17e6097",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c464e32e-a352-4002-ae11-809e359df3f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9ab7c851-d889-4906-a2f9-2eb0b926e586",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b2400475-f9b1-4520-99a8-a0f5333738c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_200d1da8-1735-4d3b-97fc-0ed9cc06cdc5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cda1d655-a98c-42ae-8de3-a0a78000741e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_59d16a4c-809b-4171-be63-ef29f463ec84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e65444d-48eb-4597-8e05-b4a1fab491ff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b6055867-5857-47c9-94a4-c031f4bfbecc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_52494f9b-789d-4467-bcaf-9915e70cc8f6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f84cbafa-d89b-45b9-8769-074c403f26b5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_90e7c2f9-273b-4d6c-a662-ab2d73ea4b8e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf4dbf84-20fd-4438-a28c-a2e97aa94082",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6a08e348-f466-4ea9-bb2f-200125f9e968",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2bb53341-da20-465a-9eee-06e389ed9fc1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6a27c36e-b8d9-438b-b04d-6da81d7d2181",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44272f94-524f-4b95-a3af-f0e6fd94f4d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_kawaiimetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9da56727-8a9e-4ed7-893b-6a937983c4e0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_nightrun",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bef01ea7-3187-400a-a649-697a5eb5d4f1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_finnishalternativerock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_81e6457c-3a3f-45a8-946a-160ebc009023",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_73196786-3490-418a-a438-6c5692ccdac3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_27aba695-22a5-417d-b0ca-bb7daac6c753",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0202b911-1e26-42ff-9d5a-269e8385bd94",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_133b1b4f-11bd-4328-9664-add6bc7fb14b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5a3857f8-af2d-4f27-a1dd-438d02deceb8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b6f8cce8-cbac-48a0-b0fa-d6cc06447928",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc228e26-8676-4d36-b2b8-ec182157890b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicdeathcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_53a83e59-b0c4-49ca-bee0-2af9c4c8d627",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_metalcover",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5f7c78ce-86c6-4666-92aa-81174ae8e2b0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_scottishindierock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fd2aaa5-2229-4def-80e1-377f9b55f463",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_00a9f935-ba93-4fc8-a33a-993abe9c936b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bc6c0149-2c01-4fc4-803d-8ff656270442",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_82fc8db0-f366-4029-b6ba-e148b3639ef9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24ac23ce-93a2-4605-adb3-c59f1147a245",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fbc256d6-d717-4768-9dfd-ac6dea6d36ed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_44f5de7c-2eae-4e13-a468-031b4a401ba0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e0a1e2e5-dced-4c35-b9fc-83b02ba5e417",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b630b1fe-45cd-40a2-b9b1-971a275d717c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d36eb6bf-b9d6-46ae-8284-1673cff2c46b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b8fc9da3-716d-49e2-bd43-ac86a0d21e89",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c27b793d-f6ec-41fa-a8c9-c962b5dfaed5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2449300a-6ca7-45da-8102-22789d256475",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e720be15-3c3a-467b-8ccb-57e025792cd4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_436cbd9e-9cc0-4c86-9210-dc765fd53851",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_62b42bba-c7c7-481d-9c7f-d50e34a882bc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6aadedcd-6726-4cc0-bf99-b350a004368a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9aa7cba4-156c-4911-a594-7abc81b41bc9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_63b09fb2-2e88-4281-89c1-0552ce21a5c7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ad6ba1fc-a632-475b-a66b-1d76a57bb356",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3f6de3d0-4446-4b53-aa2d-620618696b27",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_722b5dcf-3d11-48ab-b199-ab4338738685",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5556c5a1-6ddb-4329-b5aa-aa21f81ccfef",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ccaa52c7-8834-40f1-8684-339a35fc5b8a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9de7fc7a-b03f-4d97-9629-a3f65829de72",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_af1683e6-9bc0-4e02-a9b3-0cd83a5e90dc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_957cc1fa-25ce-4314-9978-7522ebf90135",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6aab6f5-0548-4360-8f27-3218bb3e88ce",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_23cdb710-7ba3-49c3-9532-5ac01625af63",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_670a33b7-f698-4299-be11-eae9491d88fe",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_955bde59-038c-496d-9e18-e1f5d89af156",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_51009f8a-bf8c-4476-af4f-63e57e991e13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ae50973-4ed3-4bb0-a1ee-b27aeaee2d10",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_187cb7a8-85c5-4b80-a984-efd2d87bc434",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_df95129d-9551-49bd-9722-7750e9ded50d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f15bcc34-c371-4c1a-a91c-3dcaa5cb7474",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2afd338f-b2e8-4746-9d71-45200ec5f687",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a4eeadc8-853a-476c-8fe4-a04d8af1da6c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_89e60a45-9567-4452-8d09-b3176d153407",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6b966946-5274-4e3d-aabb-7563814d805f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83c1abfd-352b-453a-9988-362dc802826c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fed77f2-4d6b-4f2e-b109-56547476ea69",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4eccc77c-3663-4d08-ac17-1553e250b579",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ff38f0b4-b4e6-450b-9d8f-7661b936b641",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_da6d63da-e2ee-4a85-a91b-0f7b322a9212",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0170a0db-9336-4e8b-8826-f976b297c1c9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0a8c2722-02cb-48a3-b267-8d98766b95a6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_765a808b-4563-4eea-86ed-7bd91f0aea45",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7244f99c-e056-412c-836d-b3933bb51229",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_39b8f29b-2881-471b-9f33-5a23df6388fc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_245a02da-2121-4abf-aac1-5043910b0286",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_06e54c2d-2e05-4a31-ab77-e7b19946d6f6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c4d8ff53-d800-4125-84a6-261f4c37e30e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ab7620ba-835b-423d-8386-38a0f624a218",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_125917e1-bcdf-45bc-8969-fb3ebf15fd35",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_80ce67b3-9d8b-4f2d-b8fe-31019d28405e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7c3bc6dc-1bb2-4b15-8184-55ce7d3301c5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c791c331-12fd-4128-9041-6170c2a059fa",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c575658b-e3a8-4b85-ae86-8e11ca4d3d55",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc553134-9357-4337-ade0-8e271ead49a1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3a4a1fb9-55c1-4610-ac2a-9589507db8e5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f877ec55-dee7-4810-a8cf-6637955e596e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b200a01-33f8-4ffe-af74-b5f3d0f21106",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_swedishmetalcore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_823039e5-995c-4c8c-9a70-154dcf4501c6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b15ebd71-a252-417d-9e1c-3e6863da68f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3798b104-01cb-484c-a3b0-56adc6399b80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_153c9281-268f-4cf3-8938-f5a4593e5df4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_66fc5bf8-daa4-4241-b378-9bc9077939d2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4bd95eea-b9f6-4d70-a36c-cfea77431553",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6ae51665-8261-4ae5-883f-1899651ad31b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_af311bef-498c-402c-ba37-169666064f1b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_hardalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1918c282-ffaa-4dd0-a3f1-a2f0c3a650d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_germanheavymetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_41f4d85a-0bd7-4602-a3e3-8c47f36efb0a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b88b94b6-a904-4457-914b-53b2b8c22ce2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_385e59cf-8ca7-49c1-b57d-5f10609b2558",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b6538ca-173e-451d-8765-fa0f8ba12791",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8568a2a7-4f61-44c1-a0c1-d4066e680457",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f380788-9ea6-4078-be27-0f297bdd7f30",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_257368b9-1aca-49c2-9c43-36b1ae2ac46a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_24795329-fa41-4b71-8386-94d96aa25471",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dccaf7d2-7c45-458d-8954-34274c6bce2f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8763e752-fa52-4401-b827-81bb325228ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_88dd9f90-e2d3-491c-b5d0-03bd8d901d1c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_45835a10-6b97-432f-a73c-9a166d4ea02b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a828b69d-c00c-406e-8190-cc25529e7a49",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3e3fa0a0-71dc-476f-9ed6-146efe151434",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodichardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2e5ac8a7-fe96-4df1-b788-282ee79b9307",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_nwocr",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3cce0c64-ce00-4308-bd41-ee61cfc9ff5d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_osharekei",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8740e0cf-210f-4035-885e-b5e9e52be11d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_heavyalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dec35ffa-669c-4907-a45e-e3d70de0efb8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_heavyalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ec50039-b0dd-4c7f-9d16-2cd2107f0829",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_heavyalternative",
+      "relation_type": "has_artist",
+      "entity_b": "artist_937ed9cf-2e70-44ec-a3af-55d8a01e0813",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_corrosion",
+      "relation_type": "has_artist",
+      "entity_b": "artist_98a2250a-793d-4b43-9e89-4b80606030b4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_50338aeb-dc87-4c63-8f0f-a4c6da45777c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_16a4f437-45ba-4c5f-a746-e13a46cebfc2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_acdcda3f-e9bb-4b3b-a6d0-8f879827fb9d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9dc9e846-bcdd-48fa-af62-105bf00fc359",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e93424ae-bf3b-426a-952f-cb89bde5db0c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_60e2aa69-a4b7-419a-bbfc-f253fb21be9c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ffc6e5c1-bce9-42f6-8fb6-319b6cb56763",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8ea439fb-7765-4f8b-82c2-d54981f1f147",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_35af8d7d-30ee-4703-b7d1-968df47a892d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_cybermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8d7ea875-9309-463a-afeb-ef2b5a2380a7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1048f9ad-2955-45d3-bf72-93e80e28ca84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aca0524e-14da-4877-84d5-d0baaeb65dbf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2449300a-6ca7-45da-8102-22789d256475",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_82e5dd3d-831c-49e7-bc24-1937030be816",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0950f065-1d6a-444d-93c9-a6541a9122a7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7be943de-eab7-439f-ae2b-9a33d2a51d33",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_96d6a3c2-439f-4ab2-80eb-e8cbd9a8beb7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8cbbbb9a-0bf0-4fa6-8b12-8e1d090e9134",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4e68f6a4-2e7b-457f-bbac-3ebdd7f83f89",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_42cbd607-5400-4791-bd02-8657e112288f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bae58d01-a19c-4ada-a6b2-20d8eec80ab7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c38cba8f-cd40-4cad-a400-091fa2c3fc9b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_745f1c56-5230-4ff6-a7f6-bec91c23f9fd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_06afb7c4-d055-4de6-9936-4b9e57e2a0ef",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2030bea5-333f-4db2-bc29-aefff5207ee7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e6f206ce-a5ae-433a-a54e-a55888880e65",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a2387995-757f-4ea1-82e6-72a1dfa6651b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_154d5f31-1537-4027-9cff-ad17c968402c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1c877b22-53ba-495a-80bc-c2159d82d62c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6af98a43-2307-4ee8-ba7e-865e56771fed",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2480ac5d-811b-45e8-8eaf-bc45b3be4aea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e53a1c5c-7f33-44f3-817e-8b7136e47a9e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f0da6b29-d7b8-49d6-b485-755e6de8f35b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_40520c0e-99c4-42a5-8c5a-797d7d9f7240",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f5a9251a-a7cc-4acc-bb20-cdc2226ef6ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_melodicpowermetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_25e4b3c0-8301-48ed-b1b3-bf9ed548b1e8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianhardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4ebed31c-4984-432c-8d78-0f08a4b169a2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_christianhardrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e212e7b1-d95c-461b-965e-c753565dfc51",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a75f009f-7234-4f69-81a2-c1f7492f4106",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ce97025c-9237-48a2-986f-7bec8f403edc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ec98a44-ce37-4264-abfc-0496e389538d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5fd0589-a3ae-48ac-9ea5-2c4b875e5b7e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8fc66972-d2fa-4fe9-b1ed-f6bb90e6f5ab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1c79c8c5-a91c-4450-8c43-22a3834798e4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3c85e74c-cece-448e-8b1c-b5fce5a81a80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_75c2ee6f-8aca-4434-bd25-57ea2d6249b5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b85132b1-6957-4273-b733-9000d7007119",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3d4c08a6-a50e-4ee9-870d-28cf4e2ed5cb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thall",
+      "relation_type": "has_artist",
+      "entity_b": "artist_19655fb2-70aa-4406-8dcf-0bf76f662b85",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_ramonescore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cb1c37f2-8a64-4edc-9fa5-dff123c86092",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_instrumentalprogressivemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fdec06cd-de01-47b0-8bcc-09e82889d6eb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_grungepop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_54e2c3d7-96cb-4761-b36b-bc039e93950a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_grungepop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9c7c5d40-aba9-4dff-8ad7-cd062d3b3269",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_grungepop",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2b61c363-b832-443e-b214-519aeec6a12a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8473ffeb-7fb6-486a-be51-7d162fec4788",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8c770687-7b7a-4c3c-a2ea-f954440bfa43",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a94984e8-ac5a-401d-8548-0f4eb2153f28",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_329f95db-f02e-40bf-a5f7-0dea11529ce3",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cf075492-d880-4afc-b87b-d6b03e33dacc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6356a6dd-8fa4-4477-8306-a43540d6dfe2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fb759bfb-34ec-4f1d-91f9-fd46549bc3cd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_378d41ba-9982-4fb6-a67f-6c91a30a657e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c0158de0-94e7-41e7-9dd1-b8e2f5238b99",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dc0da7d1-231c-4058-8e6e-1c0801848602",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_82e44166-4b5f-42bf-bf34-05637d5096db",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e571db0f-fcbc-4ede-b5da-57b093b263e6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_761faa68-ce9d-424f-a257-f16b8f1386df",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5578d1ad-02db-4b17-ada1-32d1aa4efd49",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_796f730a-c418-4f5e-80ea-d1216873a447",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dab29578-6750-4a27-9c57-f63e2409a8ba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b9c47f94-a0ee-4385-9aea-64ad343f63e1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fe8b8d22-a1ea-457e-8727-7e143df084b1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9d2fde91-4633-430d-87f0-2b9bbb7fa451",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0ac4e170-7af8-4247-83be-d9e77d33ab07",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0c6b687a-1225-47a1-b6a9-55381755ecf4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d42b1395-0b4a-4782-bced-3ba579918a3e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4a90622e-fc29-4c60-845b-d1752cd286cd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_12746f2f-33e8-488e-81e4-4e49cf0e5ec6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bb099f54-e550-4abe-9dd9-9f168b615e19",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c8618794-f2ec-4654-939f-f583800f4377",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5268fff1-ee25-4691-9fa9-071663db5543",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b869b57a-f6d7-4fa4-abf7-f61c465db8b0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5484138b-a540-4bac-b0f5-448402ef55be",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_39a3704a-5b64-43f8-88b2-4317849d3539",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b1d39433-6353-4e3b-8125-8716d984fb2c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_095ef906-f6a2-40b1-8632-d4f15559d0f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bdf57534-1bb6-4240-9207-9626e9e9b96b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d1899949-4a30-4e2e-9746-c20c159055df",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8890703c-077d-4206-84a2-5030f73d9a80",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9a92decc-cf0c-4587-acc7-8bd9e2573cb5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d094ebee-5cee-49fb-b4a9-18f06e8f7bff",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_65b2677d-19f4-4250-b303-91597a43f6d0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2e603b5a-1db4-42f7-b5a1-09297997fb2a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_481a8e02-ad9d-4439-b735-d289d0cdb8c8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c1d5b579-4c7a-4602-99ad-f447a71f131f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1e1bab6b-502c-4ef8-8d08-36b25e0789f2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d7379ded-3f3b-4f87-aead-429b1da3ecea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_29cb45d6-d339-4ab2-a2e2-40715aa9f3bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_04f69fc3-d135-4544-b218-7f3a21e46a4c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6a27c36e-b8d9-438b-b04d-6da81d7d2181",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_afd90396-bf24-4adf-8cb9-c1c19a228bdb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dbf3b5ee-af55-40bb-899c-557332da769a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b5614e10-e7a1-4f3f-8ac4-256922121958",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_electronicore",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e6ed3092-14f9-42aa-82eb-17890bc81891",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_neotradmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_058b5c2d-2503-45e8-978a-d526052c5f7b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicmelodicdeathmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e631bb92-3e2b-43e3-a2cb-b605e2fb53bd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicmelodicdeathmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_701536b7-fef2-4e6f-897a-3d925778caca",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_symphonicmelodicdeathmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1f7c8bcb-f114-411e-85a7-10e23ec5c931",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_chinesemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b006e193-df27-47d0-9516-d6020c3608a5",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_russiandeathmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_136c8f3f-90eb-4d3d-8b1e-079d575b3a00",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_estonianmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a5458e27-f7e5-4698-bd7c-020383a24075",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_estonianmetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0cb2e439-8219-4423-941e-8af5c2806ead",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_thrashgroovemetal",
+      "relation_type": "has_artist",
+      "entity_b": "artist_718b115f-97fb-46c2-a615-8a0451a91ec3",
+      "strength": 1.0
+    }
+  ]
+}

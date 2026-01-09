@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc124",
+    "description": "Genres and artists starting with \uc124",
+    "shard_id": "\uc124",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_9189062a-0f8f-4dea-ad07-3a6d098c2008",
+      "type": "artist",
+      "name": "\uc124\uc6b4\ub3c4",
+      "description": "Artist: \uc124\uc6b4\ub3c4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9189062a-0f8f-4dea-ad07-3a6d098c2008",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

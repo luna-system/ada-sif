@@ -1,0 +1,150 @@
+{
+  "version": "1.1",
+  "metadata": {
+    "title": "ENAO Music Catalog (K-Means Sharded)",
+    "description": "Every Noise At Once catalog sharded using k-means clustering (k=16)",
+    "total_entities": 36722,
+    "total_relationships": 43172,
+    "shard_count": 17,
+    "shard_strategy": "kmeans",
+    "n_clusters": 16
+  },
+  "shards": [
+    {
+      "id": "artists",
+      "name": "Artists Hub",
+      "type": "hub",
+      "url": "enao_artists.sif.json",
+      "entity_count": 30431,
+      "relationship_count": 0
+    },
+    {
+      "id": "cluster_0",
+      "name": "Electric + Mid (Cluster 0)",
+      "type": "module",
+      "url": "enao_cluster_0.sif.json",
+      "entity_count": 244,
+      "relationship_count": 1616
+    },
+    {
+      "id": "cluster_1",
+      "name": "Organic + Mid (Cluster 1)",
+      "type": "module",
+      "url": "enao_cluster_1.sif.json",
+      "entity_count": 372,
+      "relationship_count": 3260
+    },
+    {
+      "id": "cluster_10",
+      "name": "Mid-Organic + Mid (Cluster 10)",
+      "type": "module",
+      "url": "enao_cluster_10.sif.json",
+      "entity_count": 533,
+      "relationship_count": 2745
+    },
+    {
+      "id": "cluster_11",
+      "name": "Organic + Bouncy (Cluster 11)",
+      "type": "module",
+      "url": "enao_cluster_11.sif.json",
+      "entity_count": 288,
+      "relationship_count": 3369
+    },
+    {
+      "id": "cluster_12",
+      "name": "Mid-Electric + Mid (Cluster 12)",
+      "type": "module",
+      "url": "enao_cluster_12.sif.json",
+      "entity_count": 367,
+      "relationship_count": 2775
+    },
+    {
+      "id": "cluster_13",
+      "name": "Electric + Mid (Cluster 13)",
+      "type": "module",
+      "url": "enao_cluster_13.sif.json",
+      "entity_count": 238,
+      "relationship_count": 1901
+    },
+    {
+      "id": "cluster_14",
+      "name": "Mid-Organic + Mid (Cluster 14)",
+      "type": "module",
+      "url": "enao_cluster_14.sif.json",
+      "entity_count": 523,
+      "relationship_count": 3325
+    },
+    {
+      "id": "cluster_15",
+      "name": "Mid-Organic + Mid (Cluster 15)",
+      "type": "module",
+      "url": "enao_cluster_15.sif.json",
+      "entity_count": 523,
+      "relationship_count": 2180
+    },
+    {
+      "id": "cluster_2",
+      "name": "Mid-Electric + Mid (Cluster 2)",
+      "type": "module",
+      "url": "enao_cluster_2.sif.json",
+      "entity_count": 540,
+      "relationship_count": 3742
+    },
+    {
+      "id": "cluster_3",
+      "name": "Mid-Organic + Mid (Cluster 3)",
+      "type": "module",
+      "url": "enao_cluster_3.sif.json",
+      "entity_count": 487,
+      "relationship_count": 2397
+    },
+    {
+      "id": "cluster_4",
+      "name": "Organic + Mid (Cluster 4)",
+      "type": "module",
+      "url": "enao_cluster_4.sif.json",
+      "entity_count": 342,
+      "relationship_count": 3698
+    },
+    {
+      "id": "cluster_5",
+      "name": "Mid-Electric + Mid (Cluster 5)",
+      "type": "module",
+      "url": "enao_cluster_5.sif.json",
+      "entity_count": 345,
+      "relationship_count": 2149
+    },
+    {
+      "id": "cluster_6",
+      "name": "Electric + Dense (Cluster 6)",
+      "type": "module",
+      "url": "enao_cluster_6.sif.json",
+      "entity_count": 257,
+      "relationship_count": 1255
+    },
+    {
+      "id": "cluster_7",
+      "name": "Mid-Electric + Mid (Cluster 7)",
+      "type": "module",
+      "url": "enao_cluster_7.sif.json",
+      "entity_count": 286,
+      "relationship_count": 2438
+    },
+    {
+      "id": "cluster_8",
+      "name": "Mid-Organic + Mid (Cluster 8)",
+      "type": "module",
+      "url": "enao_cluster_8.sif.json",
+      "entity_count": 530,
+      "relationship_count": 3763
+    },
+    {
+      "id": "cluster_9",
+      "name": "Mid-Electric + Mid (Cluster 9)",
+      "type": "module",
+      "url": "enao_cluster_9.sif.json",
+      "entity_count": 416,
+      "relationship_count": 2559
+    }
+  ]
+}

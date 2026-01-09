@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0627",
+    "description": "Genres and artists starting with \u0627",
+    "shard_id": "\u0627",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_98984f70-53e6-40ee-8a32-6ee81dd537aa",
+      "type": "artist",
+      "name": "\u0627\u0644\u0634\u0627\u0628 \u0631\u0632\u0642\u064a",
+      "description": "Artist: \u0627\u0644\u0634\u0627\u0628 \u0631\u0632\u0642\u064a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "98984f70-53e6-40ee-8a32-6ee81dd537aa",
+        "country": "MA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9b65d97b-ed38-4df0-903a-5dea39399236",
+      "type": "artist",
+      "name": "\u0627\u0644\u0634\u0627\u0628 \u0639\u064a\u0633\u0649",
+      "description": "Artist: \u0627\u0644\u0634\u0627\u0628 \u0639\u064a\u0633\u0649",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9b65d97b-ed38-4df0-903a-5dea39399236",
+        "country": "DZ",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b3ef1625-25d3-43be-893e-d7e89957ca07",
+      "type": "artist",
+      "name": "\u0627\u0644\u0634\u0627\u0628 \u0639\u0632\u064a\u0632",
+      "description": "Artist: \u0627\u0644\u0634\u0627\u0628 \u0639\u0632\u064a\u0632",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b3ef1625-25d3-43be-893e-d7e89957ca07",
+        "country": "DZ",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4aff76ec-6501-45d6-a5da-dbc05c01580b",
+      "type": "artist",
+      "name": "\u0627\u0644\u0648\u0627\u064a\u0644\u064a",
+      "description": "Artist: \u0627\u0644\u0648\u0627\u064a\u0644\u064a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4aff76ec-6501-45d6-a5da-dbc05c01580b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b0b889b4-e694-41ec-9092-e510edd51bc9",
+      "type": "artist",
+      "name": "\u0627\u0628\u0648 \u0628\u0643\u0631 \u0633\u0627\u0644\u0645 \u0628\u0644\u0641\u0642\u064a\u0647",
+      "description": "Artist: \u0627\u0628\u0648 \u0628\u0643\u0631 \u0633\u0627\u0644\u0645 \u0628\u0644\u0641\u0642\u064a\u0647",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b0b889b4-e694-41ec-9092-e510edd51bc9",
+        "country": "YE",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

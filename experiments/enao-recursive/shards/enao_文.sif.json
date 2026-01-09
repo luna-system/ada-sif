@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6587",
+    "description": "Genres and artists starting with \u6587",
+    "shard_id": "\u6587",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_cc1b4226-f391-4e8c-ba8c-e8e21c26638c",
+      "type": "artist",
+      "name": "\u6587\u590f",
+      "description": "Artist: \u6587\u590f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cc1b4226-f391-4e8c-ba8c-e8e21c26638c",
+        "country": "TW",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

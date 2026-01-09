@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u671d",
+    "description": "Genres and artists starting with \u671d",
+    "shard_id": "\u671d",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_887e2d4e-f9e5-4be4-bd65-ab53aefa136b",
+      "type": "artist",
+      "name": "\u671d\u4e18\u96ea\u8def",
+      "description": "Artist: \u671d\u4e18\u96ea\u8def",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "887e2d4e-f9e5-4be4-bd65-ab53aefa136b",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,145 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u674e",
+    "description": "Genres and artists starting with \u674e",
+    "shard_id": "\u674e",
+    "entity_count": 11,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_be28eefe-4995-400b-94d0-4f4edbf8d092",
+      "type": "artist",
+      "name": "\u674e\u514b\u52e4",
+      "description": "Artist: \u674e\u514b\u52e4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "be28eefe-4995-400b-94d0-4f4edbf8d092",
+        "country": "HK",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_82c314c4-0498-466a-9093-79cef38875a0",
+      "type": "artist",
+      "name": "\u674e\u8363\u6d69",
+      "description": "Artist: \u674e\u8363\u6d69",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "82c314c4-0498-466a-9093-79cef38875a0",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9f64825b-f794-41f8-8b89-1425397f570a",
+      "type": "artist",
+      "name": "\u674e\u6c76\u9a8f",
+      "description": "Artist: \u674e\u6c76\u9a8f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f64825b-f794-41f8-8b89-1425397f570a",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b0cd2ea2-39c3-4c3e-9ee2-1e05cf177622",
+      "type": "artist",
+      "name": "\u674e\u5251\u9e3f",
+      "description": "Artist: \u674e\u5251\u9e3f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b0cd2ea2-39c3-4c3e-9ee2-1e05cf177622",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_da19c647-b113-4179-8803-3d2f1398c927",
+      "type": "artist",
+      "name": "\u674e\u8302\u5c71",
+      "description": "Artist: \u674e\u8302\u5c71",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "da19c647-b113-4179-8803-3d2f1398c927",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c31028bf-3a76-410e-a853-c19a7d9decb3",
+      "type": "artist",
+      "name": "\u674e\u5764\u57ce",
+      "description": "Artist: \u674e\u5764\u57ce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c31028bf-3a76-410e-a853-c19a7d9decb3",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e54bc357-19aa-4e1f-9795-3346e486d5db",
+      "type": "artist",
+      "name": "\u674e\u5fd7",
+      "description": "Artist: \u674e\u5fd7",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e54bc357-19aa-4e1f-9795-3346e486d5db",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_55a81f9b-c069-4d06-b791-28ef98375276",
+      "type": "artist",
+      "name": "\u674e\u5149\u7956",
+      "description": "Artist: \u674e\u5149\u7956",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "55a81f9b-c069-4d06-b791-28ef98375276",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_eb0b2e66-76a5-463f-ba30-27b8a6f802b2",
+      "type": "artist",
+      "name": "\u674e\u4e59",
+      "description": "Artist: \u674e\u4e59",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eb0b2e66-76a5-463f-ba30-27b8a6f802b2",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_30d96c3e-43f8-409e-966a-67563e2c2f01",
+      "type": "artist",
+      "name": "\u674e\u79b9\u8d24",
+      "description": "Artist: \u674e\u79b9\u8d24",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30d96c3e-43f8-409e-966a-67563e2c2f01",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3577f41f-621b-4063-9f31-ef46bcc05903",
+      "type": "artist",
+      "name": "\u674e\u7965\u9706",
+      "description": "Artist: \u674e\u7965\u9706",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3577f41f-621b-4063-9f31-ef46bcc05903",
+        "country": "CN",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

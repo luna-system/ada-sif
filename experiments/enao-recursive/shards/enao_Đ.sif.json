@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0110",
+    "description": "Genres and artists starting with \u0110",
+    "shard_id": "\u0110",
+    "entity_count": 6,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f4f88ad0-09f0-4f47-b616-7488cc01e5eb",
+      "type": "artist",
+      "name": "\u0110\u00f4ng Nhi",
+      "description": "Artist: \u0110\u00f4ng Nhi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f4f88ad0-09f0-4f47-b616-7488cc01e5eb",
+        "country": "VN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_415fbe5d-743a-457c-b6bd-f1f779d4e9cf",
+      "type": "artist",
+      "name": "\u0110\u00e0m V\u0129nh H\u01b0ng",
+      "description": "Artist: \u0110\u00e0m V\u0129nh H\u01b0ng",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "415fbe5d-743a-457c-b6bd-f1f779d4e9cf",
+        "country": "VN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_858d6ade-3f5d-473d-8a61-7d5c1c7e66e8",
+      "type": "artist",
+      "name": "\u0110inh D\u0169ng",
+      "description": "Artist: \u0110inh D\u0169ng",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "858d6ade-3f5d-473d-8a61-7d5c1c7e66e8",
+        "country": "VN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2b01fc2e-aeaa-4c89-bbe0-0ec500f55ec3",
+      "type": "artist",
+      "name": "\u0110an Tr\u01b0\u1eddng",
+      "description": "Artist: \u0110an Tr\u01b0\u1eddng",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2b01fc2e-aeaa-4c89-bbe0-0ec500f55ec3",
+        "country": "VN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ff0107e9-5348-4473-9327-d9cb8dc635f8",
+      "type": "artist",
+      "name": "\u0110\u1ee9c Tu\u1ea5n",
+      "description": "Artist: \u0110\u1ee9c Tu\u1ea5n",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ff0107e9-5348-4473-9327-d9cb8dc635f8",
+        "country": "VN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_98902cb6-03e6-42d6-a561-fe5d3f26ae5b",
+      "type": "artist",
+      "name": "\u0110an Nguy\u00ean",
+      "description": "Artist: \u0110an Nguy\u00ean",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "98902cb6-03e6-42d6-a561-fe5d3f26ae5b",
+        "country": "VN",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

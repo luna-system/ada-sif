@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0415",
+    "description": "Genres and artists starting with \u0415",
+    "shard_id": "\u0415",
+    "entity_count": 9,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_cfb3d32e-d095-4d63-946d-9daf06932180",
+      "type": "artist",
+      "name": "\u0415\u0433\u043e\u0440 \u041b\u0435\u0442\u043e\u0432",
+      "description": "Artist: \u0415\u0433\u043e\u0440 \u041b\u0435\u0442\u043e\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cfb3d32e-d095-4d63-946d-9daf06932180",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e062e5e2-2f27-4905-8b60-e83dde386c3d",
+      "type": "artist",
+      "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u0431\u043e\u043b\u0435\u0432",
+      "description": "Artist: \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u0431\u043e\u043b\u0435\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e062e5e2-2f27-4905-8b60-e83dde386c3d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cc25adb0-13c5-4bb2-8894-0970c078a477",
+      "type": "artist",
+      "name": "\u0415\u043c\u0438\u043b\u0438\u044f",
+      "description": "Artist: \u0415\u043c\u0438\u043b\u0438\u044f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cc25adb0-13c5-4bb2-8894-0970c078a477",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_169910df-36ff-4fe8-a5ca-8f6b697dc21b",
+      "type": "artist",
+      "name": "\u0415\u043a\u0441\u0442\u0440\u0430 \u041d\u0438\u043d\u0430",
+      "description": "Artist: \u0415\u043a\u0441\u0442\u0440\u0430 \u041d\u0438\u043d\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "169910df-36ff-4fe8-a5ca-8f6b697dc21b",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bb03714b-0b49-42d7-884e-bfd79115328e",
+      "type": "artist",
+      "name": "\u0415\u0441\u0438\u043b \u0414\u044e\u0440\u0430\u043d",
+      "description": "Artist: \u0415\u0441\u0438\u043b \u0414\u044e\u0440\u0430\u043d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bb03714b-0b49-42d7-884e-bfd79115328e",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c9e6ca2d-689d-43f8-8ef7-911acc3d3d68",
+      "type": "artist",
+      "name": "\u0415\u043d\u0432\u0435\u0440 \u0406\u0437\u043c\u0430\u0439\u043b\u043e\u0432",
+      "description": "Artist: \u0415\u043d\u0432\u0435\u0440 \u0406\u0437\u043c\u0430\u0439\u043b\u043e\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c9e6ca2d-689d-43f8-8ef7-911acc3d3d68",
+        "country": "UA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7a23102a-2bf0-4f24-9897-129b2cdf32f5",
+      "type": "artist",
+      "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0413\u0435\u0432\u043e\u0440\u0433\u044f\u043d",
+      "description": "Artist: \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0413\u0435\u0432\u043e\u0440\u0433\u044f\u043d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7a23102a-2bf0-4f24-9897-129b2cdf32f5",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_65e1b4fc-ac77-45fa-9086-df7d76d8eccf",
+      "type": "artist",
+      "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
+      "description": "Artist: \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0438\u0439",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "65e1b4fc-ac77-45fa-9086-df7d76d8eccf",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a8bde7d4-3461-4565-9376-92ebe9ee44db",
+      "type": "artist",
+      "name": "\u0415\u0444\u0440\u0435\u043c \u0410\u043c\u0438\u0440\u0430\u043c\u043e\u0432",
+      "description": "Artist: \u0415\u0444\u0440\u0435\u043c \u0410\u043c\u0438\u0440\u0430\u043c\u043e\u0432",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a8bde7d4-3461-4565-9376-92ebe9ee44db",
+        "country": "RU",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

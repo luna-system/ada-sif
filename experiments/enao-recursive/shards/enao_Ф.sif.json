@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0424",
+    "description": "Genres and artists starting with \u0424",
+    "shard_id": "\u0424",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_0f7adebe-64da-4f83-8ece-e8e05a60e1c7",
+      "type": "artist",
+      "name": "\u0424\u0438\u043a\u0438",
+      "description": "Artist: \u0424\u0438\u043a\u0438",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0f7adebe-64da-4f83-8ece-e8e05a60e1c7",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0ffcc552-fc9d-4b79-a6d5-b78912a7cdfb",
+      "type": "artist",
+      "name": "\u0424\u0451\u0434\u043e\u0440 \u0428\u0430\u043b\u044f\u043f\u0438\u043d",
+      "description": "Artist: \u0424\u0451\u0434\u043e\u0440 \u0428\u0430\u043b\u044f\u043f\u0438\u043d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0ffcc552-fc9d-4b79-a6d5-b78912a7cdfb",
+        "country": "RU",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

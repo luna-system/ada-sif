@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "timestamp": "2026-01-08T18:08:42.077420Z",
+    "domain": "other",
+    "source_size_bytes": 108072127,
+    "source_hash": "4cb795ad2341ac352f97f5aef483d5a9d0d0ef61b832511670d4e148715f70c1"
+  },
+  "generator": {
+    "name": "enao_to_sif",
+    "version": "1.0.0",
+    "model_used": "rule-based-aggregation",
+    "parameters": {
+      "sample_size": 1000,
+      "source": "https://www.kaggle.com/datasets/nikitricky/every-noise-at-once"
+    }
+  },
+  "summary": {
+    "text": "Every Noise At Once: A comprehensive dataset of 10 music genres with 1,000 representative songs and detailed audio feature analysis. (Sample of 1,000 songs)",
+    "keywords": [
+      "music",
+      "genres",
+      "audio features",
+      "every noise at once",
+      "spotify"
+    ],
+    "theme": "Music genre classification with audio feature analysis"
+  },
+  "entities": [
+    {
+      "id": "pop",
+      "type": "concept",
+      "name": "pop",
+      "description": "pop genre with 100 representative songs (avg danceability: 0.66, energy: 0.63)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.656,
+        "avg_energy": 0.627,
+        "avg_loudness": -5.807,
+        "avg_speechiness": 0.073,
+        "avg_acousticness": 0.235,
+        "avg_instrumentalness": 0.001,
+        "avg_liveness": 0.14,
+        "avg_valeance": 0.502,
+        "avg_tempo": 121.356
+      },
+      "aliases": []
+    },
+    {
+      "id": "dance_pop",
+      "type": "concept",
+      "name": "dance pop",
+      "description": "dance pop genre with 100 representative songs (avg danceability: 0.70, energy: 0.75)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.704,
+        "avg_energy": 0.745,
+        "avg_loudness": -5.263,
+        "avg_speechiness": 0.072,
+        "avg_acousticness": 0.073,
+        "avg_instrumentalness": 0.026,
+        "avg_liveness": 0.159,
+        "avg_valeance": 0.605,
+        "avg_tempo": 122.597
+      },
+      "aliases": []
+    },
+    {
+      "id": "rap",
+      "type": "concept",
+      "name": "rap",
+      "description": "rap genre with 100 representative songs (avg danceability: 0.74, energy: 0.63)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.737,
+        "avg_energy": 0.627,
+        "avg_loudness": -6.521,
+        "avg_speechiness": 0.181,
+        "avg_acousticness": 0.141,
+        "avg_instrumentalness": 0.008,
+        "avg_liveness": 0.195,
+        "avg_valeance": 0.444,
+        "avg_tempo": 125.552
+      },
+      "aliases": []
+    },
+    {
+      "id": "post_teen_pop",
+      "type": "concept",
+      "name": "post-teen pop",
+      "description": "post-teen pop genre with 100 representative songs (avg danceability: 0.64, energy: 0.72)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.641,
+        "avg_energy": 0.721,
+        "avg_loudness": -5.107,
+        "avg_speechiness": 0.068,
+        "avg_acousticness": 0.118,
+        "avg_instrumentalness": 0.001,
+        "avg_liveness": 0.156,
+        "avg_valeance": 0.572,
+        "avg_tempo": 126.082
+      },
+      "aliases": []
+    },
+    {
+      "id": "rock",
+      "type": "concept",
+      "name": "rock",
+      "description": "rock genre with 100 representative songs (avg danceability: 0.52, energy: 0.67)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.518,
+        "avg_energy": 0.67,
+        "avg_loudness": -8.727,
+        "avg_speechiness": 0.052,
+        "avg_acousticness": 0.195,
+        "avg_instrumentalness": 0.049,
+        "avg_liveness": 0.185,
+        "avg_valeance": 0.581,
+        "avg_tempo": 124.504
+      },
+      "aliases": []
+    },
+    {
+      "id": "latin",
+      "type": "concept",
+      "name": "latin",
+      "description": "latin genre with 100 representative songs (avg danceability: 0.74, energy: 0.66)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.739,
+        "avg_energy": 0.662,
+        "avg_loudness": -6.078,
+        "avg_speechiness": 0.161,
+        "avg_acousticness": 0.122,
+        "avg_instrumentalness": 0.001,
+        "avg_liveness": 0.189,
+        "avg_valeance": 0.517,
+        "avg_tempo": 119.722
+      },
+      "aliases": []
+    },
+    {
+      "id": "hip_hop",
+      "type": "concept",
+      "name": "hip hop",
+      "description": "hip hop genre with 100 representative songs (avg danceability: 0.69, energy: 0.71)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.69,
+        "avg_energy": 0.711,
+        "avg_loudness": -6.17,
+        "avg_speechiness": 0.072,
+        "avg_acousticness": 0.266,
+        "avg_instrumentalness": 0.006,
+        "avg_liveness": 0.155,
+        "avg_valeance": 0.637,
+        "avg_tempo": 120.901
+      },
+      "aliases": []
+    },
+    {
+      "id": "pop_rap",
+      "type": "concept",
+      "name": "pop rap",
+      "description": "pop rap genre with 100 representative songs (avg danceability: 0.74, energy: 0.69)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.741,
+        "avg_energy": 0.688,
+        "avg_loudness": -7.997,
+        "avg_speechiness": 0.228,
+        "avg_acousticness": 0.126,
+        "avg_instrumentalness": 0.009,
+        "avg_liveness": 0.225,
+        "avg_valeance": 0.676,
+        "avg_tempo": 103.336
+      },
+      "aliases": []
+    },
+    {
+      "id": "trap_latino",
+      "type": "concept",
+      "name": "trap latino",
+      "description": "trap latino genre with 100 representative songs (avg danceability: 0.78, energy: 0.70)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.777,
+        "avg_energy": 0.697,
+        "avg_loudness": -5.425,
+        "avg_speechiness": 0.146,
+        "avg_acousticness": 0.251,
+        "avg_instrumentalness": 0.003,
+        "avg_liveness": 0.167,
+        "avg_valeance": 0.641,
+        "avg_tempo": 120.847
+      },
+      "aliases": []
+    },
+    {
+      "id": "trap",
+      "type": "concept",
+      "name": "trap",
+      "description": "trap genre with 100 representative songs (avg danceability: 0.78, energy: 0.63)",
+      "importance": 1.0,
+      "attributes": {
+        "song_count": 100,
+        "avg_danceability": 0.778,
+        "avg_energy": 0.633,
+        "avg_loudness": -6.375,
+        "avg_speechiness": 0.184,
+        "avg_acousticness": 0.094,
+        "avg_instrumentalness": 0.001,
+        "avg_liveness": 0.173,
+        "avg_valeance": 0.468,
+        "avg_tempo": 126.648
+      },
+      "aliases": []
+    }
+  ],
+  "relationships": [],
+  "facts": [],
+  "validation": {
+    "schema_version": "1.0.0",
+    "is_valid": true,
+    "quality_score": 0.9,
+    "compression_ratio": 23973.408828748892
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5922",
+    "description": "Genres and artists starting with \u5922",
+    "shard_id": "\u5922",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_4c8e3a4c-8eb0-4bd5-8ee7-0d17ac25eeb6",
+      "type": "artist",
+      "name": "\u5922\u307f\u308b\u30a2\u30c9\u30ec\u30bb\u30f3\u30b9",
+      "description": "Artist: \u5922\u307f\u308b\u30a2\u30c9\u30ec\u30bb\u30f3\u30b9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4c8e3a4c-8eb0-4bd5-8ee7-0d17ac25eeb6",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

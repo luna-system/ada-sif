@@ -1,0 +1,169 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c9",
+    "description": "Genres and artists starting with \u00c9",
+    "shard_id": "\u00c9",
+    "entity_count": 13,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_89da603c-9da9-42b4-b8f1-e51a70598401",
+      "type": "artist",
+      "name": "\u00c9dgar L\u00f3pez Pay\u00e1n",
+      "description": "Artist: \u00c9dgar L\u00f3pez Pay\u00e1n",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "89da603c-9da9-42b4-b8f1-e51a70598401",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+      "type": "artist",
+      "name": "\u00c9dith Piaf",
+      "description": "Artist: \u00c9dith Piaf",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_136ba270-b73a-4a8e-aaa5-9e2c1fc95f76",
+      "type": "artist",
+      "name": "\u00c9milie Rachel",
+      "description": "Artist: \u00c9milie Rachel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "136ba270-b73a-4a8e-aaa5-9e2c1fc95f76",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8873cd3a-eebc-4c96-9eb8-364d6f75f8ee",
+      "type": "artist",
+      "name": "\u00c9rlon Chaves",
+      "description": "Artist: \u00c9rlon Chaves",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8873cd3a-eebc-4c96-9eb8-364d6f75f8ee",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_44c77a9a-8dad-4641-9d17-bf10f3b51323",
+      "type": "artist",
+      "name": "\u00c9tienne \"Sarane\" Ferret",
+      "description": "Artist: \u00c9tienne \"Sarane\" Ferret",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "44c77a9a-8dad-4641-9d17-bf10f3b51323",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_25b0d755-16e6-4ff8-ab4f-7226279019c2",
+      "type": "artist",
+      "name": "\u00c9lage Diouf",
+      "description": "Artist: \u00c9lage Diouf",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "25b0d755-16e6-4ff8-ab4f-7226279019c2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e5d4c042-4553-4380-a4be-88eeac650b46",
+      "type": "artist",
+      "name": "\u00c9mile Kangu\u00e9",
+      "description": "Artist: \u00c9mile Kangu\u00e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e5d4c042-4553-4380-a4be-88eeac650b46",
+        "country": "CM",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c8f141af-c233-41f5-bc22-f7f9a578ab13",
+      "type": "artist",
+      "name": "\u00c9tienne M'Bapp\u00e9",
+      "description": "Artist: \u00c9tienne M'Bapp\u00e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c8f141af-c233-41f5-bc22-f7f9a578ab13",
+        "country": "CM",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5748d6fe-d238-439d-8fbd-a975d659e3d5",
+      "type": "artist",
+      "name": "\u00c9der Quartet",
+      "description": "Artist: \u00c9der Quartet",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5748d6fe-d238-439d-8fbd-a975d659e3d5",
+        "country": "HU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ac8d3ef8-64fa-4118-91d2-17c63d207e6f",
+      "type": "artist",
+      "name": "\u00c9corch\u00e9",
+      "description": "Artist: \u00c9corch\u00e9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac8d3ef8-64fa-4118-91d2-17c63d207e6f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_32981181-5e3f-4160-a872-625980035593",
+      "type": "artist",
+      "name": "\u00c9liane Radigue",
+      "description": "Artist: \u00c9liane Radigue",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "32981181-5e3f-4160-a872-625980035593",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_790c5f71-d4a2-4946-bb29-728375d1c1ae",
+      "type": "artist",
+      "name": "\u00c9ric La Casa",
+      "description": "Artist: \u00c9ric La Casa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "790c5f71-d4a2-4946-bb29-728375d1c1ae",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_116e9188-64e8-4e0c-b2af-a96c199f9bc0",
+      "type": "artist",
+      "name": "\u00c9ric Cordier",
+      "description": "Artist: \u00c9ric Cordier",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "116e9188-64e8-4e0c-b2af-a96c199f9bc0",
+        "country": "FR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

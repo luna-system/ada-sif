@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0141",
+    "description": "Genres and artists starting with \u0141",
+    "shard_id": "\u0141",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_ac56f940-c342-421b-8990-34038ca9ac83",
+      "type": "artist",
+      "name": "\u0141ukash",
+      "description": "Artist: \u0141ukash",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac56f940-c342-421b-8990-34038ca9ac83",
+        "country": "PL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_c2917880-f385-42b0-8dae-6c3cb9194a4b",
+      "type": "artist",
+      "name": "\u0141ukasz Kapu\u015bci\u0144ski",
+      "description": "Artist: \u0141ukasz Kapu\u015bci\u0144ski",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c2917880-f385-42b0-8dae-6c3cb9194a4b",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

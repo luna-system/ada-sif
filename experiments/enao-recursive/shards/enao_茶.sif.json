@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8336",
+    "description": "Genres and artists starting with \u8336",
+    "shard_id": "\u8336",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f58655bd-4b84-4836-80a7-f21c9ddf3e52",
+      "type": "artist",
+      "name": "\u8336\u592a",
+      "description": "Artist: \u8336\u592a",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f58655bd-4b84-4836-80a7-f21c9ddf3e52",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

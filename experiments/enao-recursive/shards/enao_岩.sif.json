@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u5ca9",
+    "description": "Genres and artists starting with \u5ca9",
+    "shard_id": "\u5ca9",
+    "entity_count": 6,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7f4b1f97-b010-4a02-ba3e-6af929799c28",
+      "type": "artist",
+      "name": "\u5ca9\u5d0e\u5b8f\u7f8e",
+      "description": "Artist: \u5ca9\u5d0e\u5b8f\u7f8e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7f4b1f97-b010-4a02-ba3e-6af929799c28",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3917e398-5c87-453d-b676-96a0dfc996ff",
+      "type": "artist",
+      "name": "\u5ca9\u5d0e\u7422",
+      "description": "Artist: \u5ca9\u5d0e\u7422",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3917e398-5c87-453d-b676-96a0dfc996ff",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9036aa01-4bc5-403b-ba4a-ddc39dac7e2f",
+      "type": "artist",
+      "name": "\u5ca9\u4ee3\u592a\u90ce",
+      "description": "Artist: \u5ca9\u4ee3\u592a\u90ce",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9036aa01-4bc5-403b-ba4a-ddc39dac7e2f",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0e9fdf7f-1d40-4835-8144-338dbe009dec",
+      "type": "artist",
+      "name": "\u5ca9\u5d0e\u826f\u7f8e",
+      "description": "Artist: \u5ca9\u5d0e\u826f\u7f8e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0e9fdf7f-1d40-4835-8144-338dbe009dec",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9b6ab0d6-9366-4a2a-bb45-97f5b3288460",
+      "type": "artist",
+      "name": "\u5ca9\u4f50\u7f8e\u54b2",
+      "description": "Artist: \u5ca9\u4f50\u7f8e\u54b2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9b6ab0d6-9366-4a2a-bb45-97f5b3288460",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b146f42e-6944-4198-82e2-42298953ff21",
+      "type": "artist",
+      "name": "\u5ca9\u51fa\u548c\u4e5f",
+      "description": "Artist: \u5ca9\u51fa\u548c\u4e5f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b146f42e-6944-4198-82e2-42298953ff21",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uff22",
+    "description": "Genres and artists starting with \uff22",
+    "shard_id": "\uff22",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_9fc091d9-4100-48b5-891b-fcfe47a852f8",
+      "type": "artist",
+      "name": "\uff42\uff4f\uff44\uff59\uff4c\uff49\uff4e\uff45",
+      "description": "Artist: \uff42\uff4f\uff44\uff59\uff4c\uff49\uff4e\uff45",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9fc091d9-4100-48b5-891b-fcfe47a852f8",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

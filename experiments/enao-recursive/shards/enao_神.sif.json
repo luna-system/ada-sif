@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u795e",
+    "description": "Genres and artists starting with \u795e",
+    "shard_id": "\u795e",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_e4bd942f-592b-4cee-bea2-7e62c0fafd09",
+      "type": "artist",
+      "name": "\u795e\u8056\u304b\u307e\u3063\u3066\u3061\u3083\u3093",
+      "description": "Artist: \u795e\u8056\u304b\u307e\u3063\u3066\u3061\u3083\u3093",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e4bd942f-592b-4cee-bea2-7e62c0fafd09",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6ec9630d-c04d-4b6e-9a66-3ea9862e23c6",
+      "type": "artist",
+      "name": "\u795e\u5a01\u304c\u304f\u307d",
+      "description": "Artist: \u795e\u5a01\u304c\u304f\u307d",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6ec9630d-c04d-4b6e-9a66-3ea9862e23c6",
+        "country": "JP",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_48fcad40-6e64-4987-9f1b-c1dbef5e062e",
+      "type": "artist",
+      "name": "\u795e\u4fdd\u5f70",
+      "description": "Artist: \u795e\u4fdd\u5f70",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48fcad40-6e64-4987-9f1b-c1dbef5e062e",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e8847003-576f-49a8-96cc-5ddad0025414",
+      "type": "artist",
+      "name": "\u795e\u4e95\u5927\u6cbb",
+      "description": "Artist: \u795e\u4e95\u5927\u6cbb",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8847003-576f-49a8-96cc-5ddad0025414",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8661eabc-037e-4f85-a36a-633da2ba9d9e",
+      "type": "artist",
+      "name": "\u795e\u697d\u5742\u306f\u3093\u5b50",
+      "description": "Artist: \u795e\u697d\u5742\u306f\u3093\u5b50",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8661eabc-037e-4f85-a36a-633da2ba9d9e",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

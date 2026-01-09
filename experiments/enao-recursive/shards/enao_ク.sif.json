@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u30af",
+    "description": "Genres and artists starting with \u30af",
+    "shard_id": "\u30af",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_5b4d155c-5adf-4dc4-9ad6-6b22d56e776a",
+      "type": "artist",
+      "name": "\u30af\u30a4\u30c3\u30afLUNSJ",
+      "description": "Artist: \u30af\u30a4\u30c3\u30afLUNSJ",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5b4d155c-5adf-4dc4-9ad6-6b22d56e776a",
+        "country": "NO",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

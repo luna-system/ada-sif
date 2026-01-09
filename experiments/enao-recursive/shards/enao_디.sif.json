@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ub514",
+    "description": "Genres and artists starting with \ub514",
+    "shard_id": "\ub514",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_48159a19-3121-4212-8de6-d7dc1184c813",
+      "type": "artist",
+      "name": "\ub514\uc5d0\uc774\ub4dc",
+      "description": "Artist: \ub514\uc5d0\uc774\ub4dc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48159a19-3121-4212-8de6-d7dc1184c813",
+        "country": "KR",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

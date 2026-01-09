@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9e97",
+    "description": "Genres and artists starting with \u9e97",
+    "shard_id": "\u9e97",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_9236d70c-c276-48c4-85a7-7ee30913bd02",
+      "type": "artist",
+      "name": "\u9e97\u7f8e",
+      "description": "Artist: \u9e97\u7f8e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9236d70c-c276-48c4-85a7-7ee30913bd02",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

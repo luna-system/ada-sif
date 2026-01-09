@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0158",
+    "description": "Genres and artists starting with \u0158",
+    "shard_id": "\u0158",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_5cc3cff3-f1e4-4a3f-93f0-923fa553efbd",
+      "type": "artist",
+      "name": "\u0158ezn\u00edk",
+      "description": "Artist: \u0158ezn\u00edk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5cc3cff3-f1e4-4a3f-93f0-923fa553efbd",
+        "country": "CZ",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

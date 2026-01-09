@@ -1,0 +1,136 @@
+{
+  "version": "1.1",
+  "metadata": {
+    "title": "ENAO Music Catalog (Spatially Sharded)",
+    "description": "Every Noise At Once catalog sharded by position on the genre scatter plot (4x4 grid)",
+    "total_entities": 36722,
+    "total_relationships": 43172,
+    "shard_count": 17,
+    "shard_strategy": "spatial_4x4",
+    "axes": {
+      "x": "Dense/Atmospheric (left) \u2190 \u2192 Spiky/Bouncy (right)",
+      "y": "Organic (down) \u2190 \u2192 Mechanical/Electric (up)"
+    }
+  },
+  "shards": [
+    {
+      "id": "q00",
+      "name": "Organic + Dense/Atmospheric",
+      "url": "enao_q00.sif.json",
+      "entity_count": 127,
+      "relationship_count": 843
+    },
+    {
+      "id": "q01",
+      "name": "Mid-Organic + Dense/Atmospheric",
+      "url": "enao_q01.sif.json",
+      "entity_count": 711,
+      "relationship_count": 5995
+    },
+    {
+      "id": "q02",
+      "name": "Mid-Electric + Dense/Atmospheric",
+      "url": "enao_q02.sif.json",
+      "entity_count": 145,
+      "relationship_count": 1945
+    },
+    {
+      "id": "q03",
+      "name": "Mechanical/Electric + Dense/Atmospheric",
+      "url": "enao_q03.sif.json",
+      "entity_count": 261,
+      "relationship_count": 1580
+    },
+    {
+      "id": "q10",
+      "name": "Organic + Mid-Atmospheric",
+      "url": "enao_q10.sif.json",
+      "entity_count": 213,
+      "relationship_count": 3135
+    },
+    {
+      "id": "q11",
+      "name": "Mid-Organic + Mid-Atmospheric",
+      "url": "enao_q11.sif.json",
+      "entity_count": 920,
+      "relationship_count": 4309
+    },
+    {
+      "id": "q12",
+      "name": "Mid-Electric + Mid-Atmospheric",
+      "url": "enao_q12.sif.json",
+      "entity_count": 713,
+      "relationship_count": 4622
+    },
+    {
+      "id": "q13",
+      "name": "Mechanical/Electric + Mid-Atmospheric",
+      "url": "enao_q13.sif.json",
+      "entity_count": 301,
+      "relationship_count": 1747
+    },
+    {
+      "id": "q20",
+      "name": "Organic + Mid-Bouncy",
+      "url": "enao_q20.sif.json",
+      "entity_count": 585,
+      "relationship_count": 5575
+    },
+    {
+      "id": "q21",
+      "name": "Mid-Organic + Mid-Bouncy",
+      "url": "enao_q21.sif.json",
+      "entity_count": 965,
+      "relationship_count": 4421
+    },
+    {
+      "id": "q22",
+      "name": "Mid-Electric + Mid-Bouncy",
+      "url": "enao_q22.sif.json",
+      "entity_count": 681,
+      "relationship_count": 3864
+    },
+    {
+      "id": "q23",
+      "name": "Mechanical/Electric + Mid-Bouncy",
+      "url": "enao_q23.sif.json",
+      "entity_count": 254,
+      "relationship_count": 2276
+    },
+    {
+      "id": "q30",
+      "name": "Organic + Spiky/Bouncy",
+      "url": "enao_q30.sif.json",
+      "entity_count": 249,
+      "relationship_count": 1986
+    },
+    {
+      "id": "q31",
+      "name": "Mid-Organic + Spiky/Bouncy",
+      "url": "enao_q31.sif.json",
+      "entity_count": 113,
+      "relationship_count": 520
+    },
+    {
+      "id": "q32",
+      "name": "Mid-Electric + Spiky/Bouncy",
+      "url": "enao_q32.sif.json",
+      "entity_count": 36,
+      "relationship_count": 288
+    },
+    {
+      "id": "q33",
+      "name": "Mechanical/Electric + Spiky/Bouncy",
+      "url": "enao_q33.sif.json",
+      "entity_count": 17,
+      "relationship_count": 66
+    },
+    {
+      "id": "unknown",
+      "name": "Unknown Position",
+      "url": "enao_unknown.sif.json",
+      "entity_count": 30431,
+      "relationship_count": 0
+    }
+  ]
+}

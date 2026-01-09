@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c2",
+    "description": "Genres and artists starting with \u00c2",
+    "shard_id": "\u00c2",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_d8d0b08b-4ddc-48da-a608-19584c1e318d",
+      "type": "artist",
+      "name": "\u00c2\u015f\u0131k Veysel",
+      "description": "Artist: \u00c2\u015f\u0131k Veysel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d8d0b08b-4ddc-48da-a608-19584c1e318d",
+        "country": "TR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

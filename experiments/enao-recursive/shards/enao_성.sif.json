@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc131",
+    "description": "Genres and artists starting with \uc131",
+    "shard_id": "\uc131",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_20b7e783-acf7-4a7b-9fb3-6e207166e96d",
+      "type": "artist",
+      "name": "\uc131\ubbfc",
+      "description": "Artist: \uc131\ubbfc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "20b7e783-acf7-4a7b-9fb3-6e207166e96d",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

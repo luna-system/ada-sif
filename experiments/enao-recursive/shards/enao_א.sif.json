@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u05d0",
+    "description": "Genres and artists starting with \u05d0",
+    "shard_id": "\u05d0",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_d3c90d1b-f529-404b-939d-41873386d4b4",
+      "type": "artist",
+      "name": "\u05d0\u05e8\u05d9\u05e7 \u05d0\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+      "description": "Artist: \u05d0\u05e8\u05d9\u05e7 \u05d0\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d3c90d1b-f529-404b-939d-41873386d4b4",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8408d6b8-f124-46f4-9cb5-c37e03a6e08a",
+      "type": "artist",
+      "name": "\u05d0\u05e1\u05ea\u05e8 \u05e2\u05d5\u05e4\u05e8\u05d9\u05dd",
+      "description": "Artist: \u05d0\u05e1\u05ea\u05e8 \u05e2\u05d5\u05e4\u05e8\u05d9\u05dd",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8408d6b8-f124-46f4-9cb5-c37e03a6e08a",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_48181eff-6f6d-46b5-93e9-13cd5e0da0f3",
+      "type": "artist",
+      "name": "\u05d0\u05d2\u05dd \u05d1\u05d5\u05d7\u05d1\u05d5\u05d8",
+      "description": "Artist: \u05d0\u05d2\u05dd \u05d1\u05d5\u05d7\u05d1\u05d5\u05d8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "48181eff-6f6d-46b5-93e9-13cd5e0da0f3",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a40962a3-c02c-4926-af17-9be71c18fd52",
+      "type": "artist",
+      "name": "\u05d0\u05e9\u05de\u05d3\u05d0\u05d9",
+      "description": "Artist: \u05d0\u05e9\u05de\u05d3\u05d0\u05d9",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a40962a3-c02c-4926-af17-9be71c18fd52",
+        "country": "US",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

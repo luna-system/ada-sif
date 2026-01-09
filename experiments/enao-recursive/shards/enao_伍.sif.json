@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u4f0d",
+    "description": "Genres and artists starting with \u4f0d",
+    "shard_id": "\u4f0d",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_1f240905-1a42-4150-8c81-141eb198885d",
+      "type": "artist",
+      "name": "\u4f0d\u4f70 & China Blue",
+      "description": "Artist: \u4f0d\u4f70 & China Blue",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1f240905-1a42-4150-8c81-141eb198885d",
+        "country": "TW",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

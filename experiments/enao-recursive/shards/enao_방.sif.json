@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ubc29",
+    "description": "Genres and artists starting with \ubc29",
+    "shard_id": "\ubc29",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_acad51f8-6186-4805-aa41-b140ede7fd77",
+      "type": "artist",
+      "name": "\ubc29\uc2e4\uc774",
+      "description": "Artist: \ubc29\uc2e4\uc774",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "acad51f8-6186-4805-aa41-b140ede7fd77",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

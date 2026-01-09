@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00c6",
+    "description": "Genres and artists starting with \u00c6",
+    "shard_id": "\u00c6",
+    "entity_count": 3,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_29262c09-10c9-49b8-b8c7-c21b69f10c8d",
+      "type": "artist",
+      "name": "\u00c6ra",
+      "description": "Artist: \u00c6ra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "29262c09-10c9-49b8-b8c7-c21b69f10c8d",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e0b11a1c-4e36-4cbe-a602-6eefbc75ae21",
+      "type": "artist",
+      "name": "\u00c6th\u0115r\u012da Consc\u012dent\u012da",
+      "description": "Artist: \u00c6th\u0115r\u012da Consc\u012dent\u012da",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0b11a1c-4e36-4cbe-a602-6eefbc75ae21",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_06f5494d-b22a-457e-8aef-328d2c83a5fc",
+      "type": "artist",
+      "name": "\u00c6vangelist",
+      "description": "Artist: \u00c6vangelist",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "06f5494d-b22a-457e-8aef-328d2c83a5fc",
+        "country": "US",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

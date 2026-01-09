@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8521",
+    "description": "Genres and artists starting with \u8521",
+    "shard_id": "\u8521",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_099ea308-febe-4387-8fb8-004e81e15d76",
+      "type": "artist",
+      "name": "\u8521\u7434",
+      "description": "Artist: \u8521\u7434",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "099ea308-febe-4387-8fb8-004e81e15d76",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3033ce2b-2fb2-408e-8c5a-aea48592d7bc",
+      "type": "artist",
+      "name": "\u8521\u4f9d\u6797",
+      "description": "Artist: \u8521\u4f9d\u6797",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3033ce2b-2fb2-408e-8c5a-aea48592d7bc",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_452d36ae-31ef-4753-b71a-cd73eae2cdf3",
+      "type": "artist",
+      "name": "\u8521\u660c\u61b2",
+      "description": "Artist: \u8521\u660c\u61b2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "452d36ae-31ef-4753-b71a-cd73eae2cdf3",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0a4f1c8b-b668-49d4-a604-d5c2fb45da9d",
+      "type": "artist",
+      "name": "\u8521\u79cb\u9cf3",
+      "description": "Artist: \u8521\u79cb\u9cf3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0a4f1c8b-b668-49d4-a604-d5c2fb45da9d",
+        "country": "TW",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

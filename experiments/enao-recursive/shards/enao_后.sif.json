@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u540e",
+    "description": "Genres and artists starting with \u540e",
+    "shard_id": "\u540e",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7178d397-39c9-4389-8d78-e92d2bfb8b42",
+      "type": "artist",
+      "name": "\u540e\u6d77\u5927\u9ca8\u9c7c",
+      "description": "Artist: \u540e\u6d77\u5927\u9ca8\u9c7c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7178d397-39c9-4389-8d78-e92d2bfb8b42",
+        "country": "CN",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00dc",
+    "description": "Genres and artists starting with \u00dc",
+    "shard_id": "\u00dc",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b67647b3-41a4-4a7e-bd58-612160f4d533",
+      "type": "artist",
+      "name": "\u00dcberzone",
+      "description": "Artist: \u00dcberzone",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b67647b3-41a4-4a7e-bd58-612160f4d533",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6d8fcd3d-32a2-408e-b73d-e39bae0aac06",
+      "type": "artist",
+      "name": "\u00dcmit Besen",
+      "description": "Artist: \u00dcmit Besen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6d8fcd3d-32a2-408e-b73d-e39bae0aac06",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_23e4be9f-5072-48f8-b543-4f731fba9def",
+      "type": "artist",
+      "name": "\u00dcbermech",
+      "description": "Artist: \u00dcbermech",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "23e4be9f-5072-48f8-b543-4f731fba9def",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9ce9da15-c9e3-4c39-bce1-8b85f8ac6473",
+      "type": "artist",
+      "name": "\u00dcbermensch",
+      "description": "Artist: \u00dcbermensch",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9ce9da15-c9e3-4c39-bce1-8b85f8ac6473",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

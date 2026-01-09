@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0428",
+    "description": "Genres and artists starting with \u0428",
+    "shard_id": "\u0428",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_2c0ebaf9-74ee-4805-9ed4-07bd2cafb6df",
+      "type": "artist",
+      "name": "\u0428\u043c\u0435\u043b\u0438",
+      "description": "Artist: \u0428\u043c\u0435\u043b\u0438",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2c0ebaf9-74ee-4805-9ed4-07bd2cafb6df",
+        "country": "RU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ac5e79d7-9953-42a2-865e-ed39cfa0d0c4",
+      "type": "artist",
+      "name": "\u0428\u0443\u0433\u0430\u0440",
+      "description": "Artist: \u0428\u0443\u0433\u0430\u0440",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac5e79d7-9953-42a2-865e-ed39cfa0d0c4",
+        "country": "UA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_83819eaf-f021-4bd5-8841-6f4a2e6c6aae",
+      "type": "artist",
+      "name": "\u0428\u043b\u044e\u0437",
+      "description": "Artist: \u0428\u043b\u044e\u0437",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83819eaf-f021-4bd5-8841-6f4a2e6c6aae",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ebfd86a6-58c4-4b56-8013-e501b3183de2",
+      "type": "artist",
+      "name": "\u0448\u0443\u043c\u043d\u044b\u0435 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0449\u0438\u0435 \u0432\u044b\u0445\u043e\u0434\u043a\u0438",
+      "description": "Artist: \u0448\u0443\u043c\u043d\u044b\u0435 \u0438 \u0443\u0433\u0440\u043e\u0436\u0430\u044e\u0449\u0438\u0435 \u0432\u044b\u0445\u043e\u0434\u043a\u0438",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ebfd86a6-58c4-4b56-8013-e501b3183de2",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b49667a2-55d2-4444-b9c7-877b613810fe",
+      "type": "artist",
+      "name": "\u0428\u0443\u0440\u0430 \u041a\u0430\u0440\u0435\u0442\u043d\u044b\u0439",
+      "description": "Artist: \u0428\u0443\u0440\u0430 \u041a\u0430\u0440\u0435\u0442\u043d\u044b\u0439",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b49667a2-55d2-4444-b9c7-877b613810fe",
+        "country": "RU",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

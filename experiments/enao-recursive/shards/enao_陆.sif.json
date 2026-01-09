@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u9646",
+    "description": "Genres and artists starting with \u9646",
+    "shard_id": "\u9646",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_443b3471-7528-4468-a4b5-6dc2f6016378",
+      "type": "artist",
+      "name": "\u9646\u6625\u9f84",
+      "description": "Artist: \u9646\u6625\u9f84",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "443b3471-7528-4468-a4b5-6dc2f6016378",
+        "country": "CN",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

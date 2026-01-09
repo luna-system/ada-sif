@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6960",
+    "description": "Genres and artists starting with \u6960",
+    "shard_id": "\u6960",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f2b2d93e-7027-4122-a21a-4fa0466d5b8a",
+      "type": "artist",
+      "name": "\u6960\u6728\u7e41\u592b",
+      "description": "Artist: \u6960\u6728\u7e41\u592b",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f2b2d93e-7027-4122-a21a-4fa0466d5b8a",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

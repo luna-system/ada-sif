@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u856d",
+    "description": "Genres and artists starting with \u856d",
+    "shard_id": "\u856d",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_08cfe94d-d176-4dd9-b541-931bd4183c7e",
+      "type": "artist",
+      "name": "\u856d\u656c\u9a30",
+      "description": "Artist: \u856d\u656c\u9a30",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "08cfe94d-d176-4dd9-b541-931bd4183c7e",
+        "country": "TW",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

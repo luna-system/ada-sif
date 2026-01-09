@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u963f",
+    "description": "Genres and artists starting with \u963f",
+    "shard_id": "\u963f",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_59400234-3986-45bb-a705-6cd916a173f4",
+      "type": "artist",
+      "name": "\u963f\u6735",
+      "description": "Artist: \u963f\u6735",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "59400234-3986-45bb-a705-6cd916a173f4",
+        "country": "CN",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

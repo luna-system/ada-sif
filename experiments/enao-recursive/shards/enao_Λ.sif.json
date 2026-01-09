@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u039b",
+    "description": "Genres and artists starting with \u039b",
+    "shard_id": "\u039b",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_abd2daf5-0ce6-4ddb-9a74-8a382efd35f2",
+      "type": "artist",
+      "name": "\u039b\u03b5\u03c5\u03c4\u03ad\u03c1\u03b7\u03c2 \u03a0\u03b1\u03bd\u03c4\u03b1\u03b6\u03ae\u03c2",
+      "description": "Artist: \u039b\u03b5\u03c5\u03c4\u03ad\u03c1\u03b7\u03c2 \u03a0\u03b1\u03bd\u03c4\u03b1\u03b6\u03ae\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "abd2daf5-0ce6-4ddb-9a74-8a382efd35f2",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3c16861a-cd0b-413c-827f-e0d063048a9b",
+      "type": "artist",
+      "name": "\u039b\u03ad\u03bd\u03b1 \u0396\u03b5\u03c5\u03b3\u03b1\u03c1\u03ac",
+      "description": "Artist: \u039b\u03ad\u03bd\u03b1 \u0396\u03b5\u03c5\u03b3\u03b1\u03c1\u03ac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3c16861a-cd0b-413c-827f-e0d063048a9b",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_865caa80-0cea-462d-a06a-be128b2cd70d",
+      "type": "artist",
+      "name": "\u039b\u03ac\u03ba\u03b7\u03c2 \u03a0\u03b1\u03c0\u03c0\u03ac\u03c2",
+      "description": "Artist: \u039b\u03ac\u03ba\u03b7\u03c2 \u03a0\u03b1\u03c0\u03c0\u03ac\u03c2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "865caa80-0cea-462d-a06a-be128b2cd70d",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_36c519aa-802f-4574-bf84-823b021365f9",
+      "type": "artist",
+      "name": "\u039b\u1102\u04e8Y\u01a7I\u0426\u01a7 \u01a7\u1103\u042fIM\u01a7\u0389\u039b\u0429",
+      "description": "Artist: \u039b\u1102\u04e8Y\u01a7I\u0426\u01a7 \u01a7\u1103\u042fIM\u01a7\u0389\u039b\u0429",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "36c519aa-802f-4574-bf84-823b021365f9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

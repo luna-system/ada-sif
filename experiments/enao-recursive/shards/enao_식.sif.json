@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc2dd",
+    "description": "Genres and artists starting with \uc2dd",
+    "shard_id": "\uc2dd",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f26a959e-95a7-45ee-80f3-f557ec07c9bf",
+      "type": "artist",
+      "name": "\uc2dd\ub8cc\ud488groceries",
+      "description": "Artist: \uc2dd\ub8cc\ud488groceries",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f26a959e-95a7-45ee-80f3-f557ec07c9bf",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIF Viewer</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background: #1a1a1a;
+            padding: 1rem 2rem;
+            border-bottom: 1px solid #333;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .stats {
+            font-size: 0.875rem;
+            color: #888;
+            margin-top: 0.5rem;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .tab {
+            padding: 0.5rem 1rem;
+            background: #0a0a0a;
+            border: 1px solid #333;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: all 0.2s;
+        }
+
+        .tab:hover {
+            background: #1a1a1a;
+        }
+
+        .tab.active {
+            background: #2a2a2a;
+            border-color: #666;
+        }
+
+        .container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .view {
+            display: none;
+            flex: 1;
+        }
+
+        .view.active {
+            display: flex;
+        }
+
+        #graphView {
+            position: relative;
+            background: #0a0a0a;
+        }
+
+        #graph {
+            width: 100%;
+            height: 100%;
+        }
+
+        .graph-controls {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: #1a1a1aee;
+            padding: 1rem;
+            border-radius: 8px;
+            border: 1px solid #333;
+        }
+
+        .graph-controls button {
+            display: block;
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 0.5rem;
+            background: #2a2a2a;
+            border: 1px solid #444;
+            border-radius: 4px;
+            color: #e0e0e0;
+            cursor: pointer;
+            font-size: 0.875rem;
+        }
+
+        .graph-controls button:hover {
+            background: #333;
+        }
+
+        .node {
+            cursor: pointer;
+        }
+
+        .node circle {
+            stroke: #666;
+            stroke-width: 1.5px;
+        }
+
+        .node text {
+            font-size: 10px;
+            fill: #e0e0e0;
+            pointer-events: none;
+        }
+
+        .link {
+            stroke: #444;
+            stroke-opacity: 0.6;
+            stroke-width: 1px;
+        }
+
+        .sidebar {
+            width: 300px;
+            background: #111;
+            border-right: 1px solid #333;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .search {
+            padding: 1rem;
+            border-bottom: 1px solid #333;
+        }
+
+        input[type="search"] {
+            width: 100%;
+            padding: 0.5rem;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 4px;
+            color: #e0e0e0;
+            font-size: 0.875rem;
+        }
+
+        input[type="search"]:focus {
+            outline: none;
+            border-color: #666;
+        }
+
+        .entity-list {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .entity-item {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #222;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .entity-item:hover {
+            background: #1a1a1a;
+        }
+
+        .entity-item.active {
+            background: #2a2a2a;
+            border-left: 3px solid #666;
+        }
+
+        .entity-name {
+            font-weight: 500;
+            color: #fff;
+            font-size: 0.875rem;
+        }
+
+        .entity-meta {
+            font-size: 0.75rem;
+            color: #666;
+            margin-top: 0.25rem;
+        }
+
+        .main {
+            flex: 1;
+            overflow-y: auto;
+            padding: 2rem;
+        }
+
+        .entity-detail {
+            max-width: 800px;
+        }
+
+        .entity-detail h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #fff;
+        }
+
+        .importance-badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            background: #2a2a2a;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: #888;
+            margin-left: 0.5rem;
+        }
+
+        .description {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #ccc;
+            margin-bottom: 2rem;
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section h3 {
+            font-size: 1.125rem;
+            margin-bottom: 0.75rem;
+            color: #fff;
+            border-bottom: 1px solid #333;
+            padding-bottom: 0.5rem;
+        }
+
+        .attributes {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+
+        .attribute {
+            background: #1a1a1a;
+            padding: 0.75rem;
+            border-radius: 4px;
+        }
+
+        .attribute-label {
+            font-size: 0.75rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .attribute-value {
+            font-size: 1rem;
+            color: #e0e0e0;
+            margin-top: 0.25rem;
+        }
+
+        .relationships {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .relationship {
+            background: #1a1a1a;
+            padding: 0.5rem 0.75rem;
+            border-radius: 4px;
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .relationship:hover {
+            background: #2a2a2a;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #666;
+        }
+
+        .empty-state h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 id="title">SIF Viewer</h1>
+        <div class="stats" id="stats">Loading...</div>
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('list')">List View</div>
+            <div class="tab" onclick="switchTab('graph')">Graph View</div>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- List View -->
+        <div class="view active" id="listView">
+            <div class="sidebar">
+                <div class="search">
+                    <input type="search" id="searchInput" placeholder="Search entities...">
+                </div>
+                <div class="entity-list" id="entityList"></div>
+            </div>
+
+            <div class="main">
+                <div class="empty-state" id="emptyState">
+                    <h2>Select an entity</h2>
+                    <p>Choose an entity from the sidebar to view details</p>
+                </div>
+                <div class="entity-detail" id="entityDetail" style="display: none;"></div>
+            </div>
+        </div>
+
+        <!-- Graph View -->
+        <div class="view" id="graphView">
+            <svg id="graph"></svg>
+            <div class="graph-controls">
+                <button onclick="resetZoom()">Reset Zoom</button>
+                <button onclick="centerGraph()">Center Graph</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // SIF data will be embedded here
+        const SIF_DATA = null; // Replace with actual SIF JSON
+
+        let entities = [];
+        let relationships = [];
+        let currentEntity = null;
+        let simulation = null;
+
+        function init() {
+            if (!SIF_DATA) {
+                document.getElementById('stats').textContent = 'No SIF data loaded. Embed SIF JSON in this file.';
+                return;
+            }
+
+            entities = SIF_DATA.entities || [];
+            relationships = SIF_DATA.relationships || [];
+
+            document.getElementById('title').textContent = SIF_DATA.summary?.text || 'SIF Viewer';
+            document.getElementById('stats').textContent =
+                `${entities.length.toLocaleString()} entities • ${relationships.length.toLocaleString()} relationships`;
+
+            renderEntityList(entities);
+            setupSearch();
+            initGraph();
+        }
+
+        function switchTab(tab) {
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+
+            if (tab === 'list') {
+                document.querySelectorAll('.tab')[0].classList.add('active');
+                document.getElementById('listView').classList.add('active');
+            } else {
+                document.querySelectorAll('.tab')[1].classList.add('active');
+                document.getElementById('graphView').classList.add('active');
+                if (!simulation) initGraph();
+            }
+        }
+
+        function initGraph() {
+            const svg = d3.select('#graph');
+            const width = document.getElementById('graphView').clientWidth;
+            const height = document.getElementById('graphView').clientHeight;
+
+            svg.attr('width', width).attr('height', height);
+
+            // Create graph data
+            const nodes = entities.map(e => ({
+                id: e.id,
+                name: e.name,
+                importance: e.importance,
+                type: e.type
+            }));
+
+            const links = relationships.map(r => ({
+                source: r.entity_a,
+                target: r.entity_b
+            }));
+
+            // Color scale based on importance
+            const color = d3.scaleSequential(d3.interpolateViridis)
+                .domain([0, 1]);
+
+            // Create force simulation
+            simulation = d3.forceSimulation(nodes)
+                .force('link', d3.forceLink(links).id(d => d.id).distance(50))
+                .force('charge', d3.forceManyBody().strength(-100))
+                .force('center', d3.forceCenter(width / 2, height / 2))
+                .force('collision', d3.forceCollide().radius(10));
+
+            // Add zoom
+            const zoom = d3.zoom()
+                .scaleExtent([0.1, 10])
+                .on('zoom', (event) => {
+                    g.attr('transform', event.transform);
+                });
+
+            svg.call(zoom);
+
+            const g = svg.append('g');
+
+            // Draw links
+            const link = g.append('g')
+                .selectAll('line')
+                .data(links)
+                .join('line')
+                .attr('class', 'link');
+
+            // Draw nodes
+            const node = g.append('g')
+                .selectAll('g')
+                .data(nodes)
+                .join('g')
+                .attr('class', 'node')
+                .call(d3.drag()
+                    .on('start', dragstarted)
+                    .on('drag', dragged)
+                    .on('end', dragended));
+
+            node.append('circle')
+                .attr('r', d => 3 + d.importance * 7)
+                .attr('fill', d => color(d.importance));
+
+            node.append('text')
+                .attr('dx', 12)
+                .attr('dy', 4)
+                .text(d => d.name);
+
+            node.on('click', (event, d) => {
+                const entity = entities.find(e => e.id === d.id);
+                if (entity) {
+                    switchTab('list');
+                    showEntity(entity);
+                }
+            });
+
+            // Update positions
+            simulation.on('tick', () => {
+                link
+                    .attr('x1', d => d.source.x)
+                    .attr('y1', d => d.source.y)
+                    .attr('x2', d => d.target.x)
+                    .attr('y2', d => d.target.y);
+
+                node.attr('transform', d => `translate(${d.x},${d.y})`);
+            });
+
+            function dragstarted(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+                d.fx = event.x;
+                d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }
+
+            window.resetZoom = () => {
+                svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity);
+            };
+
+            window.centerGraph = () => {
+                simulation.alpha(1).restart();
+            };
+        }
+
+        function renderEntityList(entitiesToShow) {
+            const list = document.getElementById('entityList');
+            list.innerHTML = '';
+
+            entitiesToShow.slice(0, 100).forEach(entity => {
+                const item = document.createElement('div');
+                item.className = 'entity-item';
+                item.innerHTML = `
+                    <div class="entity-name">${escapeHtml(entity.name)}</div>
+                    <div class="entity-meta">
+                        ${entity.type} • ${(entity.importance * 100).toFixed(0)}% importance
+                    </div>
+                `;
+                item.onclick = () => showEntity(entity);
+                list.appendChild(item);
+            });
+
+            if (entitiesToShow.length > 100) {
+                const more = document.createElement('div');
+                more.className = 'entity-item';
+                more.style.color = '#666';
+                more.innerHTML = `<div class="entity-name">+ ${(entitiesToShow.length - 100).toLocaleString()} more...</div>`;
+                list.appendChild(more);
+            }
+        }
+
+        function showEntity(entity) {
+            currentEntity = entity;
+
+            document.getElementById('emptyState').style.display = 'none';
+            const detail = document.getElementById('entityDetail');
+            detail.style.display = 'block';
+
+            const outgoing = relationships.filter(r => r.entity_a === entity.id);
+
+            detail.innerHTML = `
+                <h2>
+                    ${escapeHtml(entity.name)}
+                    <span class="importance-badge">${(entity.importance * 100).toFixed(0)}% importance</span>
+                </h2>
+                
+                ${entity.description ? `<div class="description">${escapeHtml(entity.description)}</div>` : ''}
+                
+                ${Object.keys(entity.attributes || {}).length > 0 ? `
+                    <div class="section">
+                        <h3>Attributes</h3>
+                        <div class="attributes">
+                            ${Object.entries(entity.attributes).map(([key, value]) => `
+                                <div class="attribute">
+                                    <div class="attribute-label">${escapeHtml(key)}</div>
+                                    <div class="attribute-value">${escapeHtml(String(value))}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                ` : ''}
+                
+                ${outgoing.length > 0 ? `
+                    <div class="section">
+                        <h3>Related To (${outgoing.length})</h3>
+                        <div class="relationships">
+                            ${outgoing.slice(0, 50).map(r => {
+                const target = entities.find(e => e.id === r.entity_b);
+                return target ? `
+                                    <div class="relationship" onclick="showEntityById('${r.entity_b}')">
+                                        ${escapeHtml(target.name)}
+                                    </div>
+                                ` : '';
+            }).join('')}
+                            ${outgoing.length > 50 ? `<div class="relationship">+ ${outgoing.length - 50} more...</div>` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+            `;
+        }
+
+        function showEntityById(id) {
+            const entity = entities.find(e => e.id === id);
+            if (entity) showEntity(entity);
+        }
+
+        function setupSearch() {
+            const input = document.getElementById('searchInput');
+            input.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase();
+                if (!query) {
+                    renderEntityList(entities);
+                    return;
+                }
+
+                const filtered = entities.filter(e =>
+                    e.name.toLowerCase().includes(query) ||
+                    (e.description && e.description.toLowerCase().includes(query))
+                );
+                renderEntityList(filtered);
+            });
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        init();
+    </script>
+</body>
+
+</html>

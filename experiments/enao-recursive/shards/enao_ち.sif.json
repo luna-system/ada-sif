@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u3061",
+    "description": "Genres and artists starting with \u3061",
+    "shard_id": "\u3061",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_7ea58fbf-121a-495b-8bd7-e12336306f2b",
+      "type": "artist",
+      "name": "\u3061\u3042\u304d\u306a\u304a\u307f",
+      "description": "Artist: \u3061\u3042\u304d\u306a\u304a\u307f",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7ea58fbf-121a-495b-8bd7-e12336306f2b",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_44272f94-524f-4b95-a3af-f0e6fd94f4d0",
+      "type": "artist",
+      "name": "\u3061\u3043\u305f\u3093\u2606KISS\uff5e\u611b\u306eROCK BAND\uff5e",
+      "description": "Artist: \u3061\u3043\u305f\u3093\u2606KISS\uff5e\u611b\u306eROCK BAND\uff5e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "44272f94-524f-4b95-a3af-f0e6fd94f4d0",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ud68c",
+    "description": "Genres and artists starting with \ud68c",
+    "shard_id": "\ud68c",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_90a9e9d4-69f1-416a-bfc4-09552d1b5c6c",
+      "type": "artist",
+      "name": "\ud68c\uc0acAUTO",
+      "description": "Artist: \ud68c\uc0acAUTO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "90a9e9d4-69f1-416a-bfc4-09552d1b5c6c",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

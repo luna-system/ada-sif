@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ubaa8",
+    "description": "Genres and artists starting with \ubaa8",
+    "shard_id": "\ubaa8",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_f800c9dd-51a5-4576-815c-c4fc1a4a406c",
+      "type": "artist",
+      "name": "\ubaa8\ub780\ubd09\uc545\ub2e8",
+      "description": "Artist: \ubaa8\ub780\ubd09\uc545\ub2e8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f800c9dd-51a5-4576-815c-c4fc1a4a406c",
+        "country": "KP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9d33af4a-f474-4c37-b6e7-0a2a17186821",
+      "type": "artist",
+      "name": "\ubaa8\ub4e0 \uc0ac\ub78c\uc774 \uacb0\uad6d \uc8fd\uc73c\uba74 \uc9c0\uad6c\ub294 \uc6c0\uc9c1\uc774\uc9c0 \uc54a\uc744 \uac83\uc785\ub2c8\ub2e4",
+      "description": "Artist: \ubaa8\ub4e0 \uc0ac\ub78c\uc774 \uacb0\uad6d \uc8fd\uc73c\uba74 \uc9c0\uad6c\ub294 \uc6c0\uc9c1\uc774\uc9c0 \uc54a\uc744 \uac83\uc785\ub2c8\ub2e4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9d33af4a-f474-4c37-b6e7-0a2a17186821",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

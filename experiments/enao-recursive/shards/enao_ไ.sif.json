@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0e44",
+    "description": "Genres and artists starting with \u0e44",
+    "shard_id": "\u0e44",
+    "entity_count": 5,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_88b6f02b-c954-4b61-9ce6-42ba39a5c0d4",
+      "type": "artist",
+      "name": "\u0e44\u0e27\u0e1e\u0e08\u0e19\u0e4c \u0e40\u0e1e\u0e0a\u0e23\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13",
+      "description": "Artist: \u0e44\u0e27\u0e1e\u0e08\u0e19\u0e4c \u0e40\u0e1e\u0e0a\u0e23\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "88b6f02b-c954-4b61-9ce6-42ba39a5c0d4",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c86ed306-29cd-4123-ac39-be6ce4a04610",
+      "type": "artist",
+      "name": "\u0e44\u0e1e\u0e23\u0e27\u0e31\u0e25\u0e22\u0e4c \u0e25\u0e39\u0e01\u0e40\u0e1e\u0e0a\u0e23",
+      "description": "Artist: \u0e44\u0e1e\u0e23\u0e27\u0e31\u0e25\u0e22\u0e4c \u0e25\u0e39\u0e01\u0e40\u0e1e\u0e0a\u0e23",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c86ed306-29cd-4123-ac39-be6ce4a04610",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_997f22ae-3e0e-4a73-a185-e97017ca5bf3",
+      "type": "artist",
+      "name": "\u0e44\u0e2b\u0e21\u0e44\u0e17\u0e22 \u0e43\u0e08\u0e15\u0e30\u0e27\u0e31\u0e19",
+      "description": "Artist: \u0e44\u0e2b\u0e21\u0e44\u0e17\u0e22 \u0e43\u0e08\u0e15\u0e30\u0e27\u0e31\u0e19",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "997f22ae-3e0e-4a73-a185-e97017ca5bf3",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_f22c45d4-6ae1-414d-8e63-3e89599c1bb7",
+      "type": "artist",
+      "name": "\u0e44\u0e21\u0e04\u0e4c \u0e20\u0e34\u0e23\u0e21\u0e22\u0e4c\u0e1e\u0e23",
+      "description": "Artist: \u0e44\u0e21\u0e04\u0e4c \u0e20\u0e34\u0e23\u0e21\u0e22\u0e4c\u0e1e\u0e23",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f22c45d4-6ae1-414d-8e63-3e89599c1bb7",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0bd8ec74-d707-4d1e-969c-a656f6117aa7",
+      "type": "artist",
+      "name": "\u0e44\u0e1c\u0e48 \u0e1e\u0e07\u0e28\u0e18\u0e23",
+      "description": "Artist: \u0e44\u0e1c\u0e48 \u0e1e\u0e07\u0e28\u0e18\u0e23",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0bd8ec74-d707-4d1e-969c-a656f6117aa7",
+        "country": "TH",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

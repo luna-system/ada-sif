@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00d6",
+    "description": "Genres and artists starting with \u00d6",
+    "shard_id": "\u00d6",
+    "entity_count": 7,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_b03697b8-6dfd-4346-93f8-d463ce1a8e42",
+      "type": "artist",
+      "name": "\u00d6zcan Deniz",
+      "description": "Artist: \u00d6zcan Deniz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b03697b8-6dfd-4346-93f8-d463ce1a8e42",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_092c62fe-6850-4c53-bf7c-9a48f150f3cf",
+      "type": "artist",
+      "name": "\u00d6zdemir Erdo\u011fan",
+      "description": "Artist: \u00d6zdemir Erdo\u011fan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "092c62fe-6850-4c53-bf7c-9a48f150f3cf",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bdc0e938-b163-45c6-b649-05727f346850",
+      "type": "artist",
+      "name": "\u00d6wnboss",
+      "description": "Artist: \u00d6wnboss",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bdc0e938-b163-45c6-b649-05727f346850",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_42ef8d96-c913-4a74-82a3-29aeca33dc5f",
+      "type": "artist",
+      "name": "\u00d6tzi",
+      "description": "Artist: \u00d6tzi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "42ef8d96-c913-4a74-82a3-29aeca33dc5f",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ed8a8be7-5026-42fe-aba0-f56198c20cef",
+      "type": "artist",
+      "name": "\u00d6rnatorpet",
+      "description": "Artist: \u00d6rnatorpet",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ed8a8be7-5026-42fe-aba0-f56198c20cef",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_5b073e73-ba1b-490a-9cff-446c96b75b36",
+      "type": "artist",
+      "name": "\u00d6zg\u00fcr Deniz Kaya",
+      "description": "Artist: \u00d6zg\u00fcr Deniz Kaya",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5b073e73-ba1b-490a-9cff-446c96b75b36",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e8656da1-67ff-4912-96ea-644327d7a54f",
+      "type": "artist",
+      "name": "\u00d6rebro Kammark\u00f6r",
+      "description": "Artist: \u00d6rebro Kammark\u00f6r",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8656da1-67ff-4912-96ea-644327d7a54f",
+        "country": "SE",
+        "type": "Choir"
+      }
+    }
+  ],
+  "relationships": []
+}

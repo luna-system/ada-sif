@@ -1,0 +1,1699 @@
+<?xml version="1.0" ?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <meta lastmodifieddate="2026-01-08T11:50:08.220106">
+    <creator>SIF to GEXF Converter</creator>
+    <description>Ishkur's Guide to Electronic Music: A comprehensive genealogy of 166 electronic music genres, their evolution, and influences. Spanning from the late 1970s to the early 2010s.</description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node">
+      <attribute id="0" title="importance" type="float"/>
+      <attribute id="1" title="scene" type="string"/>
+      <attribute id="2" title="emerged" type="string"/>
+      <attribute id="3" title="description" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="dancepunk" label="Dancepunk">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Eurotrash"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Dancepunk - Eurotrash genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="filthyelectrohouse" label="Filthy Electrohouse">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Eurotrash"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Filthy Electrohouse - Eurotrash genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="electroclash" label="Electroclash">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Eurotrash"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Electroclash - Eurotrash genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="hinrg" label="Hi NRG">
+        <attvalues>
+          <attvalue for="0" value="0.9500000000000001"/>
+          <attvalue for="1" value="Eurodisco"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Hi NRG - Eurodisco genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="synthpop" label="Synthpop">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Eurodisco"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Synthpop - Eurodisco genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="synthwave" label="Synthwave">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Eurodisco"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Synthwave - Eurodisco genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="spacesynth" label="Spacesynth">
+        <attvalues>
+          <attvalue for="0" value="0.9500000000000001"/>
+          <attvalue for="1" value="Eurodisco"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Spacesynth - Eurodisco genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="italodisco" label="Italo Disco">
+        <attvalues>
+          <attvalue for="0" value="0.9"/>
+          <attvalue for="1" value="Eurodisco"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Italo Disco - Eurodisco genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="eurobeat" label="Eurobeat">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Eurobeat - Europop genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="asianpop" label="Asian Pop">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Asian Pop - Europop genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="nuitalo" label="Nu Italo">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Nu Italo - Europop genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="eurodance" label="Eurodance">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Eurodance - Europop genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="handsup" label="Handsup">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Handsup - Europop genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="vocaltrance" label="Vocal Trance">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Europop"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Vocal Trance - Europop genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="dutchhouse" label="Dutch House">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Eurotrance"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="Dutch House - Eurotrance genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="anthemhouse" label="Anthem House">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Eurotrance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Anthem House - Eurotrance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="eurotrance" label="Eurotrance">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Eurotrance"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Eurotrance - Eurotrance genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="germantrance" label="German Trance">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="German Trance - Hard Dance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="hardtrance" label="Hard Trance">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Hard Trance - Hard Dance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="hardstyle" label="Hardstyle">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Hardstyle - Hard Dance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="jumpstyle" label="Jumpstyle">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Jumpstyle - Hard Dance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="ukhardhouse" label="UK Hardhouse">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="UK Hardhouse - Hard Dance genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="nrg" label="NRG">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Hard Dance"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="NRG - Hard Dance genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="techtrance" label="Tech Trance">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Tech Trance - Trance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="progressivetrance" label="Progressive Trance">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Progressive Trance - Trance genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="neotrance" label="Neo Trance">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="mid 00s"/>
+          <attvalue for="3" value="Neo Trance - Trance genre that emerged in the mid 00s"/>
+        </attvalues>
+      </node>
+      <node id="trance" label="Trance">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Trance - Trance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="balearictrance" label="Balearic Trance">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Balearic Trance - Trance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="dreamtrance" label="Dream Trance">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Trance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Dream Trance - Trance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="progpsy" label="Progpsy">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Progpsy - Psy Trance genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="fullon" label="Full On">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Full On - Psy Trance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="darkpsy" label="Darkpsy">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Darkpsy - Psy Trance genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="psychedelictrance" label="Psychedelic Trance">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Psychedelic Trance - Psy Trance genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="goatrance" label="Goa Trance">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Goa Trance - Psy Trance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="psydub" label="Psydub">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Psy Trance"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Psydub - Psy Trance genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="ebm" label="EBM">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="EBM - Industrial/Goth genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="futurepop" label="Futurepop">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Futurepop - Industrial/Goth genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="newbeat" label="New Beat">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="late 80s, and then early 10s"/>
+          <attvalue for="3" value="New Beat - Industrial/Goth genre that emerged in the late 80s, and then early 10s"/>
+        </attvalues>
+      </node>
+      <node id="darkwave" label="Darkwave">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Darkwave - Industrial/Goth genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="ethereal" label="Ethereal">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Ethereal - Industrial/Goth genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="industrialrock" label="Industrial Rock">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Industrial Rock - Industrial/Goth genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="aggrotech" label="Aggrotech">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Aggrotech - Industrial/Goth genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="industrial" label="Industrial">
+        <attvalues>
+          <attvalue for="0" value="0.8500000000000001"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Industrial - Industrial/Goth genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="collage" label="Collage">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="mid 50s"/>
+          <attvalue for="3" value="Collage - Industrial/Goth genre that emerged in the mid 50s"/>
+        </attvalues>
+      </node>
+      <node id="noise" label="Noise">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Industrial/Goth"/>
+          <attvalue for="2" value="early 60s"/>
+          <attvalue for="3" value="Noise - Industrial/Goth genre that emerged in the early 60s"/>
+        </attvalues>
+      </node>
+      <node id="breakcore" label="Breakcore">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Breakcore - Intelligent Dance Music genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="drillnbass" label="Drill n Bass">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Drill n Bass - Intelligent Dance Music genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="glitchhop" label="Glitch Hop">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="early 2000s"/>
+          <attvalue for="3" value="Glitch Hop - Intelligent Dance Music genre that emerged in the early 2000s"/>
+        </attvalues>
+      </node>
+      <node id="glitch" label="Glitch">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="early 2000s"/>
+          <attvalue for="3" value="Glitch - Intelligent Dance Music genre that emerged in the early 2000s"/>
+        </attvalues>
+      </node>
+      <node id="experimental" label="Experimental">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="who knows"/>
+          <attvalue for="3" value="Experimental - Pioneers genre that emerged in the who knows"/>
+        </attvalues>
+      </node>
+      <node id="ambienttechno" label="Ambient Techno">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Ambient Techno - Intelligent Dance Music genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="braindance" label="Braindance">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Intelligent Dance Music"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Braindance - Intelligent Dance Music genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="musiqueconcrete" label="Musique Concrete">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="early 40s"/>
+          <attvalue for="3" value="Musique Concrete - Pioneers genre that emerged in the early 40s"/>
+        </attvalues>
+      </node>
+      <node id="minimalism" label="Minimalism">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="late 60s"/>
+          <attvalue for="3" value="Minimalism - Pioneers genre that emerged in the late 60s"/>
+        </attvalues>
+      </node>
+      <node id="krautrock" label="Krautrock">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="late 60s"/>
+          <attvalue for="3" value="Krautrock - Pioneers genre that emerged in the late 60s"/>
+        </attvalues>
+      </node>
+      <node id="modernclassical" label="Modern Classical">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="maybe the 40s"/>
+          <attvalue for="3" value="Modern Classical - Pioneers genre that emerged in the maybe the 40s"/>
+        </attvalues>
+      </node>
+      <node id="soundtrack" label="Soundtrack">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="early 50s, most likely"/>
+          <attvalue for="3" value="Soundtrack - Pioneers genre that emerged in the early 50s, most likely"/>
+        </attvalues>
+      </node>
+      <node id="moog" label="Moog">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Pioneers"/>
+          <attvalue for="2" value="mid 60s"/>
+          <attvalue for="3" value="Moog - Pioneers genre that emerged in the mid 60s"/>
+        </attvalues>
+      </node>
+      <node id="plus" label="Plus">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Chiptune"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Plus - Chiptune genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="fakebit" label="Fakebit">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Chiptune"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Fakebit - Chiptune genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="amiga%2ftracker" label="Amiga/Tracker">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Chiptune"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Amiga/Tracker - Chiptune genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="chiptune" label="Chiptune">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Chiptune"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Chiptune - Chiptune genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="fm" label="FM">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Chiptune"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="FM - Chiptune genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="drone" label="Drone">
+        <attvalues>
+          <attvalue for="0" value="0.8500000000000001"/>
+          <attvalue for="1" value="Ambient"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Drone - Ambient genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="darkambient" label="Dark Ambient">
+        <attvalues>
+          <attvalue for="0" value="0.8500000000000001"/>
+          <attvalue for="1" value="Ambient"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Dark Ambient - Ambient genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="ambient" label="Ambient">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Ambient"/>
+          <attvalue for="2" value="mid 70s"/>
+          <attvalue for="3" value="Ambient - Ambient genre that emerged in the mid 70s"/>
+        </attvalues>
+      </node>
+      <node id="newage" label="New Age">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Chill Out"/>
+          <attvalue for="2" value="mid 70s"/>
+          <attvalue for="3" value="New Age - Chill Out genre that emerged in the mid 70s"/>
+        </attvalues>
+      </node>
+      <node id="worldbeat" label="Worldbeat">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Chill Out"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Worldbeat - Chill Out genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="chillout" label="Chill Out">
+        <attvalues>
+          <attvalue for="0" value="0.9"/>
+          <attvalue for="1" value="Chill Out"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Chill Out - Chill Out genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="indie" label="Indie">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Chill Out"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Indie - Chill Out genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="dub" label="Dub">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Downtempo"/>
+          <attvalue for="2" value="late 60s"/>
+          <attvalue for="3" value="Dub - Downtempo genre that emerged in the late 60s"/>
+        </attvalues>
+      </node>
+      <node id="triphop" label="Trip Hop">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Downtempo"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Trip Hop - Downtempo genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="downtempo" label="Downtempo">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Downtempo"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Downtempo - Downtempo genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="acidjazz" label="Acid Jazz">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Downtempo"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Acid Jazz - Downtempo genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="nujazz" label="Nu Jazz">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Downtempo"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Nu Jazz - Downtempo genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="funk" label="Funk">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Urban"/>
+          <attvalue for="2" value="early 70s"/>
+          <attvalue for="3" value="Funk - Urban genre that emerged in the early 70s"/>
+        </attvalues>
+      </node>
+      <node id="newjackswing" label="New Jack Swing">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Urban"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="New Jack Swing - Urban genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="soul" label="Soul">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Urban"/>
+          <attvalue for="2" value="Probably the 1950s but electronic instrumentation did not show up until the 80s"/>
+          <attvalue for="3" value="Soul - Urban genre that emerged in the Probably the 1950s but electronic instrumentation did not show up until the 80s"/>
+        </attvalues>
+      </node>
+      <node id="reggaeton" label="Reggaeton">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Urban"/>
+          <attvalue for="2" value="mid 00s"/>
+          <attvalue for="3" value="Reggaeton - Urban genre that emerged in the mid 00s"/>
+        </attvalues>
+      </node>
+      <node id="r&amp;b" label="R&amp;B">
+        <attvalues>
+          <attvalue for="0" value="0.9"/>
+          <attvalue for="1" value="Urban"/>
+          <attvalue for="2" value="Probably the 1930s, but early 80s for the electronic stuff."/>
+          <attvalue for="3" value="R&amp;B - Urban genre that emerged in the Probably the 1930s, but early 80s for the electronic stuff."/>
+        </attvalues>
+      </node>
+      <node id="2-stepgarage" label="2-Step Garage">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="2-Step Garage - UK Garage genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="grime" label="Grime">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Grime - UK Garage genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="futuregarage" label="Future Garage">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="Future Garage - UK Garage genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="dubstep" label="Dubstep">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Dubstep - UK Garage genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="brostep" label="Brostep">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="Brostep - UK Garage genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="speedgarage" label="Speed Garage">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="UK Garage"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Speed Garage - UK Garage genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="garage" label="Garage">
+        <attvalues>
+          <attvalue for="0" value="0.9500000000000001"/>
+          <attvalue for="1" value="Garage/Deep House"/>
+          <attvalue for="2" value="late 70s"/>
+          <attvalue for="3" value="Garage - Garage/Deep House genre that emerged in the late 70s"/>
+        </attvalues>
+      </node>
+      <node id="usdeephouse" label="US Deep House">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Garage/Deep House"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="US Deep House - Garage/Deep House genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="eurodeephouse" label="Euro Deep House">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Garage/Deep House"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Euro Deep House - Garage/Deep House genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="progressivehouse" label="Progressive House">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Progressive House - Progressive genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="twinkleprog" label="Twinkle Prog">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="1999"/>
+          <attvalue for="3" value="Twinkle Prog - Progressive genre that emerged in the 1999"/>
+        </attvalues>
+      </node>
+      <node id="mcprog" label="McProg">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="McProg - Progressive genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="8thnoteprog" label="8th Note Prog">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="8th Note Prog - Progressive genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="progressive" label="Progressive">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Progressive - Progressive genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="minimalprog" label="Minimal Prog">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Progressive"/>
+          <attvalue for="2" value="mid 00s"/>
+          <attvalue for="3" value="Minimal Prog - Progressive genre that emerged in the mid 00s"/>
+        </attvalues>
+      </node>
+      <node id="deeptech" label="Deeptech">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Tech House"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Deeptech - Tech House genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="fidgethouse" label="Fidget House">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Tech House"/>
+          <attvalue for="2" value="late 90s technically, mid 00s properly"/>
+          <attvalue for="3" value="Fidget House - Tech House genre that emerged in the late 90s technically, mid 00s properly"/>
+        </attvalues>
+      </node>
+      <node id="techhouse" label="Tech House">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Tech House"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Tech House - Tech House genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="microhouse" label="Microhouse">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Tech House"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Microhouse - Tech House genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="minimaltech" label="Minimal Tech">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Tech House"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Minimal Tech - Tech House genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="ukhouse" label="UK House">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="UK House - House genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="eurohouse" label="Eurohouse">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Eurohouse - House genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="worldhouse" label="World House">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="World House - House genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="electrohouse" label="Electrohouse">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Electrohouse - House genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="frenchhouse" label="French House">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="French House - House genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="discohouse" label="Disco House">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Disco House - House genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="italohouse" label="Italo House">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Italo House - House genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="hiphouse" label="Hip House">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Hip House - House genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="hardhouse" label="Hard House">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Hard House - House genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="chicagohouse" label="Chicago House">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="House"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Chicago House - House genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="acidhouse" label="Acid House">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Acid"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Acid House - Acid genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="acid" label="Acid">
+        <attvalues>
+          <attvalue for="0" value="0.8999999999999999"/>
+          <attvalue for="1" value="Acid"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Acid - Acid genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="hardacid" label="Hard Acid">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Acid"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Hard Acid - Acid genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="freelandbreaks" label="Freeland Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Freeland Breaks - Breakbeat genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="nuskoolbreaks" label="Nu Skool Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Nu Skool Breaks - Breakbeat genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="bigbeat" label="Big Beat">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Big Beat - Breakbeat genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="chemicalbreaks" label="Chemical Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Chemical Breaks - Breakbeat genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="breaks" label="Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Breaks - Breakbeat genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="progressivebreaks" label="Progressive Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Breakbeat"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Progressive Breaks - Breakbeat genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="raggajungle" label="Ragga Jungle">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Ragga Jungle - Drum n Bass genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="jumpup" label="Jumpup">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Jumpup - Drum n Bass genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="pendulum" label="Pendulum">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 00s"/>
+          <attvalue for="3" value="Pendulum - Drum n Bass genre that emerged in the mid 00s"/>
+        </attvalues>
+      </node>
+      <node id="drumstep" label="Drumstep">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="Drumstep - Drum n Bass genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="darkstep" label="Darkstep">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Darkstep - Drum n Bass genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="neurofunk" label="Neurofunk">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Neurofunk - Drum n Bass genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="techstep" label="Techstep">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Techstep - Drum n Bass genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="microfunk" label="Microfunk">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 00s"/>
+          <attvalue for="3" value="Microfunk - Drum n Bass genre that emerged in the mid 00s"/>
+        </attvalues>
+      </node>
+      <node id="darkside" label="Darkside">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Darkside - Drum n Bass genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="liquidfunk" label="Liquid Funk">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="Liquid Funk - Drum n Bass genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="jazzstep" label="Jazzstep">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Jazzstep - Drum n Bass genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="atmosphericjungle" label="Atmospheric Jungle">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Drum n Bass"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Atmospheric Jungle - Drum n Bass genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="oldskoolravehardcore" label="Oldskool Rave Hardcore">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Oldskool Rave Hardcore - Hardcore genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="happyhardcore" label="Happy Hardcore">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Happy Hardcore - Hardcore genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="freeform" label="Freeform">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Freeform - Hardcore genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="ukhardcore" label="UK Hardcore">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="early 00s"/>
+          <attvalue for="3" value="UK Hardcore - Hardcore genre that emerged in the early 00s"/>
+        </attvalues>
+      </node>
+      <node id="hardcore" label="Hardcore">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Hardcore - Hardcore genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="speedcore" label="Speedcore">
+        <attvalues>
+          <attvalue for="0" value="0.7"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Speedcore - Hardcore genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="rave" label="Rave">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Hardcore"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Rave - Hardcore genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="eurotechno" label="Euro Techno">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Euro Techno - Techno genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="experimentaltechno" label="Experimental Techno">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="who knows"/>
+          <attvalue for="3" value="Experimental Techno - Techno genre that emerged in the who knows"/>
+        </attvalues>
+      </node>
+      <node id="schranz" label="Schranz">
+        <attvalues>
+          <attvalue for="0" value="0.6"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Schranz - Techno genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="hardtechno" label="Hard Techno">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Hard Techno - Techno genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="bleeptechno" label="Bleep Techno">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Bleep Techno - Techno genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="detroittechno" label="Detroit Techno">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Detroit Techno - Techno genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="bangintechno" label="Bangin Techno">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Bangin Techno - Techno genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="dubtechno" label="Dub Techno">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Dub Techno - Techno genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="minimaltechno" label="Minimal Techno">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Techno"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Minimal Techno - Techno genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="electro" label="Electro">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Electro"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Electro - Electro genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="floridabreaks" label="Florida Breaks">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Electro"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Florida Breaks - Electro genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="freestyle" label="Freestyle">
+        <attvalues>
+          <attvalue for="0" value="0.9"/>
+          <attvalue for="1" value="Electro"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Freestyle - Electro genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="turntablism" label="Turntablism">
+        <attvalues>
+          <attvalue for="0" value="1.0"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Turntablism - Hip Hop genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="themedrap" label="Themed Rap">
+        <attvalues>
+          <attvalue for="0" value="0.8"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="early 90s"/>
+          <attvalue for="3" value="Themed Rap - Hip Hop genre that emerged in the early 90s"/>
+        </attvalues>
+      </node>
+      <node id="consciousrap" label="Conscious Rap">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Conscious Rap - Hip Hop genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="dancehall" label="Dancehall">
+        <attvalues>
+          <attvalue for="0" value="0.9500000000000001"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="early 80s"/>
+          <attvalue for="3" value="Dancehall - Hip Hop genre that emerged in the early 80s"/>
+        </attvalues>
+      </node>
+      <node id="rap" label="Rap">
+        <attvalues>
+          <attvalue for="0" value="0.9500000000000001"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="mid to late 70s"/>
+          <attvalue for="3" value="Rap - Hip Hop genre that emerged in the mid to late 70s"/>
+        </attvalues>
+      </node>
+      <node id="eastcoastrap" label="Eastcoast Rap">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Eastcoast Rap - Hip Hop genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="bling" label="Bling">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Bling - Hip Hop genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+      <node id="westcoastrap" label="Westcoast Rap">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Westcoast Rap - Hip Hop genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="southernrap" label="Southern Rap">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Hip Hop"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Southern Rap - Hip Hop genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="trap" label="Trap">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="early 10s"/>
+          <attvalue for="3" value="Trap - Bass genre that emerged in the early 10s"/>
+        </attvalues>
+      </node>
+      <node id="crunk" label="Crunk">
+        <attvalues>
+          <attvalue for="0" value="0.75"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="mid 90s"/>
+          <attvalue for="3" value="Crunk - Bass genre that emerged in the mid 90s"/>
+        </attvalues>
+      </node>
+      <node id="dirtysouthrap" label="Dirty South Rap">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Dirty South Rap - Bass genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="miamibass" label="Miami Bass">
+        <attvalues>
+          <attvalue for="0" value="0.7999999999999999"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="mid 80s"/>
+          <attvalue for="3" value="Miami Bass - Bass genre that emerged in the mid 80s"/>
+        </attvalues>
+      </node>
+      <node id="moombahton" label="Moombahton">
+        <attvalues>
+          <attvalue for="0" value="0.55"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="late 00s"/>
+          <attvalue for="3" value="Moombahton - Bass genre that emerged in the late 00s"/>
+        </attvalues>
+      </node>
+      <node id="technobass" label="Technobass">
+        <attvalues>
+          <attvalue for="0" value="0.85"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="late 80s"/>
+          <attvalue for="3" value="Technobass - Bass genre that emerged in the late 80s"/>
+        </attvalues>
+      </node>
+      <node id="ghettotech" label="Ghetto Tech">
+        <attvalues>
+          <attvalue for="0" value="0.65"/>
+          <attvalue for="1" value="Bass"/>
+          <attvalue for="2" value="late 90s"/>
+          <attvalue for="3" value="Ghetto Tech - Bass genre that emerged in the late 90s"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ghettotech" target="ghettotech" weight="0.8"/>
+      <edge id="1" source="technobass" target="technobass" weight="0.8"/>
+      <edge id="2" source="technobass" target="ghettotech" weight="0.8"/>
+      <edge id="3" source="moombahton" target="moombahton" weight="0.8"/>
+      <edge id="4" source="miamibass" target="miamibass" weight="0.8"/>
+      <edge id="5" source="miamibass" target="dirtysouthrap" weight="0.8"/>
+      <edge id="6" source="miamibass" target="moombahton" weight="0.8"/>
+      <edge id="7" source="dirtysouthrap" target="dirtysouthrap" weight="0.8"/>
+      <edge id="8" source="dirtysouthrap" target="southernrap" weight="0.8"/>
+      <edge id="9" source="dirtysouthrap" target="crunk" weight="0.8"/>
+      <edge id="10" source="crunk" target="crunk" weight="0.8"/>
+      <edge id="11" source="crunk" target="trap" weight="0.8"/>
+      <edge id="12" source="trap" target="trap" weight="0.8"/>
+      <edge id="13" source="southernrap" target="southernrap" weight="0.8"/>
+      <edge id="14" source="southernrap" target="westcoastrap" weight="0.8"/>
+      <edge id="15" source="southernrap" target="crunk" weight="0.8"/>
+      <edge id="16" source="westcoastrap" target="westcoastrap" weight="0.8"/>
+      <edge id="17" source="westcoastrap" target="bling" weight="0.8"/>
+      <edge id="18" source="bling" target="bling" weight="0.8"/>
+      <edge id="19" source="eastcoastrap" target="eastcoastrap" weight="0.8"/>
+      <edge id="20" source="eastcoastrap" target="southernrap" weight="0.8"/>
+      <edge id="21" source="eastcoastrap" target="westcoastrap" weight="0.8"/>
+      <edge id="22" source="eastcoastrap" target="bling" weight="0.8"/>
+      <edge id="23" source="rap" target="rap" weight="0.8"/>
+      <edge id="24" source="rap" target="electro" weight="0.8"/>
+      <edge id="25" source="rap" target="turntablism" weight="0.8"/>
+      <edge id="26" source="rap" target="miamibass" weight="0.8"/>
+      <edge id="27" source="rap" target="dirtysouthrap" weight="0.8"/>
+      <edge id="28" source="rap" target="dancehall" weight="0.8"/>
+      <edge id="29" source="rap" target="eastcoastrap" weight="0.8"/>
+      <edge id="30" source="dancehall" target="dancehall" weight="0.8"/>
+      <edge id="31" source="dancehall" target="consciousrap" weight="0.8"/>
+      <edge id="32" source="consciousrap" target="consciousrap" weight="0.8"/>
+      <edge id="33" source="consciousrap" target="themedrap" weight="0.8"/>
+      <edge id="34" source="themedrap" target="themedrap" weight="0.8"/>
+      <edge id="35" source="turntablism" target="turntablism" weight="0.8"/>
+      <edge id="36" source="freestyle" target="freestyle" weight="0.8"/>
+      <edge id="37" source="freestyle" target="floridabreaks" weight="0.8"/>
+      <edge id="38" source="floridabreaks" target="floridabreaks" weight="0.8"/>
+      <edge id="39" source="electro" target="electro" weight="0.8"/>
+      <edge id="40" source="electro" target="turntablism" weight="0.8"/>
+      <edge id="41" source="electro" target="freestyle" weight="0.8"/>
+      <edge id="42" source="electro" target="floridabreaks" weight="0.8"/>
+      <edge id="43" source="electro" target="detroittechno" weight="0.8"/>
+      <edge id="44" source="minimaltechno" target="minimaltechno" weight="0.8"/>
+      <edge id="45" source="dubtechno" target="dubtechno" weight="0.8"/>
+      <edge id="46" source="bangintechno" target="bangintechno" weight="0.8"/>
+      <edge id="47" source="detroittechno" target="detroittechno" weight="0.8"/>
+      <edge id="48" source="detroittechno" target="bleeptechno" weight="0.8"/>
+      <edge id="49" source="detroittechno" target="eurotechno" weight="0.8"/>
+      <edge id="50" source="detroittechno" target="minimaltechno" weight="0.8"/>
+      <edge id="51" source="detroittechno" target="dubtechno" weight="0.8"/>
+      <edge id="52" source="detroittechno" target="bangintechno" weight="0.8"/>
+      <edge id="53" source="bleeptechno" target="bleeptechno" weight="0.8"/>
+      <edge id="54" source="bleeptechno" target="hardtechno" weight="0.8"/>
+      <edge id="55" source="bleeptechno" target="eurotechno" weight="0.8"/>
+      <edge id="56" source="hardtechno" target="hardtechno" weight="0.8"/>
+      <edge id="57" source="hardtechno" target="experimentaltechno" weight="0.8"/>
+      <edge id="58" source="hardtechno" target="schranz" weight="0.8"/>
+      <edge id="59" source="schranz" target="schranz" weight="0.8"/>
+      <edge id="60" source="experimentaltechno" target="experimentaltechno" weight="0.8"/>
+      <edge id="61" source="eurotechno" target="eurotechno" weight="0.8"/>
+      <edge id="62" source="eurotechno" target="rave" weight="0.8"/>
+      <edge id="63" source="rave" target="rave" weight="0.8"/>
+      <edge id="64" source="rave" target="hardcore" weight="0.8"/>
+      <edge id="65" source="speedcore" target="speedcore" weight="0.8"/>
+      <edge id="66" source="hardcore" target="hardcore" weight="0.8"/>
+      <edge id="67" source="hardcore" target="happyhardcore" weight="0.8"/>
+      <edge id="68" source="hardcore" target="speedcore" weight="0.8"/>
+      <edge id="69" source="hardcore" target="oldskoolravehardcore" weight="0.8"/>
+      <edge id="70" source="ukhardcore" target="ukhardcore" weight="0.8"/>
+      <edge id="71" source="freeform" target="freeform" weight="0.8"/>
+      <edge id="72" source="freeform" target="ukhardcore" weight="0.8"/>
+      <edge id="73" source="happyhardcore" target="happyhardcore" weight="0.8"/>
+      <edge id="74" source="happyhardcore" target="freeform" weight="0.8"/>
+      <edge id="75" source="oldskoolravehardcore" target="oldskoolravehardcore" weight="0.8"/>
+      <edge id="76" source="oldskoolravehardcore" target="raggajungle" weight="0.8"/>
+      <edge id="77" source="oldskoolravehardcore" target="darkside" weight="0.8"/>
+      <edge id="78" source="oldskoolravehardcore" target="jumpup" weight="0.8"/>
+      <edge id="79" source="oldskoolravehardcore" target="atmosphericjungle" weight="0.8"/>
+      <edge id="80" source="oldskoolravehardcore" target="happyhardcore" weight="0.8"/>
+      <edge id="81" source="atmosphericjungle" target="atmosphericjungle" weight="0.8"/>
+      <edge id="82" source="atmosphericjungle" target="jazzstep" weight="0.8"/>
+      <edge id="83" source="jazzstep" target="jazzstep" weight="0.8"/>
+      <edge id="84" source="jazzstep" target="liquidfunk" weight="0.8"/>
+      <edge id="85" source="liquidfunk" target="liquidfunk" weight="0.8"/>
+      <edge id="86" source="darkside" target="darkside" weight="0.8"/>
+      <edge id="87" source="darkside" target="jumpup" weight="0.8"/>
+      <edge id="88" source="darkside" target="atmosphericjungle" weight="0.8"/>
+      <edge id="89" source="darkside" target="techstep" weight="0.8"/>
+      <edge id="90" source="microfunk" target="microfunk" weight="0.8"/>
+      <edge id="91" source="techstep" target="techstep" weight="0.8"/>
+      <edge id="92" source="techstep" target="darkstep" weight="0.8"/>
+      <edge id="93" source="techstep" target="neurofunk" weight="0.8"/>
+      <edge id="94" source="neurofunk" target="neurofunk" weight="0.8"/>
+      <edge id="95" source="darkstep" target="darkstep" weight="0.8"/>
+      <edge id="96" source="darkstep" target="drumstep" weight="0.8"/>
+      <edge id="97" source="drumstep" target="drumstep" weight="0.8"/>
+      <edge id="98" source="pendulum" target="pendulum" weight="0.8"/>
+      <edge id="99" source="jumpup" target="jumpup" weight="0.8"/>
+      <edge id="100" source="jumpup" target="pendulum" weight="0.8"/>
+      <edge id="101" source="raggajungle" target="raggajungle" weight="0.8"/>
+      <edge id="102" source="raggajungle" target="jumpup" weight="0.8"/>
+      <edge id="103" source="progressivebreaks" target="progressivebreaks" weight="0.8"/>
+      <edge id="104" source="breaks" target="breaks" weight="0.8"/>
+      <edge id="105" source="breaks" target="oldskoolravehardcore" weight="0.8"/>
+      <edge id="106" source="breaks" target="chemicalbreaks" weight="0.8"/>
+      <edge id="107" source="breaks" target="progressivebreaks" weight="0.8"/>
+      <edge id="108" source="chemicalbreaks" target="chemicalbreaks" weight="0.8"/>
+      <edge id="109" source="chemicalbreaks" target="bigbeat" weight="0.8"/>
+      <edge id="110" source="bigbeat" target="bigbeat" weight="0.8"/>
+      <edge id="111" source="bigbeat" target="nuskoolbreaks" weight="0.8"/>
+      <edge id="112" source="nuskoolbreaks" target="nuskoolbreaks" weight="0.8"/>
+      <edge id="113" source="nuskoolbreaks" target="freelandbreaks" weight="0.8"/>
+      <edge id="114" source="freelandbreaks" target="freelandbreaks" weight="0.8"/>
+      <edge id="115" source="hardacid" target="hardacid" weight="0.8"/>
+      <edge id="116" source="acid" target="acid" weight="0.8"/>
+      <edge id="117" source="acid" target="hardacid" weight="0.8"/>
+      <edge id="118" source="acidhouse" target="acidhouse" weight="0.8"/>
+      <edge id="119" source="acidhouse" target="breaks" weight="0.8"/>
+      <edge id="120" source="acidhouse" target="acid" weight="0.8"/>
+      <edge id="121" source="chicagohouse" target="chicagohouse" weight="0.8"/>
+      <edge id="122" source="chicagohouse" target="usdeephouse" weight="0.8"/>
+      <edge id="123" source="chicagohouse" target="ukhouse" weight="0.8"/>
+      <edge id="124" source="chicagohouse" target="acidhouse" weight="0.8"/>
+      <edge id="125" source="chicagohouse" target="hiphouse" weight="0.8"/>
+      <edge id="126" source="chicagohouse" target="hardhouse" weight="0.8"/>
+      <edge id="127" source="hardhouse" target="hardhouse" weight="0.8"/>
+      <edge id="128" source="hardhouse" target="italohouse" weight="0.8"/>
+      <edge id="129" source="hiphouse" target="hiphouse" weight="0.8"/>
+      <edge id="130" source="italohouse" target="italohouse" weight="0.8"/>
+      <edge id="131" source="italohouse" target="eurohouse" weight="0.8"/>
+      <edge id="132" source="italohouse" target="discohouse" weight="0.8"/>
+      <edge id="133" source="discohouse" target="discohouse" weight="0.8"/>
+      <edge id="134" source="discohouse" target="frenchhouse" weight="0.8"/>
+      <edge id="135" source="frenchhouse" target="frenchhouse" weight="0.8"/>
+      <edge id="136" source="frenchhouse" target="electrohouse" weight="0.8"/>
+      <edge id="137" source="electrohouse" target="electrohouse" weight="0.8"/>
+      <edge id="138" source="worldhouse" target="worldhouse" weight="0.8"/>
+      <edge id="139" source="eurohouse" target="eurohouse" weight="0.8"/>
+      <edge id="140" source="eurohouse" target="worldhouse" weight="0.8"/>
+      <edge id="141" source="ukhouse" target="ukhouse" weight="0.8"/>
+      <edge id="142" source="ukhouse" target="eurohouse" weight="0.8"/>
+      <edge id="143" source="ukhouse" target="progressivehouse" weight="0.8"/>
+      <edge id="144" source="ukhouse" target="techhouse" weight="0.8"/>
+      <edge id="145" source="minimaltech" target="minimaltech" weight="0.8"/>
+      <edge id="146" source="microhouse" target="microhouse" weight="0.8"/>
+      <edge id="147" source="microhouse" target="minimaltech" weight="0.8"/>
+      <edge id="148" source="techhouse" target="techhouse" weight="0.8"/>
+      <edge id="149" source="techhouse" target="progressive" weight="0.8"/>
+      <edge id="150" source="techhouse" target="microhouse" weight="0.8"/>
+      <edge id="151" source="techhouse" target="fidgethouse" weight="0.8"/>
+      <edge id="152" source="techhouse" target="deeptech" weight="0.8"/>
+      <edge id="153" source="fidgethouse" target="fidgethouse" weight="0.8"/>
+      <edge id="154" source="deeptech" target="deeptech" weight="0.8"/>
+      <edge id="155" source="minimalprog" target="minimalprog" weight="0.8"/>
+      <edge id="156" source="progressive" target="progressive" weight="0.8"/>
+      <edge id="157" source="progressive" target="minimalprog" weight="0.8"/>
+      <edge id="158" source="8thnoteprog" target="8thnoteprog" weight="0.8"/>
+      <edge id="159" source="mcprog" target="mcprog" weight="0.8"/>
+      <edge id="160" source="mcprog" target="8thnoteprog" weight="0.8"/>
+      <edge id="161" source="twinkleprog" target="twinkleprog" weight="0.8"/>
+      <edge id="162" source="twinkleprog" target="mcprog" weight="0.8"/>
+      <edge id="163" source="progressivehouse" target="progressivehouse" weight="0.8"/>
+      <edge id="164" source="progressivehouse" target="techhouse" weight="0.8"/>
+      <edge id="165" source="progressivehouse" target="progressive" weight="0.8"/>
+      <edge id="166" source="progressivehouse" target="twinkleprog" weight="0.8"/>
+      <edge id="167" source="eurodeephouse" target="eurodeephouse" weight="0.8"/>
+      <edge id="168" source="usdeephouse" target="usdeephouse" weight="0.8"/>
+      <edge id="169" source="usdeephouse" target="eurodeephouse" weight="0.8"/>
+      <edge id="170" source="garage" target="garage" weight="0.8"/>
+      <edge id="171" source="garage" target="usdeephouse" weight="0.8"/>
+      <edge id="172" source="garage" target="speedgarage" weight="0.8"/>
+      <edge id="173" source="speedgarage" target="speedgarage" weight="0.8"/>
+      <edge id="174" source="speedgarage" target="2-stepgarage" weight="0.8"/>
+      <edge id="175" source="brostep" target="brostep" weight="0.8"/>
+      <edge id="176" source="dubstep" target="dubstep" weight="0.8"/>
+      <edge id="177" source="dubstep" target="brostep" weight="0.8"/>
+      <edge id="178" source="dubstep" target="futuregarage" weight="0.8"/>
+      <edge id="179" source="futuregarage" target="futuregarage" weight="0.8"/>
+      <edge id="180" source="grime" target="grime" weight="0.8"/>
+      <edge id="181" source="grime" target="dubstep" weight="0.8"/>
+      <edge id="182" source="2-stepgarage" target="2-stepgarage" weight="0.8"/>
+      <edge id="183" source="2-stepgarage" target="grime" weight="0.8"/>
+      <edge id="184" source="r&amp;b" target="r&amp;b" weight="0.8"/>
+      <edge id="185" source="r&amp;b" target="newjackswing" weight="0.8"/>
+      <edge id="186" source="r&amp;b" target="soul" weight="0.8"/>
+      <edge id="187" source="r&amp;b" target="2-stepgarage" weight="0.8"/>
+      <edge id="188" source="r&amp;b" target="reggaeton" weight="0.8"/>
+      <edge id="189" source="reggaeton" target="reggaeton" weight="0.8"/>
+      <edge id="190" source="soul" target="soul" weight="0.8"/>
+      <edge id="191" source="newjackswing" target="newjackswing" weight="0.8"/>
+      <edge id="192" source="funk" target="funk" weight="0.8"/>
+      <edge id="193" source="funk" target="r&amp;b" weight="0.8"/>
+      <edge id="194" source="funk" target="acidjazz" weight="0.8"/>
+      <edge id="195" source="funk" target="newjackswing" weight="0.8"/>
+      <edge id="196" source="nujazz" target="nujazz" weight="0.8"/>
+      <edge id="197" source="acidjazz" target="acidjazz" weight="0.8"/>
+      <edge id="198" source="acidjazz" target="downtempo" weight="0.8"/>
+      <edge id="199" source="downtempo" target="downtempo" weight="0.8"/>
+      <edge id="200" source="downtempo" target="triphop" weight="0.8"/>
+      <edge id="201" source="triphop" target="triphop" weight="0.8"/>
+      <edge id="202" source="dub" target="dub" weight="0.8"/>
+      <edge id="203" source="dub" target="downtempo" weight="0.8"/>
+      <edge id="204" source="dub" target="triphop" weight="0.8"/>
+      <edge id="205" source="moog" target="moog" weight="0.8"/>
+      <edge id="206" source="moog" target="funk" weight="0.8"/>
+      <edge id="207" source="moog" target="soundtrack" weight="0.8"/>
+      <edge id="208" source="soundtrack" target="soundtrack" weight="0.8"/>
+      <edge id="209" source="soundtrack" target="modernclassical" weight="0.8"/>
+      <edge id="210" source="modernclassical" target="modernclassical" weight="0.8"/>
+      <edge id="211" source="modernclassical" target="soundtrack" weight="0.8"/>
+      <edge id="212" source="indie" target="indie" weight="0.8"/>
+      <edge id="213" source="chillout" target="chillout" weight="0.8"/>
+      <edge id="214" source="chillout" target="indie" weight="0.8"/>
+      <edge id="215" source="worldbeat" target="worldbeat" weight="0.8"/>
+      <edge id="216" source="newage" target="newage" weight="0.8"/>
+      <edge id="217" source="newage" target="chillout" weight="0.8"/>
+      <edge id="218" source="newage" target="worldbeat" weight="0.8"/>
+      <edge id="219" source="newage" target="ambient" weight="0.8"/>
+      <edge id="220" source="ambient" target="ambient" weight="0.8"/>
+      <edge id="221" source="ambient" target="darkambient" weight="0.8"/>
+      <edge id="222" source="darkambient" target="darkambient" weight="0.8"/>
+      <edge id="223" source="darkambient" target="drone" weight="0.8"/>
+      <edge id="224" source="drone" target="drone" weight="0.8"/>
+      <edge id="225" source="krautrock" target="krautrock" weight="0.8"/>
+      <edge id="226" source="krautrock" target="ambient" weight="0.8"/>
+      <edge id="227" source="minimalism" target="minimalism" weight="0.8"/>
+      <edge id="228" source="musiqueconcrete" target="musiqueconcrete" weight="0.8"/>
+      <edge id="229" source="musiqueconcrete" target="minimalism" weight="0.8"/>
+      <edge id="230" source="experimental" target="experimental" weight="0.8"/>
+      <edge id="231" source="experimental" target="musiqueconcrete" weight="0.8"/>
+      <edge id="232" source="experimental" target="collage" weight="0.8"/>
+      <edge id="233" source="experimental" target="noise" weight="0.8"/>
+      <edge id="234" source="experimental" target="chiptune" weight="0.8"/>
+      <edge id="235" source="fm" target="fm" weight="0.8"/>
+      <edge id="236" source="chiptune" target="chiptune" weight="0.8"/>
+      <edge id="237" source="chiptune" target="fm" weight="0.8"/>
+      <edge id="238" source="chiptune" target="amiga%2ftracker" weight="0.8"/>
+      <edge id="239" source="amiga%2ftracker" target="amiga%2ftracker" weight="0.8"/>
+      <edge id="240" source="amiga%2ftracker" target="plus" weight="0.8"/>
+      <edge id="241" source="amiga%2ftracker" target="fakebit" weight="0.8"/>
+      <edge id="242" source="fakebit" target="fakebit" weight="0.8"/>
+      <edge id="243" source="plus" target="plus" weight="0.8"/>
+      <edge id="244" source="plus" target="fakebit" weight="0.8"/>
+      <edge id="245" source="braindance" target="braindance" weight="0.8"/>
+      <edge id="246" source="braindance" target="plus" weight="0.8"/>
+      <edge id="247" source="ambienttechno" target="ambienttechno" weight="0.8"/>
+      <edge id="248" source="ambienttechno" target="braindance" weight="0.8"/>
+      <edge id="249" source="experimental" target="experimental" weight="0.8"/>
+      <edge id="250" source="experimental" target="ambienttechno" weight="0.8"/>
+      <edge id="251" source="experimental" target="drillnbass" weight="0.8"/>
+      <edge id="252" source="experimental" target="glitch" weight="0.8"/>
+      <edge id="253" source="glitch" target="glitch" weight="0.8"/>
+      <edge id="254" source="glitch" target="glitchhop" weight="0.8"/>
+      <edge id="255" source="glitchhop" target="glitchhop" weight="0.8"/>
+      <edge id="256" source="drillnbass" target="drillnbass" weight="0.8"/>
+      <edge id="257" source="drillnbass" target="breakcore" weight="0.8"/>
+      <edge id="258" source="breakcore" target="breakcore" weight="0.8"/>
+      <edge id="259" source="noise" target="noise" weight="0.8"/>
+      <edge id="260" source="noise" target="industrial" weight="0.8"/>
+      <edge id="261" source="collage" target="collage" weight="0.8"/>
+      <edge id="262" source="industrial" target="industrial" weight="0.8"/>
+      <edge id="263" source="industrial" target="darkwave" weight="0.8"/>
+      <edge id="264" source="industrial" target="industrialrock" weight="0.8"/>
+      <edge id="265" source="industrial" target="aggrotech" weight="0.8"/>
+      <edge id="266" source="aggrotech" target="aggrotech" weight="0.8"/>
+      <edge id="267" source="industrialrock" target="industrialrock" weight="0.8"/>
+      <edge id="268" source="industrialrock" target="aggrotech" weight="0.8"/>
+      <edge id="269" source="ethereal" target="ethereal" weight="0.8"/>
+      <edge id="270" source="darkwave" target="darkwave" weight="0.8"/>
+      <edge id="271" source="darkwave" target="ethereal" weight="0.8"/>
+      <edge id="272" source="darkwave" target="ebm" weight="0.8"/>
+      <edge id="273" source="newbeat" target="newbeat" weight="0.8"/>
+      <edge id="274" source="futurepop" target="futurepop" weight="0.8"/>
+      <edge id="275" source="ebm" target="ebm" weight="0.8"/>
+      <edge id="276" source="ebm" target="newbeat" weight="0.8"/>
+      <edge id="277" source="ebm" target="trance" weight="0.8"/>
+      <edge id="278" source="ebm" target="goatrance" weight="0.8"/>
+      <edge id="279" source="ebm" target="futurepop" weight="0.8"/>
+      <edge id="280" source="psydub" target="psydub" weight="0.8"/>
+      <edge id="281" source="goatrance" target="goatrance" weight="0.8"/>
+      <edge id="282" source="goatrance" target="psydub" weight="0.8"/>
+      <edge id="283" source="goatrance" target="psychedelictrance" weight="0.8"/>
+      <edge id="284" source="psychedelictrance" target="psychedelictrance" weight="0.8"/>
+      <edge id="285" source="psychedelictrance" target="progpsy" weight="0.8"/>
+      <edge id="286" source="psychedelictrance" target="fullon" weight="0.8"/>
+      <edge id="287" source="psychedelictrance" target="darkpsy" weight="0.8"/>
+      <edge id="288" source="darkpsy" target="darkpsy" weight="0.8"/>
+      <edge id="289" source="fullon" target="fullon" weight="0.8"/>
+      <edge id="290" source="progpsy" target="progpsy" weight="0.8"/>
+      <edge id="291" source="dreamtrance" target="dreamtrance" weight="0.8"/>
+      <edge id="292" source="balearictrance" target="balearictrance" weight="0.8"/>
+      <edge id="293" source="balearictrance" target="dreamtrance" weight="0.8"/>
+      <edge id="294" source="trance" target="trance" weight="0.8"/>
+      <edge id="295" source="trance" target="germantrance" weight="0.8"/>
+      <edge id="296" source="trance" target="balearictrance" weight="0.8"/>
+      <edge id="297" source="trance" target="progressivetrance" weight="0.8"/>
+      <edge id="298" source="neotrance" target="neotrance" weight="0.8"/>
+      <edge id="299" source="progressivetrance" target="progressivetrance" weight="0.8"/>
+      <edge id="300" source="progressivetrance" target="techtrance" weight="0.8"/>
+      <edge id="301" source="techtrance" target="techtrance" weight="0.8"/>
+      <edge id="302" source="nrg" target="nrg" weight="0.8"/>
+      <edge id="303" source="ukhardhouse" target="ukhardhouse" weight="0.8"/>
+      <edge id="304" source="ukhardhouse" target="jumpstyle" weight="0.8"/>
+      <edge id="305" source="jumpstyle" target="jumpstyle" weight="0.8"/>
+      <edge id="306" source="jumpstyle" target="hardstyle" weight="0.8"/>
+      <edge id="307" source="hardstyle" target="hardstyle" weight="0.8"/>
+      <edge id="308" source="hardtrance" target="hardtrance" weight="0.8"/>
+      <edge id="309" source="hardtrance" target="hardstyle" weight="0.8"/>
+      <edge id="310" source="germantrance" target="germantrance" weight="0.8"/>
+      <edge id="311" source="germantrance" target="nrg" weight="0.8"/>
+      <edge id="312" source="germantrance" target="ukhardhouse" weight="0.8"/>
+      <edge id="313" source="germantrance" target="eurotrance" weight="0.8"/>
+      <edge id="314" source="germantrance" target="hardtrance" weight="0.8"/>
+      <edge id="315" source="eurotrance" target="eurotrance" weight="0.8"/>
+      <edge id="316" source="anthemhouse" target="anthemhouse" weight="0.8"/>
+      <edge id="317" source="anthemhouse" target="germantrance" weight="0.8"/>
+      <edge id="318" source="anthemhouse" target="eurotrance" weight="0.8"/>
+      <edge id="319" source="anthemhouse" target="eurodance" weight="0.8"/>
+      <edge id="320" source="anthemhouse" target="dutchhouse" weight="0.8"/>
+      <edge id="321" source="dutchhouse" target="dutchhouse" weight="0.8"/>
+      <edge id="322" source="vocaltrance" target="vocaltrance" weight="0.8"/>
+      <edge id="323" source="vocaltrance" target="handsup" weight="0.8"/>
+      <edge id="324" source="handsup" target="handsup" weight="0.8"/>
+      <edge id="325" source="eurodance" target="eurodance" weight="0.8"/>
+      <edge id="326" source="eurodance" target="asianpop" weight="0.8"/>
+      <edge id="327" source="eurodance" target="vocaltrance" weight="0.8"/>
+      <edge id="328" source="eurodance" target="handsup" weight="0.8"/>
+      <edge id="329" source="eurodance" target="nuitalo" weight="0.8"/>
+      <edge id="330" source="nuitalo" target="nuitalo" weight="0.8"/>
+      <edge id="331" source="asianpop" target="asianpop" weight="0.8"/>
+      <edge id="332" source="eurobeat" target="eurobeat" weight="0.8"/>
+      <edge id="333" source="eurobeat" target="asianpop" weight="0.8"/>
+      <edge id="334" source="italodisco" target="italodisco" weight="0.8"/>
+      <edge id="335" source="italodisco" target="eurobeat" weight="0.8"/>
+      <edge id="336" source="spacesynth" target="spacesynth" weight="0.8"/>
+      <edge id="337" source="spacesynth" target="hinrg" weight="0.8"/>
+      <edge id="338" source="spacesynth" target="italodisco" weight="0.8"/>
+      <edge id="339" source="spacesynth" target="synthwave" weight="0.8"/>
+      <edge id="340" source="synthwave" target="synthwave" weight="0.8"/>
+      <edge id="341" source="synthpop" target="synthpop" weight="0.8"/>
+      <edge id="342" source="synthpop" target="electroclash" weight="0.8"/>
+      <edge id="343" source="synthpop" target="synthwave" weight="0.8"/>
+      <edge id="344" source="hinrg" target="hinrg" weight="0.8"/>
+      <edge id="345" source="hinrg" target="synthpop" weight="0.8"/>
+      <edge id="346" source="electroclash" target="electroclash" weight="0.8"/>
+      <edge id="347" source="electroclash" target="dancepunk" weight="0.8"/>
+      <edge id="348" source="electroclash" target="filthyelectrohouse" weight="0.8"/>
+      <edge id="349" source="filthyelectrohouse" target="filthyelectrohouse" weight="0.8"/>
+      <edge id="350" source="dancepunk" target="dancepunk" weight="0.8"/>
+      <edge id="351" source="dancepunk" target="filthyelectrohouse" weight="0.8"/>
+    </edges>
+  </graph>
+</gexf>

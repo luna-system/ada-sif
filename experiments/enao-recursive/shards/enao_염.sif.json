@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \uc5fc",
+    "description": "Genres and artists starting with \uc5fc",
+    "shard_id": "\uc5fc",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_0fc08e74-977d-416c-a552-d9dc7bfa2233",
+      "type": "artist",
+      "name": "\uc5fc\uc218\uc5f0",
+      "description": "Artist: \uc5fc\uc218\uc5f0",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0fc08e74-977d-416c-a552-d9dc7bfa2233",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u6735",
+    "description": "Genres and artists starting with \u6735",
+    "shard_id": "\u6735",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_5b4944fc-6f00-4c81-af71-fc36d84a2b39",
+      "type": "artist",
+      "name": "\u6735\u8389\u7684\u85e5\u76d2",
+      "description": "Artist: \u6735\u8389\u7684\u85e5\u76d2",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5b4944fc-6f00-4c81-af71-fc36d84a2b39",
+        "country": "TW",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ub9e4",
+    "description": "Genres and artists starting with \ub9e4",
+    "shard_id": "\ub9e4",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_4ce7d1b8-0d84-41bf-9099-8a3c3f3c7886",
+      "type": "artist",
+      "name": "\ub9e4\ubbf8",
+      "description": "Artist: \ub9e4\ubbf8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4ce7d1b8-0d84-41bf-9099-8a3c3f3c7886",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

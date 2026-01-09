@@ -1,0 +1,3512 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - Y",
+    "description": "Genres and artists starting with Y",
+    "shard_id": "Y",
+    "entity_count": 244,
+    "relationship_count": 95
+  },
+  "entities": [
+    {
+      "id": "artist_164f0d73-1234-4e2c-8743-d77bf2191051",
+      "type": "artist",
+      "name": "Ye",
+      "description": "Artist: Ye",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+      "type": "artist",
+      "name": "Yeidy Eish",
+      "description": "Artist: Yeidy Eish",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bf0908ed-cb7a-4117-aa21-a85700d92bfa",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_873ba803-4393-4811-bfe1-c19c95798850",
+      "type": "artist",
+      "name": "YSY A",
+      "description": "Artist: YSY A",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "873ba803-4393-4811-bfe1-c19c95798850",
+        "country": "AR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_505e16b2-ef1b-42cc-b323-1a9664bcf69a",
+      "type": "artist",
+      "name": "Yung Beef",
+      "description": "Artist: Yung Beef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "505e16b2-ef1b-42cc-b323-1a9664bcf69a",
+        "country": "ES",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3d291f48-a8be-4113-baad-c73618a7897d",
+      "type": "artist",
+      "name": "Yandel",
+      "description": "Artist: Yandel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3d291f48-a8be-4113-baad-c73618a7897d",
+        "country": "PR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4e57ce22-bfe9-4653-b781-2fb8c261fac2",
+      "type": "artist",
+      "name": "Yaga & Mackie",
+      "description": "Artist: Yaga & Mackie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4e57ce22-bfe9-4653-b781-2fb8c261fac2",
+        "country": "PR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_127d8614-0876-4408-886c-6f110b047a78",
+      "type": "artist",
+      "name": "YoungBoy Never Broke Again",
+      "description": "Artist: YoungBoy Never Broke Again",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "127d8614-0876-4408-886c-6f110b047a78",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+      "type": "artist",
+      "name": "Yes",
+      "description": "Artist: Yes",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_94439fdd-273b-4255-9608-04cb1969fcfa",
+      "type": "artist",
+      "name": "Yuvan Shankar Raja",
+      "description": "Artist: Yuvan Shankar Raja",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "94439fdd-273b-4255-9608-04cb1969fcfa",
+        "country": "IN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_79c9b9a6-4b78-4738-8b81-95b066321ea9",
+      "type": "artist",
+      "name": "Young Nudy",
+      "description": "Artist: Young Nudy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e8d811c0-2b56-4c31-90dd-b11edc1adefd",
+      "type": "artist",
+      "name": "Young Nudity",
+      "description": "Artist: Young Nudity",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8d811c0-2b56-4c31-90dd-b11edc1adefd",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_15ba83b7-d89a-4dd6-9695-1290fb567493",
+      "type": "artist",
+      "name": "Yuridia",
+      "description": "Artist: Yuridia",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "15ba83b7-d89a-4dd6-9695-1290fb567493",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b0b33754-a664-43b7-ba00-be0dc4ec2396",
+      "type": "artist",
+      "name": "Yoko Ono",
+      "description": "Artist: Yoko Ono",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b0b33754-a664-43b7-ba00-be0dc4ec2396",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b5acb401-3ea3-4b74-b2ba-823478b63e3b",
+      "type": "artist",
+      "name": "YolanDa Brown",
+      "description": "Artist: YolanDa Brown",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b5acb401-3ea3-4b74-b2ba-823478b63e3b",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ee52e959-629f-4da3-ad6d-45620f358bc4",
+      "type": "artist",
+      "name": "Yasmin Santos",
+      "description": "Artist: Yasmin Santos",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ee52e959-629f-4da3-ad6d-45620f358bc4",
+        "country": "BR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_800760de-bdf8-43a2-8fe0-44a2401a5515",
+      "type": "artist",
+      "name": "Young Thug",
+      "description": "Artist: Young Thug",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0592f783-16dd-4c20-a119-fa5d6039f002",
+      "type": "artist",
+      "name": "Yabamm",
+      "description": "Artist: Yabamm",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0592f783-16dd-4c20-a119-fa5d6039f002",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_40bad6e2-77f9-47b7-b0da-ffe035a10f67",
+      "type": "artist",
+      "name": "Yuri",
+      "description": "Artist: Yuri",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "40bad6e2-77f9-47b7-b0da-ffe035a10f67",
+        "country": "MX",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_348e76d3-025f-41cc-9e61-6754eeaeb414",
+      "type": "artist",
+      "name": "Yy",
+      "description": "Artist: Yy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "348e76d3-025f-41cc-9e61-6754eeaeb414",
+        "country": "CA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6041bca6-d070-4894-8019-da9538f2c33d",
+      "type": "artist",
+      "name": "Yazz",
+      "description": "Artist: Yazz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6041bca6-d070-4894-8019-da9538f2c33d",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_842e491c-dc1a-424c-8ec2-448fc2e81d31",
+      "type": "artist",
+      "name": "Yordano",
+      "description": "Artist: Yordano",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "842e491c-dc1a-424c-8ec2-448fc2e81d31",
+        "country": "VE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4107bdb6-8178-4649-9dc5-f9dac9814030",
+      "type": "artist",
+      "name": "You the Living",
+      "description": "Artist: You the Living",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4107bdb6-8178-4649-9dc5-f9dac9814030",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_39f9f482-6e32-4145-879c-9f4dede6fb19",
+      "type": "artist",
+      "name": "Yaniz",
+      "description": "Artist: Yaniz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "39f9f482-6e32-4145-879c-9f4dede6fb19",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3f542031-b054-454d-b57b-812fa2a81b11",
+      "type": "artist",
+      "name": "Yo La Tengo",
+      "description": "Artist: Yo La Tengo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3f542031-b054-454d-b57b-812fa2a81b11",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6fabf3aa-1822-49f2-b6c7-57560464696f",
+      "type": "artist",
+      "name": "Youssoupha",
+      "description": "Artist: Youssoupha",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6fabf3aa-1822-49f2-b6c7-57560464696f",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a7f90d97-5f37-411e-b3da-37d57aefec8f",
+      "type": "artist",
+      "name": "Yellow Days",
+      "description": "Artist: Yellow Days",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a7f90d97-5f37-411e-b3da-37d57aefec8f",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e6772ec4-544a-4200-a51b-69f91e7f2726",
+      "type": "artist",
+      "name": "Yohuna",
+      "description": "Artist: Yohuna",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e6772ec4-544a-4200-a51b-69f91e7f2726",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6e3252a1-397d-4bf8-b2b7-d16f7fbcb3dd",
+      "type": "artist",
+      "name": "Yumi Zouma",
+      "description": "Artist: Yumi Zouma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6e3252a1-397d-4bf8-b2b7-d16f7fbcb3dd",
+        "country": "NZ",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_14ed2fab-d941-4b56-a06f-fa1cc93c23d6",
+      "type": "artist",
+      "name": "Yemi Alade",
+      "description": "Artist: Yemi Alade",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "14ed2fab-d941-4b56-a06f-fa1cc93c23d6",
+        "country": "NG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+      "type": "artist",
+      "name": "Yeat",
+      "description": "Artist: Yeat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4fc83b81-6210-4335-98f3-aa7a6a3cfc1a",
+      "type": "artist",
+      "name": "yuke",
+      "description": "Artist: yuke",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4fc83b81-6210-4335-98f3-aa7a6a3cfc1a",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9f23b7c3-baa6-4e38-b1a9-5c38359ad982",
+      "type": "artist",
+      "name": "Years & Years",
+      "description": "Artist: Years & Years",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f23b7c3-baa6-4e38-b1a9-5c38359ad982",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_18a212d7-4b2f-47ac-b1bf-951ee8fb0dd2",
+      "type": "artist",
+      "name": "Yoyoy Villame",
+      "description": "Artist: Yoyoy Villame",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "18a212d7-4b2f-47ac-b1bf-951ee8fb0dd2",
+        "country": "PH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_31ee79dc-b1e2-4f1d-bbb4-5dd28407ae91",
+      "type": "artist",
+      "name": "Yamboo",
+      "description": "Artist: Yamboo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "31ee79dc-b1e2-4f1d-bbb4-5dd28407ae91",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_daa1b769-f10f-4c0d-8939-97cd81012315",
+      "type": "artist",
+      "name": "YALL",
+      "description": "Artist: YALL",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "daa1b769-f10f-4c0d-8939-97cd81012315",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_50931a9d-08af-4012-8dae-ecef04e51bf3",
+      "type": "artist",
+      "name": "YhapoJJ",
+      "description": "Artist: YhapoJJ",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "50931a9d-08af-4012-8dae-ecef04e51bf3",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_c616aef1-e21f-46f8-864f-b7bad96f41b2",
+      "type": "artist",
+      "name": "Yello",
+      "description": "Artist: Yello",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c616aef1-e21f-46f8-864f-b7bad96f41b2",
+        "country": "CH",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yachtrock",
+      "type": "genre",
+      "name": "yacht rock",
+      "description": "Musical genre: yacht rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#8E8419",
+        "playlist_id": "1imbMwZYgwB2NCAVPkq5sZ",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_76d4a7a9-6268-471e-8528-605d5c9b4809",
+      "type": "artist",
+      "name": "Y\u00e4chtley Cr\u00ebw",
+      "description": "Artist: Y\u00e4chtley Cr\u00ebw",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "76d4a7a9-6268-471e-8528-605d5c9b4809",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_83eede2c-799b-4174-9ca5-7f270d27afcf",
+      "type": "artist",
+      "name": "Yachtwerk",
+      "description": "Artist: Yachtwerk",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "83eede2c-799b-4174-9ca5-7f270d27afcf",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_eec5a518-cc9d-4c54-8c7b-1b57a86274a9",
+      "type": "artist",
+      "name": "Yachty by Nature",
+      "description": "Artist: Yachty by Nature",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eec5a518-cc9d-4c54-8c7b-1b57a86274a9",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_62f2b365-8476-4a43-8b9e-139e0470dc69",
+      "type": "artist",
+      "name": "Yamari",
+      "description": "Artist: Yamari",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "62f2b365-8476-4a43-8b9e-139e0470dc69",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d2e1879c-6cf2-4b8a-bdfb-877052c34420",
+      "type": "artist",
+      "name": "Yemi Alafifuni",
+      "description": "Artist: Yemi Alafifuni",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2e1879c-6cf2-4b8a-bdfb-877052c34420",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ac5af671-1df0-4312-8b7b-e61992ecc883",
+      "type": "artist",
+      "name": "Yellow Magic Orchestra",
+      "description": "Artist: Yellow Magic Orchestra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac5af671-1df0-4312-8b7b-e61992ecc883",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_bea7a7ab-781e-459b-9272-7095505310e6",
+      "type": "artist",
+      "name": "Yves Simon",
+      "description": "Artist: Yves Simon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bea7a7ab-781e-459b-9272-7095505310e6",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6f23db9a-c501-4c5e-8a1a-e09ffa48ef5e",
+      "type": "artist",
+      "name": "York",
+      "description": "Artist: York",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6f23db9a-c501-4c5e-8a1a-e09ffa48ef5e",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_53d86951-706c-41c8-9053-a713ea972395",
+      "type": "artist",
+      "name": "Yma Sumac",
+      "description": "Artist: Yma Sumac",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "53d86951-706c-41c8-9053-a713ea972395",
+        "country": "PE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3ed93fc7-3413-4a54-a46a-43ab40a0b898",
+      "type": "artist",
+      "name": "Yoskar Sarante",
+      "description": "Artist: Yoskar Sarante",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3ed93fc7-3413-4a54-a46a-43ab40a0b898",
+        "country": "DO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_edd6a7c3-d174-4e5b-9134-0f0cc6e2b0a5",
+      "type": "artist",
+      "name": "Yves Montand",
+      "description": "Artist: Yves Montand",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "edd6a7c3-d174-4e5b-9134-0f0cc6e2b0a5",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_870ec051-e50e-4bf9-b704-6098fe0e0297",
+      "type": "artist",
+      "name": "Yellowman",
+      "description": "Artist: Yellowman",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "870ec051-e50e-4bf9-b704-6098fe0e0297",
+        "country": "JM",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_16be9542-dc4b-49f3-a2b9-248e0a8d1219",
+      "type": "artist",
+      "name": "Yismach Lev",
+      "description": "Artist: Yismach Lev",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "16be9542-dc4b-49f3-a2b9-248e0a8d1219",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fd649d06-c1bc-4c95-8c48-eb7b91726e65",
+      "type": "artist",
+      "name": "Yo Gabba Gabba!",
+      "description": "Artist: Yo Gabba Gabba!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fd649d06-c1bc-4c95-8c48-eb7b91726e65",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2c028a5b-f873-4638-80fc-002b2c9b484f",
+      "type": "artist",
+      "name": "Yves Deruyter",
+      "description": "Artist: Yves Deruyter",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2c028a5b-f873-4638-80fc-002b2c9b484f",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3e1051e0-140c-40b1-b77e-c058a9c6aa57",
+      "type": "artist",
+      "name": "Yaphet Kotto",
+      "description": "Artist: Yaphet Kotto",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3e1051e0-140c-40b1-b77e-c058a9c6aa57",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f14daebf-77c0-4f63-8fe0-ea1d56800cc8",
+      "type": "artist",
+      "name": "You and I",
+      "description": "Artist: You and I",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f14daebf-77c0-4f63-8fe0-ea1d56800cc8",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b631245f-6729-41a0-9270-803927687c82",
+      "type": "artist",
+      "name": "Y\u1ebfn Thanh",
+      "description": "Artist: Y\u1ebfn Thanh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b631245f-6729-41a0-9270-803927687c82",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_97529a9e-4b5a-4a9c-9c08-c42401d1c268",
+      "type": "artist",
+      "name": "YUNGBLUD",
+      "description": "Artist: YUNGBLUD",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "97529a9e-4b5a-4a9c-9c08-c42401d1c268",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c4fd6cd7-b18f-4e0a-947f-87f36d62a22c",
+      "type": "artist",
+      "name": "Yaco Monti",
+      "description": "Artist: Yaco Monti",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c4fd6cd7-b18f-4e0a-947f-87f36d62a22c",
+        "country": "AR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0b336c55-c3e9-4dab-9c96-bc10d7a54ef3",
+      "type": "artist",
+      "name": "Y\u012aN Y\u012aN",
+      "description": "Artist: Y\u012aN Y\u012aN",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0b336c55-c3e9-4dab-9c96-bc10d7a54ef3",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_3608221f-7ee6-4997-84e0-28353b2e5530",
+      "type": "artist",
+      "name": "Yabby U",
+      "description": "Artist: Yabby U",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3608221f-7ee6-4997-84e0-28353b2e5530",
+        "country": "JM",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_12be7648-7094-495f-90e6-df4189d68615",
+      "type": "artist",
+      "name": "Yerba Brava",
+      "description": "Artist: Yerba Brava",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "12be7648-7094-495f-90e6-df4189d68615",
+        "country": "AR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_65e70483-ea07-4126-804c-86c75a1ee423",
+      "type": "artist",
+      "name": "Yzomandias",
+      "description": "Artist: Yzomandias",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "65e70483-ea07-4126-804c-86c75a1ee423",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3630fff3-52fc-4e97-ab01-d68fd88e4135",
+      "type": "artist",
+      "name": "Yellowcard",
+      "description": "Artist: Yellowcard",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3630fff3-52fc-4e97-ab01-d68fd88e4135",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_31da7b06-bc30-4a1f-9f4a-c2ac1a84167f",
+      "type": "artist",
+      "name": "yeule",
+      "description": "Artist: yeule",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "31da7b06-bc30-4a1f-9f4a-c2ac1a84167f",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_667c28aa-436d-44b5-a065-debcb47edf60",
+      "type": "artist",
+      "name": "Your Ghost",
+      "description": "Artist: Your Ghost",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "667c28aa-436d-44b5-a065-debcb47edf60",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_04e50e01-8f17-46c0-92e2-e82c92a4d31f",
+      "type": "artist",
+      "name": "Yus Yunus",
+      "description": "Artist: Yus Yunus",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "04e50e01-8f17-46c0-92e2-e82c92a4d31f",
+        "country": "ID",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0a394d24-f82a-4c73-9d20-2ad20dcf96ff",
+      "type": "artist",
+      "name": "Y\u0131ld\u0131z Tilbe",
+      "description": "Artist: Y\u0131ld\u0131z Tilbe",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0a394d24-f82a-4c73-9d20-2ad20dcf96ff",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c0adeafc-9f9c-42f2-89ff-d7180007c456",
+      "type": "artist",
+      "name": "Yedi Karanfil",
+      "description": "Artist: Yedi Karanfil",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c0adeafc-9f9c-42f2-89ff-d7180007c456",
+        "country": "TR",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_858201bf-facb-4a45-a979-4e9d6f8cd900",
+      "type": "artist",
+      "name": "Yameii Online",
+      "description": "Artist: Yameii Online",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "858201bf-facb-4a45-a979-4e9d6f8cd900",
+        "country": "US",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_1f53b0f0-a029-4c39-9049-0fba8011fb28",
+      "type": "artist",
+      "name": "your best friend jippy",
+      "description": "Artist: your best friend jippy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1f53b0f0-a029-4c39-9049-0fba8011fb28",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7c0f0e6e-4078-47ca-863a-3710cf5e556d",
+      "type": "artist",
+      "name": "Yokez",
+      "description": "Artist: Yokez",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7c0f0e6e-4078-47ca-863a-3710cf5e556d",
+        "country": "SG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b1865773-6b30-40e4-87bb-906bcbc45f91",
+      "type": "artist",
+      "name": "You Am I",
+      "description": "Artist: You Am I",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b1865773-6b30-40e4-87bb-906bcbc45f91",
+        "country": "AU",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_a12afeac-adc4-4d3b-8316-16e0afb53aa9",
+      "type": "artist",
+      "name": "youji",
+      "description": "Artist: youji",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a12afeac-adc4-4d3b-8316-16e0afb53aa9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_759abafc-c4eb-4018-8554-f29a9d842779",
+      "type": "artist",
+      "name": "Yellow Claw",
+      "description": "Artist: Yellow Claw",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "759abafc-c4eb-4018-8554-f29a9d842779",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_2e80ba15-ec0f-4bd4-b263-7e0671f38255",
+      "type": "artist",
+      "name": "Ying Yang Twins",
+      "description": "Artist: Ying Yang Twins",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2e80ba15-ec0f-4bd4-b263-7e0671f38255",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_b2fbcd3f-f460-43e2-95c9-6f808d1012cd",
+      "type": "artist",
+      "name": "Ya Kid K",
+      "description": "Artist: Ya Kid K",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b2fbcd3f-f460-43e2-95c9-6f808d1012cd",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f6a0a03f-3b2f-4d3a-b4b4-34ca4ce7f3cb",
+      "type": "artist",
+      "name": "YACHT",
+      "description": "Artist: YACHT",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f6a0a03f-3b2f-4d3a-b4b4-34ca4ce7f3cb",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_223002a5-ea3a-47e7-bea6-9f6f2beb878e",
+      "type": "artist",
+      "name": "YS Tekdinner",
+      "description": "Artist: YS Tekdinner",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "223002a5-ea3a-47e7-bea6-9f6f2beb878e",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1243d99e-8f5a-4f7e-810c-5a1d20f41065",
+      "type": "artist",
+      "name": "Yellowjackets",
+      "description": "Artist: Yellowjackets",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1243d99e-8f5a-4f7e-810c-5a1d20f41065",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_6f5b4e37-0a07-4456-96a5-ae51045ed51e",
+      "type": "artist",
+      "name": "Yacyn",
+      "description": "Artist: Yacyn",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6f5b4e37-0a07-4456-96a5-ae51045ed51e",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_af081ea2-7a2c-4fbd-8200-92d62056b5f5",
+      "type": "artist",
+      "name": "Youssou N\u2019Dour",
+      "description": "Artist: Youssou N\u2019Dour",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "af081ea2-7a2c-4fbd-8200-92d62056b5f5",
+        "country": "SN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2968722f-03d8-4e2f-88bc-f9975f147503",
+      "type": "artist",
+      "name": "Yusef Lateef",
+      "description": "Artist: Yusef Lateef",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2968722f-03d8-4e2f-88bc-f9975f147503",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b12e0d6f-83d0-4ae8-bb89-19c9c626a3bf",
+      "type": "artist",
+      "name": "YFB Lxcerda",
+      "description": "Artist: YFB Lxcerda",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b12e0d6f-83d0-4ae8-bb89-19c9c626a3bf",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c2af0ae7-0e78-4224-a209-ef3dc313d672",
+      "type": "artist",
+      "name": "Yu",
+      "description": "Artist: Yu",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c2af0ae7-0e78-4224-a209-ef3dc313d672",
+        "country": "DE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b17e8126-7642-44a8-a311-6fb6546cf672",
+      "type": "artist",
+      "name": "Yuta Imai",
+      "description": "Artist: Yuta Imai",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b17e8126-7642-44a8-a311-6fb6546cf672",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_35b828f0-44da-4fc5-b7dd-d526c4b797b2",
+      "type": "artist",
+      "name": "Y\u00fbmi",
+      "description": "Artist: Y\u00fbmi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "35b828f0-44da-4fc5-b7dd-d526c4b797b2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d2026244-f1f8-49d2-9072-ace376bdaf17",
+      "type": "artist",
+      "name": "Yota",
+      "description": "Artist: Yota",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2026244-f1f8-49d2-9072-ace376bdaf17",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4f56dd92-1ca5-4bcb-9cfd-22e8f30098c8",
+      "type": "artist",
+      "name": "Yell!",
+      "description": "Artist: Yell!",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4f56dd92-1ca5-4bcb-9cfd-22e8f30098c8",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ef39d47a-d530-4fa2-8f74-0c73ce195f02",
+      "type": "artist",
+      "name": "Your Old Droog",
+      "description": "Artist: Your Old Droog",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ef39d47a-d530-4fa2-8f74-0c73ce195f02",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2e7347dd-3177-4062-b4e9-8f682cbdaf7f",
+      "type": "artist",
+      "name": "Yo Majesty",
+      "description": "Artist: Yo Majesty",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2e7347dd-3177-4062-b4e9-8f682cbdaf7f",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7cef3cbe-f5c1-4937-a037-9d0a80e57b57",
+      "type": "artist",
+      "name": "Younique Unit",
+      "description": "Artist: Younique Unit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7cef3cbe-f5c1-4937-a037-9d0a80e57b57",
+        "country": "KR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4fac8f5d-0e44-4efa-b518-7f8a8f02c162",
+      "type": "artist",
+      "name": "Yolanda Adams",
+      "description": "Artist: Yolanda Adams",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4fac8f5d-0e44-4efa-b518-7f8a8f02c162",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_76fda896-7c2a-4e5e-a45b-d40acfb2080c",
+      "type": "artist",
+      "name": "Yonder Mountain String Band",
+      "description": "Artist: Yonder Mountain String Band",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "76fda896-7c2a-4e5e-a45b-d40acfb2080c",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9a2afb1e-504c-443e-acff-6c40ce75b1a1",
+      "type": "artist",
+      "name": "Yanni",
+      "description": "Artist: Yanni",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9a2afb1e-504c-443e-acff-6c40ce75b1a1",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+      "type": "artist",
+      "name": "Yung Lean",
+      "description": "Artist: Yung Lean",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_77842819-67c7-4f70-891b-f3022c312831",
+      "type": "artist",
+      "name": "Yo Diablo",
+      "description": "Artist: Yo Diablo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "77842819-67c7-4f70-891b-f3022c312831",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yeye",
+      "type": "genre",
+      "name": "ye ye",
+      "description": "Musical genre: ye ye",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#758C07",
+        "playlist_id": "0HjnliL7S56u2t2sFW8gG7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_b675f327-4738-4af4-bb83-1adb0003f2d3",
+      "type": "artist",
+      "name": "Yves Tumor",
+      "description": "Artist: Yves Tumor",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b675f327-4738-4af4-bb83-1adb0003f2d3",
+        "country": "IT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2791a048-7546-450e-aeda-a692a74f65c0",
+      "type": "artist",
+      "name": "Yabujin",
+      "description": "Artist: Yabujin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2791a048-7546-450e-aeda-a692a74f65c0",
+        "country": "LT",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fa87e5e8-9935-4c98-b104-716bd095be46",
+      "type": "artist",
+      "name": "YungLex",
+      "description": "Artist: YungLex",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fa87e5e8-9935-4c98-b104-716bd095be46",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b871580e-67bf-4af3-a445-57b75beb0264",
+      "type": "artist",
+      "name": "YAYAYI",
+      "description": "Artist: YAYAYI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b871580e-67bf-4af3-a445-57b75beb0264",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5fb1a197-1764-4969-bf0a-83e9026415db",
+      "type": "artist",
+      "name": "Yotam Ben Horin",
+      "description": "Artist: Yotam Ben Horin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5fb1a197-1764-4969-bf0a-83e9026415db",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aa79cc40-28ce-4625-9b58-8b3d2af8142f",
+      "type": "artist",
+      "name": "Yugen Blakrok",
+      "description": "Artist: Yugen Blakrok",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aa79cc40-28ce-4625-9b58-8b3d2af8142f",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a8c85414-e95f-473c-8fc6-c160705de962",
+      "type": "artist",
+      "name": "Yokai Jaki",
+      "description": "Artist: Yokai Jaki",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a8c85414-e95f-473c-8fc6-c160705de962",
+        "country": "JP",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_31307df1-f49f-42cb-b15c-7c43b9c4954e",
+      "type": "artist",
+      "name": "Yaokai",
+      "description": "Artist: Yaokai",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "31307df1-f49f-42cb-b15c-7c43b9c4954e",
+        "country": "CN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0572b04-5981-45dc-a20d-c7dc30ba47a1",
+      "type": "artist",
+      "name": "YUC'e",
+      "description": "Artist: YUC'e",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0572b04-5981-45dc-a20d-c7dc30ba47a1",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_582beb32-3cfe-4ba7-9f69-846fac7e7ec7",
+      "type": "artist",
+      "name": "Yunomi",
+      "description": "Artist: Yunomi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "582beb32-3cfe-4ba7-9f69-846fac7e7ec7",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_11187a17-37ef-4064-ba79-13af844e47eb",
+      "type": "artist",
+      "name": "Yuri da Cunha",
+      "description": "Artist: Yuri da Cunha",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "11187a17-37ef-4064-ba79-13af844e47eb",
+        "country": "AO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_43b9819d-71bf-4e19-96d7-720e22dc2f1e",
+      "type": "artist",
+      "name": "Yola Semedo",
+      "description": "Artist: Yola Semedo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "43b9819d-71bf-4e19-96d7-720e22dc2f1e",
+        "country": "AO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6529a974-37a8-47fc-aae9-c3b93dfa1ac7",
+      "type": "artist",
+      "name": "Yola Ara\u00fajo",
+      "description": "Artist: Yola Ara\u00fajo",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6529a974-37a8-47fc-aae9-c3b93dfa1ac7",
+        "country": "AO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_761b81b4-76af-4f0a-8157-d9518caa183e",
+      "type": "artist",
+      "name": "YUKIYANAGI",
+      "description": "Artist: YUKIYANAGI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "761b81b4-76af-4f0a-8157-d9518caa183e",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d2de4823-b509-4991-aac7-39b992de50af",
+      "type": "artist",
+      "name": "Yade",
+      "description": "Artist: Yade",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d2de4823-b509-4991-aac7-39b992de50af",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7355a02a-b14a-4719-aa09-477b1964b2a3",
+      "type": "artist",
+      "name": "YOTTO",
+      "description": "Artist: YOTTO",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7355a02a-b14a-4719-aa09-477b1964b2a3",
+        "country": "FI",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e0c66837-2e81-453a-9e63-1436f418082f",
+      "type": "artist",
+      "name": "Young Hegelians",
+      "description": "Artist: Young Hegelians",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e0c66837-2e81-453a-9e63-1436f418082f",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_097b046c-1eb8-4892-84ca-bc7cf34aae2f",
+      "type": "artist",
+      "name": "Yandere Chainsaw Regurgitation Factory",
+      "description": "Artist: Yandere Chainsaw Regurgitation Factory",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "097b046c-1eb8-4892-84ca-bc7cf34aae2f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_60c66b91-6f7f-42f0-88f4-348c5ad8e866",
+      "type": "artist",
+      "name": "Youngboi OG",
+      "description": "Artist: Youngboi OG",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "60c66b91-6f7f-42f0-88f4-348c5ad8e866",
+        "country": "ZA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_0dc9c4bc-8bcc-42f1-9033-bec41160377f",
+      "type": "artist",
+      "name": "Yo Yo Honey Singh",
+      "description": "Artist: Yo Yo Honey Singh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0dc9c4bc-8bcc-42f1-9033-bec41160377f",
+        "country": "IN",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_efbbb4b2-b0aa-40b7-a15a-dfb3963697c9",
+      "type": "artist",
+      "name": "Yahel",
+      "description": "Artist: Yahel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "efbbb4b2-b0aa-40b7-a15a-dfb3963697c9",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_096c85bc-4c9a-4427-b806-133e294e85b2",
+      "type": "artist",
+      "name": "Yudhisthira",
+      "description": "Artist: Yudhisthira",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "096c85bc-4c9a-4427-b806-133e294e85b2",
+        "country": "MK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_5a790373-ceb8-428c-9e7d-105309506cc5",
+      "type": "artist",
+      "name": "You Could Be A Cop",
+      "description": "Artist: You Could Be A Cop",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5a790373-ceb8-428c-9e7d-105309506cc5",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yugoslavrock",
+      "type": "genre",
+      "name": "yugoslav rock",
+      "description": "Musical genre: yugoslav rock",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A87F0C",
+        "playlist_id": "7KuZSebZlQto9drDc7l5tE",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_9552110d-5dad-4773-a19c-6b6dfc089111",
+      "type": "artist",
+      "name": "Yvonne Curtis",
+      "description": "Artist: Yvonne Curtis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9552110d-5dad-4773-a19c-6b6dfc089111",
+        "country": "JM",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_3bd74fdb-a35e-4cad-bdd2-f2944c9db3d3",
+      "type": "artist",
+      "name": "YMCK",
+      "description": "Artist: YMCK",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3bd74fdb-a35e-4cad-bdd2-f2944c9db3d3",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_02c4b059-5354-49f0-bdd9-72613ab1a997",
+      "type": "artist",
+      "name": "Yerzmyey",
+      "description": "Artist: Yerzmyey",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "02c4b059-5354-49f0-bdd9-72613ab1a997",
+        "country": "PL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9deece44-dfb5-45d5-9f1f-287dba4d41c6",
+      "type": "artist",
+      "name": "Yung Schmoobin",
+      "description": "Artist: Yung Schmoobin",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9deece44-dfb5-45d5-9f1f-287dba4d41c6",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e73beb4f-266a-4779-ac9c-28a790270743",
+      "type": "artist",
+      "name": "Youp van \u2019t Hek",
+      "description": "Artist: Youp van \u2019t Hek",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e73beb4f-266a-4779-ac9c-28a790270743",
+        "country": "NL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_841db5c8-7072-4b89-9bdb-0a0bd0e9d357",
+      "type": "artist",
+      "name": "Yiruma",
+      "description": "Artist: Yiruma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "841db5c8-7072-4b89-9bdb-0a0bd0e9d357",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bc42cfc1-776b-447b-8156-060da9df712f",
+      "type": "artist",
+      "name": "Yossi Sassi",
+      "description": "Artist: Yossi Sassi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bc42cfc1-776b-447b-8156-060da9df712f",
+        "country": "IL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_e16597ab-4066-4ebf-9bfd-8c38937cda5c",
+      "type": "artist",
+      "name": "Yoens",
+      "description": "Artist: Yoens",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e16597ab-4066-4ebf-9bfd-8c38937cda5c",
+        "country": "FI",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_12d432a3-feb0-49b1-a107-d20751880764",
+      "type": "artist",
+      "name": "Yann Tiersen",
+      "description": "Artist: Yann Tiersen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "12d432a3-feb0-49b1-a107-d20751880764",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b218faea-829a-45f0-8bb4-54df2bc17d41",
+      "type": "artist",
+      "name": "YUNG BAE",
+      "description": "Artist: YUNG BAE",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b218faea-829a-45f0-8bb4-54df2bc17d41",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_62fe877d-b7a5-43e8-952e-2610d7614bff",
+      "type": "artist",
+      "name": "Yo\u2010Yo Ma",
+      "description": "Artist: Yo\u2010Yo Ma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "62fe877d-b7a5-43e8-952e-2610d7614bff",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c5f66a34-c12c-44c8-9492-e213014f2dda",
+      "type": "artist",
+      "name": "Yiorgos Kaloudis",
+      "description": "Artist: Yiorgos Kaloudis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c5f66a34-c12c-44c8-9492-e213014f2dda",
+        "country": "GR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_84f8fb72-77ff-4de7-8537-4a0581fe3cd7",
+      "type": "artist",
+      "name": "Yyrkoon",
+      "description": "Artist: Yyrkoon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "84f8fb72-77ff-4de7-8537-4a0581fe3cd7",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_cb040beb-2dc8-4b71-9a3b-be07e1bd4968",
+      "type": "artist",
+      "name": "YOYOMI",
+      "description": "Artist: YOYOMI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cb040beb-2dc8-4b71-9a3b-be07e1bd4968",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_c7abb7c1-2070-4360-8f21-5dedd4f440d5",
+      "type": "artist",
+      "name": "Y\u00f8r Kultura",
+      "description": "Artist: Y\u00f8r Kultura",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c7abb7c1-2070-4360-8f21-5dedd4f440d5",
+        "country": "NL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_aba92e53-2209-41e5-b44e-1e03710add25",
+      "type": "artist",
+      "name": "YuYoon",
+      "description": "Artist: YuYoon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aba92e53-2209-41e5-b44e-1e03710add25",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_aecd94bc-35e7-4c37-9016-5c4ded2c403c",
+      "type": "artist",
+      "name": "Young Spit",
+      "description": "Artist: Young Spit",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "aecd94bc-35e7-4c37-9016-5c4ded2c403c",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_20c844f4-13b4-44b9-b483-be3ca85237f2",
+      "type": "artist",
+      "name": "Y&Co.",
+      "description": "Artist: Y&Co.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "20c844f4-13b4-44b9-b483-be3ca85237f2",
+        "country": "JP",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f1ed6bee-6131-41c2-b728-e5d5c0d18cba",
+      "type": "artist",
+      "name": "yeongrak",
+      "description": "Artist: yeongrak",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f1ed6bee-6131-41c2-b728-e5d5c0d18cba",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+      "type": "artist",
+      "name": "Yngwie Malmsteen",
+      "description": "Artist: Yngwie Malmsteen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+        "country": "SE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_95e731a5-1e88-4f9d-85ef-ff9fff153ba3",
+      "type": "artist",
+      "name": "Yank Rachell",
+      "description": "Artist: Yank Rachell",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "95e731a5-1e88-4f9d-85ef-ff9fff153ba3",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_yodeling",
+      "type": "genre",
+      "name": "yodeling",
+      "description": "Musical genre: yodeling",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4C970C",
+        "playlist_id": "2SMDVBkKqnZL9AoUWaZ2qs",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_a584ee41-24f3-4709-b141-c0b6115b9d6e",
+      "type": "artist",
+      "name": "Yngwie J. Malmsteen\u2019s Rising Force",
+      "description": "Artist: Yngwie J. Malmsteen\u2019s Rising Force",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a584ee41-24f3-4709-b141-c0b6115b9d6e",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_49ff7bca-f82d-4b7d-af6c-4855e0a3669e",
+      "type": "artist",
+      "name": "Yun-Chih Huang",
+      "description": "Artist: Yun-Chih Huang",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "49ff7bca-f82d-4b7d-af6c-4855e0a3669e",
+        "country": "TW",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_760933fb-ca7c-466f-9c7d-8c29a6bdeb89",
+      "type": "artist",
+      "name": "YIFF\u00d8",
+      "description": "Artist: YIFF\u00d8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "760933fb-ca7c-466f-9c7d-8c29a6bdeb89",
+        "country": "NO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bb4a5e41-5421-461f-8c27-d6f3f0c27c00",
+      "type": "artist",
+      "name": "Ye Banished Privateers",
+      "description": "Artist: Ye Banished Privateers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bb4a5e41-5421-461f-8c27-d6f3f0c27c00",
+        "country": "SE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_ee96ae38-40ac-4794-b29f-57b3a2d2b1c9",
+      "type": "artist",
+      "name": "Yarr",
+      "description": "Artist: Yarr",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ee96ae38-40ac-4794-b29f-57b3a2d2b1c9",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_95ac0aa3-423d-4e36-a69b-bf0f79dba6cb",
+      "type": "artist",
+      "name": "yumenxc",
+      "description": "Artist: yumenxc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "95ac0aa3-423d-4e36-a69b-bf0f79dba6cb",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_f0f06e0e-dbe3-49e8-8ceb-5280136f9df7",
+      "type": "artist",
+      "name": "Yukari Fresh",
+      "description": "Artist: Yukari Fresh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f0f06e0e-dbe3-49e8-8ceb-5280136f9df7",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_7c1f94d1-bbdd-48b5-b0ec-0f9475e05f35",
+      "type": "artist",
+      "name": "Yogee New Waves",
+      "description": "Artist: Yogee New Waves",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7c1f94d1-bbdd-48b5-b0ec-0f9475e05f35",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_fae26eb3-8c34-4e44-8dbe-dbb5a4365313",
+      "type": "artist",
+      "name": "Young Aundee",
+      "description": "Artist: Young Aundee",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fae26eb3-8c34-4e44-8dbe-dbb5a4365313",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_yogyakartaindie",
+      "type": "genre",
+      "name": "yogyakarta indie",
+      "description": "Musical genre: yogyakarta indie",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#AA8024",
+        "playlist_id": "4rIqIjgskuOmJnaX2Z8Fzx",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_e8562450-d4c0-4739-a0da-a5f135f66885",
+      "type": "artist",
+      "name": "YDG",
+      "description": "Artist: YDG",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8562450-d4c0-4739-a0da-a5f135f66885",
+        "country": "US",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_2684ffc1-f52f-47fd-a1ee-d5ccf2e2da5f",
+      "type": "artist",
+      "name": "yvm3",
+      "description": "Artist: yvm3",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2684ffc1-f52f-47fd-a1ee-d5ccf2e2da5f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ee367646-811e-40cd-9940-d6888ca47e54",
+      "type": "artist",
+      "name": "Yarn",
+      "description": "Artist: Yarn",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ee367646-811e-40cd-9940-d6888ca47e54",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_22aaf663-732d-4ba7-b409-0722d2b5258b",
+      "type": "artist",
+      "name": "Younger Brother",
+      "description": "Artist: Younger Brother",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "22aaf663-732d-4ba7-b409-0722d2b5258b",
+        "country": "GB",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_7e31a47e-9885-4a4d-98e5-7443277d4073",
+      "type": "artist",
+      "name": "Yonder Voice",
+      "description": "Artist: Yonder Voice",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "7e31a47e-9885-4a4d-98e5-7443277d4073",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_02e7d4da-40e4-4689-9a9c-37f11d656994",
+      "type": "artist",
+      "name": "Yasmine",
+      "description": "Artist: Yasmine",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "02e7d4da-40e4-4689-9a9c-37f11d656994",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_798fb794-e5a4-4d4e-b4e7-e946c2af5775",
+      "type": "artist",
+      "name": "Yac\u00f8ps\u00e6",
+      "description": "Artist: Yac\u00f8ps\u00e6",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "798fb794-e5a4-4d4e-b4e7-e946c2af5775",
+        "country": "DE",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_be1bf4b7-6663-4050-8b47-d4b507d145ef",
+      "type": "artist",
+      "name": "Young F",
+      "description": "Artist: Young F",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "be1bf4b7-6663-4050-8b47-d4b507d145ef",
+        "country": "CO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_06a6c447-06d4-4393-8eaf-b67faccc9035",
+      "type": "artist",
+      "name": "Yulianna Beziazychna",
+      "description": "Artist: Yulianna Beziazychna",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "06a6c447-06d4-4393-8eaf-b67faccc9035",
+        "country": "NL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5cd29f8f-4bde-4cd3-9ad7-4bc9b4defdf9",
+      "type": "artist",
+      "name": "Youlou Mabiala",
+      "description": "Artist: Youlou Mabiala",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5cd29f8f-4bde-4cd3-9ad7-4bc9b4defdf9",
+        "country": "CG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f797f511-d0cc-419a-b897-65a1e6c5af79",
+      "type": "artist",
+      "name": "Yer\u00fb\u0161elem",
+      "description": "Artist: Yer\u00fb\u0161elem",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f797f511-d0cc-419a-b897-65a1e6c5af79",
+        "country": "FR",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_9ca27db4-f127-4aeb-ae87-29e21f558c13",
+      "type": "artist",
+      "name": "Youth of Today",
+      "description": "Artist: Youth of Today",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9ca27db4-f127-4aeb-ae87-29e21f558c13",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_75ca5f4e-e125-4642-b0fc-fa8832464f8d",
+      "type": "artist",
+      "name": "you",
+      "description": "Artist: you",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "75ca5f4e-e125-4642-b0fc-fa8832464f8d",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_654e439a-f387-4881-a739-2978fb40ffcb",
+      "type": "artist",
+      "name": "Yooh",
+      "description": "Artist: Yooh",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "654e439a-f387-4881-a739-2978fb40ffcb",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_b0488677-9665-4016-a56a-c453c16c0315",
+      "type": "artist",
+      "name": "Young Soulja The Realest",
+      "description": "Artist: Young Soulja The Realest",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "b0488677-9665-4016-a56a-c453c16c0315",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_803291a8-3e72-4c67-a872-0ed102db7ad1",
+      "type": "artist",
+      "name": "Youth of Togay",
+      "description": "Artist: Youth of Togay",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "803291a8-3e72-4c67-a872-0ed102db7ad1",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_eb2fe2dc-00e1-4ea0-b64e-108974b5be85",
+      "type": "artist",
+      "name": "ytcracker",
+      "description": "Artist: ytcracker",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "eb2fe2dc-00e1-4ea0-b64e-108974b5be85",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1957b458-f3ae-4acd-96b1-4b6d47945a57",
+      "type": "artist",
+      "name": "Yoruba Singers",
+      "description": "Artist: Yoruba Singers",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1957b458-f3ae-4acd-96b1-4b6d47945a57",
+        "country": "GY",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_0b864b04-7917-4e2d-9bf9-75d7d397fe84",
+      "type": "artist",
+      "name": "YITT",
+      "description": "Artist: YITT",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "0b864b04-7917-4e2d-9bf9-75d7d397fe84",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_67b47219-58b2-4a22-893c-58b449f5219c",
+      "type": "artist",
+      "name": "Yazz Ahmed",
+      "description": "Artist: Yazz Ahmed",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "67b47219-58b2-4a22-893c-58b449f5219c",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_30e5dead-7535-42dd-a585-38233fe7a152",
+      "type": "artist",
+      "name": "Yorkshire Symphony Orchestra",
+      "description": "Artist: Yorkshire Symphony Orchestra",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30e5dead-7535-42dd-a585-38233fe7a152",
+        "country": "GB",
+        "type": "Orchestra"
+      }
+    },
+    {
+      "id": "artist_c4264978-84d2-4219-8cb6-4d47e9c390b7",
+      "type": "artist",
+      "name": "Y.E.B.O.K",
+      "description": "Artist: Y.E.B.O.K",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c4264978-84d2-4219-8cb6-4d47e9c390b7",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8ead9f0e-05b5-43e3-b67b-a0f03dab5cfd",
+      "type": "artist",
+      "name": "Yudaidhun",
+      "description": "Artist: Yudaidhun",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8ead9f0e-05b5-43e3-b67b-a0f03dab5cfd",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d7a8e2a5-91e8-41a0-81b2-f66d1c96ef6c",
+      "type": "artist",
+      "name": "Young and in the Way",
+      "description": "Artist: Young and in the Way",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d7a8e2a5-91e8-41a0-81b2-f66d1c96ef6c",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yaoi",
+      "type": "genre",
+      "name": "yaoi",
+      "description": "Musical genre: yaoi",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B07D4E",
+        "playlist_id": "1eWtvA0Byu9Wu7LENK35Dp",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_92668374-b99a-4f03-bbee-6e2dae71d663",
+      "type": "artist",
+      "name": "Youngster",
+      "description": "Artist: Youngster",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "92668374-b99a-4f03-bbee-6e2dae71d663",
+        "country": "NP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_96602274-5812-4626-8a9c-f540bd7799e4",
+      "type": "artist",
+      "name": "Yheti",
+      "description": "Artist: Yheti",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "96602274-5812-4626-8a9c-f540bd7799e4",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9b81e6d1-dda0-4d64-ab64-e268c18b84f2",
+      "type": "artist",
+      "name": "YungSublime",
+      "description": "Artist: YungSublime",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9b81e6d1-dda0-4d64-ab64-e268c18b84f2",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d61394f7-3b8a-4171-8cd9-2f73a74e18b9",
+      "type": "artist",
+      "name": "Your Arms Are My Cocoon",
+      "description": "Artist: Your Arms Are My Cocoon",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d61394f7-3b8a-4171-8cd9-2f73a74e18b9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_203bfeaa-5e0d-4c9a-9e0d-b65887e93ee2",
+      "type": "artist",
+      "name": "Yoshi Wada",
+      "description": "Artist: Yoshi Wada",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "203bfeaa-5e0d-4c9a-9e0d-b65887e93ee2",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bdd1c2bc-5b17-47a7-8625-1ca5ed4f3689",
+      "type": "artist",
+      "name": "Yella.E",
+      "description": "Artist: Yella.E",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bdd1c2bc-5b17-47a7-8625-1ca5ed4f3689",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_52ee483e-4983-4175-b970-766702879685",
+      "type": "artist",
+      "name": "Ya-Ourt",
+      "description": "Artist: Ya-Ourt",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "52ee483e-4983-4175-b970-766702879685",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f47738ed-5aba-441f-bae0-8f6c02312286",
+      "type": "artist",
+      "name": "Yosi Horikawa",
+      "description": "Artist: Yosi Horikawa",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f47738ed-5aba-441f-bae0-8f6c02312286",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ac03fb64-c6cc-4865-86cd-7b66cd017f31",
+      "type": "artist",
+      "name": "Youssef Fahmi Idrissi",
+      "description": "Artist: Youssef Fahmi Idrissi",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ac03fb64-c6cc-4865-86cd-7b66cd017f31",
+        "country": "MA",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_cb625d5e-1621-47cf-88f8-819ab086e6b9",
+      "type": "artist",
+      "name": "Yesterday Today & Tomorrow",
+      "description": "Artist: Yesterday Today & Tomorrow",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "cb625d5e-1621-47cf-88f8-819ab086e6b9",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_yorkindie",
+      "type": "genre",
+      "name": "york indie",
+      "description": "Musical genre: york indie",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A97F15",
+        "playlist_id": "02NPFyGAScohVgMt3JN00H",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_92332c75-8d7f-468a-8127-0cd4a3a24ced",
+      "type": "artist",
+      "name": "YakobS",
+      "description": "Artist: YakobS",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "92332c75-8d7f-468a-8127-0cd4a3a24ced",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_81f0a75d-1d32-4cfc-875f-d89dfd9b9d52",
+      "type": "artist",
+      "name": "Yuk Nassty",
+      "description": "Artist: Yuk Nassty",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "81f0a75d-1d32-4cfc-875f-d89dfd9b9d52",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bbccbb8e-f259-4474-a6e8-6b33b02bcb4a",
+      "type": "artist",
+      "name": "yeemz",
+      "description": "Artist: yeemz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bbccbb8e-f259-4474-a6e8-6b33b02bcb4a",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_a9ce0a0b-f86d-41ec-b410-d66cbf779340",
+      "type": "artist",
+      "name": "Yoga",
+      "description": "Artist: Yoga",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "a9ce0a0b-f86d-41ec-b410-d66cbf779340",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_88823d05-972d-4e71-9fed-abaa83591ea9",
+      "type": "artist",
+      "name": "Yoga Music",
+      "description": "Artist: Yoga Music",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "88823d05-972d-4e71-9fed-abaa83591ea9",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_yugoslavnewwave",
+      "type": "genre",
+      "name": "yugoslav new wave",
+      "description": "Musical genre: yugoslav new wave",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B1781E",
+        "playlist_id": "5jaGOpLsE7tSbE060h8U6C",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_e8b1bfb5-5507-49c8-97ba-041521763f66",
+      "type": "artist",
+      "name": "Yukari Okamura",
+      "description": "Artist: Yukari Okamura",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e8b1bfb5-5507-49c8-97ba-041521763f66",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_1cabb3c9-01cd-4678-be4b-29c0e7042f1b",
+      "type": "artist",
+      "name": "Yat\u2010Kha",
+      "description": "Artist: Yat\u2010Kha",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "1cabb3c9-01cd-4678-be4b-29c0e7042f1b",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_9f66716e-cfdd-46d7-8725-e97a1b611c73",
+      "type": "artist",
+      "name": "Yar\u00e0k\u00e4",
+      "description": "Artist: Yar\u00e0k\u00e4",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9f66716e-cfdd-46d7-8725-e97a1b611c73",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_43040ee9-7e27-40ea-82a7-355048c052f3",
+      "type": "artist",
+      "name": "Ynigma",
+      "description": "Artist: Ynigma",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "43040ee9-7e27-40ea-82a7-355048c052f3",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f38e2527-109f-498b-b403-a1c46c684d6e",
+      "type": "artist",
+      "name": "Yves De Mey",
+      "description": "Artist: Yves De Mey",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f38e2527-109f-498b-b403-a1c46c684d6e",
+        "country": "BE",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6a9c9dca-bf86-46cc-a01c-d149cb65f12f",
+      "type": "artist",
+      "name": "yvyyvy",
+      "description": "Artist: yvyyvy",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6a9c9dca-bf86-46cc-a01c-d149cb65f12f",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_da37c42a-aba5-4c6c-ae4a-2d596eba7933",
+      "type": "artist",
+      "name": "Yasu-Hiko Tohsaku",
+      "description": "Artist: Yasu-Hiko Tohsaku",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "da37c42a-aba5-4c6c-ae4a-2d596eba7933",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_9c21e094-2fbe-4ba9-9726-891d90f561a9",
+      "type": "artist",
+      "name": "Yasmine Hamdan",
+      "description": "Artist: Yasmine Hamdan",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "9c21e094-2fbe-4ba9-9726-891d90f561a9",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_yorubaworship",
+      "type": "genre",
+      "name": "yoruba worship",
+      "description": "Musical genre: yoruba worship",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#B17B0A",
+        "playlist_id": "4QTwi9BhTVG9Nbjo65HwZh",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_yoga",
+      "type": "genre",
+      "name": "yoga",
+      "description": "Musical genre: yoga",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#23A6D4",
+        "playlist_id": "5cZJI7DrZ3NIWWcbPIZeWt",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_c6a757c3-262d-46c9-999e-37b210f61549",
+      "type": "artist",
+      "name": "Yoga Alice",
+      "description": "Artist: Yoga Alice",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c6a757c3-262d-46c9-999e-37b210f61549",
+        "country": "RU",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_68ebb673-5333-42c1-a956-8e8ede31f681",
+      "type": "artist",
+      "name": "Yesteryear",
+      "description": "Artist: Yesteryear",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "68ebb673-5333-42c1-a956-8e8ede31f681",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_423ab89d-fec4-4d10-a5d0-606d83258ab2",
+      "type": "artist",
+      "name": "Yom",
+      "description": "Artist: Yom",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "423ab89d-fec4-4d10-a5d0-606d83258ab2",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_ca78d780-56e1-4ab9-a21f-8ec2b8c6eb04",
+      "type": "artist",
+      "name": "Yid Vicious",
+      "description": "Artist: Yid Vicious",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ca78d780-56e1-4ab9-a21f-8ec2b8c6eb04",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_30aa3152-351d-4398-aea5-9b87b55bacbe",
+      "type": "artist",
+      "name": "Yiddishe Pirat",
+      "description": "Artist: Yiddishe Pirat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30aa3152-351d-4398-aea5-9b87b55bacbe",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_4de974e3-d816-44bc-bb3b-61c466e9e35a",
+      "type": "artist",
+      "name": "Years of Messages",
+      "description": "Artist: Years of Messages",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4de974e3-d816-44bc-bb3b-61c466e9e35a",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_d425c251-b0b7-42de-9716-c665e58b0760",
+      "type": "artist",
+      "name": "Yangire",
+      "description": "Artist: Yangire",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d425c251-b0b7-42de-9716-c665e58b0760",
+        "country": "SG",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_87ee0fe0-5279-49fc-970b-b5a67eece0f9",
+      "type": "artist",
+      "name": "YxUxRxI",
+      "description": "Artist: YxUxRxI",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "87ee0fe0-5279-49fc-970b-b5a67eece0f9",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5ea08d1a-2057-4bf4-a738-816a411bf610",
+      "type": "artist",
+      "name": "Yearning",
+      "description": "Artist: Yearning",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5ea08d1a-2057-4bf4-a738-816a411bf610",
+        "country": "FI",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_98a131a5-e8e3-4ee7-8c81-8d16a9ca9d92",
+      "type": "artist",
+      "name": "Yvon Guilcher",
+      "description": "Artist: Yvon Guilcher",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "98a131a5-e8e3-4ee7-8c81-8d16a9ca9d92",
+        "country": "FR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_39ccb41b-5396-4edd-ad8f-43f8f44e22f6",
+      "type": "artist",
+      "name": "Youth Novel",
+      "description": "Artist: Youth Novel",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "39ccb41b-5396-4edd-ad8f-43f8f44e22f6",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_e1056590-6624-4824-b144-05a5fd813813",
+      "type": "artist",
+      "name": "Youth Funeral",
+      "description": "Artist: Youth Funeral",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "e1056590-6624-4824-b144-05a5fd813813",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_d1a4fad3-30d0-48af-90e7-7550326cfa49",
+      "type": "artist",
+      "name": "Yearning",
+      "description": "Artist: Yearning",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d1a4fad3-30d0-48af-90e7-7550326cfa49",
+        "country": "Unknown",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yemenipop",
+      "type": "genre",
+      "name": "yemeni pop",
+      "description": "Musical genre: yemeni pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#A1870D",
+        "playlist_id": "5YFUtJgAy2Xfly9whFZrz2",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_77d53e42-6056-4fe4-ab98-d89982a264fc",
+      "type": "artist",
+      "name": "Yersinia Pestis",
+      "description": "Artist: Yersinia Pestis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "77d53e42-6056-4fe4-ab98-d89982a264fc",
+        "country": "FR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_481c715b-dc67-459d-9225-293f370b154c",
+      "type": "artist",
+      "name": "Yersinia Pestis",
+      "description": "Artist: Yersinia Pestis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "481c715b-dc67-459d-9225-293f370b154c",
+        "country": "ES",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "artist_99a9ccc6-5efd-43e4-805d-92da4bbc8233",
+      "type": "artist",
+      "name": "Yersinia Pestis",
+      "description": "Artist: Yersinia Pestis",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "99a9ccc6-5efd-43e4-805d-92da4bbc8233",
+        "country": "NO",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_30380155-5974-4cf5-aed9-60371470005d",
+      "type": "artist",
+      "name": "Y\u0131ld\u0131ran G\u00fcz",
+      "description": "Artist: Y\u0131ld\u0131ran G\u00fcz",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "30380155-5974-4cf5-aed9-60371470005d",
+        "country": "TR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_2699be78-62e7-4edc-a939-c73261256e05",
+      "type": "artist",
+      "name": "Yusuph",
+      "description": "Artist: Yusuph",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "2699be78-62e7-4edc-a939-c73261256e05",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fd7de0c2-9173-47a0-af54-213bfa589f4d",
+      "type": "artist",
+      "name": "Yol Aularong",
+      "description": "Artist: Yol Aularong",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fd7de0c2-9173-47a0-af54-213bfa589f4d",
+        "country": "KH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_yorkshirefolk",
+      "type": "genre",
+      "name": "yorkshire folk",
+      "description": "Musical genre: yorkshire folk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#50A120",
+        "playlist_id": "2mVv3SQVPJ38r4zEHm68Jy",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_864e8beb-bc51-496d-b555-194077acd56f",
+      "type": "artist",
+      "name": "YBZ Vandr",
+      "description": "Artist: YBZ Vandr",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "864e8beb-bc51-496d-b555-194077acd56f",
+        "country": "US",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_234f4b06-3f58-4528-8ec4-c741da347201",
+      "type": "artist",
+      "name": "Ysigim",
+      "description": "Artist: Ysigim",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "234f4b06-3f58-4528-8ec4-c741da347201",
+        "country": "PL",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_73677dde-e11a-45fa-bccd-97358e117913",
+      "type": "artist",
+      "name": "Yakuza",
+      "description": "Artist: Yakuza",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "73677dde-e11a-45fa-bccd-97358e117913",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yumex",
+      "type": "genre",
+      "name": "yu-mex",
+      "description": "Musical genre: yu-mex",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#878E09",
+        "playlist_id": "1Frk27X8mA30Oc4wxwHDT8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_3366ebf7-7bdd-4c3c-a747-e9f2f34815a3",
+      "type": "artist",
+      "name": "Yukiga Futte Uresii",
+      "description": "Artist: Yukiga Futte Uresii",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "3366ebf7-7bdd-4c3c-a747-e9f2f34815a3",
+        "country": "JP",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_29e91043-d310-49a2-9743-fd5a9d0df1b4",
+      "type": "artist",
+      "name": "Ylioppilaskunnan Laulajat",
+      "description": "Artist: Ylioppilaskunnan Laulajat",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "29e91043-d310-49a2-9743-fd5a9d0df1b4",
+        "country": "FI",
+        "type": "Choir"
+      }
+    },
+    {
+      "id": "genre_yoik",
+      "type": "genre",
+      "name": "yoik",
+      "description": "Musical genre: yoik",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#559A2C",
+        "playlist_id": "53pmQn6lXF6m5WViERilQF",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_yakutpop",
+      "type": "genre",
+      "name": "yakut pop",
+      "description": "Musical genre: yakut pop",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#9C9110",
+        "playlist_id": "3H2aC6nJR4L39KCCI0Pcg8",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_bd627508-6ea8-4fee-a44f-d8a6d28f8d6e",
+      "type": "artist",
+      "name": "Yakari",
+      "description": "Artist: Yakari",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bd627508-6ea8-4fee-a44f-d8a6d28f8d6e",
+        "country": "FR",
+        "type": "Character"
+      }
+    },
+    {
+      "id": "artist_f6cd5e4d-7426-4473-a179-79bf8b4c90ef",
+      "type": "artist",
+      "name": "Yowie",
+      "description": "Artist: Yowie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f6cd5e4d-7426-4473-a179-79bf8b4c90ef",
+        "country": "US",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_712fde26-a681-42f7-a7ce-1ee6a0e934f1",
+      "type": "artist",
+      "name": "Yacumenza",
+      "description": "Artist: Yacumenza",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "712fde26-a681-42f7-a7ce-1ee6a0e934f1",
+        "country": "AR",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "genre_yuri",
+      "type": "genre",
+      "name": "yuri",
+      "description": "Musical genre: yuri",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#958B75",
+        "playlist_id": "0BYoEJVB9xZjjsKMNnujN7",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_ddcc73f7-487f-46a0-ade3-b067dbd4c326",
+      "type": "artist",
+      "name": "Ylli Baka",
+      "description": "Artist: Ylli Baka",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "ddcc73f7-487f-46a0-ade3-b067dbd4c326",
+        "country": "AL",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "genre_yiddishfolk",
+      "type": "genre",
+      "name": "yiddish folk",
+      "description": "Musical genre: yiddish folk",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#4E972A",
+        "playlist_id": "5vKOWKIkiwTjrRpRrM96qw",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "artist_fb583f60-f323-42dc-8430-a1e3994c47db",
+      "type": "artist",
+      "name": "Yurt",
+      "description": "Artist: Yurt",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fb583f60-f323-42dc-8430-a1e3994c47db",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    },
+    {
+      "id": "genre_yemenitraditional",
+      "type": "genre",
+      "name": "yemeni traditional",
+      "description": "Musical genre: yemeni traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#579327",
+        "playlist_id": "1DWET41vcTWLJFAnYJHUp0",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_yunnantraditional",
+      "type": "genre",
+      "name": "yunnan traditional",
+      "description": "Musical genre: yunnan traditional",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#459B29",
+        "playlist_id": "19q2gA3eWnQO5eTOD6aTYv",
+        "source": "Every Noise At Once"
+      }
+    },
+    {
+      "id": "genre_youthorchestra",
+      "type": "genre",
+      "name": "youth orchestra",
+      "description": "Musical genre: youth orchestra",
+      "importance": 0.8,
+      "attributes": {
+        "color": "#2792B2",
+        "playlist_id": "4SNnzqfxrI1Uh1HpOctFTT",
+        "source": "Every Noise At Once"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9047f806-7a49-44f4-975d-fadca298cc18",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_aab5c954-cabe-432e-899e-1c4f99757327",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a20a94ac-1e50-4fa7-a370-053875fce6ad",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c24f87ef-72f9-4488-9dbd-63601322edba",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1c5adcd9-f1e4-4987-a1c0-1bb7200026cf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e3bcf587-a354-4723-a2d3-1c679d6571ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_15042d2b-2d4c-4451-a96a-6f547642de13",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_588dea29-eea3-456b-a815-3ee04f75c8e7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_459ecf74-7f1f-434c-a304-73b78e9cdc97",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_dba5b25b-94fd-47c0-958f-ad279cfdccf6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_18a33653-bbaf-4aa7-884c-73f02a7a4515",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d4519848-9e39-4544-b13c-10872fb974a0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d70c2ae1-911a-4bea-8ef4-63564a150ff2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cfafad90-b736-4c74-8ded-f3f4d7b2c792",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_438ec4fc-57f7-401a-a188-2ffecd020728",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6f04b3e9-000e-4208-bb72-cdccf868dcdf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d663c249-8456-4f22-96f5-098ef8d24acb",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_589963d6-366e-4d55-adae-41621b74cece",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bceba9d9-3a3c-4883-af65-e44bd5848169",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9089965b-d32b-428d-b895-7b64a1833a1a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b1a7ac99-2ea9-4d3e-b17f-1cad379e46ae",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_76d4a7a9-6268-471e-8528-605d5c9b4809",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b0633a9d-b576-4d7c-bb26-e4c6ed2728a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8b76d64a-923b-4c0f-b04f-f0f9f6a2c6c2",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3a0621fa-7433-46d3-b8ea-b721fad78ded",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_9aab4cbd-de94-453f-932a-8f44c142d928",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0c361ea5-98c6-4947-900b-201833f2dd84",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_71bbeb3b-cfca-4755-8d15-aa810aea8b3a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4167b497-1ae5-4502-a8e6-e1546ffbe514",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ae7e5f5e-10c5-402b-a036-824fd9f560f8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_328d8ec6-6ba5-4b19-a2d6-488735e3de2b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a472a726-2011-4187-8eb7-8895eccfa70a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_99fb6f17-691a-43bf-bdca-ad80965b4f67",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7130912e-f3c2-42c0-87e3-a45af04163d9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_abe8a8cd-4002-4614-be97-f45d519420ee",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_83eede2c-799b-4174-9ca5-7f270d27afcf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5db88fae-df24-490e-971a-1b3fe8d373ea",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_b914088b-fc7c-4d49-814b-98fa203fc67c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_044fd265-79dd-43eb-afc4-8b20becf7e17",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8f5598dc-3978-4aa2-bf0c-46126a35fd8a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_eec5a518-cc9d-4c54-8c7b-1b57a86274a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d99090a2-1f4d-42ce-bff7-1eb1e92382c4",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cbaa0640-8444-42db-9b3c-54071adff8d6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8e13efce-f1d6-4453-a8a1-610f51e52b26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yachtrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ca46c050-5e05-4693-a57a-f00548311a26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_ff82ff36-5d5a-41ce-b305-0ccdef9c4cdc",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e77b7ecf-c417-4124-b255-a3a927bb604e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_e75dc057-0780-4f5c-9ae2-2e43c01cf08d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4c489847-80c2-4e4b-a363-db3bb530d5c1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_fdc98c56-3161-4f52-b3a7-fb110f5f31d7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_46022fdf-856f-4419-8590-44374b715864",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5525a89a-1530-4f72-b5b3-4de076ebdb21",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_323ed974-8bf6-4f54-9525-b774a659f805",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_4188bdf2-7c26-45b4-9b4e-c2cb9d26e38d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_385966f0-b912-4755-bad6-4780ebf3f4cd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_88d5eb0f-315f-4573-b396-f5404a0b274b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f37dd3b1-d25e-471c-ae49-97035e800992",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_43f627d1-0b90-49f5-995a-e872220ad51c",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d8c73727-6671-4dea-93cf-ffecd4fb14bf",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3d7a3412-0f74-4648-8620-59a93f4ed8c7",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_797a07b5-557f-4a7f-9586-de201d868857",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7a391025-33ad-4b69-bd9b-d5c50c63b2a9",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_6baf4dbb-ec84-46f5-9160-4dfea62f4b5d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f1092a4f-ffb8-40e9-93f5-f3c4b13aff26",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d2a79d20-1304-47fd-a998-b4fe1ec78373",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_59b81863-9bcc-4aa8-9d0c-fd8282b3ab4b",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3a89d2ef-b50c-438d-840d-831cf0a769a1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a65f4f19-9f4c-4a44-906f-87aa4ceee900",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_77fc557e-194b-47ae-822c-fc4e2217efde",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bf816840-98ed-43b2-9b5a-a3c4fbb27726",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5aca0816-c048-4b04-90e0-2091e4279632",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_92175c4d-293f-4794-bbe4-136e261256a6",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_5ec9b1b0-a8a7-413a-b7a7-6d91881d6ab8",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yeye",
+      "relation_type": "has_artist",
+      "entity_b": "artist_3ac9aad5-37aa-4a58-99e3-f6971e5aed64",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yugoslavrock",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8617dcb3-1f9a-4c58-98f6-bac9724ba40f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yodeling",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c328faea-ae26-4988-85f5-e9a8dc322bb1",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yodeling",
+      "relation_type": "has_artist",
+      "entity_b": "artist_394492c0-cecf-40a8-b676-0e5706317fab",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yodeling",
+      "relation_type": "has_artist",
+      "entity_b": "artist_675b7627-6b5d-4a46-a728-785cb24a299e",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yodeling",
+      "relation_type": "has_artist",
+      "entity_b": "artist_bfdcbe19-b174-459a-aec6-b1633848a1c0",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yodeling",
+      "relation_type": "has_artist",
+      "entity_b": "artist_624d32d1-032d-444a-be06-112059480783",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yorkindie",
+      "relation_type": "has_artist",
+      "entity_b": "artist_d2696295-991d-4c20-aaa8-886b5748d79f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yorkindie",
+      "relation_type": "has_artist",
+      "entity_b": "artist_a15274fc-d2bd-447f-a0a7-044070f7de11",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yorkindie",
+      "relation_type": "has_artist",
+      "entity_b": "artist_cc262e8d-9d76-40c7-a2fb-0643f4654f0d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yugoslavnewwave",
+      "relation_type": "has_artist",
+      "entity_b": "artist_8617dcb3-1f9a-4c58-98f6-bac9724ba40f",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_68370bb5-3024-4c92-a2bf-d1007a1b4c00",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_c6a757c3-262d-46c9-999e-37b210f61549",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_234c4204-a118-4f58-9361-9073156cde2d",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_f58f865e-ad45-4a34-a222-5845da8a3290",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_1d200128-b9e2-4471-95b5-df7f88ed6032",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_313d0382-0762-4f19-98cb-b0fd8dc1f60a",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_2768f1bc-5694-4d5a-a4ab-4b7f4b9979cd",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yoga",
+      "relation_type": "has_artist",
+      "entity_b": "artist_0b2b9d0e-c2e2-4bb9-86f7-b87e18090d78",
+      "strength": 1.0
+    },
+    {
+      "entity_a": "genre_yumex",
+      "relation_type": "has_artist",
+      "entity_b": "artist_7ca97ef9-02a7-474e-b920-dddd25c1f8bf",
+      "strength": 1.0
+    }
+  ]
+}

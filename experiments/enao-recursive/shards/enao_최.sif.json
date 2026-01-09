@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \ucd5c",
+    "description": "Genres and artists starting with \ucd5c",
+    "shard_id": "\ucd5c",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_4d134f25-7ea0-42d9-9160-f404ee33e037",
+      "type": "artist",
+      "name": "\ucd5c\uc815\ud6c8",
+      "description": "Artist: \ucd5c\uc815\ud6c8",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4d134f25-7ea0-42d9-9160-f404ee33e037",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_5c20dfa8-c9ff-48bc-ad9c-c5439b242148",
+      "type": "artist",
+      "name": "\ucd5c\ud5cc",
+      "description": "Artist: \ucd5c\ud5cc",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "5c20dfa8-c9ff-48bc-ad9c-c5439b242148",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_8c3e8731-95ad-475a-853d-ce311475d863",
+      "type": "artist",
+      "name": "\ucd5c\uc720\ub098",
+      "description": "Artist: \ucd5c\uc720\ub098",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "8c3e8731-95ad-475a-853d-ce311475d863",
+        "country": "KR",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_63b2874b-c00f-4aed-b0f6-3a571225f075",
+      "type": "artist",
+      "name": "\ucd5c\uc9c4\ud76c",
+      "description": "Artist: \ucd5c\uc9c4\ud76c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "63b2874b-c00f-4aed-b0f6-3a571225f075",
+        "country": "KR",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

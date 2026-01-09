@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u8d8a",
+    "description": "Genres and artists starting with \u8d8a",
+    "shard_id": "\u8d8a",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_6722a9cd-72cf-4623-b2ae-0629912d28b3",
+      "type": "artist",
+      "name": "\u8d8a\u7530Rute\u9686\u4eba",
+      "description": "Artist: \u8d8a\u7530Rute\u9686\u4eba",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6722a9cd-72cf-4623-b2ae-0629912d28b3",
+        "country": "JP",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u00d8",
+    "description": "Genres and artists starting with \u00d8",
+    "shard_id": "\u00d8",
+    "entity_count": 6,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_34890096-ab67-44d9-a196-91bf42edb785",
+      "type": "artist",
+      "name": "\u00d8neheart",
+      "description": "Artist: \u00d8neheart",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "34890096-ab67-44d9-a196-91bf42edb785",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_f7ba60af-39d6-4d9e-ba25-a7c47c417143",
+      "type": "artist",
+      "name": "\u00d8rjan Nilsen",
+      "description": "Artist: \u00d8rjan Nilsen",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f7ba60af-39d6-4d9e-ba25-a7c47c417143",
+        "country": "NO",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4c2d2aa9-7b8f-4910-99f9-b8aed8815a55",
+      "type": "artist",
+      "name": "\u00d8 [Phase]",
+      "description": "Artist: \u00d8 [Phase]",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4c2d2aa9-7b8f-4910-99f9-b8aed8815a55",
+        "country": "GB",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_d78492dd-e0ab-4b11-8a63-397987faa769",
+      "type": "artist",
+      "name": "\u00f8verfeel.",
+      "description": "Artist: \u00f8verfeel.",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d78492dd-e0ab-4b11-8a63-397987faa769",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_fbddfba4-57fd-404d-ba8d-cfba58e545b9",
+      "type": "artist",
+      "name": "\u00d8resund Space Collective",
+      "description": "Artist: \u00d8resund Space Collective",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "fbddfba4-57fd-404d-ba8d-cfba58e545b9",
+        "country": "DK",
+        "type": "Group"
+      }
+    },
+    {
+      "id": "artist_f2d23beb-45dc-4ef0-8bfb-b33672d72bec",
+      "type": "artist",
+      "name": "\u00d8rgie",
+      "description": "Artist: \u00d8rgie",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "f2d23beb-45dc-4ef0-8bfb-b33672d72bec",
+        "country": "Unknown",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

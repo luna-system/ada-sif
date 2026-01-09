@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0e28",
+    "description": "Genres and artists starting with \u0e28",
+    "shard_id": "\u0e28",
+    "entity_count": 4,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_c162d53a-1c4a-4400-9dea-b2d320276e2e",
+      "type": "artist",
+      "name": "\u0e28\u0e23\u0e40\u0e1e\u0e0a\u0e23 \u0e28\u0e23\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13",
+      "description": "Artist: \u0e28\u0e23\u0e40\u0e1e\u0e0a\u0e23 \u0e28\u0e23\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "c162d53a-1c4a-4400-9dea-b2d320276e2e",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_74d49499-520f-4b60-8952-9f2e8e28a33b",
+      "type": "artist",
+      "name": "\u0e28\u0e23\u0e0a\u0e31\u0e22 \u0e40\u0e21\u0e06\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e23",
+      "description": "Artist: \u0e28\u0e23\u0e0a\u0e31\u0e22 \u0e40\u0e21\u0e06\u0e27\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e23",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "74d49499-520f-4b60-8952-9f2e8e28a33b",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_bedb31ac-c347-4b74-bced-17a1c7151788",
+      "type": "artist",
+      "name": "\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\u0e2a\u0e22\u0e32\u0e21 \u0e40\u0e1e\u0e0a\u0e23\u0e0a\u0e21\u0e20\u0e39",
+      "description": "Artist: \u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\u0e2a\u0e22\u0e32\u0e21 \u0e40\u0e1e\u0e0a\u0e23\u0e0a\u0e21\u0e20\u0e39",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "bedb31ac-c347-4b74-bced-17a1c7151788",
+        "country": "TH",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_4b21de23-c6ca-4410-a8a3-ce3314c49226",
+      "type": "artist",
+      "name": "\u0e28\u0e34\u0e23\u0e34\u0e1e\u0e23 \u0e2d\u0e33\u0e44\u0e1e\u0e1e\u0e07\u0e29\u0e4c",
+      "description": "Artist: \u0e28\u0e34\u0e23\u0e34\u0e1e\u0e23 \u0e2d\u0e33\u0e44\u0e1e\u0e1e\u0e07\u0e29\u0e4c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "4b21de23-c6ca-4410-a8a3-ce3314c49226",
+        "country": "TH",
+        "type": "Person"
+      }
+    }
+  ],
+  "relationships": []
+}

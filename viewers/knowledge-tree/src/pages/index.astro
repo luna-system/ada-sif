@@ -1,0 +1,545 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Tree Browser - SIF v1.1 Viewer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
+            color: #e0e0e0;
+            overflow: hidden;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #container {
+            display: flex;
+            height: 100%;
+            width: 100%;
+        }
+
+        #sidebar {
+            width: 320px;
+            background: rgba(20, 25, 45, 0.95);
+            backdrop-filter: blur(10px);
+            border-right: 1px solid rgba(100, 150, 255, 0.2);
+            padding: 20px;
+            overflow-y: auto;
+            box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+            flex-shrink: 0;
+            z-index: 10;
+        }
+
+        #graph-container {
+            flex: 1;
+            position: relative;
+            background: #0a0e27;
+            overflow: hidden;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+        }
+
+        .section {
+            margin-bottom: 24px;
+            padding: 16px;
+            background: rgba(30, 35, 55, 0.6);
+            border-radius: 8px;
+            border: 1px solid rgba(100, 150, 255, 0.1);
+        }
+
+        .section h2 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #9ca3af;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        #file-input {
+            display: none;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            margin-bottom: 8px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn.secondary {
+            background: rgba(100, 150, 255, 0.2);
+        }
+
+        .btn.secondary:hover {
+            background: rgba(100, 150, 255, 0.3);
+        }
+
+        #info {
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        #info .stat {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(100, 150, 255, 0.1);
+        }
+
+        #info .stat:last-child {
+            border-bottom: none;
+        }
+
+        #info .label {
+            color: #9ca3af;
+        }
+
+        #info .value {
+            color: #e0e0e0;
+            font-weight: 600;
+        }
+
+        #shard-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .shard-item {
+            padding: 10px;
+            margin: 6px 0;
+            background: rgba(100, 150, 255, 0.1);
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 13px;
+        }
+
+        .shard-item:hover {
+            background: rgba(100, 150, 255, 0.2);
+            transform: translateX(4px);
+        }
+
+        .shard-item.loaded {
+            background: rgba(100, 200, 100, 0.2);
+            border-left: 3px solid #4ade80;
+        }
+
+        .shard-type {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-right: 8px;
+        }
+
+        .shard-type.trunk {
+            background: rgba(139, 92, 246, 0.3);
+            color: #a78bfa;
+        }
+
+        .shard-type.branch {
+            background: rgba(34, 197, 94, 0.3);
+            color: #4ade80;
+        }
+
+        .shard-type.leaf {
+            background: rgba(251, 191, 36, 0.3);
+            color: #fbbf24;
+        }
+
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(20, 25, 45, 0.95);
+            padding: 30px 50px;
+            border-radius: 12px;
+            border: 1px solid rgba(100, 150, 255, 0.3);
+            text-align: center;
+            display: none;
+            z-index: 100;
+        }
+
+        #loading.active {
+            display: block;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(100, 150, 255, 0.2);
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        #controls {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+            z-index: 20;
+        }
+
+        .control-btn {
+            padding: 10px 16px;
+            background: rgba(20, 25, 45, 0.95);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(100, 150, 255, 0.3);
+            border-radius: 6px;
+            color: #e0e0e0;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .control-btn:hover {
+            background: rgba(30, 35, 55, 0.95);
+            border-color: rgba(100, 150, 255, 0.5);
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: rgba(20, 25, 45, 0.5);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(100, 150, 255, 0.3);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(100, 150, 255, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="sidebar">
+            <h1>🌳 Knowledge Tree</h1>
+            
+            <div class="section">
+                <h2>Load Data</h2>
+                <input type="file" id="file-input" accept=".json">
+                <button id="btn-choose" class="btn">
+                    📂 Choose SIF File
+                </button>
+                <button id="btn-example" class="btn secondary">
+                    ✨ Load Example
+                </button>
+            </div>
+
+            <div class="section">
+                <h2>Graph Info</h2>
+                <div id="info">
+                    <div class="stat">
+                        <span class="label">Nodes:</span>
+                        <span class="value" id="node-count">0</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Edges:</span>
+                        <span class="value" id="edge-count">0</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Type:</span>
+                        <span class="value" id="graph-type">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section" id="shard-section" style="display: none;">
+                <h2>Shards</h2>
+                <div id="shard-list"></div>
+            </div>
+        </div>
+
+        <div id="graph-container"></div>
+
+        <div id="controls">
+            <button id="btn-reset" class="control-btn">🎯 Reset View</button>
+            <button id="btn-layout" class="control-btn">🔄 Toggle Layout</button>
+        </div>
+
+        <div id="loading">
+            <div class="spinner"></div>
+            <div id="loading-text">Loading...</div>
+        </div>
+    </div>
+
+    <script>
+        import Graph from 'graphology';
+        import Sigma from 'sigma';
+        import ForceAtlas2 from 'graphology-layout-forceatlas2';
+
+        // Global state
+        let graph = new Graph();
+        let renderer = null;
+        let masterIndex = null;
+        let loadedShards = new Set();
+        let layoutRunning = false;
+
+        // Initialize Sigma
+        function initRenderer() {
+            if (renderer) {
+                renderer.kill();
+            }
+
+            const container = document.getElementById('graph-container');
+            
+            renderer = new Sigma(graph, container, {
+                renderEdgeLabels: false,
+                defaultNodeColor: '#667eea',
+                defaultEdgeColor: '#4a5568',
+                labelSize: 12,
+                labelColor: { color: '#e0e0e0' },
+                edgeReducer: (edge, data) => {
+                    return {
+                        ...data,
+                        size: data.strength || 1,
+                        color: data.scope === 'external' ? '#f59e0b' : '#4a5568'
+                    };
+                },
+                nodeReducer: (node, data) => {
+                    return {
+                        ...data,
+                        size: (data.importance || 0.5) * 10 + 5,
+                        color: data.category === 'genre' ? '#667eea' :
+                               data.category === 'artist' ? '#4ade80' :
+                               data.category === 'star' ? '#fbbf24' :
+                               data.category === 'constellation' ? '#a78bfa' : '#667eea'
+                    };
+                }
+            });
+
+            updateStats();
+        }
+
+        // --- DOM Event Listeners ---
+        
+        document.getElementById('file-input').addEventListener('change', async (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                const text = await file.text();
+                const data = JSON.parse(text);
+                await loadSIF(data);
+            }
+        });
+
+        document.getElementById('btn-choose').addEventListener('click', () => {
+             document.getElementById('file-input').click();
+        });
+
+        document.getElementById('btn-example').addEventListener('click', () => {
+             alert('Drop a SIF file to load! Examples: ENAO hierarchical shards, Hipparcos constellation shards, or any SIF v1.0/1.1 file.');
+        });
+
+        document.getElementById('btn-reset').addEventListener('click', () => {
+            if (renderer) renderer.getCamera().setState({ x: 0.5, y: 0.5, ratio: 1 });
+        });
+
+        document.getElementById('btn-layout').addEventListener('click', toggleLayout);
+
+
+        // --- Logic Functions ---
+
+        // Main SIF loader
+        async function loadSIF(data) {
+            showLoading('Analyzing SIF structure...');
+
+            // Detect if it's a master index or single shard
+            if (data.version === '1.1' && data.shards) {
+                await loadHierarchical(data);
+            } else {
+                await loadSingle(data);
+            }
+
+            hideLoading();
+            initRenderer();
+            runLayout();
+        }
+
+        // Load hierarchical (master + shards)
+        async function loadHierarchical(master) {
+            masterIndex = master;
+            document.getElementById('graph-type').textContent = 'Hierarchical (v1.1)';
+            document.getElementById('shard-section').style.display = 'block';
+
+            // Display shard list
+            const shardList = document.getElementById('shard-list');
+            shardList.innerHTML = '';
+
+            for (const shard of master.shards) {
+                const item = document.createElement('div');
+                item.className = 'shard-item';
+                item.innerHTML = `
+                    <span class="shard-type ${shard.type}">${shard.type}</span>
+                    <span>${shard.name}</span>
+                    <div style="font-size: 11px; color: #9ca3af; margin-top: 4px;">
+                        ${shard.entity_count} entities
+                    </div>
+                `;
+                item.onclick = () => loadShardByUrl(shard.url, item);
+                shardList.appendChild(item);
+            }
+
+            // Auto-load branch shards
+            showLoading('Loading branch shards...');
+            const branches = master.shards.filter(s => s.type === 'branch');
+            for (const branch of branches) {
+                await loadShardByUrl(branch.url);
+            }
+        }
+
+        // Load single shard
+        async function loadSingle(shard) {
+            document.getElementById('graph-type').textContent = 
+                shard.metadata?.shard_type ? `Single Shard (${shard.metadata.shard_type})` : 'Single SIF';
+
+            addEntitiesToGraph(shard.entities);
+            addRelationshipsToGraph(shard.relationships);
+        }
+
+        // Load shard by URL
+        async function loadShardByUrl(url, listItem) {
+            if (loadedShards.has(url)) {
+                console.log(`Shard ${url} already loaded`);
+                return;
+            }
+
+            // Handle relative URLs if masterIndex was loaded from a file?
+            // Actually, browsers block local file access unless user picks it.
+            // If user picked master index, we technically can't "fetch" relative sibling files 
+            // from the local disk automatically due to security sandbox.
+            // BUT, if we are serving this info from a server (localhost:8000), it works!
+            
+            showLoading(`Loading ${url}...`);
+
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const shard = await response.json();
+
+                addEntitiesToGraph(shard.entities);
+                addRelationshipsToGraph(shard.relationships);
+
+                loadedShards.add(url);
+                if (listItem) {
+                    listItem.classList.add('loaded');
+                }
+
+                updateStats();
+            } catch (error) {
+                console.error(`Failed to load shard ${url}:`, error);
+                alert(`Failed to load shard: ${error.message}\n(Note: Browsers block reading local files automatically. Use 'python -m http.server' in your data directory!)`);
+            }
+
+            hideLoading();
+        }
+
+        // Add entities to graph
+        function addEntitiesToGraph(entities) {
+            for (const entity of entities) {
+                if (!graph.hasNode(entity.id)) {
+                    graph.addNode(entity.id, {
+                        label: entity.name,
+                        category: entity.type,
+                        importance: entity.importance || 0.5,
+                        duplicate_of: entity.duplicate_of,
+                        x: Math.random(),
+                        y: Math.random()
+                    });
+                }
+            }
+        }
+
+        // Add relationships to graph
+        function addRelationshipsToGraph(relationships) {
+            for (const rel of relationships) {
+                const edgeId = `${rel.entity_a}-${rel.entity_b}`;
+                if (!graph.hasEdge(edgeId) && graph.hasNode(rel.entity_a) && graph.hasNode(rel.entity_b)) {
+                    graph.addEdge(rel.entity_a, rel.entity_b, {
+                        type: rel.relation_type,
+                        strength: rel.strength || 1.0,
+                        scope: rel.scope || 'local'
+                    }, { key: edgeId });
+                }
+            }
+        }
+
+        // Update stats
+        function updateStats() {
+            document.getElementById('node-count').textContent = graph.order.toLocaleString();
+            document.getElementById('edge-count').textContent = graph.size.toLocaleString();
+        }
+
+        // Run ForceAtlas2 layout
+        function runLayout() {
+            if (layoutRunning) return;
+            layoutRunning = true;
+
+            const settings = ForceAtlas2.inferSettings(graph);
+            ForceAtlas2.assign(graph, { iterations: 100, settings });
+
+            layoutRunning = false;
+        }
+
+        function toggleLayout() {
+            runLayout();
+        }
+
+        // Loading indicators (simple toggle)
+        function showLoading(text) {
+            const el = document.getElementById('loading');
+            if(el) {
+                el.classList.add('active');
+                document.getElementById('loading-text').textContent = text;
+            }
+        }
+
+        function hideLoading() {
+            const el = document.getElementById('loading');
+            if(el) el.classList.remove('active');
+        }
+
+        // Initial setup
+        initRenderer();
+    </script>
+</body>
+</html>

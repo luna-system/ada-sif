@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u0426",
+    "description": "Genres and artists starting with \u0426",
+    "shard_id": "\u0426",
+    "entity_count": 2,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_04d1636b-f34b-40a1-bc32-f5f282ffacc9",
+      "type": "artist",
+      "name": "\u0426\u0432\u0435\u0442\u0435\u043b\u0438\u043d\u0430 \u042f\u043d\u0435\u0432\u0430",
+      "description": "Artist: \u0426\u0432\u0435\u0442\u0435\u043b\u0438\u043d\u0430 \u042f\u043d\u0435\u0432\u0430",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "04d1636b-f34b-40a1-bc32-f5f282ffacc9",
+        "country": "BG",
+        "type": "Person"
+      }
+    },
+    {
+      "id": "artist_6e3af420-5c28-41a1-a914-896debc08619",
+      "type": "artist",
+      "name": "\u0426\u0435\u0440\u043a\u043e\u0432\u044c",
+      "description": "Artist: \u0426\u0435\u0440\u043a\u043e\u0432\u044c",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "6e3af420-5c28-41a1-a914-896debc08619",
+        "country": "Unknown",
+        "type": "Unknown"
+      }
+    }
+  ],
+  "relationships": []
+}

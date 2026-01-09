@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "title": "ENAO Music - \u3055",
+    "description": "Genres and artists starting with \u3055",
+    "shard_id": "\u3055",
+    "entity_count": 1,
+    "relationship_count": 0
+  },
+  "entities": [
+    {
+      "id": "artist_d0b1ec96-5839-484e-858a-1fdca63f9e45",
+      "type": "artist",
+      "name": "\u3055\u304f\u3089\u5b66\u9662",
+      "description": "Artist: \u3055\u304f\u3089\u5b66\u9662",
+      "importance": 0.9,
+      "attributes": {
+        "mbid": "d0b1ec96-5839-484e-858a-1fdca63f9e45",
+        "country": "JP",
+        "type": "Group"
+      }
+    }
+  ],
+  "relationships": []
+}
