@@ -86,31 +86,9 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
             genre_artist_map[rel['entity_a']].append(rel['entity_b'])
     
     # Create artist hub (canonical source)
-    print(f"\n📦 Creating artist hub...")
-    artist_hub = {
-        'version': '1.0',
-        'metadata': {
-            'title': 'ENAO Artists Hub',
-            'description': 'Canonical hub containing all artists and their genre relationships',
-            'shard_id': 'artists',
-            'shard_type': 'hub',
-            'entity_count': len(artists),
-            'relationship_count': len(sif_data['relationships'])
-        },
-        'entities': artists,
-        'relationships': sif_data['relationships']
-    }
-    
-    output_dir.mkdir(parents=True, exist_ok=True)
-    
-    hub_path = output_dir / 'enao_artists_hub.sif.json'
-    with open(hub_path, 'w') as f:
-        json.dump(artist_hub, f, indent=2)
-    
-    print(f"  ✅ Artist hub: {len(artists)} artists → enao_artists_hub.sif.json")
-    
-    # Create genre cluster shards with top-N artists
-    print(f"\n📦 Creating genre cluster shards (top {top_n_artists} artists per genre)...")
+    # Create genre cluster shards (Distributed Holographic Model)
+    # Each cluster contains its genres and ALL associated artists (duplicated across clusters)
+    print(f"\n📦 Creating genre cluster shards (Distributed Holographic Model)...")
     
     cluster_shards = defaultdict(lambda: {'genres': [], 'artists': set(), 'relationships': []})
     artist_lookup = {a['id']: a for a in artists}
@@ -124,9 +102,9 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
             cluster_id = genre_to_cluster[genre_slug]
             cluster_shards[cluster_id]['genres'].append(genre)
             
-            # Get top N artists for this genre
+            # Get ALL artists for this genre (Distributed/Holographic)
             genre_artists = genre_artist_map.get(genre['id'], [])
-            for artist_id in genre_artists[:top_n_artists]:
+            for artist_id in genre_artists:
                 cluster_shards[cluster_id]['artists'].add(artist_id)
     
     # Build cluster shard files
@@ -139,15 +117,15 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
         y_desc = "Organic" if center[1] < 5000 else "Mid-Organic" if center[1] < 11000 else "Mid-Electric" if center[1] < 17000 else "Electric"
         shard_name = f"{y_desc} + {x_desc}"
         
-        # Collect entities (genres + top artists)
+        # Collect entities (genres + ALL artists)
         entities = shard_data['genres'].copy()
         for artist_id in shard_data['artists']:
             if artist_id in artist_lookup:
                 artist = artist_lookup[artist_id].copy()
-                artist['duplicate_of'] = f"enao_artists_hub.sif.json#{artist_id}"
+                # No duplicate_of: Every shard holds the full holographic truth of the artist
                 entities.append(artist)
         
-        # Collect relationships (only local ones)
+        # Collect relationships (local within the holographic shard)
         relationships = []
         entity_ids = {e['id'] for e in entities}
         
@@ -159,13 +137,12 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
         
         # Create shard
         shard_sif = {
-            'version': '1.0',
+            'version': '1.1',
             'metadata': {
                 'title': f'ENAO Music - {shard_name}',
-                'description': f'Genre cluster with top {top_n_artists} artists per genre',
+                'description': f'Genre cluster with full artist distribution',
                 'shard_id': f'cluster_{cluster_id}',
-                'shard_type': 'module',
-                'depends_on': ['artists'],
+                'shard_type': 'branch', # Updated from module
                 'entity_count': len(entities),
                 'relationship_count': len(relationships),
                 'genre_count': len(shard_data['genres']),
@@ -185,36 +162,23 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
         shard_metadata.append({
             'id': f'cluster_{cluster_id}',
             'name': shard_name,
-            'type': 'module',
-            'depends_on': ['artists'],
+            'type': 'branch',
             'url': shard_filename,
             'entity_count': len(entities),
             'relationship_count': len(relationships)
         })
     
-    # Add artist hub to metadata
-    shard_metadata.append({
-        'id': 'artists',
-        'name': 'Artists Hub',
-        'type': 'hub',
-        'depends_on': [],
-        'url': 'enao_artists_hub.sif.json',
-        'entity_count': len(artists),
-        'relationship_count': len(sif_data['relationships'])
-    })
-    
     # Create master index
     master_sif = {
         'version': '1.1',
         'metadata': {
-            'title': 'ENAO Music Catalog (Hierarchical)',
-            'description': f'K-means clustered genres + artist hub with top-{top_n_artists} duplicates',
+            'title': 'ENAO Music Catalog (Holographic)',
+            'description': f'K-means clustered genres with distributed artist holograms',
             'total_entities': len(sif_data['entities']),
             'total_relationships': len(sif_data['relationships']),
             'shard_count': len(shard_metadata),
-            'shard_strategy': 'hierarchical_kmeans',
-            'n_clusters': n_clusters,
-            'top_n_artists': top_n_artists
+            'shard_strategy': 'holographic_kmeans',
+            'n_clusters': n_clusters
         },
         'shards': shard_metadata
     }
@@ -223,10 +187,9 @@ def create_hierarchical_shards(sif_file: Path, positions_file: Path, output_dir:
     with open(master_path, 'w') as f:
         json.dump(master_sif, f, indent=2)
     
-    print(f"\n✅ Hierarchical sharding complete!")
+    print(f"\n✅ Holographic sharding complete!")
     print(f"   Master index: {master_path}")
     print(f"   Genre clusters: {n_clusters}")
-    print(f"   Artist hub: 1")
     print(f"   Total shards: {len(shard_metadata)}")
 
 if __name__ == '__main__':
