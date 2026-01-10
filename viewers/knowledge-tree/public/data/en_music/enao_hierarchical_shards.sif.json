@@ -1,0 +1,200 @@
+{
+  "version": "1.1",
+  "metadata": {
+    "title": "ENAO Music Catalog (Hierarchical)",
+    "description": "K-means clustered genres + artist hub with top-10 duplicates",
+    "total_entities": 36722,
+    "total_relationships": 43172,
+    "shard_count": 17,
+    "shard_strategy": "hierarchical_kmeans",
+    "n_clusters": 16,
+    "top_n_artists": 10
+  },
+  "shards": [
+    {
+      "id": "cluster_0",
+      "name": "Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_0.sif.json",
+      "entity_count": 791,
+      "relationship_count": 650
+    },
+    {
+      "id": "cluster_1",
+      "name": "Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_1.sif.json",
+      "entity_count": 1337,
+      "relationship_count": 1161
+    },
+    {
+      "id": "cluster_2",
+      "name": "Mid-Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_2.sif.json",
+      "entity_count": 1611,
+      "relationship_count": 1230
+    },
+    {
+      "id": "cluster_3",
+      "name": "Mid-Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_3.sif.json",
+      "entity_count": 1323,
+      "relationship_count": 952
+    },
+    {
+      "id": "cluster_4",
+      "name": "Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_4.sif.json",
+      "entity_count": 1344,
+      "relationship_count": 1272
+    },
+    {
+      "id": "cluster_5",
+      "name": "Mid-Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_5.sif.json",
+      "entity_count": 1007,
+      "relationship_count": 749
+    },
+    {
+      "id": "cluster_6",
+      "name": "Electric + Dense",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_6.sif.json",
+      "entity_count": 679,
+      "relationship_count": 520
+    },
+    {
+      "id": "cluster_7",
+      "name": "Mid-Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_7.sif.json",
+      "entity_count": 1059,
+      "relationship_count": 923
+    },
+    {
+      "id": "cluster_8",
+      "name": "Mid-Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_8.sif.json",
+      "entity_count": 1494,
+      "relationship_count": 1260
+    },
+    {
+      "id": "cluster_9",
+      "name": "Mid-Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_9.sif.json",
+      "entity_count": 1188,
+      "relationship_count": 917
+    },
+    {
+      "id": "cluster_10",
+      "name": "Mid-Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_10.sif.json",
+      "entity_count": 1484,
+      "relationship_count": 1095
+    },
+    {
+      "id": "cluster_11",
+      "name": "Organic + Bouncy",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_11.sif.json",
+      "entity_count": 1162,
+      "relationship_count": 1228
+    },
+    {
+      "id": "cluster_12",
+      "name": "Mid-Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_12.sif.json",
+      "entity_count": 1195,
+      "relationship_count": 1045
+    },
+    {
+      "id": "cluster_13",
+      "name": "Electric + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_13.sif.json",
+      "entity_count": 804,
+      "relationship_count": 755
+    },
+    {
+      "id": "cluster_14",
+      "name": "Mid-Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_14.sif.json",
+      "entity_count": 1567,
+      "relationship_count": 1289
+    },
+    {
+      "id": "cluster_15",
+      "name": "Mid-Organic + Mid",
+      "type": "module",
+      "depends_on": [
+        "artists"
+      ],
+      "url": "enao_cluster_15.sif.json",
+      "entity_count": 1316,
+      "relationship_count": 846
+    },
+    {
+      "id": "artists",
+      "name": "Artists Hub",
+      "type": "hub",
+      "depends_on": [],
+      "url": "enao_artists_hub.sif.json",
+      "entity_count": 30431,
+      "relationship_count": 43172
+    }
+  ]
+}

@@ -249,6 +249,9 @@
             background: rgba(100, 150, 255, 0.5);
         }
     </style>
+        <script>
+            window.process = { env: { NODE_ENV: 'development' } };
+        </script>
 </head>
 <body>
     <div id="container">
@@ -262,8 +265,20 @@
                     📂 Choose SIF File
                 </button>
                 <button id="btn-example" class="btn secondary">
-                    ✨ Load Example
+                    ✨ Load Andromeda (Stars)
                 </button>
+                <button id="btn-enao" class="btn secondary">
+                    🎵 Load ENAO (Music)
+                </button>
+            </div>
+
+            <div class="section" id="node-details" style="display: none;">
+                <h2>Node Details</h2>
+                <div id="info-details">
+                    <div class="stat"><span class="label">Name:</span> <span class="value" id="detail-name"></span></div>
+                    <div class="stat"><span class="label">Type:</span> <span class="value" id="detail-type"></span></div>
+                    <div class="stat"><span class="label">Primes:</span> <span class="value" id="detail-primes" style="font-family: monospace; color: #fbbf24;">-</span></div>
+                </div>
             </div>
 
             <div class="section">
@@ -314,6 +329,7 @@
         let masterIndex = null;
         let loadedShards = new Set();
         let layoutRunning = false;
+        let currentBasePath = ''; // Track base path for relative shards
 
         // Initialize Sigma
         function initRenderer() {
@@ -332,6 +348,7 @@
                 edgeReducer: (edge, data) => {
                     return {
                         ...data,
+                        type: 'line', // Force visual type to line
                         size: data.strength || 1,
                         color: data.scope === 'external' ? '#f59e0b' : '#4a5568'
                     };
@@ -348,6 +365,30 @@
                 }
             });
 
+            // Event Listeners
+            renderer.on('clickNode', ({ node, attributes }) => {
+                const details = document.getElementById('node-details');
+                const nameEl = document.getElementById('detail-name');
+                const typeEl = document.getElementById('detail-type');
+                const primesEl = document.getElementById('detail-primes');
+
+                details.style.display = 'block';
+                nameEl.textContent = attributes.label;
+                typeEl.textContent = attributes.category;
+                
+                if (attributes.prime_signature) {
+                    primesEl.textContent = JSON.stringify(attributes.prime_signature);
+                    primesEl.parentElement.style.display = 'flex';
+                } else {
+                    primesEl.parentElement.style.display = 'none';
+                }
+            });
+
+            // Clear details on stage click
+            renderer.on('clickStage', () => {
+                document.getElementById('node-details').style.display = 'none';
+            });
+            
             updateStats();
         }
 
@@ -358,7 +399,7 @@
             if (file) {
                 const text = await file.text();
                 const data = JSON.parse(text);
-                await loadSIF(data);
+                await loadSIF(data, ''); // No base path for local file
             }
         });
 
@@ -367,7 +408,11 @@
         });
 
         document.getElementById('btn-example').addEventListener('click', () => {
-             alert('Drop a SIF file to load! Examples: ENAO hierarchical shards, Hipparcos constellation shards, or any SIF v1.0/1.1 file.');
+             loadShardByUrl('/data/constellation_andromeda.sif.json');
+        });
+
+        document.getElementById('btn-enao').addEventListener('click', () => {
+             loadShardByUrl('/data/en_music/enao_hierarchical_shards.sif.json');
         });
 
         document.getElementById('btn-reset').addEventListener('click', () => {
@@ -380,8 +425,15 @@
         // --- Logic Functions ---
 
         // Main SIF loader
-        async function loadSIF(data) {
+        async function loadSIF(data, itemsUrl = '') {
             showLoading('Analyzing SIF structure...');
+            
+            // Extract base path if URL provided
+            if (itemsUrl && itemsUrl.includes('/')) {
+                currentBasePath = itemsUrl.substring(0, itemsUrl.lastIndexOf('/') + 1);
+            } else {
+                currentBasePath = '';
+            }
 
             // Detect if it's a master index or single shard
             if (data.version === '1.1' && data.shards) {
@@ -407,6 +459,7 @@
 
             for (const shard of master.shards) {
                 const item = document.createElement('div');
+
                 item.className = 'shard-item';
                 item.innerHTML = `
                     <span class="shard-type ${shard.type}">${shard.type}</span>
@@ -421,9 +474,10 @@
 
             // Auto-load branch shards
             showLoading('Loading branch shards...');
-            const branches = master.shards.filter(s => s.type === 'branch');
+            const branches = master.shards.filter(s => s.type === 'branch' || s.type === 'module');
             for (const branch of branches) {
-                await loadShardByUrl(branch.url);
+                const fullUrl = currentBasePath + branch.url;
+                await loadShardByUrl(fullUrl);
             }
         }
 
@@ -454,10 +508,17 @@
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
-                const shard = await response.json();
+                const data = await response.json();
+                
+                // If it's a master index loaded by URL, recurse correctly
+                if (data.version === '1.1' && data.shards) {
+                     await loadSIF(data, url);
+                     return;
+                }
 
-                addEntitiesToGraph(shard.entities);
-                addRelationshipsToGraph(shard.relationships);
+                const shard = data;
+                addEntitiesToGraph(shard.entities || []);
+                addRelationshipsToGraph(shard.relationships || []);
 
                 loadedShards.add(url);
                 if (listItem) {
