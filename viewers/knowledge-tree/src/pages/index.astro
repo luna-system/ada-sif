@@ -345,6 +345,7 @@
                 defaultEdgeColor: '#4a5568',
                 labelSize: 12,
                 labelColor: { color: '#e0e0e0' },
+                hoverBackgroundColor: '#1a1f3a', // Dark background for hover tooltips
                 edgeReducer: (edge, data) => {
                     return {
                         ...data,
@@ -367,14 +368,17 @@
 
             // Event Listeners
             renderer.on('clickNode', ({ node, attributes }) => {
+                console.log('Clicked node:', node, attributes); // Debug click data
+                
                 const details = document.getElementById('node-details');
                 const nameEl = document.getElementById('detail-name');
                 const typeEl = document.getElementById('detail-type');
                 const primesEl = document.getElementById('detail-primes');
 
+                if (nameEl && attributes.label) nameEl.textContent = attributes.label;
+                if (typeEl && attributes.category) typeEl.textContent = attributes.category;
+                
                 details.style.display = 'block';
-                nameEl.textContent = attributes.label;
-                typeEl.textContent = attributes.category;
                 
                 if (attributes.prime_signature) {
                     primesEl.textContent = JSON.stringify(attributes.prime_signature);
